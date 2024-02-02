@@ -1,0 +1,1 @@
+https://gearvn.com/products/intel-core-i5-13600k
