@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Start/Java/JAVA - Class Structure.md",
+                "file": "My Home/Start/Java/JAVA - main() method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Start/Java/JAVA - Class Structure.md",
+                "file": "My Home/Start/Java/JAVA - main() method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Start/Java/JAVA - Class Structure.md",
+                "file": "My Home/Start/Java/JAVA - main() method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Start/Java/JAVA - Class Structure.md"
+                "file": "My Home/Start/Java/JAVA - main() method.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "9e6fbd809c6d50ee",
   "lastOpenFiles": [
+    "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
+    "My Home/Start/Java/JAVA - main() method.md",
+    "My Home/Start/Java/JAVA - Class Structure.md",
     "My Home/Start/Java/JAVA - Environment.md",
     "My Home/Start/Java/Java - main() method.md",
-    "My Home/Start/Java/JAVA - Class Structure.md",
     "attributes.md",
     "My Home/PC builder.md",
     "My Home/2022-12-11.md",
@@ -183,7 +185,6 @@
     "My Home/Templates/ENG - template.md",
     "My Home/Templates/FRAMEWORK - template.md",
     "My Home/Templates/Global Hotkeys.md",
-    "Untitled 1.md",
-    "My Home/Untitled.md"
+    "Untitled 1.md"
   ]
 }
