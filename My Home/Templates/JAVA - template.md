@@ -1,4 +1,4 @@
-<% tp.file.rename("Java - ") %>
+<% tp.file.rename("JAVA - ") %>
 
 ----
 Creation date: <% tp.file.creation_date() %>
