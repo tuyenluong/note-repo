@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a82f4f47b3583f7e",
+        "id": "3e10e24bc1111428",
         "type": "tabs",
         "children": [
           {
-            "id": "a4adb0a5f9e4e738",
+            "id": "c5e6eb515f1095ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#InProgress",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -137,34 +137,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4adb0a5f9e4e738",
+  "active": "c5e6eb515f1095ed",
   "lastOpenFiles": [
-    "Templates/JAVA - template.md",
+    "Start/Framework/FRAMEWORK - Assert và Verify.md",
+    "Start/Global Hotkeys.md",
+    "Start/Java/JAVA - main() method.md",
     "Start/Java/JAVA - Packages.md",
+    "2023-10-03.md",
+    "2022-03-27.md",
+    "2022-08-20.md",
+    "2022-04-24.md",
+    "2022-04-09.md",
+    "2022-04-03.md",
+    "PV Automation.md",
+    "PC builder.md",
+    "fully qualifie.md",
+    "JAVA.md",
+    "[[JAVA.md",
+    "fully qualified^fullyQualified.md",
+    "fully qualified.md",
+    "Templates/SQL - template.md",
+    "Start/SQL",
+    "Templates/JAVA - template.md",
+    "Templates/ENG - template.md",
     "Start/Java/JAVA - Class Structure.md",
     "Start/Linux/LINUX - What is differences between Unix vs Linux.md",
     "Start/Linux/LINUX - What is Linux.md",
     "Start/Java/JAVA - Environment.md",
-    "Start/Java/JAVA - main() method.md",
     "Start/Selenium/SELENIUM - Additional Keys.md",
     "Start/Selenium/SELENIUM - ChromeOptions Class.md",
-    "Start/Selenium/SELENIUM - Create a Test.md",
-    "Start/Selenium/SELENIUM - Event Listeners.md",
-    "Start/Selenium/SELENIUM - Using Javascript.md",
-    "Templates/Global Hotkeys.md",
-    "PC builder.md",
-    "PV Automation.md",
-    "Templates/Templates manage.md",
-    "Templates/SELENIUM - template.md",
-    "Start/Home/Learning.md",
-    "Start/Selenium/SELENIUM - Finding Web Elements.md",
-    "Start/Selenium/SELENIUM - Fluent Waits.md",
-    "Start/Selenium/SELENIUM - Frames.md",
-    "Start/Selenium/SELENIUM - Implicit Waits.md",
-    "Start/Selenium/SELENIUM - Interacting with Dropdown.md",
-    "Start/Selenium/SELENIUM - Other Wait Strategies.md",
-    "Start/Selenium/SELENIUM - Set-up.md",
-    "Start/API Testing/Common API test cases that can be used to test various APIs.md",
     "Start/ISTQB",
     "Start/API Testing"
   ]
