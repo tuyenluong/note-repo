@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9992f939fbaa53f",
+        "id": "72977c0e3ca4875f",
         "type": "tabs",
         "children": [
           {
-            "id": "24ffec4f587468fd",
+            "id": "994a9932644a17aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/JAVA - Compile, Run and Archive.md",
+                "file": "Start/Global Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#InProgress",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/JAVA - Compile, Run and Archive.md",
+                "file": "Start/Global Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,37 +138,37 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "24ffec4f587468fd",
+  "active": "994a9932644a17aa",
   "lastOpenFiles": [
+    "Start/Java/JAVA - Compile, Run and Archive.md",
+    "Start/API Testing/Kiếm thử là gì.md",
+    "Start/ISTQB/Kiếm thử là gì.md",
+    "Start/ISTQB/ISTQB - Testing's contributions to success.md",
+    "Start/ISTQB/ISTQB - What is testing.md",
+    "Start/Global Hotkeys.md",
+    "Start/English/Interesting words.md",
+    "Start/English/ENG - What is noun.md",
+    "Start/ISTQB/ISTQB - Testing Misconceptions.md",
+    "Start/Java/data-structure-algo.md",
+    "Start/Framework/FRAMEWORK - How to set up the environment manually.md",
+    "Start/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "Start/Framework/FRAMEWORK - Automation Structure.md",
+    "Start/Framework/FRAMEWORK - Assert và Verify.md",
+    "Start/Home/Learning.md",
+    "Start/Home/Interests.md",
+    "Start/Home/Ideas.md",
     "Templates/sortspec.md",
     "Start/Java/JAVA - main() method.md",
     "Start/Java/JAVA - Packages.md",
-    "Start/Java/JAVA - Compile, Run and Archive.md",
     "Start/Java/resouces/Pasted image 20240131065628.png",
     "Start/Java/resouces/Pasted image 20240206173202.png",
-    "Start/Global Hotkeys.md",
     "Templates/SQL - template.md",
-    "Start/Java/data-structure-algo.md",
-    "Start/API Testing/Kiếm thử là gì.md",
     "Start/API Testing/Common API test cases that can be used to test various APIs.md",
     "Start/API Testing/API Testing Interview questions.md",
-    "Start/Framework/FRAMEWORK - Assert và Verify.md",
     "2023-10-03.md",
     "2022-03-27.md",
     "2022-08-20.md",
-    "2022-04-24.md",
-    "2022-04-09.md",
-    "2022-04-03.md",
-    "PV Automation.md",
-    "PC builder.md",
-    "fully qualifie.md",
-    "JAVA.md",
-    "[[JAVA.md",
-    "fully qualified^fullyQualified.md",
-    "fully qualified.md",
     "Start/SQL",
-    "Templates/JAVA - template.md",
-    "Templates/ENG - template.md",
     "Start/ISTQB",
     "Start/API Testing"
   ]
