@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e10e24bc1111428",
+        "id": "c9992f939fbaa53f",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e6eb515f1095ed",
+            "id": "24ffec4f587468fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/JAVA - Packages.md",
+                "file": "Start/Java/JAVA - Compile, Run and Archive.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/JAVA - Packages.md",
+                "file": "Start/Java/JAVA - Compile, Run and Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,25 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c5e6eb515f1095ed",
+  "active": "24ffec4f587468fd",
   "lastOpenFiles": [
-    "Start/Framework/FRAMEWORK - Assert và Verify.md",
-    "Start/Global Hotkeys.md",
+    "Templates/sortspec.md",
     "Start/Java/JAVA - main() method.md",
     "Start/Java/JAVA - Packages.md",
+    "Start/Java/JAVA - Compile, Run and Archive.md",
+    "Start/Java/resouces/Pasted image 20240131065628.png",
+    "Start/Java/resouces/Pasted image 20240206173202.png",
+    "Start/Global Hotkeys.md",
+    "Templates/SQL - template.md",
+    "Start/Java/data-structure-algo.md",
+    "Start/API Testing/Kiếm thử là gì.md",
+    "Start/API Testing/Common API test cases that can be used to test various APIs.md",
+    "Start/API Testing/API Testing Interview questions.md",
+    "Start/Framework/FRAMEWORK - Assert và Verify.md",
     "2023-10-03.md",
     "2022-03-27.md",
     "2022-08-20.md",
@@ -156,16 +166,9 @@
     "[[JAVA.md",
     "fully qualified^fullyQualified.md",
     "fully qualified.md",
-    "Templates/SQL - template.md",
     "Start/SQL",
     "Templates/JAVA - template.md",
     "Templates/ENG - template.md",
-    "Start/Java/JAVA - Class Structure.md",
-    "Start/Linux/LINUX - What is differences between Unix vs Linux.md",
-    "Start/Linux/LINUX - What is Linux.md",
-    "Start/Java/JAVA - Environment.md",
-    "Start/Selenium/SELENIUM - Additional Keys.md",
-    "Start/Selenium/SELENIUM - ChromeOptions Class.md",
     "Start/ISTQB",
     "Start/API Testing"
   ]
