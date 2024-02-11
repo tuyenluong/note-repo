@@ -48,7 +48,7 @@
   "golangArgs": "run",
   "golangFileExtension": "go",
   "goInject": "",
-  "javaPath": "C:/Backup_app/jdk-17.0.9+8/bin",
+  "javaPath": "",
   "javaArgs": "",
   "javaFileExtension": "java",
   "javaInject": "java",
