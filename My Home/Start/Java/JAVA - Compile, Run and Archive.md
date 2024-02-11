@@ -46,7 +46,7 @@ Modification date: Thursday 8th February 2024 15:56:53
 - Archive
 	-  Create your own jar file
 		- [Documentation](https://docs.oracle.com/javase/tutorial/deployment/jar/view.html).
-		- jar -cvf <yourNewJarFileName>.jar .
+		- jar -cvf \<yourNewJarFileName\>.jar .
 		- jar -cvf stand for --create --verbose --file 
 		- The dot at the and is your current directory or you can specify the custom folder to be archive
-		- jar -cvf <yourNewJarFileName>.jar  <yourCustomFolderToBeArchive> 
+		- jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\> 
