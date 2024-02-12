@@ -33,12 +33,12 @@ Modification date: Thursday 8th February 2024 15:56:53
 		- java ocppackage.Ocp
 	- What if we want classes in another directory?
 		- java -d classes ocppackage/Ocp.java ocapackage/Oca.java
-			- The -d **<directory> is specify a directory to interact with if required
+			- The -d \<directory\> is specify a directory to interact with if required
 	- Three ways to run Ocp application:
 		- java -cp classes ecpackage.Ocp
 		- java -classpath classes ecpackage.Ocp
 		- java --class-path classes ecpackage.Ocp
-		- <classpath>  option can be used with javac command to specify location of classes needed to compile the program.
+			- \<classpath\>  option can be used with javac command to specify location of classes needed to compile the program.
 	- And If we have a application that depends on other files to run, like some of the files are in package "deps", and some are in myJar.jar then we will have a syntax like this.
 		- java -cp ".;C:\comudemy\deps;C:\comudemy\myJar.jar" myPackage.myApp
 		- The dot is including the current folder, next is the "deps" package that will be separated by a semi colon. And the last one is a jar file.
