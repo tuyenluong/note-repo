@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "378ae6507f404e81",
+        "id": "b19024179acfb485",
         "type": "tabs",
         "children": [
           {
-            "id": "d767b16b615c6186",
+            "id": "f020a22b56afc9ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+                "file": "Start/English/ENG - What is noun.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 375.5
   },
   "right": {
     "id": "ac8bc3b407725a03",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+                "file": "Start/English/ENG - What is noun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,12 +138,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d767b16b615c6186",
+  "active": "f020a22b56afc9ad",
   "lastOpenFiles": [
+    "Start/English/Interesting words.md",
+    "Start/Home/Learning.md",
+    "Templates/sortspec.md",
+    "Start/Selenium/SELENIUM - Create a Test.md",
+    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Linux/Introduction to Linux/LINUX - What is differences between Unix vs Linux.md",
     "Start/Linux/Introduction to Linux/LINUX - What is Operating System.md",
     "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
-    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Linux/resouces/Pasted image 20240212235007.png",
     "Start/Linux/resouces/Pasted image 20240212232244.png",
     "Start/Linux/resouces/Pasted image 20240212232229.png",
@@ -151,7 +155,6 @@
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks/JAVA - Objects.md",
     "Start/Java/Building Blocks/JAVA - Class Structure.md",
-    "Start/Selenium/SELENIUM - Create a Test.md",
     "Start/Selenium/SELENIUM - Event Listeners.md",
     "Start/Java/Building Blocks/JAVA - Environment.md",
     "Start/Java/Building Blocks/JAVA - main() method.md",
@@ -168,10 +171,7 @@
     "Templates/SELENIUM - template.md",
     "Templates/SQL - template.md",
     "JAVA - .md",
-    "Templates/sortspec.md",
     "Documentation.md",
-    "Templates/Templates manage.md",
-    "Start/English/ENG - Article or no article.md",
     "Start/Java/resouces/Pasted image 20240131065628.png",
     "Start/Java/resouces/Pasted image 20240206173202.png",
     "Start/SQL",

@@ -1,22 +1,24 @@
 Back to [[Home]]
 
 #Selenium 
-[[SELENIUM - Set-up]]
+[[SELENIUM - Additional Keys]]
+[[SELENIUM - Advanced Interactions]]
+[[SELENIUM - Alerts]]
+[[SELENIUM - Application Navigation]]
+[[SELENIUM - ChromeOptions Class]]
 [[SELENIUM - Create a Test]]
 [[SELENIUM - Element Interactions]]
-[[SELENIUM - Application Navigation]]
-[[SELENIUM - Finding Web Elements]]
-[[SELENIUM - ChromeOptions Class]]
-[[SELENIUM - Frames]]
-[[SELENIUM - Alerts]]
-[[SELENIUM - Implicit Waits]]
-[[SELENIUM - Take Screenshot]]
 [[SELENIUM - Event Listeners]]
-[[SELENIUM - Additional Keys]]
-[[SELENIUM - Using Javascript]]
-[[SELENIUM - Element Interactions]]
-[[SELENIUM - Advanced Interactions]]
+[[SELENIUM - Explicit Waits]]
+[[SELENIUM - Finding Web Elements]]
+[[SELENIUM - Fluent Waits]]
+[[SELENIUM - Frames]]
+[[SELENIUM - Implicit Waits]]
 [[SELENIUM - Interacting with Dropdown]]
+[[SELENIUM - Other Wait Strategies]]
+[[SELENIUM - Set-up]]
+[[SELENIUM - Take Screenshot]]
+[[SELENIUM - Using Javascript]]
 
 #English 
 [[ENG - What is noun]]
@@ -28,5 +30,18 @@ Back to [[Home]]
 
 #RobotFramework
 #SeleniumFramework 
+
+#Java 
+[[JAVA - Class Structure]]
+[[JAVA - Environment]]
+[[JAVA - main() method]]
+[[JAVA - Packages]]
+[[JAVA - Compile, Run and Archive]]
+[[JAVA - Objects]]
+
 #Linux
+[[LINUX - What is Operating System]]
+[[LINUX - What is Linux]]
+[[LINUX - History of Linux]]
+[[LINUX - What is differences between Unix vs Linux]]
 
