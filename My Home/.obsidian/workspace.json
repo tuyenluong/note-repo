@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7cd36f5e1f59fb1",
+        "id": "378ae6507f404e81",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c4395489ee2a10",
+            "id": "d767b16b615c6186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ENG - template.md",
+                "file": "Start/Java/Building Blocks/JAVA - Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#English",
+                "query": "tag:#Done",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/ENG - template.md",
+                "file": "Start/Java/Building Blocks/JAVA - Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e5c4395489ee2a10",
+  "active": "d767b16b615c6186",
   "lastOpenFiles": [
+    "Start/Java/Building Blocks/JAVA - Class Structure.md",
+    "Start/Java/Building Blocks/JAVA - Objects.md",
+    "Start/Selenium/SELENIUM - Create a Test.md",
+    "Start/Selenium/SELENIUM - Event Listeners.md",
+    "Start/Java/Building Blocks/JAVA - Environment.md",
+    "Start/Java/Building Blocks/JAVA - main() method.md",
+    "Start/Java/Building Blocks/JAVA - Packages.md",
+    "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "Start/Java/Building Blocks",
+    "Start/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "Templates/ENG - template.md",
     "Templates/FRAMEWORK - template.md",
     "Templates/ISTQB - template.md",
     "Templates/JAVA - template.md",
@@ -147,25 +158,15 @@
     "Templates/ROBOT-FRAMEWORK - template.md",
     "Templates/SELENIUM - template.md",
     "Templates/SQL - template.md",
-    "Start/Java/JAVA - Compile, Run and Archive.md",
-    "Start/Java/JAVA - Objects.md",
     "Untitled.md",
     "JAVA - .md",
     "Templates/sortspec.md",
     "Documentation.md",
-    "Start/Java/JAVA - main() method.md",
     "Templates/Templates manage.md",
     "Start/English/ENG - Article or no article.md",
-    "Start/Java/JAVA - Class Structure.md",
     "Start/Global Hotkeys.md",
-    "Start/Java/JAVA - Packages.md",
-    "Start/Java/data-structure-algo.md",
-    "Start/Java/JAVA - Environment.md",
+    "Start/data-structure-algo.md",
     "Start/Home/Home.md",
-    "Start/API Testing/Kiếm thử là gì.md",
-    "Start/ISTQB/Kiếm thử là gì.md",
-    "Start/ISTQB/ISTQB - Testing's contributions to success.md",
-    "Start/ISTQB/ISTQB - What is testing.md",
     "Start/Java/resouces/Pasted image 20240131065628.png",
     "Start/Java/resouces/Pasted image 20240206173202.png",
     "Start/SQL",

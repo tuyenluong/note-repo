@@ -15,7 +15,7 @@ Modification date: Wednesday 31st January 2024 07:10:27
 	- ***Classes*** are basic building blocks of every Java program
 	- To design a class means to describe parts and characteristics of these blocks
 	- In object-oriented programming,
-		- Object is:
+		- Object is: ^a36269
 			- In order to use a class you need to create *an object* (*most of the times)
 			- You can think about a class as a blueprint, and a object as realization
 		- Instance is:
