@@ -10,7 +10,7 @@
 
 | Hotkey | Action |
 | ---- | ---- |
-| Alt + T | Create new tabe |
+| Alt + T | Create new table |
 | Tab | Next Cell |
 | Shift + Tab | Previous Cell |
 | Enter | Next Row |

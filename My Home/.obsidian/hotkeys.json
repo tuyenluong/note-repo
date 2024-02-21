@@ -75,5 +75,13 @@
       ],
       "key": "T"
     }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
