@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b19024179acfb485",
+        "id": "4d7b3c6cf724ce05",
         "type": "tabs",
         "children": [
           {
-            "id": "f020a22b56afc9ad",
+            "id": "d0829e1f4c39200a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Data Types.md",
+                "file": "Start/Java/Building Blocks/JAVA - Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Data Types.md",
+                "file": "Start/Java/Building Blocks/JAVA - Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f020a22b56afc9ad",
+  "active": "d0829e1f4c39200a",
   "lastOpenFiles": [
+    "Start/Java/Building Blocks/JAVA - Text Blocks.md",
+    "Start/Java/Building Blocks/JAVA - Variables.md",
+    "Start/Java/resouces/Pasted image 20240223012227.png",
+    "Start/Java/resouces/Pasted image 20240223012141.png",
+    "Start/Java/resouces/Pasted image 20240223010710.png",
+    "Start/Java/resouces/Pasted image 20240223010703.png",
+    "Start/Java/resouces/Pasted image 20240223004254.png",
+    "Start/Java/resouces/Pasted image 20240223004301.png",
+    "Start/Java/resouces/Pasted image 20240223004354.png",
     "Start/Java/Building Blocks/JAVA - Data Types.md",
     "Start/data-structure-algo.md",
     "Start/Global Hotkeys.md",
@@ -165,17 +174,10 @@
     "Start/Selenium/SELENIUM - Using Javascript.md",
     "Start/English/ENG - What is noun.md",
     "Start/English/Interesting words.md",
-    "Start/Home/Learning.md",
-    "Templates/sortspec.md",
-    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Linux/resouces/Pasted image 20240212235007.png",
-    "Start/Linux/resouces/Pasted image 20240212232244.png",
-    "Start/Linux/resouces/Pasted image 20240212232229.png",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",
-    "Start/Java/resouces/Pasted image 20240131065628.png",
-    "Start/Java/resouces/Pasted image 20240206173202.png",
     "Start/SQL",
     "Start/ISTQB",
     "Start/API Testing"

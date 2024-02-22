@@ -25,7 +25,7 @@ Modification date: Wednesday 14th February 2024 10:57:30
 - In Java, boolean *true* and *false* are completely **unrelated** to 1 and 0!!
 	- Bit size of boolean is not specified, it's depends on the JVM.
 	- But any Java object is aligned to an 8 bytes.
-	- A boolean has 8 bytes of header, plus 1 byte of payload, for a total of 9 bytes of information. The JVM then rounds it up to the next multiple of 8. so the one instance of java.lang.Boolean takes up 16 bytes of memory.
+	- A boolean has 8 bytes of header, plus 1 byte of payload, for a total of 9 bytes of information. The JVM then rounds it up to the next multiple of 8. so the one instance of java.lang.Boolean takes up 16 bytes of memory.n
 	-  And the boolean value is just 1 bit, 1 and 0 is representative of *true* and *false*.
 	- ![[Pasted image 20240219170809.png]]
 - All numeric types are signed (*It allowed negative numbers*).
