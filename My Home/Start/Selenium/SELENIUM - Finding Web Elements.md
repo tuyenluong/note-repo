@@ -31,7 +31,7 @@ Let's write the code:
 
 -   driver.findElement**s**(By.tagName("A")) the plural version and it will find all the tag name have A elements.
 -   Make a variable to contain all the elements in a list:
--   List<WebElement> variable = driver.findElement**s** (By.tagName("A"))
+-   List\<WebElement> variable = driver.findElement**s** (By.tagName("A"))
 -   System.out.println(variable.size())
 
 And if you want to find an element that does not exist, then you gonna get an exception: "NoSuchElementException"
