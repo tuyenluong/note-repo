@@ -11,12 +11,8 @@
             "id": "9e6fbd809c6d50ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Home/Start/Java/JAVA - main() method.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Start/Java/JAVA - main() method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Start/Java/JAVA - main() method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Home/Start/Java/JAVA - main() method.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,31 @@
   },
   "active": "9e6fbd809c6d50ee",
   "lastOpenFiles": [
-    "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
     "My Home/Start/Java/JAVA - main() method.md",
+    "My Home/Start/Java/Building Blocks/JAVA - Packages.md",
+    "My Home/Start/Java/Building Blocks/JAVA - Objects.md",
+    "My Home/Start/Java/Building Blocks/JAVA - main() method.md",
+    "My Home/Start/Java/Building Blocks/JAVA - Environment.md",
+    "My Home/Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "My Home/Start/Java/Building Blocks/JAVA - Class Structure.md",
+    "My Home/Start/Java/Building Blocks",
+    "My Home/Start/Linux/resouces/Pasted image 20240212235007.png",
+    "My Home/Start/Linux/resouces/Pasted image 20240212232244.png",
+    "My Home/Start/Linux/resouces/Pasted image 20240212232229.png",
+    "My Home/Start/Linux/resouces",
+    "My Home/Start/Linux/Introduction to Linux/LINUX - What is Operating System.md",
+    "My Home/Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
+    "My Home/Start/Linux/Introduction to Linux/LINUX - What is differences between Unix vs Linux.md",
+    "My Home/Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+    "My Home/Start/Linux/Introduction to Linux",
+    "My Home/Start/Java/JAVA - Packages.md",
+    "README.md",
+    "My Home/Templates/sortspec.md",
+    "My Home/Templates/SQL - template.md",
+    "My Home/Start/Java/data-structure-algo.md",
+    "My Home/Start/Java/JAVA - Compile, Run and Archive.md",
+    "My Home/Start/Global Hotkeys.md",
+    "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
     "My Home/Start/Java/JAVA - Class Structure.md",
     "My Home/Start/Java/JAVA - Environment.md",
     "My Home/Start/Java/Java - main() method.md",
@@ -169,22 +184,6 @@
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
     "My Home/Start/Java/resouces",
     "My Home/2023-09-22.md",
-    "My Home/2023-10-03.md",
-    "My Home/2022-03-27.md",
-    "My Home/2022-04-09.md",
-    "My Home/2022-04-30.md",
-    "My Home/Start/ISTQB/ISTQB - Testing Misconceptions.md",
-    "My Home/Templates/JAVA - template.md",
-    "My Home/Templates/Templates manage.md",
-    "My Home/Start/Linux/LINUX - What is differences between Unix vs Linux.md",
-    "My Home/Start/Linux/LINUX - What is Linux.md",
-    "My Home/Start/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
-    "My Home/Start/Java",
-    "My Home/Templates/ROBOT-FRAMEWORK - template.md",
-    "My Home/Templates/ISTQB - template.md",
-    "My Home/Templates/ENG - template.md",
-    "My Home/Templates/FRAMEWORK - template.md",
-    "My Home/Templates/Global Hotkeys.md",
-    "Untitled 1.md"
+    "My Home/Start/Java"
   ]
 }
