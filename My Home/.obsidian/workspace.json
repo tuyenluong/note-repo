@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +139,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7f2eea8f722fbda1",
+  "active": "2f780e0d9651fd7b",
   "lastOpenFiles": [
-    "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
+    "Start/Linux/resouces/Pasted image 20240224183601.png",
     "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
@@ -175,8 +177,6 @@
     "Start/Selenium/SELENIUM - Alerts.md",
     "Start/Selenium/SELENIUM - Application Navigation.md",
     "Start/Selenium/SELENIUM - ChromeOptions Class.md",
-    "Start/Selenium/SELENIUM - Create a Test.md",
-    "Start/Selenium/SELENIUM - Element Interactions.md",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",
