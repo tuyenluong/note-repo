@@ -68,7 +68,7 @@ int x, y;
 String firstName = "John", lastName = "Wayne";
 boolean v = true, w, z = false;
 ```
-- But you cannot declare variables of different types in a single command. ^7254a8
+- But you cannot declare two variables with different data types in a single command. ^7254a8
 ```java
 int x, String name; ==>> DOES NOT COMPILE
 ```
