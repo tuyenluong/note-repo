@@ -42,6 +42,6 @@ Back to [[Home]]
 #Linux
 [[LINUX - What is Operating System]]
 [[LINUX - What is Linux]]
-[[LINUX - History of Linux]]
+[[Start/Linux/Introduction to Linux/LINUX - History of Linux]]
 [[LINUX - What is differences between Unix vs Linux]]
 
