@@ -6,7 +6,7 @@ Modification date: Saturday 24th February 2024 15:51:58
 ----
 
 #Java 
-#InProgress 
+#Done  
 
 This new feature called "***Local Variable Type Inference***" (*LVTI*), **this feature is introduced in Java 10**. 
 - **Local variables** - can be used only for local variables.

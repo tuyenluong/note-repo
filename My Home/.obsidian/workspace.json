@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+                "file": "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac8bc3b407725a03",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+                "file": "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,14 +141,14 @@
   },
   "active": "380b335e1a8ef4ba",
   "lastOpenFiles": [
-    "Java-Class.md",
     "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
+    "Java-Class.md",
     "Start/Java/Building Blocks/JAVA - Class Structure.md",
     "Start/Java/Building Blocks/JAVA - Variables.md",
     "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "Start/Java/Building Blocks/JAVA - main() method.md",
     "Start/Java/Building Blocks/JAVA - Environment.md",
-    "Untitled.md",
     "Start/Java/resouces/Pasted image 20240224140020.png",
     "Start/data-structure-algo.md",
     "Start/Java/Building Blocks/JAVA - Objects.md",
