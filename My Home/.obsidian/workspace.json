@@ -11,9 +11,11 @@
             "id": "7f2eea8f722fbda1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf"
+                "file": "LINUX - Lab Design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
+                "file": "LINUX - Lab Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +140,13 @@
   },
   "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
+    "Start/Java/Operators/JAVA - Operators in Java.md",
+    "LINUX - Lab Design.md",
+    "Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
+    "Start/Linux/Download, Install and Configure",
+    "Start/Java/Operators",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
+    "Start/Java/Building Blocks/EntendResources",
     "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
     "Start/Linux/Introduction to Linux/ExtendResouces/Parts+of+OS.pdf",
@@ -145,8 +154,6 @@
     "Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
     "Start/Linux/Introduction to Linux/ExtendResouces/Inside+Linux.pdf",
     "Start/Linux/Introduction to Linux/ExtendResouces/History+of+Unix.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces",
     "Start/Linux/resouces/Pasted image 20240224183601.png",
     "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
@@ -178,10 +185,6 @@
     "Start/Selenium/SELENIUM - Additional Keys.md",
     "Start/Selenium/SELENIUM - Advanced Interactions.md",
     "Start/Selenium/SELENIUM - Alerts.md",
-    "Start/Selenium/SELENIUM - Application Navigation.md",
-    "Start/Selenium/SELENIUM - ChromeOptions Class.md",
-    "Start/Linux/resouces",
-    "Start/Linux/Introduction to Linux",
-    "Start/Java/Building Blocks"
+    "Start/Selenium/SELENIUM - Application Navigation.md"
   ]
 }
