@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,10 +154,10 @@
   },
   "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
+    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
     "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
-    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
-    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
     "Java-Class.md",
     "Start/Java/Building Blocks/JAVA - Class Structure.md",
@@ -189,7 +189,6 @@
     "Start/Selenium/SELENIUM - Create a Test.md",
     "Start/Selenium/SELENIUM - Element Interactions.md",
     "Start/Selenium/SELENIUM - Event Listeners.md",
-    "Start/Selenium/SELENIUM - Explicit Waits.md",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",
