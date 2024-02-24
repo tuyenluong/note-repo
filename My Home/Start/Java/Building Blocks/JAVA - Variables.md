@@ -39,7 +39,7 @@ int f1rst; ==>> OK
 ```java
 int _; ==>> NOT OK
 ```
-- You cannot use the reserved word from Java.
+- You cannot use the reserved word from Java. ^4706f6
 	- These are the words that commonly used in Java, so you don't need to remember all of them.
 	- ![[Pasted image 20240224140020.png]]
 

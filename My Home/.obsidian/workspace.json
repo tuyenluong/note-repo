@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406796261727985a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Class Structure.md",
+                "file": "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/Building Blocks/JAVA - Variables.md",
+                "file": "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,19 +138,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2f780e0d9651fd7b",
+  "active": "380b335e1a8ef4ba",
   "lastOpenFiles": [
+    "Java-Class.md",
+    "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
     "Start/Java/Building Blocks/JAVA - Class Structure.md",
     "Start/Java/Building Blocks/JAVA - Variables.md",
+    "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "Start/Java/Building Blocks/JAVA - main() method.md",
+    "Start/Java/Building Blocks/JAVA - Environment.md",
+    "Untitled.md",
     "Start/Java/resouces/Pasted image 20240224140020.png",
     "Start/data-structure-algo.md",
-    "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "Start/Java/Building Blocks/JAVA - Objects.md",
     "Start/Java/Building Blocks/JAVA - Data Types.md",
     "Start/Global Hotkeys.md",
     "Start/Java/Building Blocks/JAVA - Packages.md",
-    "Start/Java/Building Blocks/JAVA - main() method.md",
-    "Start/Java/Building Blocks/JAVA - Environment.md",
     "Start/Java/Building Blocks/JAVA - Text Blocks.md",
     "Start/Java/resouces/Pasted image 20240223012227.png",
     "Start/Java/resouces/Pasted image 20240223012141.png",
@@ -185,8 +176,6 @@
     "Start/Selenium/SELENIUM - Finding Web Elements.md",
     "Start/Selenium/SELENIUM - Fluent Waits.md",
     "Start/Selenium/SELENIUM - Frames.md",
-    "Start/Selenium/SELENIUM - Implicit Waits.md",
-    "Start/Selenium/SELENIUM - Interacting with Dropdown.md",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",
