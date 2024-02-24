@@ -75,7 +75,7 @@ int x, String name; ==>> DOES NOT COMPILE
 - What I means when I said "In a single command" not "in a single line"?
 	- A single command is when a line a code end with a semi colon sign. [[JAVA - Variables#^0220b8|Example]]
 	- And a singe line is just a line in the file.
-	- And [[JAVA - Variables#^7254a8|"the two different data types in a single command"]] also [[JAVA - Variables#^1ada98]] in this situation.
+	- And [[JAVA - Variables#^7254a8|"the two different data types in a single command"]] also [[JAVA - Variables#^1ada98|applied in this situation.]] 
 ```java
 1| int x,  ==>> line 1, single line
 2|     v;  ==>> command, single command
