@@ -11,11 +11,9 @@
             "id": "7f2eea8f722fbda1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
-                "mode": "source",
-                "source": false
+                "file": "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf"
               }
             }
           }
@@ -70,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "ac8bc3b407725a03",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
+                "file": "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +136,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2f780e0d9651fd7b",
+  "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
+    "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Parts+of+OS.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Inside+Linux.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces/History+of+Unix.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
+    "Start/Linux/Introduction to Linux/ExtendResouces",
     "Start/Linux/resouces/Pasted image 20240224183601.png",
     "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
-    "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
-    "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
     "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
     "Start/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
     "Java-Class.md",
@@ -171,7 +175,6 @@
     "Start/Java/resouces/Pasted image 20240223004301.png",
     "Start/Java/resouces/Pasted image 20240223004354.png",
     "Start/Java/resouces/Pasted image 20240222012937.png",
-    "Start/Java/resouces/Pasted image 20240219170809.png",
     "Start/Selenium/SELENIUM - Additional Keys.md",
     "Start/Selenium/SELENIUM - Advanced Interactions.md",
     "Start/Selenium/SELENIUM - Alerts.md",
@@ -179,9 +182,6 @@
     "Start/Selenium/SELENIUM - ChromeOptions Class.md",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
-    "Start/Java/Building Blocks",
-    "Start/SQL",
-    "Start/ISTQB",
-    "Start/API Testing"
+    "Start/Java/Building Blocks"
   ]
 }
