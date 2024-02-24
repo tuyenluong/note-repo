@@ -17,4 +17,3 @@
 	* A graph consists of a finite set of vertices or nodes and **a set of edges connecting these vertices.**
 
 **Understand the Big O**
-	

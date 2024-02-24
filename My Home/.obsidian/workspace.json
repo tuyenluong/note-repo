@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7b3c6cf724ce05",
+        "id": "a3b4316d6c3855f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0829e1f4c39200a",
+            "id": "380b335e1a8ef4ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Start/Java/Building Blocks/JAVA - Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "406796261727985a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start/Java/Building Blocks/JAVA - Class Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,10 +150,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d0829e1f4c39200a",
+  "active": "2f780e0d9651fd7b",
   "lastOpenFiles": [
-    "Start/Java/Building Blocks/JAVA - Text Blocks.md",
+    "Start/Java/Building Blocks/JAVA - Class Structure.md",
     "Start/Java/Building Blocks/JAVA - Variables.md",
+    "Start/Java/resouces/Pasted image 20240224140020.png",
+    "Start/data-structure-algo.md",
+    "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "Start/Java/Building Blocks/JAVA - Objects.md",
+    "Start/Java/Building Blocks/JAVA - Data Types.md",
+    "Start/Global Hotkeys.md",
+    "Start/Java/Building Blocks/JAVA - Packages.md",
+    "Start/Java/Building Blocks/JAVA - main() method.md",
+    "Start/Java/Building Blocks/JAVA - Environment.md",
+    "Start/Java/Building Blocks/JAVA - Text Blocks.md",
     "Start/Java/resouces/Pasted image 20240223012227.png",
     "Start/Java/resouces/Pasted image 20240223012141.png",
     "Start/Java/resouces/Pasted image 20240223010710.png",
@@ -149,9 +171,6 @@
     "Start/Java/resouces/Pasted image 20240223004254.png",
     "Start/Java/resouces/Pasted image 20240223004301.png",
     "Start/Java/resouces/Pasted image 20240223004354.png",
-    "Start/Java/Building Blocks/JAVA - Data Types.md",
-    "Start/data-structure-algo.md",
-    "Start/Global Hotkeys.md",
     "Start/Java/resouces/Pasted image 20240222012937.png",
     "Start/Java/resouces/Pasted image 20240219170809.png",
     "Start/Selenium/SELENIUM - Additional Keys.md",
@@ -168,13 +187,6 @@
     "Start/Selenium/SELENIUM - Frames.md",
     "Start/Selenium/SELENIUM - Implicit Waits.md",
     "Start/Selenium/SELENIUM - Interacting with Dropdown.md",
-    "Start/Selenium/SELENIUM - Other Wait Strategies.md",
-    "Start/Selenium/SELENIUM - Set-up.md",
-    "Start/Selenium/SELENIUM - Take Screenshot.md",
-    "Start/Selenium/SELENIUM - Using Javascript.md",
-    "Start/English/ENG - What is noun.md",
-    "Start/English/Interesting words.md",
-    "Start/Linux/resouces/Pasted image 20240212235007.png",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",

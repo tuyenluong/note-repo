@@ -15,7 +15,7 @@ Modification date: Wednesday 31st January 2024 07:10:27
 	- ***Classes*** are basic building blocks of every Java program
 	- To design a class means to describe parts and characteristics of these blocks
 	- In object-oriented programming,
-		- Object is: ^a36269
+		- Object is: 
 			- In order to use a class you need to create *an object* (*most of the times)
 			- You can think about a class as a blueprint, and a object as realization
 		- Instance is:
@@ -26,16 +26,16 @@ Modification date: Wednesday 31st January 2024 07:10:27
 	- Two elements (*members*) of Java classes are *fields* and *methods*
 	- Fields
 		- Fields are sometimes referred to *variables*. But to be precise:
-		- **Class variables:**
+		- **Class variables:** ^4f6c63
 			- Definition: Variables declared with the *static* keyword after the type and before the name of the variable within a class.
 			- Shared Data: Class variables are shared by all instances of the class.
-		- **Instance Variables (Fields or Member Variables or Attributes or Properties):**
+		- **Instance Variables (Fields or Member Variables or Attributes or Properties):** ^320288
 			- Definition: Variables declared within a class but outside of any method or block of code.
 			- Scope: Instance variables are associated with an instance of the class and have different values for each instance.
-		- **Local variables:**
+		- **Local variables:** ^57453a
 			- Definition: Variables declared within a method or block of code.
 			- Scope: Limited to the method or block in which they are declared and are not accessible outside that scope.
-		- **Parameters:**
+		- **Parameters:** ^e7f712
 			- Definition: Variables declared in method declarations, used to receive values from the caller.
 			- Purpose: Parameters allow methods to accept input values and make the behaviour of the method more flexible.
 	- Methods
