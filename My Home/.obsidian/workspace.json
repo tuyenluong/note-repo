@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
+                "file": "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +141,9 @@
   },
   "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
-    "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
+    "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
     "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
@@ -176,7 +177,6 @@
     "Start/Selenium/SELENIUM - ChromeOptions Class.md",
     "Start/Selenium/SELENIUM - Create a Test.md",
     "Start/Selenium/SELENIUM - Element Interactions.md",
-    "Start/Selenium/SELENIUM - Event Listeners.md",
     "Start/Linux/resouces",
     "Start/Linux/Introduction to Linux",
     "Start/Java/Building Blocks",
