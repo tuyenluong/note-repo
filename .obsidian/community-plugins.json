@@ -3,6 +3,7 @@
   "calendar",
   "obsidian-outliner",
   "templater-obsidian",
-  "better-pdf-plugin",
-  "execute-code"
+  "execute-code",
+  "better-export-pdf",
+  "obsidian-extract-pdf-highlights"
 ]
