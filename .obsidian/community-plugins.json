@@ -1,8 +1,8 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "code-block-copy",
   "obsidian-outliner",
   "templater-obsidian",
-  "better-pdf-plugin"
+  "better-pdf-plugin",
+  "execute-code"
 ]
