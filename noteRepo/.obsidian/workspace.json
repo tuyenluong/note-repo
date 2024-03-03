@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/Operators/JAVA - Unary Operators.md",
+                "file": "PV Automation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/Operators/JAVA - Unary Operators.md",
+                "file": "PV Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,8 @@
   },
   "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
+    "Global Hotkeys.md",
+    "data-structure-algo.md",
     "Start/Java/Operators/JAVA - Comparison Operators.md",
     "Start/Java/Operators/JAVA - Assignment Operators.md",
     "Start/Java/Operators/JAVA - Binary Operators.md",
@@ -178,8 +180,6 @@
     "Start/Java/Building Blocks/JAVA - Variables.md",
     "Start/Java/resouces/Pasted image 20240224140020.png",
     "Start/data-structure-algo.md",
-    "Start/Global Hotkeys.md",
-    "Start/Java/Building Blocks/JAVA - Text Blocks.md",
     "Start/Java/resouces/Pasted image 20240223012227.png",
     "Start/Java/resouces/Pasted image 20240223012141.png",
     "Start/Java/resouces/Pasted image 20240223010710.png",
