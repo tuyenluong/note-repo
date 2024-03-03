@@ -83,5 +83,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:table-row-after": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
   ]
 }

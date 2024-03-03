@@ -9,6 +9,12 @@ Modification date: Saturday 24th February 2024 19:05:00
 #Java 
 #Done 
 
+## An operation consist of 3 part
+- Operands ^d8d14f
+- Operator
+- Result
+
+![[Pasted image 20240303132231.png]]
 ## There are three kinds of operators in java
 
 - Unary operator
@@ -45,7 +51,7 @@ a = 2 + (2*2) + (10/5) + 1
 
 ### A better table about the Operators precedence and associativity
 
-- Precedence and associativity of Java operators. The table below shows all Java operators from highest to lowest precedence, along with their associativity. Most programmers do not memorize them all, and, even those that do, use parentheses for clarity.
+- Precedence and associativity of Java operators. The table below shows all Java operators from highest to lowest precedence, along with their associativity. Most programmers do not memorize them all, and, even those that do, use parentheses for clarity. ^5c4efa
 
 | Level  | Operator                                                            | Description                                                                                                                 | Associativity |
 | ------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- |

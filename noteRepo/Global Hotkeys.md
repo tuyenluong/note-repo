@@ -8,13 +8,15 @@
 * Ctr + Shift + B = create block a code
 
 
-| Hotkey | Action |
-| ---- | ---- |
-| Alt + T | Create new table |
-| Tab | Next Cell |
-| Shift + Tab | Previous Cell |
-| Enter | Next Row |
-| Ctrl + Shift + D | Open table controls sidebar |
+| Hotkey           | Action                       |
+| ---------------- | ---------------------------- |
+| Alt + T          | Create new table             |
+| Ctrl + X         | Add new row after current    |
+| Ctrl + Q         | Add new column after current |
+| Tab              | Next Cell                    |
+| Shift + Tab      | Previous Cell                |
+| Enter            | Next Row                     |
+| Ctrl + Shift + D | Open table controls sidebar  |
 
 Status tags:
 #Done 
