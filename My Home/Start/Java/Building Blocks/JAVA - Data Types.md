@@ -11,16 +11,16 @@ Modification date: Wednesday 14th February 2024 10:57:30
 
 ## Primitive Types
 
-| Keyword | Type | Min | Max | Default | Example |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| boolean | true or false | - | - | false | true |
-| byte | 8-bit integral value | -128 | 127 | 0 | 118 |
-| short | 16-bit integral value | -32,768 | 32767 | 0 | -202 |
-| int | 32-bit integral value | -2,147,483,648 | 2,174,483,647 | 0 | 5106 |
-| long | 64-bit integral value | -2^63 | 2^63 - 1 | 0L | 5106L |
-| float | 32-bit floating value | - | - | 0.0f | 511.183f |
-| double | 64-bit floating value | - | - | 0.0 | 511.183 |
-| char | 16bit Unicode value | 0 | 65,535 | \\u0000 | 'c' |
+| Keyword | Type                  | Min            | Max           | Default | Example  |
+| ------- | --------------------- | -------------- | ------------- | ------- | -------- |
+| boolean | true or false         | -              | -             | false   | true     |
+| byte    | 8-bit integral value  | -128           | 127           | 0       | 118      |
+| short   | 16-bit integral value | -32,768        | 32767         | 0       | -202     |
+| int     | 32-bit integral value | -2,147,483,648 | 2,174,483,647 | 0       | 5106     |
+| long    | 64-bit integral value | -2^63          | 2^63 - 1      | 0L      | 5106L    |
+| float   | 32-bit floating value | -              | -             | 0.0f    | 511.183f |
+| double  | 64-bit floating value | -              | -             | 0.0     | 511.183  |
+| char    | 16bit Unicode value   | 0              | 65,535        | \\u0000 | 'c'      |
 ## To keep in mind
 - In Java, boolean *true* and *false* are completely **unrelated** to 1 and 0!!
 	- Bit size of boolean is not specified, it's depends on the JVM.

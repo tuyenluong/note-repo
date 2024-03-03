@@ -54,6 +54,19 @@ Modification date: Wednesday 31st January 2024 07:10:27
 				- In the process of defining a method, one specifies the types of parameters it can accept. These parameter types, along with their respective order, collectively form part of the method signature. They essentially articulate the expected input parameters for the method.
 			- Purpose:
 				- Therefore, the method signature is essentially a combination of the method name and its parameter types. ***This combination serves to differentiate one method from another within a class based on their names and the types and order of their parameters.*** While syntax variations may exist across different programming languages, the fundamental concept of a method signature remains consistently applicable.
+			-  Be careful to some statement like below one. The Method signature did not include the return type.
+				- "Overloading is the ability to have a class with multiple methods of the same name where the arguments and return type (method signature) allow the compiler to determine which of the same named methods were meant to be called."
+			- Method signature and method overloading are not the same terms, although they are related concepts:
+				- Method Signature:
+					- The method signature consists of the method's name and the types and order of its parameters.
+					- It uniquely identifies a method within a class or interface.
+					- **The return type is not considered part of the method signature in Java.**
+					- Method signature helps distinguish overloaded methods.
+				- Method Overloading:
+					- Method overloading refers to defining multiple methods in the same class with the same name but different method signatures.
+					- These methods can have different numbers or types of parameters.
+					- Method overloading allows for providing multiple ways to perform a similar operation with different parameter types or numbers.
+					- It provides flexibility and convenience in programming, making code more readable and expressive.
 - ***Comments***
 	- Comments are used to make a code more readable.
 		- They are ignored by the compiler.

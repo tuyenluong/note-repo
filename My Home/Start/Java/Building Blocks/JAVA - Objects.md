@@ -18,7 +18,7 @@ Modification date: Monday 12th February 2024 13:09:49
 		 - Which means the constructor will not having the <u>void</u> return type as well.
 		 - [[JAVA - Objects#^6f7319|This is an example of a valid constructor.]]
 	- But [[JAVA - Objects#^5a7d1c|if a constructor added a return type]], then will it compile?
-		- The answer is YES!! It will compile. But this time, it will be treated as a method, not a constructor anymore.
+		- The answer is YES!! It will compile. But this time, it will be treated as a method, not as a constructor anymore.
 		- A valid constructor DO NOT have any return type, and the name of the constructor will be the same as the class name. The constructor naming is a convention to tell the different between a method and a constructor.
 		- A [[JAVA - Objects#^5a7d1c|method naming convention]] is the first letter of the method name must be lowercase and must contains a return type or a void.
 		- A [[JAVA - Objects#^6f7319|constructor naming convention]] is the constructor name must be identical as the class name and there will be no return type even a void.

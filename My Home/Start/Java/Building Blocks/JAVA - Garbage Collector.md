@@ -19,7 +19,6 @@ Garbage Collector (*GC*) is a very important and very convenient Java feature ca
 - Once the object is eligible for GC, Java can remove it from the heap (*and free memory*)
 ### Garbage Collection process is out of your control !!!
 - You cannot know if ad when the memory will be feed.
-
 ## System.gc()
 - This method you can suggest Java to clean the heap
 ```java
