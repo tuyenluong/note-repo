@@ -10,7 +10,6 @@ Modification date: Saturday 24th February 2024 16:39:36
 #Done 
 
 Garbage Collector (*GC*) is a very important and very convenient Java feature called Garbage Collector (*GC*).
-
 ## What is Garbage Collection?
 - All Java objects are stored in programs memory **heap** (*a.k.a free store*)
 - **GC is a process automatically freeing memory on the heap.**

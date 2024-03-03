@@ -7,7 +7,7 @@ Modification date: Sunday 3rd March 2024 12:01:09
 ----
 
 #Java  
-#InProgress 
+#Done  
 
 Unary operator requires only one [[JAVA - Operators in Java#^d8d14f|operand]].
 
@@ -30,7 +30,7 @@ a-- ==>> increases value by 1 and then return the OLD value
 ```
 
 - Example:
-![[Pasted image 20240303135446.png]]
+![[Pasted image 20240303141212.png]]
 
 - A tricky example:
 ![[Pasted image 20240303135756.png]]

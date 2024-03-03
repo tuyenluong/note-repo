@@ -11,7 +11,7 @@
 | Hotkey           | Action                       |
 | ---------------- | ---------------------------- |
 | Alt + T          | Create new table             |
-| Ctrl + X         | Add new row after current    |
+| Ctrl  + Shift+ X | Add new row after current    |
 | Ctrl + Q         | Add new column after current |
 | Tab              | Next Cell                    |
 | Shift + Tab      | Previous Cell                |

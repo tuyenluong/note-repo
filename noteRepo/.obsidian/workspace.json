@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "93870d8468361b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Operators/JAVA - Operators in Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b8cf463ed33489c1",
             "type": "leaf",
             "state": {
@@ -40,19 +28,31 @@
             }
           },
           {
-            "id": "276beaab6d34e333",
+            "id": "af4a5d0d0d6f372b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Operators/JAVA - Unary Operators.md",
+                "file": "Java/Operators/JAVA - Binary Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f8e52db017e3e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Building Blocks/JAVA - Data Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Operators/JAVA - Unary Operators.md",
+                "file": "Java/Operators/JAVA - Binary Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "276beaab6d34e333",
+  "active": "af4a5d0d0d6f372b",
   "lastOpenFiles": [
+    "Java/Building Blocks/JAVA - Data Types.md",
+    "Java/Operators/JAVA - Binary Operators.md",
+    "Global Hotkeys.md",
+    "Java/Building Blocks/JAVA - Variables.md",
+    "Java/Building Blocks/JAVA - Environment.md",
+    "Java/Building Blocks/JAVA - Text Blocks.md",
+    "Java/Building Blocks/JAVA - Packages.md",
+    "Java/Building Blocks/JAVA - Objects.md",
+    "Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "Java/Building Blocks/JAVA - Garbage Collector.md",
+    "Java/Operators/JAVA - Operators in Java.md",
+    "Java/Operators/JAVA - Unary Operators.md",
+    "Java/Operators/resources/Pasted image 20240303135756.png",
+    "Java/Operators/resources/Pasted image 20240303135446.png",
+    "Java/Operators/resources/Pasted image 20240303141212.png",
     "Java/Operators/resources/Pasted image 20240303132231.png",
     "Java/Building Blocks/resouces/Pasted image 20240131065628.png",
     "Java/Building Blocks/resouces/Pasted image 20240206173202.png",
@@ -180,13 +195,6 @@
     "Java/Building Blocks/resouces/Pasted image 20240222012937.png",
     "Java/Building Blocks/resouces/Pasted image 20240223004254.png",
     "Java/Building Blocks/resouces/Pasted image 20240223004301.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223004354.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223010703.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223010710.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223012141.png",
-    "Java/Operators/JAVA - Unary Operators.md",
-    "Java/Operators/JAVA - Operators in Java.md",
-    "Global Hotkeys.md",
     "PV Automation.md",
     "data-structure-algo.md",
     "Start/Java/Operators/JAVA - Comparison Operators.md",
@@ -201,23 +209,15 @@
     "Start/Java/Building Blocks/JAVA - Objects.md",
     "Start/Java/Building Blocks/JAVA - Environment.md",
     "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
-    "Start/Java/Building Blocks/JAVA - Class Structure.md",
-    "Start/Linux/Download, Install and Configure/LINUX - Lab Design.md",
     "Start/Java/Operators/resources",
     "Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
     "Start/Linux/Download, Install and Configure",
     "Start/Java/Operators",
     "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
     "Start/Java/Building Blocks/EntendResources",
-    "Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
-    "Start/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
     "Start/Linux/Introduction to Linux/ExtendResouces/Parts+of+OS.pdf",
     "Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
     "Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces/Inside+Linux.pdf",
-    "Start/Linux/Introduction to Linux/LINUX - Linux Users.md",
-    "Start/Linux/Introduction to Linux/LINUX - Linux flavours.md",
-    "Start/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
-    "Start/Linux/Introduction to Linux/LINUX - History of Linux.md"
+    "Start/Linux/Introduction to Linux/ExtendResouces/Inside+Linux.pdf"
   ]
 }

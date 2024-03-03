@@ -87,7 +87,8 @@
   "editor:table-row-after": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "X"
     }
