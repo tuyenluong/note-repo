@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start/Java/Operators/JAVA - Operators in Java.md",
+                "file": "Start/Java/Operators/JAVA - Unary Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/Java/Operators/JAVA - Operators in Java.md",
+                "file": "Start/Java/Operators/JAVA - Unary Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,11 @@
   },
   "active": "7f2eea8f722fbda1",
   "lastOpenFiles": [
+    "Start/Java/Operators/JAVA - Comparison Operators.md",
+    "Start/Java/Operators/JAVA - Assignment Operators.md",
+    "Start/Java/Operators/JAVA - Binary Operators.md",
+    "Start/Java/Operators/JAVA - Unary Operators.md",
+    "Start/Java/Operators/JAVA - Operators in Java.md",
     "Start/Java/Building Blocks/JAVA - Data Types.md",
     "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
     "Start/Java/Building Blocks/JAVA - main() method.md",
@@ -148,7 +153,6 @@
     "Start/Java/Building Blocks/JAVA - Environment.md",
     "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "Start/Java/Building Blocks/JAVA - Class Structure.md",
-    "Start/Java/Operators/JAVA - Operators in Java.md",
     "Start/Linux/Download, Install and Configure/LINUX - Lab Design.md",
     "Start/Java/Operators/resources/Pasted image 20240303102215.png",
     "Start/Java/Operators/resources",
@@ -181,9 +185,6 @@
     "Start/Java/resouces/Pasted image 20240223010710.png",
     "Start/Java/resouces/Pasted image 20240223010703.png",
     "Start/Java/resouces/Pasted image 20240223004254.png",
-    "Start/Java/resouces/Pasted image 20240223004301.png",
-    "Start/Selenium/SELENIUM - Additional Keys.md",
-    "Start/Selenium/SELENIUM - Advanced Interactions.md",
-    "Start/Selenium/SELENIUM - Alerts.md"
+    "Start/Java/resouces/Pasted image 20240223004301.png"
   ]
 }
