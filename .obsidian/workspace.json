@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93529b043a477bae",
+        "id": "61f2f350fa60daa4",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf8404c96a99148",
+            "id": "9e0baff8fce0e2c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf"
+                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 479.5,
+    "collapsed": true
   },
   "right": {
     "id": "24444e767f926965",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
+                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
+                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf"
+                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md"
               }
             }
           },
@@ -154,10 +157,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0cf8404c96a99148",
+  "active": "9e0baff8fce0e2c9",
   "lastOpenFiles": [
-    "My Home/Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "JAVA - Operators in Java^.md",
+    "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
+    "My Home/Start/Selenium/SELENIUM - Alerts.md",
     "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
+    "My Home/Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/History+of+Unix.pdf",
@@ -192,8 +198,6 @@
     "My Home/Start/Java/JAVA - Environment.md",
     "My Home/Start/Java/Java - main() method.md",
     "attributes.md",
-    "My Home/PC builder.md",
-    "My Home/2022-12-11.md",
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
     "My Home/Start/Java/resouces",
     "My Home/Start/Java"
