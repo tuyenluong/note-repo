@@ -21,6 +21,9 @@ Modification date: Wednesday 14th February 2024 10:57:30
 | float   | 32-bit floating value | -              | -             | 0.0f    | 511.183f |
 | double  | 64-bit floating value | -              | -             | 0.0     | 511.183  |
 | char    | 16bit Unicode value   | 0              | 65,535        | \\u0000 | 'c'      |
+
+^0a9df1
+
 ## To keep in mind
 - In Java, boolean *true* and *false* are completely **unrelated** to 1 and 0!!
 	- Bit size of boolean is not specified, it's depends on the JVM.
@@ -29,10 +32,10 @@ Modification date: Wednesday 14th February 2024 10:57:30
 	-  And the boolean value is just 1 bit, 1 and 0 is representative of *true* and *false*.
 	- ![[Pasted image 20240219170809.png]]
 - All numeric types are signed (*It allowed negative numbers*).
-- float requires an f (*or F*) character at the end to distinguish it from double type value:
+- float requires an f (*or F*) character at the end to distinguish it from double type value: ^50b425
 	- [[JAVA - Data Types#^13eb3a|Does not compile!!]]
 	- [[JAVA - Data Types#^f05d0b|OK!!]]
-- long requires an l (*or L for readability*) character at the end to distinguish it from int type value:
+- long requires an l (*or L for readability*) character at the end to distinguish it from int type value: ^c97ad1
 	- [[JAVA - Data Types#^6a0e1e|Does not compile!!]]
 	- [[JAVA - Data Types#^dc8858|OK!!]]
 ## Supported digital formats

@@ -28,7 +28,19 @@
             }
           },
           {
-            "id": "af4a5d0d0d6f372b",
+            "id": "f0546081f2042f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Building Blocks/JAVA - Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a1bd93e1c6d708",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,19 +52,19 @@
             }
           },
           {
-            "id": "8f8e52db017e3e8a",
+            "id": "d2cd8701ddc375bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Building Blocks/JAVA - Data Types.md",
+                "file": "Java/Operators/JAVA - Assignment Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac8bc3b407725a03",
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Operators/JAVA - Binary Operators.md",
+                "file": "Java/Operators/JAVA - Assignment Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +183,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "af4a5d0d0d6f372b",
+  "active": "d2cd8701ddc375bd",
   "lastOpenFiles": [
-    "Java/Building Blocks/JAVA - Data Types.md",
     "Java/Operators/JAVA - Binary Operators.md",
+    "Java/Operators/JAVA - Assignment Operators.md",
+    "Java/Building Blocks/JAVA - Data Types.md",
     "Global Hotkeys.md",
     "Java/Building Blocks/JAVA - Variables.md",
     "Java/Building Blocks/JAVA - Environment.md",
@@ -208,7 +221,6 @@
     "Start/Java/Building Blocks/JAVA - Packages.md",
     "Start/Java/Building Blocks/JAVA - Objects.md",
     "Start/Java/Building Blocks/JAVA - Environment.md",
-    "Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "Start/Java/Operators/resources",
     "Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
     "Start/Linux/Download, Install and Configure",

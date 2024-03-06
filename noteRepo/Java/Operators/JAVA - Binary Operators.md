@@ -73,7 +73,7 @@ double result = intValue + decimalValue;
 System.out.println(result);
 ==>>  The int value is promoted to double before addition
 ```
-- `byte, short, char` are **always** first promoted to int before the operation is done (!!)
+- `byte, short, char` are **always** first promoted to int before the operation is done (!!) ^94102f
 ```java
 short x = 17;
 short y = 15;
