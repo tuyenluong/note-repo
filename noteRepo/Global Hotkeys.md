@@ -22,3 +22,7 @@ Status tags:
 #Done 
 #InProgress 
 #Todo 
+
+
+Setup:
+- [[sortspec]]
