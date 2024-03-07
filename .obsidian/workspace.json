@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
+                "file": "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
+                "file": "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
+                "file": "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Start/Java/Operators/JAVA - Operators in Java.md"
+                "file": "noteRepo/Java/Operators/JAVA - Assignment Operators.md"
               }
             }
           },
