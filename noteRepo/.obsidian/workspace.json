@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f2eea8f722fbda1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Hotkeys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8cf463ed33489c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "e068ac800c08742c",
             "type": "leaf",
             "state": {
@@ -40,19 +20,19 @@
             }
           },
           {
-            "id": "fb281db5c42a2834",
+            "id": "223e61df2e8de650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Operators/JAVA - Assignment Operators.md",
+                "file": "Java/Operators/JAVA - Comparison Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Operators/JAVA - Assignment Operators.md",
+                "file": "Java/Operators/JAVA - Comparison Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +150,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fb281db5c42a2834",
+  "active": "223e61df2e8de650",
   "lastOpenFiles": [
+    "Java/Operators/resources/Pasted image 20240310145305.png",
+    "Java/Operators/resources/Pasted image 20240310145155.png",
+    "Java/Operators/resources/Pasted image 20240310145103.png",
+    "Java/Operators/JAVA - Comparison Operators.md",
+    "Java/Operators/JAVA - Assignment Operators.md",
     "Java/Building Blocks/JAVA - Data Types.md",
     "Java/Operators/JAVA - Binary Operators.md",
-    "Java/Operators/JAVA - Assignment Operators.md",
     "Global Hotkeys.md",
     "Java/Building Blocks/JAVA - Variables.md",
     "Java/Building Blocks/JAVA - Environment.md",
@@ -193,8 +177,6 @@
     "Java/Building Blocks/resouces/Pasted image 20240206173202.png",
     "Java/Building Blocks/resouces/Pasted image 20240219170809.png",
     "Java/Building Blocks/resouces/Pasted image 20240222012937.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223004254.png",
-    "Java/Building Blocks/resouces/Pasted image 20240223004301.png",
     "PV Automation.md",
     "data-structure-algo.md",
     "Start/Java/Operators/JAVA - Comparison Operators.md",
@@ -206,8 +188,6 @@
     "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
     "Start/Java/Building Blocks/JAVA - main() method.md",
     "Start/Java/Building Blocks/JAVA - Packages.md",
-    "Start/Java/Building Blocks/JAVA - Objects.md",
-    "Start/Java/Building Blocks/JAVA - Environment.md",
     "Start/Java/Operators/resources",
     "Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
     "Start/Linux/Download, Install and Configure",
