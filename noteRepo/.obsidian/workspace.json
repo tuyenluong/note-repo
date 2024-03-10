@@ -28,31 +28,19 @@
             }
           },
           {
-            "id": "f0546081f2042f13",
+            "id": "e068ac800c08742c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Building Blocks/JAVA - Data Types.md",
+                "file": "Java/Operators/JAVA - Assignment Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2a1bd93e1c6d708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Operators/JAVA - Binary Operators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2cd8701ddc375bd",
+            "id": "fb281db5c42a2834",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "ac8bc3b407725a03",
@@ -183,11 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d2cd8701ddc375bd",
+  "active": "fb281db5c42a2834",
   "lastOpenFiles": [
+    "Java/Building Blocks/JAVA - Data Types.md",
     "Java/Operators/JAVA - Binary Operators.md",
     "Java/Operators/JAVA - Assignment Operators.md",
-    "Java/Building Blocks/JAVA - Data Types.md",
     "Global Hotkeys.md",
     "Java/Building Blocks/JAVA - Variables.md",
     "Java/Building Blocks/JAVA - Environment.md",
