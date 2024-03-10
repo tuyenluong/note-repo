@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Operators/JAVA - Assignment Operators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223e61df2e8de650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Operators/JAVA - Comparison Operators.md",
+                "file": "Java/Flow Control/JAVA - For-Each Loop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Operators/JAVA - Comparison Operators.md",
+                "file": "Java/Flow Control/JAVA - For-Each Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +137,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "223e61df2e8de650",
+  "active": "e068ac800c08742c",
   "lastOpenFiles": [
+    "Java/Flow Control/JAVA - For Loop.md",
+    "Java/Flow Control/JAVA - For-Each Loop.md",
+    "Java/Flow Control/JAVA - Do-While Loop.md",
+    "Java/Flow Control/JAVA - While Loop.md",
+    "Java/Flow Control/JAVA - Switch Expression.md",
+    "Java/Flow Control/JAVA - Switch Statement.md",
+    "Java/Flow Control/JAVA - If-Else Statement.md",
+    "Java/Operators/JAVA - Assignment Operators.md",
+    "Java/Flow Control/resources",
+    "Java/Flow Control",
+    "Java/Untitled.canvas",
+    "Java/Operators/JAVA - Comparison Operators.md",
     "Java/Operators/resources/Pasted image 20240310145305.png",
     "Java/Operators/resources/Pasted image 20240310145155.png",
     "Java/Operators/resources/Pasted image 20240310145103.png",
-    "Java/Operators/JAVA - Comparison Operators.md",
-    "Java/Operators/JAVA - Assignment Operators.md",
     "Java/Building Blocks/JAVA - Data Types.md",
     "Java/Operators/JAVA - Binary Operators.md",
     "Global Hotkeys.md",
@@ -176,18 +173,11 @@
     "Java/Building Blocks/resouces/Pasted image 20240131065628.png",
     "Java/Building Blocks/resouces/Pasted image 20240206173202.png",
     "Java/Building Blocks/resouces/Pasted image 20240219170809.png",
-    "Java/Building Blocks/resouces/Pasted image 20240222012937.png",
     "PV Automation.md",
     "data-structure-algo.md",
     "Start/Java/Operators/JAVA - Comparison Operators.md",
     "Start/Java/Operators/JAVA - Assignment Operators.md",
     "Start/Java/Operators/JAVA - Binary Operators.md",
-    "Start/Java/Operators/JAVA - Unary Operators.md",
-    "Start/Java/Operators/JAVA - Operators in Java.md",
-    "Start/Java/Building Blocks/JAVA - Data Types.md",
-    "Start/Java/Building Blocks/JAVA - Garbage Collector.md",
-    "Start/Java/Building Blocks/JAVA - main() method.md",
-    "Start/Java/Building Blocks/JAVA - Packages.md",
     "Start/Java/Operators/resources",
     "Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
     "Start/Linux/Download, Install and Configure",
@@ -195,8 +185,6 @@
     "Start/Linux/Introduction to Linux/ExtendResouces/Virtual+memory.pdf",
     "Start/Java/Building Blocks/EntendResources",
     "Start/Linux/Introduction to Linux/ExtendResouces/Parts+of+OS.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
-    "Start/Linux/Introduction to Linux/ExtendResouces/Inside+Linux.pdf"
+    "Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf"
   ]
 }
