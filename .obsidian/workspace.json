@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cecbe99bcc1120c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Operators/JAVA - Comparison Operators.md"
+                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md"
               }
             }
           },
@@ -185,8 +198,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "2c187e5a31c1863c",
+  "active": "8cecbe99bcc1120c",
   "lastOpenFiles": [
+    "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+    "noteRepo/Java/new-the-world-of-the-internet-handouts.pdf",
+    "README.md",
+    "noteRepo/Java/Operators/JAVA - Operators in Java.md",
     "noteRepo/Global Hotkeys.md",
     "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
@@ -218,14 +235,10 @@
     "My Home/Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "My Home/Start/Linux/Introduction to Linux",
     "My Home/Start/Java/JAVA - Packages.md",
-    "README.md",
     "My Home/Templates/sortspec.md",
     "My Home/Templates/SQL - template.md",
     "My Home/Start/Java/data-structure-algo.md",
-    "My Home/Start/Java/JAVA - Compile, Run and Archive.md",
-    "My Home/Start/Global Hotkeys.md",
     "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
-    "My Home/Start/Java/JAVA - Class Structure.md",
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
     "My Home/Start/Java/resouces",
     "My Home/Start/Java"
