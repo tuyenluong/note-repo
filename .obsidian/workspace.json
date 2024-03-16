@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5,
-    "collapsed": true
+    "width": 479.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+                "file": "noteRepo/Global Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+                "file": "noteRepo/Global Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md"
+                "file": "noteRepo/Global Hotkeys.md"
               }
             }
           },
@@ -198,15 +197,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8cecbe99bcc1120c",
+  "active": "06f6f917af7d314e",
   "lastOpenFiles": [
+    "noteRepo/Computer-In-General",
     "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
-    "noteRepo/Java/new-the-world-of-the-internet-handouts.pdf",
+    "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
+    "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
     "README.md",
     "noteRepo/Java/Operators/JAVA - Operators in Java.md",
     "noteRepo/Global Hotkeys.md",
     "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
-    "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
     "JAVA - Operators in Java^.md",
     "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
     "My Home/Start/Selenium/SELENIUM - Alerts.md",

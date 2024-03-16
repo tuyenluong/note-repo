@@ -107,7 +107,7 @@ short c = (short) (a + b); ==>> OK
 
 ## Compound assign operators
 
-- There are also something called compound assign operators, and this is just a shorthand notation of an assignment operation.
+- There are also someething called compound assign operators, and this is just a shorthand notation of an assignment operation.
 - So mathematically expressions like `a = a + 5` doesn't make much sense. But in programming they are perfectly fine because first the right hand side is evaluated.
 
 ```java
