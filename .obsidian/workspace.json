@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "06f6f917af7d314e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Global Hotkeys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8cecbe99bcc1120c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - Switch Statement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "24444e767f926965",
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Global Hotkeys.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - Switch Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Global Hotkeys.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - Switch Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Global Hotkeys.md"
+                "file": "noteRepo/Java/Flow Control/JAVA - Switch Statement.md"
               }
             }
           },
@@ -197,16 +185,16 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "06f6f917af7d314e",
+  "active": "8cecbe99bcc1120c",
   "lastOpenFiles": [
-    "noteRepo/Computer-In-General",
     "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+    "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
+    "README.md",
+    "noteRepo/Global Hotkeys.md",
+    "noteRepo/Computer-In-General",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
     "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
-    "README.md",
     "noteRepo/Java/Operators/JAVA - Operators in Java.md",
-    "noteRepo/Global Hotkeys.md",
-    "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
     "JAVA - Operators in Java^.md",
     "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
     "My Home/Start/Selenium/SELENIUM - Alerts.md",
@@ -240,7 +228,6 @@
     "My Home/Start/Java/data-structure-algo.md",
     "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
-    "My Home/Start/Java/resouces",
-    "My Home/Start/Java"
+    "My Home/Start/Java/resouces"
   ]
 }
