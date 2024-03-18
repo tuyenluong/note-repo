@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed772798644ead95",
+        "id": "42c0794db9e79e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "11b5b3c10c9055e5",
+            "id": "c0abf9c0bc2c9d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md"
+                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md"
               }
             }
           },
@@ -158,11 +158,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "11b5b3c10c9055e5",
+  "active": "c0abf9c0bc2c9d33",
   "lastOpenFiles": [
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
+    "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+    "noteRepo/Java/Flow Control/resources",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
@@ -184,8 +188,6 @@
     "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
     "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
     "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
-    "noteRepo/Java/Building Blocks/JAVA - Variables.md",
-    "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
     "noteRepo/Computer-In-General",
     "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
     "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
@@ -201,7 +203,6 @@
     "My Home/Start/Linux/resouces",
     "My Home/Start/Linux/Introduction to Linux",
     "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
-    "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
-    "My Home/Start/Java/resouces"
+    "My Home/Start/Java/resouces/Pasted image 20240131065628.png"
   ]
 }
