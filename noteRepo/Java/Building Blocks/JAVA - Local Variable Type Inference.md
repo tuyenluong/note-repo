@@ -28,7 +28,7 @@ var a = "John Wayne"; ==>> So this will NOT COMPILE.
 var s = null; ==>> DOES NOT COMPILE.
 ```
 
-- **var** is **NOT** the [[JAVA - Variables#^4706f6|reserved word]].
+- `var` is **NOT** the [[JAVA - Variables#^4706f6|reserved word]].
 ```java
 public class Var () ==>> OK
 var var = 5 ==>> OK
