@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "61f2f350fa60daa4",
+        "id": "ed772798644ead95",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0baff8fce0e2c9",
+            "id": "11b5b3c10c9055e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c187e5a31c1863c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d37e644b491fa54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
+                "file": "noteRepo/Templates/sortspec.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -114,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
+                "file": "noteRepo/Templates/sortspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
+                "file": "noteRepo/Templates/sortspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Switch Expression.md"
+                "file": "noteRepo/Templates/sortspec.md"
               }
             }
           },
@@ -185,47 +157,47 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "3d37e644b491fa54",
+  "active": "11b5b3c10c9055e5",
   "lastOpenFiles": [
-    "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
-    "noteRepo/Java/Building Blocks/JAVA - Variables.md",
-    "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
-    "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
-    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
-    "noteRepo/Java/Flow Control/JAVA - Switch Statement.md",
-    "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
-    "README.md",
     "noteRepo/Global Hotkeys.md",
-    "noteRepo/Computer-In-General",
+    "noteRepo/data-structure-algo.md",
+    "README.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
+    "noteRepo/Templates/sortspec.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Creating a Virtual Machine.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
+    "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
+    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
+    "noteRepo/Java/Building Blocks/JAVA - Variables.md",
+    "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
+    "noteRepo/Computer-In-General",
     "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
-    "noteRepo/Java/Operators/JAVA - Operators in Java.md",
-    "JAVA - Operators in Java^.md",
-    "My Home/Start/Java/Operators/JAVA - Operators in Java.md",
-    "My Home/Start/Selenium/SELENIUM - Alerts.md",
     "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
-    "My Home/Start/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/History+of+Unix.pdf",
-    "My Home/Start/Java/Building Blocks/JAVA - Environment.md",
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",
     "My Home/Start/Java/resouces/Pasted image 20240219170809.png",
-    "My Home/Start/Java/Building Blocks/JAVA - Data Types.md",
-    "My Home/Start/Java/JAVA - main() method.md",
-    "My Home/Start/Java/Building Blocks/JAVA - Packages.md",
-    "My Home/Start/Java/Building Blocks/JAVA - Objects.md",
-    "My Home/Start/Java/Building Blocks/JAVA - main() method.md",
-    "My Home/Start/Java/Building Blocks/JAVA - Class Structure.md",
     "My Home/Start/Java/Building Blocks",
     "My Home/Start/Linux/resouces/Pasted image 20240212235007.png",
     "My Home/Start/Linux/resouces/Pasted image 20240212232244.png",
     "My Home/Start/Linux/resouces/Pasted image 20240212232229.png",
     "My Home/Start/Linux/resouces",
-    "My Home/Start/Linux/Introduction to Linux/LINUX - What is Operating System.md",
-    "My Home/Start/Linux/Introduction to Linux/LINUX - What is Linux.md",
-    "My Home/Start/Linux/Introduction to Linux/LINUX - What is differences between Unix vs Linux.md",
-    "My Home/Start/Linux/Introduction to Linux/LINUX - History of Linux.md",
     "My Home/Start/Linux/Introduction to Linux",
     "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png",
