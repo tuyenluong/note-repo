@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Templates/sortspec.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Templates/sortspec.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Templates/sortspec.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Templates/sortspec.md"
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md"
               }
             }
           },
@@ -154,31 +154,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "11b5b3c10c9055e5",
   "lastOpenFiles": [
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
+    "noteRepo/Templates/sortspec.md",
     "noteRepo/Global Hotkeys.md",
     "noteRepo/data-structure-algo.md",
     "README.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
-    "noteRepo/Templates/sortspec.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Creating a Virtual Machine.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
     "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
     "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
