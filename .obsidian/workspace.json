@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a5c6ee01bf0d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
                 "mode": "source",
                 "backlinks": true,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md"
+                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md"
               }
             }
           },
@@ -160,9 +173,11 @@
   },
   "active": "c0abf9c0bc2c9d33",
   "lastOpenFiles": [
-    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
-    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
     "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+    "noteRepo/Java/Building Blocks/JAVA - Text Blocks.md",
+    "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
     "noteRepo/Java/Flow Control/resources",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
@@ -187,7 +202,6 @@
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
     "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
     "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
-    "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
     "noteRepo/Computer-In-General",
     "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
     "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
