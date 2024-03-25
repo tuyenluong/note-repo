@@ -28,6 +28,8 @@ for (initialization; condition; update){
 | --------------------------- | --------------------------------------------------------------------------------- |
 | Simplest way to make a loop | Initialize, condition, [[JAVA - While Loop#^e2c84a\|sentinel]] all in a same line |
 |                             | More convenient, easier to read, compact                                          |
+
+
 ![[Pasted image 20240325234802.png]]
 
 
