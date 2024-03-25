@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+                "file": "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - For Loop.md"
+                "file": "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "c0abf9c0bc2c9d33",
   "lastOpenFiles": [
-    "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
     "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+    "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
     "noteRepo/English/List of keywords.md",
     "noteRepo/Java/Flow Control/JAVA - While Loop.md",
     "noteRepo/Global Hotkeys.md",
