@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+                "file": "noteRepo/English/List of keywords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "29a5c6ee01bf0d78",
+            "id": "e8206a32d8e15fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+                "file": "noteRepo/Global Hotkeys.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb63cf4c9ca35bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "noteRepo/English/List of keywords.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+                "file": "noteRepo/English/List of keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+                "file": "noteRepo/English/List of keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md"
+                "file": "noteRepo/English/List of keywords.md"
               }
             }
           },
@@ -173,11 +186,17 @@
   },
   "active": "c0abf9c0bc2c9d33",
   "lastOpenFiles": [
+    "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+    "noteRepo/English/List of keywords.md",
     "noteRepo/Java/Flow Control/JAVA - While Loop.md",
-    "noteRepo/Java/Building Blocks/JAVA - Text Blocks.md",
+    "noteRepo/Global Hotkeys.md",
     "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
-    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240325234802.png",
+    "noteRepo/English/Interesting words.md",
+    "noteRepo/English/Programming_keywords",
+    "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
+    "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
     "noteRepo/Java/Flow Control/resources",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
@@ -190,7 +209,6 @@
     "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
     "noteRepo/Templates/sortspec.md",
-    "noteRepo/Global Hotkeys.md",
     "noteRepo/data-structure-algo.md",
     "README.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
@@ -198,12 +216,8 @@
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Creating a Virtual Machine.md",
-    "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
-    "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
-    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
-    "noteRepo/Computer-In-General",
-    "noteRepo/Computer-In-General/new-the-world-of-the-internet-handouts.pdf",
+    "noteRepo/Computer_In_General",
+    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "My Home/Start/Java/Building Blocks/EntendResources/Build-in+Modules.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Module+1.pdf",
     "My Home/Start/Linux/Introduction to Linux/ExtendResouces/Operating+system.pdf",
@@ -215,7 +229,6 @@
     "My Home/Start/Linux/resouces/Pasted image 20240212232244.png",
     "My Home/Start/Linux/resouces/Pasted image 20240212232229.png",
     "My Home/Start/Linux/resouces",
-    "My Home/Start/Linux/Introduction to Linux",
     "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
     "My Home/Start/Java/resouces/Pasted image 20240131065628.png"
   ]

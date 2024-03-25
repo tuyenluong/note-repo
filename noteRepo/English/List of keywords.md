@@ -1,0 +1,11 @@
+- omit ^bc73e2
+	- verb
+	- leave out or exclude (*someone or something*), either intentionally or forgetfully.
+- heavens
+	- exclamation
+	- an [expression](https://dictionary.cambridge.org/vi/dictionary/english/expression "expression") of [surprise](https://dictionary.cambridge.org/vi/dictionary/english/surprise "surprise"), [anger](https://dictionary.cambridge.org/vi/dictionary/english/anger "anger"), [annoyance](https://dictionary.cambridge.org/vi/dictionary/english/annoy "annoyance"), or [emphasis](https://dictionary.cambridge.org/vi/dictionary/english/emphasis "emphasis")
+	- "*Good heavens – I didn’t [realize](https://dictionary.cambridge.org/vi/dictionary/english/realize "realize") it was getting so late!*"
+- heavens
+	- plural noun
+	- the sky
+	- "*They rolled their eyes toward the heavens.*"

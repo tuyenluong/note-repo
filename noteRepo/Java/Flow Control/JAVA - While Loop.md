@@ -56,6 +56,8 @@ while (true){  ==>> this condition will go on forever
 
 ### To prevent infinite loop, we can use `break` statement or [sentinel condition](https://en.wikipedia.org/wiki/Sentinel_value)
 
+^e2c84a
+
 ```java
 int n = 0;
 while (true){  ==>> It seem that this loop will run forever
