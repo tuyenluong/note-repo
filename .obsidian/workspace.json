@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md",
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md"
+                "file": "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md"
               }
             }
           },
@@ -184,10 +184,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c0abf9c0bc2c9d33",
+  "active": "b484bb9f38cee836",
   "lastOpenFiles": [
-    "noteRepo/Java/Date and Time/JAVA - Methods on Dates and Times.md",
+    "noteRepo/Linux/System Access and File System",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
+    "noteRepo/Templates/LINUX - template.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
     "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md",
+    "noteRepo/Java/Date and Time/JAVA - Methods on Dates and Times.md",
     "noteRepo/Java/Date and Time/JAVA - Creating Dates and Times.md",
     "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
     "noteRepo/Java/Date and Time/resources",
@@ -219,10 +223,6 @@
     "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
     "noteRepo/Computer_In_General",
     "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",
