@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3fbcb41faee43c2a",
+        "id": "a7775fe68519d154",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe21f1f53c5d089",
+            "id": "ed0014b38b932bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Home/Home.md",
+                "file": "noteRepo/Java/Interface & Abstract.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6d1399fc3a0db071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Home/Learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f701b6536c3a37f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "noteRepo/Java/Interface & Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "noteRepo/Java/Interface & Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "noteRepo/Java/Interface & Abstract.md"
+              }
             }
           },
           {
@@ -165,11 +147,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,36 +168,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f701b6536c3a37f",
+  "active": "ed0014b38b932bc1",
   "lastOpenFiles": [
+    "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "noteRepo/Java/Interface & Abstract.md",
     "noteRepo/Home/Learning.md",
     "noteRepo/Home/Home.md",
-    "noteRepo/Home/Ideas.md",
-    "noteRepo/Selenium/SELENIUM - Set-up.md",
-    "noteRepo/Selenium/SELENIUM - ChromeOptions Class.md",
-    "noteRepo/Templates/sortspec.md",
-    "noteRepo/Templates/SELENIUM - template.md",
-    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
-    "noteRepo/Templates/ISTQB - template.md",
-    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "noteRepo/PV Automation.md",
-    "noteRepo/Java/Building Blocks/JAVA - Text Blocks.md",
-    "noteRepo/Home/Interests.md",
+    "noteRepo/data-structure-algo.md",
+    "noteRepo/Framework/Selenium - Java framework.canvas",
+    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "noteRepo/Templates/FRAMEWORK - template.md",
+    "noteRepo/Templates/JAVA - template.md",
+    "noteRepo/Templates/LINUX - template.md",
+    "noteRepo/Templates/SQL - template.md",
+    "noteRepo/Templates/Templates manage.md",
+    "noteRepo/Templates/ISTQB - template.md",
+    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
+    "noteRepo/Templates/SELENIUM - template.md",
+    "noteRepo/Templates/ENG - template.md",
+    "2024-04-04.md",
+    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "noteRepo/English/ENG - Irregular Nouns That Do Not Change At All When Made Plural.md",
     "noteRepo/Linux/Introduction to Linux/LINUX - Linux flavours.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - Linux vs Windows.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - What is Operating System.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - Linux Users.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - What is Linux.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - What is differences between Unix vs Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
-    "Untitled.canvas",
+    "noteRepo/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
     "noteRepo/Java/Array/resources",

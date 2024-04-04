@@ -12,7 +12,7 @@ Modification date: Thursday 8th February 2024 15:56:53
 > 
 - Compile
 	- Compiling code with packages
-		- Declaring class path for Java class on different OS:
+		- Declaring class path for Java class on different OS: 
 			- First class:
 				- C:\\com\\udemy\\ocppackage\Ocp.java (*Windows*)
 				- \/com\/udemy\/ocppackage\/Ocp.java (*Unix*)
@@ -45,7 +45,22 @@ Modification date: Thursday 8th February 2024 15:56:53
 - Archive
 	-  Create your own jar file
 		- [Documentation](https://docs.oracle.com/javase/tutorial/deployment/jar/view.html).
-		- jar -cvf \<yourNewJarFileName\>.jar .
+		- jar -cvf \<yourNewJarFileName\>.jar . 
 		- jar -cvf stand for --create --verbose --file 
 		- The dot at the and is your current directory or you can specify the custom folder to be archive
 		- jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\> 
+
+
+
+---
+## Flash cards section
+
+What command to creates a jar file of desired project with the Java command?;; jar -cvf \<yourNewJarFileName\>.jar .
+<!--SR:!2024-04-08,4,270-->
+
+What is the option -cvf stands for in the jar command?;; -cvf stand for --create --verbose --file 
+
+How can you choose which folder to be archive with the jar command?
+?
+By identifying the custom folder to be archive after you defined your jar file name
+jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\> 
