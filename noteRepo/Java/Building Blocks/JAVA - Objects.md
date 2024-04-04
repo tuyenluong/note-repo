@@ -7,7 +7,6 @@ Modification date: Monday 12th February 2024 13:09:49
 ----
 
 #Java 
-#Done 
 
  - Creating objects
 	 - [[JAVA - Class Structure#^a36269|Object is an instance of the class.]] (*Object = house, Class = blueprint*)

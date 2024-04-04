@@ -7,7 +7,6 @@ Modification date: Saturday 24th February 2024 19:05:33
 ----
 
 #Linux 
-#Done 
 
 There is two option to design your lab to practice Linux:
 1. Virtualization software:

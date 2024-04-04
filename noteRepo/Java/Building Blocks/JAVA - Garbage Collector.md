@@ -7,7 +7,6 @@ Modification date: Saturday 24th February 2024 16:39:36
 ----
 
 #Java  
-#Done 
 
 Garbage Collector (*GC*) is a very important and very convenient Java feature called Garbage Collector (*GC*).
 ## What is Garbage Collection?

@@ -5,10 +5,7 @@ Creation date: 2022-04-30 22:16
 Modification date: Saturday 30th April 2022 22:16:15
 
 ----
-
-
 #Selenium 
-#Done 
 
 > Our greatest glory is not in never falling, but in rising every time we fall.
 > — <cite>Confucius</cite>

@@ -7,7 +7,6 @@ Modification date: Saturday 30th April 2022 22:06:28
 ----
 
 #Selenium 
-#Done 
 
 > Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 > — <cite>Epictetus</cite>

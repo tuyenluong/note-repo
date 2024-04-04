@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:56:59
 ----
 
 #Java 
-#Done 
-
 ## The Syntax of While Loop
 
 ```java

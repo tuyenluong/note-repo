@@ -7,7 +7,6 @@ Modification date: Saturday 30th April 2022 22:05:51
 ----
 
 #Selenium  
-#Done 
 
 > Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 > — <cite>Tony Blair</cite>

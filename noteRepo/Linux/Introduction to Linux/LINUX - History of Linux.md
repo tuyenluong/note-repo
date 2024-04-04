@@ -7,7 +7,6 @@ Modification date: Saturday 24th February 2024 17:35:34
 ----
 
 #Linux 
-#Done 
 ## Before Linux
 - Unix: Developed in the 1970s at AT&T's Bell Labs by Ken Thomson and Dennis Ritchie.
 - GNU Project: In 1983, Richard Stallman launched the GNU (*GNU's not Unix*) project.

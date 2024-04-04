@@ -7,7 +7,6 @@ Modification date: Friday 23rd February 2024 00:41:19
 ----
 
 #Java  
-#Done 
 
 - Introduced as standard feature in Java 15
 - It has triple quote

@@ -6,7 +6,6 @@ Modification date: Sunday 1st May 2022 03:48:00
 ----
 
 #English 
-#Done  
 
 > Don't ruin the present with the ruined past.
 > — <cite>Ellen Gilchrist</cite>
@@ -30,6 +29,7 @@ And before <u>vowels</u> sounds we pronounce *the* with /i:/: *the art gallary, 
 2. We use *the* to talk about something particular:
 | THE + singular noun | THE + plural noun | THE + uncountable noun |
 | ------------------- | ----------------- | ---------------------- |
+
 
 <h2>New information or known information?</h2>
 When you use a sentence or you are in a conversation, typically they will started with a general thing first and following with something particular.

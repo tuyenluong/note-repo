@@ -7,7 +7,6 @@ Modification date: Sunday 1st May 2022 03:50:53
 ----
 
 #English 
-#Done 
 
 > You do not become good by trying to be good, but by finding the goodness that is already within you.
 > — <cite>Eckhart Tolle</cite>

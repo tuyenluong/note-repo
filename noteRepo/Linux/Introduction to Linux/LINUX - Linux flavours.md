@@ -7,8 +7,6 @@ Modification date: Saturday 24th February 2024 18:17:06
 ----
 
 #Linux 
-#Done 
-
 ## Linux flavours = Linux distributions (or distro)
 
 - Popular distros

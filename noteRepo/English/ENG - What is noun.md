@@ -7,7 +7,6 @@ Modification date: Sunday 20th March 2022 16:21:20
 ----
 
 #English
-#Done
 
 > You always succeed in producing a result.
 > — <cite>Tony Robbins</cite>

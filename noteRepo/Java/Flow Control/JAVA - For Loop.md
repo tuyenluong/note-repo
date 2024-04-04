@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:57:43
 ----
 
 #Java 
-#Done 
-
 ## The syntax of the For Loop
 
 ```java

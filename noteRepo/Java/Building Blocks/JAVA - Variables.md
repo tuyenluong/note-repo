@@ -6,8 +6,6 @@ Modification date: Friday 23rd February 2024 01:23:30
 ----
 
 #Java  
-#Done 
-
 ## Variables (terminology)
 
 - **Variable** is a name for a piece of memory which stores data

@@ -8,7 +8,6 @@ Modification date: Thursday 26th May 2022 17:06:36
 
 
 #Selenium 
-#Done 
 
 > Before we acquire great power, we must acquire wisdom to use it well.
 > — <cite>Ralph Waldo Emerson</cite>

@@ -7,7 +7,6 @@
 * Ctr + W = Close the current note
 * Ctr + Shift + B = create block a code
 
-
 | Hotkey           | Action                       |
 | ---------------- | ---------------------------- |
 | Alt + T          | Create new table             |
@@ -18,10 +17,7 @@
 | Enter            | Next Row                     |
 | Ctrl + Shift + D | Open table controls sidebar  |
 
-Status tags:
-#Done 
-#InProgress 
-#Todo 
+Tags:
 
 
 Setup:

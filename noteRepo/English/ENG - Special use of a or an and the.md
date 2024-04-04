@@ -7,7 +7,6 @@ Modification date: Sunday 1st May 2022 03:49:16
 ----
 
 #English 
-#Done 
 
 > Nothing great was ever achieved without enthusiasm.
 > — <cite>Ralph Waldo Emerson</cite>

@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:58:02
 ----
 
 #Java 
-#Done 
-
 ## The Syntax of for-each loop
 ```java
 String[] cars = {"Ford", "Renault", "Fiat", "Kia"}

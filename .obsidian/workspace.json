@@ -19,32 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8206a32d8e15fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Global Hotkeys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb63cf4c9ca35bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/English/List of keywords.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -75,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ISTQB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 612.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -163,13 +137,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2208dade6287fdc0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,48 +163,50 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b484bb9f38cee836",
+  "active": "c0abf9c0bc2c9d33",
   "lastOpenFiles": [
-    "noteRepo/Linux/System Access and File System",
+    "noteRepo/Linux/Introduction to Linux/LINUX - What is differences between Unix vs Linux.md",
+    "noteRepo/English/ENG - Counable and uncountable nouns.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
-    "noteRepo/Templates/LINUX - template.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 7).md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Creating a Virtual Machine.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - CentOS vs CentOS Stream.md",
+    "noteRepo/Java/String/JAVA - String pool.md",
+    "noteRepo/Java/String/JAVA - String methods.md",
+    "noteRepo/Java/String/JAVA - String Builder.md",
+    "noteRepo/Java/Array/JAVA - Sorting, Searching & Comparing Array.md",
     "noteRepo/Java/Date and Time/JAVA - Period, Duration, Instant.md",
+    "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
     "noteRepo/Java/Date and Time/JAVA - Methods on Dates and Times.md",
     "noteRepo/Java/Date and Time/JAVA - Creating Dates and Times.md",
-    "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
+    "noteRepo/Java/Array/JAVA - Creating an Array.md",
+    "noteRepo/Framework/FRAMEWORK - How to set up the environment manually.md",
+    "Untitled.canvas",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
-    "noteRepo/Java/Array/JAVA - Sorting, Searching & Comparing Array.md",
-    "noteRepo/Java/Array/JAVA - Creating an Array.md",
-    "noteRepo/Java/String/JAVA - String methods.md",
     "noteRepo/Java/Array/resources",
-    "noteRepo/Java/String/JAVA - String pool.md",
     "noteRepo/Java/String/resources",
     "noteRepo/Java/Array",
-    "noteRepo/Java/String/JAVA - String Builder.md",
-    "noteRepo/Java/Flow Control/JAVA - For-Each Loop.md",
     "noteRepo/Java/String",
-    "noteRepo/Java/Flow Control/JAVA - For Loop.md",
-    "noteRepo/English/List of keywords.md",
-    "noteRepo/Java/Flow Control/JAVA - While Loop.md",
-    "noteRepo/Global Hotkeys.md",
-    "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240325234802.png",
-    "noteRepo/English/Interesting words.md",
     "noteRepo/English/Programming_keywords",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
     "noteRepo/Java/Flow Control/resources",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Message for Redhat Installation.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Virtual Machine Management.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Keyboard Keys Used in Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Ubuntu Installation.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Take a snapshot of VM.md",
     "noteRepo/Computer_In_General",
     "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",

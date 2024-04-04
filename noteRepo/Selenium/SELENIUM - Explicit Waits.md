@@ -6,7 +6,6 @@ Modification date: Thursday 26th May 2022 17:02:53
 ----
 
 #Selenium 
-#Done 
 
 > If you want to go east, don't go west.
 > — <cite>Ramakrishna</cite>

@@ -7,7 +7,6 @@ Modification date: Monday 18th March 2024 20:27:04
 ----
 
 #Linux 
-#Done 
 
 - You can use Ubuntu/Kali or any Linux OS
 	- But CentOS is recommended.

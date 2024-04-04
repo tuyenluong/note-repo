@@ -6,7 +6,6 @@ Modification date: Saturday 23rd December 2023 22:43:15
 
 ----
 
-#InProgress 
 #ISTQB 
 
 > No day in which you learn something is a complete loss.

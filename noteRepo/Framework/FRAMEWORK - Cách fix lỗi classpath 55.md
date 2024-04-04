@@ -7,7 +7,6 @@ Modification date: Sunday 16th October 2022 14:25:26
 ----
 
 #SeleniumFramework 
-#Done 
 
 > To be tested is good. The challenged life may be the best therapist.
 > — <cite>Gail Sheehy</cite>

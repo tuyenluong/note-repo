@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:56:33
 ----
 
 #Java  
-#Done 
-
 ## Switch expression only available for Java 17 and above only
 
 - Improved syntax for combining values from Java 8 to Java 17

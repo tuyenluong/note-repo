@@ -6,7 +6,6 @@ Modification date: Saturday 30th April 2022 21:55:32
 ----
 
 #Selenium 
-#Done 
 
 > It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 > — <cite>Franklin D. Roosevelt</cite>

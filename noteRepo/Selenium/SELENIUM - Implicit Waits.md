@@ -7,7 +7,6 @@ Modification date: Saturday 30th April 2022 22:11:40
 ----
 
 #Selenium 
-#Done 
 
 > He who lives in harmony with himself lives in harmony with the world.
 > — <cite>Marcus Aurelius</cite>

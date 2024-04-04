@@ -7,7 +7,6 @@ Modification date: Saturday 30th April 2022 22:15:38
 ----
 
 #Selenium 
-#Done 
 
 > We may encounter many defeats, but we must not be defeated.
 > — <cite>Maya Angelou</cite>

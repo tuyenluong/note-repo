@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:57:20
 ----
 
 #Java 
-#Done 
-
 ## The Syntax of Do/While Loop
 
 - The main difference compared to [[JAVA - While Loop|while loop]]

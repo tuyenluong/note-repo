@@ -6,7 +6,6 @@ Modification date: Tuesday 16th May 2023 20:36:48
 
 ----
 
-#Done 
 #ISTQB
 
 > The world is but a canvas to the imagination.

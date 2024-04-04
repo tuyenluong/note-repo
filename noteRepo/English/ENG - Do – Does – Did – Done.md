@@ -7,7 +7,6 @@ Modification date: Tuesday 26th April 2022 00:08:22
 ----
 
 #English 
-#Done 
 
 
 > The first step to getting the things you want out of life is this: decide what you want.

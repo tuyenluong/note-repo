@@ -6,9 +6,7 @@ Modification date: Saturday 30th April 2022 22:12:53
 
 ----
 
-
 #Selenium 
-#Done 
 
 > Better be ignorant of a matter than half know it.
 > — <cite>Publilius Syrus</cite>

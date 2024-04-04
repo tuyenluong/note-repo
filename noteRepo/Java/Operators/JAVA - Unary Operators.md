@@ -7,7 +7,6 @@ Modification date: Sunday 3rd March 2024 12:01:09
 ----
 
 #Java  
-#Done  
 
 Unary operator requires only one [[JAVA - Operators in Java#^d8d14f|operand]].
 

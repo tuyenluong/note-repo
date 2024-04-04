@@ -8,7 +8,6 @@ Modification date: Saturday 30th April 2022 22:12:13
 
 
 #Selenium 
-#Done 
 
 > Never apologize for showing feeling. When you do so, you apologize for truth.
 > — <cite>Benjamin Disraeli</cite>

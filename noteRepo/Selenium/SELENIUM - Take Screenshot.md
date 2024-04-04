@@ -6,9 +6,7 @@ Modification date: Saturday 30th April 2022 22:13:30
 
 ----
 
-
 #Selenium 
-#Done 
 
 > Wisdom has never made a bigot, but learning has.
 > — <cite>Josh Billings</cite>

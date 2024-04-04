@@ -6,7 +6,6 @@ Modification date: Sunday 20th March 2022 16:29:18
 ----
 
 #English
-#Done 
 
 > Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 > — <cite>Dale Turner</cite>

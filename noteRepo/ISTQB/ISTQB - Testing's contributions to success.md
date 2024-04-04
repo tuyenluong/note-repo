@@ -6,7 +6,6 @@ Modification date: Wednesday 7th June 2023 22:37:53
 
 ----
 
-#Done 
 #ISTQB 
 
 > He who lives in harmony with himself lives in harmony with the world.

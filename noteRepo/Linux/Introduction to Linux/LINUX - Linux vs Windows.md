@@ -7,7 +7,6 @@ Modification date: Saturday 24th February 2024 18:32:40
 ----
 
 #Linux 
-#Done 
 
 Until now we have known the birth of Linux and its journey to the world, but it's not done yet. Because Linux still have a bigger competitor. It's **Windows**
 ## Comparison between Linux & Windows

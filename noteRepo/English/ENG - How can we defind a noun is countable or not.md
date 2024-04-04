@@ -6,12 +6,11 @@ Modification date: Wednesday 13th April 2022 21:09:39
 ----
 
 #English 
-#Done 
 
 > I'll prepare and someday my chance will come.
 > — <cite>Abraham Lincoln</cite>
 
-Expand further from [[ENG - Counable and uncountable nouns]], we can identify the nouns is countable or not by there meaning, such as:
+Expand further from [[ENG - Countable and uncountable nouns]], we can identify the nouns is countable or not by there meaning, such as:
 
 | COUNTABLE MEANING                                                                 | UNCOUNTABLE MEANING                                                                   |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |

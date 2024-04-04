@@ -7,8 +7,6 @@ Modification date: Sunday 10th March 2024 14:55:25
 ----
 
 #Java 
-#Done 
-
 ## The Syntax of If/Else statement
 
 ```java

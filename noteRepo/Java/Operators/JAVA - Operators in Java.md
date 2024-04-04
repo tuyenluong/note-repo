@@ -7,7 +7,6 @@ Modification date: Saturday 24th February 2024 19:05:00
 ----
 
 #Java 
-#Done 
 
 ## An operation consist of 3 part
 - Operands ^d8d14f

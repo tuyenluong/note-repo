@@ -6,7 +6,6 @@ Modification date: Saturday 30th April 2022 22:08:51
 ----
 
 #Selenium 
-#Done 
 
 > True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 > — <cite>George Washington</cite>

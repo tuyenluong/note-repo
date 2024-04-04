@@ -6,7 +6,6 @@ Modification date: Sunday 20th March 2022 16:21:28
 ----
 
 #English
-#Done 
 
 > Friends show their love in times of trouble, not in happiness.
 > — <cite>Euripides</cite>
