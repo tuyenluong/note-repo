@@ -58,9 +58,11 @@ Modification date: Thursday 8th February 2024 15:56:53
 What command to creates a jar file of desired project with the Java command?;; jar -cvf \<yourNewJarFileName\>.jar .
 <!--SR:!2024-04-08,4,270-->
 
-What is the option -cvf stands for in the jar command?;; -cvf stand for --create --verbose --file 
+What is the option -cvf stands for in the jar command?;; -cvf stand for --create --verbose --file
+<!--SR:!2024-04-09,4,272-->
 
 How can you choose which folder to be archive with the jar command?
 ?
 By identifying the custom folder to be archive after you defined your jar file name
-jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\> 
+jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\>
+<!--SR:!2024-04-09,4,272--> 

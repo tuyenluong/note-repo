@@ -9,6 +9,5 @@ This is we you can navigation between multiple templates:
 - [[JAVA - template]]
 - [[ENG - template]]
 - [[FRAMEWORK - template]]
-- 
 Back to [[Home]]
 

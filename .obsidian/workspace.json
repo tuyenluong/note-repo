@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "a7775fe68519d154",
+        "id": "e152bc55740b003f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed0014b38b932bc1",
+            "id": "9762b2c5e596dc5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Interface & Abstract.md",
+                "file": "noteRepo/Home/Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0fdd8e47f36ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "noteRepo/Java/String/JAVA - String pool.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7694ca78c21ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 296.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Interface & Abstract.md",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Interface & Abstract.md",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Interface & Abstract.md"
+                "file": "noteRepo/Java/String/JAVA - String methods.md"
               }
             }
           },
@@ -151,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +196,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed0014b38b932bc1",
+  "active": "be7694ca78c21ace",
   "lastOpenFiles": [
+    "noteRepo/Java/String/JAVA - String methods.md",
+    "noteRepo/Java/String/JAVA - String pool.md",
+    "noteRepo/Templates/ISTQB - template.md",
+    "noteRepo/Templates/Templates manage.md",
+    "noteRepo/Home/Home.md",
     "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
     "noteRepo/Java/Interface & Abstract.md",
     "noteRepo/Home/Learning.md",
-    "noteRepo/Home/Home.md",
     "noteRepo/PV Automation.md",
     "noteRepo/data-structure-algo.md",
     "noteRepo/Framework/Selenium - Java framework.canvas",
@@ -182,8 +214,6 @@
     "noteRepo/Templates/JAVA - template.md",
     "noteRepo/Templates/LINUX - template.md",
     "noteRepo/Templates/SQL - template.md",
-    "noteRepo/Templates/Templates manage.md",
-    "noteRepo/Templates/ISTQB - template.md",
     "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
     "noteRepo/Templates/SELENIUM - template.md",
     "noteRepo/Templates/ENG - template.md",
@@ -196,8 +226,6 @@
     "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - What is Virtual Box.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - Linux vs Unix.md",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
     "noteRepo/Java/Array/resources",
