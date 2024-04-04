@@ -7,13 +7,13 @@ Modification date: Saturday 24th February 2024 18:17:06
 ----
 
 #Linux 
-## Linux flavours = Linux distributions (or distro)
+## Linux flavors = Linux distributions (or distro)
 
 - Popular distros
 	- Ubuntu 
 	- Fedora
 	- Debian
-	- Red Hat Enterprise Linux 
+	- Red Hat Enterprise Linux  ^d5c511
 	- CentOS ^e919a3
 	- Arch Linux
 	- OpenSUSE

@@ -12,7 +12,7 @@ Modification date: Wednesday 31st January 2024 07:10:27
 
 - ***Classes***
 	- ***Classes*** are basic building blocks of every Java program
-	- To design a class means to describe parts and characteristics of these blocks
+	- To design a class means to describe parts and characteristics of these blocks 
 	- In object-oriented programming,
 		- Object is: 
 			- In order to use a class you need to create *an object* (*most of the times)
