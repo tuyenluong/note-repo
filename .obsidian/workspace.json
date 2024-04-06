@@ -4,50 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e152bc55740b003f",
+        "id": "244168bf8ae2c4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "9762b2c5e596dc5f",
+            "id": "39232db18436405a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "noteRepo/Home/Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0fdd8e47f36ce6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Java/String/JAVA - String pool.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7694ca78c21ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
+                "viewState": {
+                  "x": 403.3058980306212,
+                  "y": -961.7805073935544,
+                  "zoom": -1.4829917422288235
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md"
+                "file": "noteRepo/Framework/Selenium - Java framework.canvas"
               }
             }
           },
@@ -178,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,19 +170,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be7694ca78c21ace",
+  "active": "39232db18436405a",
   "lastOpenFiles": [
+    "noteRepo/Framework/Pasted image 20240406143441.png",
+    "noteRepo/Framework/Pasted image 20240406141301.png",
+    "noteRepo/Framework/Selenium - Java framework.canvas",
+    "noteRepo/Framework/Pasted image 20240406141336.png",
+    "noteRepo/Framework/Pasted image 20240406141128.png",
+    "noteRepo/data-structure-algo.md",
+    "noteRepo/Global Hotkeys.md",
+    "README.md",
+    "noteRepo/Home/Home.md",
     "noteRepo/Java/String/JAVA - String methods.md",
     "noteRepo/Java/String/JAVA - String pool.md",
     "noteRepo/Templates/ISTQB - template.md",
     "noteRepo/Templates/Templates manage.md",
-    "noteRepo/Home/Home.md",
     "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
     "noteRepo/Java/Interface & Abstract.md",
     "noteRepo/Home/Learning.md",
     "noteRepo/PV Automation.md",
-    "noteRepo/data-structure-algo.md",
-    "noteRepo/Framework/Selenium - Java framework.canvas",
     "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "noteRepo/Templates/FRAMEWORK - template.md",
     "noteRepo/Templates/JAVA - template.md",
@@ -223,9 +203,6 @@
     "noteRepo/Linux/Introduction to Linux/LINUX - Linux flavours.md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
     "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 8).md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Option Install Linux on Cloud.md",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
     "noteRepo/Java/Array/resources",
@@ -241,9 +218,6 @@
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",
     "My Home/Start/Java/resouces/Pasted image 20240219170809.png",
     "My Home/Start/Linux/resouces/Pasted image 20240212235007.png",
-    "My Home/Start/Linux/resouces/Pasted image 20240212232244.png",
-    "My Home/Start/Linux/resouces/Pasted image 20240212232229.png",
-    "My Home/Start/Java/resouces/Pasted image 20240206173202.png",
-    "My Home/Start/Java/resouces/Pasted image 20240131065628.png"
+    "My Home/Start/Linux/resouces/Pasted image 20240212232244.png"
   ]
 }

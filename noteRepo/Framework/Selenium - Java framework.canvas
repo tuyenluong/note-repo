@@ -1,6 +1,29 @@
 {
 	"nodes":[
-		{"id":"1d5bd0e64489907e","x":-160,"y":-640,"width":200,"height":200,"type":"text","text":"- Config\n- Data\n- Selenium\n- Grid 4\n- Report"}
+		{"id":"62f0a8e5af419acb","type":"text","text":"Selenium\n- Pages/Component\n- Maven\n- Elements/Action","x":140,"y":-810,"width":250,"height":160},
+		{"id":"1d5bd0e64489907e","type":"text","text":"- Config\n- Data\n- Selenium\n- Grid 4\n- Report","x":-160,"y":-640,"width":175,"height":160},
+		{"id":"6534f434375f81e8","type":"text","text":"Grid 4","x":250,"y":-380,"width":250,"height":60},
+		{"id":"67d99f1608cb0883","type":"text","text":"Grid local\nhttps://www.selenium.dev/blog/2022/introducing-selenium-manager/","x":15,"y":-10,"width":445,"height":130},
+		{"id":"2b8135d5f5719942","type":"text","text":"Grid 4 - Remote\n\nstart /b java -jar selenium-server-4.10.0.jar event-bus --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --port 5557\n\nstart /b java -jar selenium-server-4.10.0.jar sessionqueue --port 5559\n\nstart /b java -jar selenium-server-4.10.0.jar sessions --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --port 5556\n\nstart /b java -jar selenium-server-4.10.0.jar distributor --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --sessions http://localhost:5556 --sessionqueue http://localhost:5559 --port 5553 --bind-bus false\n\nstart /b java -jar selenium-server-4.10.0.jar router --sessions http://localhost:5556 --distributor http://localhost:5553 --sessionqueue http://localhost:5559 --port 4444\n\nstart /b java -jar selenium-server-4.10.0.jar node --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --max-threads 18","x":720,"y":-180,"width":905,"height":300},
+		{"id":"4db701c91768f6ee","type":"text","text":"Data\n- Json\n- SQL\n- Excel","x":-1000,"y":-1190,"width":250,"height":160},
+		{"id":"2b80517928f13624","type":"text","text":"Element initialization\n![[Pasted image 20240406141128.png]]\n![[Pasted image 20240406143441.png]]","x":848,"y":-1670,"width":650,"height":560},
+		{"id":"c6bf5148900e145e","type":"text","text":"Driver\n![[Pasted image 20240406141301.png]]\n![[Pasted image 20240406141336.png]]","x":200,"y":-1660,"width":600,"height":560},
+		{"id":"23374aa4df15cf8b","type":"text","text":"Why we should Java class for WebDriver elements?\n- Ease to call\n- Ease to manage\n- Avoid duplicate reference element","x":675,"y":-860,"width":250,"height":260},
+		{"id":"0f32b0845076ba81","type":"text","text":"Report\n- Extent R\n- Allure","x":-335,"y":-320,"width":250,"height":160},
+		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-585,"y":-1190,"width":250,"height":200}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3ca6e543d5a83981","fromNode":"2b80517928f13624","fromSide":"bottom","toNode":"62f0a8e5af419acb","toSide":"top"},
+		{"id":"00e2efa7a9f4f423","fromNode":"c6bf5148900e145e","fromSide":"bottom","toNode":"62f0a8e5af419acb","toSide":"top"},
+		{"id":"a972fc0598ab6372","fromNode":"6534f434375f81e8","fromSide":"bottom","toNode":"2b8135d5f5719942","toSide":"top"},
+		{"id":"fa29d862f65547d1","fromNode":"6534f434375f81e8","fromSide":"bottom","toNode":"67d99f1608cb0883","toSide":"top"},
+		{"id":"9561572aed4432d8","fromNode":"1d5bd0e64489907e","fromSide":"bottom","toNode":"6534f434375f81e8","toSide":"top"},
+		{"id":"d5f3b4b13f5d25cf","fromNode":"1d5bd0e64489907e","fromSide":"bottom","toNode":"0f32b0845076ba81","toSide":"top"},
+		{"id":"dbb777d45b8d600c","fromNode":"1d5bd0e64489907e","fromSide":"left","toNode":"4db701c91768f6ee","toSide":"right"},
+		{"id":"310d385bf812b03d","fromNode":"1d5bd0e64489907e","fromSide":"right","toNode":"62f0a8e5af419acb","toSide":"bottom"},
+		{"id":"48fc650bc61db869","fromNode":"1d5bd0e64489907e","fromSide":"top","toNode":"b9ea79b078f84336","toSide":"bottom"},
+		{"id":"05cb15f38f64181a","fromNode":"23374aa4df15cf8b","fromSide":"left","toNode":"62f0a8e5af419acb","toSide":"right"},
+		{"id":"18c066b2ede55e82","fromNode":"c6bf5148900e145e","fromSide":"left","toNode":"b9ea79b078f84336","toSide":"right","label":"Manage config file by driver"},
+		{"id":"2caf03a701324cd8","fromNode":"c6bf5148900e145e","fromSide":"left","toNode":"4db701c91768f6ee","toSide":"top","label":"Manage data by diver"}
+	]
 }

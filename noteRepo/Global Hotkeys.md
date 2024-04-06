@@ -3,7 +3,7 @@
 	* Ctr + M = Move the note to the corresponding folder
 * Ctr + O = Search for a file
 * Ctr + G = Open Graph
-* Ctr + Alt + <- / -> = Foward / Backward between pages
+* Ctr + Alt + <- / -> = Forward / Backward between pages
 * Ctr + W = Close the current note
 * Ctr + Shift + B = create block a code
 
