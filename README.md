@@ -14,5 +14,5 @@ To utilize all this information, please download [Obsidian](https://obsidian.md/
 [Obsidian](https://obsidian.md/) mainly uses .md file due to its lightweight attribute and no-mouse mindset for anyone who has a high rate of typing per minute.
 
 ## Guide
-1. Go to "*Global Hotkeys*" file and grasp the basic concept of how to use this note. (*Start > Global Hotkeys*)
+1. Go to "*Global Hotkeys*" file and grasp the basic concept of how to use this note. (*note-repo > Global Hotkeys*)
 2. Each topic you guys want to share must go inside the *Start* folder, if it's a series then create a template in the *Templates* folder. 
