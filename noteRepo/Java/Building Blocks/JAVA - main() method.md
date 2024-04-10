@@ -19,10 +19,10 @@ Modification date: Friday 2nd February 2024 02:28:56
 	4. public static void main(String... args){ }
 	5. public final static void main(final String[] args){ }
 	6. static void main(String[] args){ }
-3. Before we run the main method of its class, then must follow these steps first: ^8f7c49
+3. Before we run the main method of its class, then must follow these steps first:
 	1. javac --->>> to compile the file
 	2. java --->>> filename that have the main method
-	3. ***But javac command only required prior to Java 11***. At Java 11 and above, the java command can compile and auto-run your code and no .class file will be generated
+	3. ***But javac command only required prior to Java 11***. At Java 11 and above, the java command can compile and auto-run your code and no .class file will be generated ^33c6b8
 4. If lack of required parameters, then it will throw an out of bounds exceptions in array args of the main method. (*java Names John*)
 	1. If the parameter is exceed the required parameter then it still able to run the program without any error, since the redundant parameter not affect the program. (*java Names John D. Wayne*)
 	2. But you can use double quote to contains a multiple words into a String, then the java command will understand that it's 1 parameter. (*java Names "John D." Wayne*)

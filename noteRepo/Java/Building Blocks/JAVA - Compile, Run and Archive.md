@@ -22,7 +22,7 @@ Modification date: Thursday 8th February 2024 15:56:53
 			- Take the common-ground position:
 				- cd C:\\com\\udemy\\ (*Windows*)
 				- cd  \/com\/udemy (*Unix*)
-	- [[JAVA - main() method#^8f7c49|Compiling note for prior Java 11]]
+	- [[JAVA - main() method#^33c6b8|Compiling note for prior Java 11]]
 		- javac ocppackage/Ocp.java ocapackage/Oca.java
 			- output: .class files
 	- Alternatively, you can compile multiple Java files in one package at once using wild cards sign (*\**)

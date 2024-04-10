@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/String/JAVA - String methods.md"
+                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md"
               }
             }
           },
@@ -172,32 +171,34 @@
   },
   "active": "ba8812e5d8fca0e1",
   "lastOpenFiles": [
-    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "noteRepo/Java/Building Blocks/JAVA - main() method.md",
+    "noteRepo/Home/Learning.md",
+    "noteRepo/Git/GIT - What is CRLF - LF.md",
+    "noteRepo/Templates/GIT - template.md",
+    "noteRepo/Git",
+    "noteRepo/Templates/ENG - template.md",
     "noteRepo/Java/String/JAVA - String methods.md",
+    "noteRepo/Templates/SELENIUM - template.md",
+    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "noteRepo/Templates/SQL - template.md",
     "noteRepo/Templates/ISTQB - template.md",
     "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
-    "noteRepo/Templates/ENG - template.md",
     "noteRepo/Templates/Templates manage.md",
     "noteRepo/Templates/FRAMEWORK - template.md",
     "noteRepo/Templates/JAVA - template.md",
     "noteRepo/Templates/LINUX - template.md",
-    "noteRepo/Templates/SELENIUM - template.md",
     "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
     "noteRepo/Java/Array/JAVA - Sorting, Searching & Comparing Array.md",
     "noteRepo/Java/Array/JAVA - Creating an Array.md",
     "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
-    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
-    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
     "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
     "noteRepo/Java/Flow Control/JAVA - While Loop.md",
     "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
     "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
-    "noteRepo/Java/Interface & Abstract.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
     "noteRepo/Framework/Selenium - Java framework.canvas",
     "noteRepo/Framework/Pasted image 20240406143441.png",
     "noteRepo/Framework/Pasted image 20240406141301.png",
@@ -214,7 +215,6 @@
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010508.png",
     "noteRepo/Java/Flow Control/resources",
-    "noteRepo/Computer_In_General",
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",
     "My Home/Start/Java/resouces/Pasted image 20240219170809.png",
     "My Home/Start/Linux/resouces/Pasted image 20240212235007.png"
