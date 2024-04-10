@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06842cdc003e8dec",
+        "id": "1f8dce708d950aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8812e5d8fca0e1",
+            "id": "a8c5930269ab1425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 296.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Java/Building Blocks/JAVA - main() method.md"
+                "file": "noteRepo/Java/String/JAVA - String methods.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,41 +168,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ba8812e5d8fca0e1",
+  "active": "a8c5930269ab1425",
   "lastOpenFiles": [
-    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
-    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
-    "noteRepo/Java/Building Blocks/JAVA - main() method.md",
-    "noteRepo/Home/Learning.md",
-    "noteRepo/Git/GIT - What is CRLF - LF.md",
     "noteRepo/Templates/GIT - template.md",
+    "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
+    "noteRepo/Git/GIT - What is CRLF - LF.md",
     "noteRepo/Git",
-    "noteRepo/Templates/ENG - template.md",
+    "noteRepo/Home/Home.md",
     "noteRepo/Java/String/JAVA - String methods.md",
-    "noteRepo/Templates/SELENIUM - template.md",
-    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "noteRepo/Templates/SQL - template.md",
+    "noteRepo/Framework/Selenium - Java framework.canvas",
+    "strinh.md",
+    "noteRepo/Framework/Pasted image 20240406141301.png",
+    "noteRepo/Framework/Pasted image 20240406143441.png",
+    "noteRepo/Framework/Pasted image 20240406141336.png",
+    "noteRepo/Framework/Pasted image 20240406141128.png",
+    "noteRepo/Framework/FRAMEWORK - Automation Structure.md",
+    "noteRepo/Framework/FRAMEWORK - How to set up the environment manually.md",
+    "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "noteRepo/Framework/FRAMEWORK - Assert và Verify.md",
+    "noteRepo/data-structure-algo.md",
+    "noteRepo/Global Hotkeys.md",
+    "README.md",
+    "noteRepo/Java/String/JAVA - String pool.md",
     "noteRepo/Templates/ISTQB - template.md",
-    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
     "noteRepo/Templates/Templates manage.md",
+    "noteRepo/Java/Interface & Abstract.md",
+    "noteRepo/Home/Learning.md",
+    "noteRepo/PV Automation.md",
+    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "noteRepo/Templates/FRAMEWORK - template.md",
     "noteRepo/Templates/JAVA - template.md",
     "noteRepo/Templates/LINUX - template.md",
-    "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
-    "noteRepo/Java/Array/JAVA - Sorting, Searching & Comparing Array.md",
-    "noteRepo/Java/Array/JAVA - Creating an Array.md",
-    "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
-    "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
-    "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
-    "noteRepo/Java/Flow Control/JAVA - While Loop.md",
-    "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
-    "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
-    "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
-    "noteRepo/Framework/Selenium - Java framework.canvas",
-    "noteRepo/Framework/Pasted image 20240406143441.png",
-    "noteRepo/Framework/Pasted image 20240406141301.png",
-    "noteRepo/Framework/Pasted image 20240406141336.png",
-    "noteRepo/Framework/Pasted image 20240406141128.png",
+    "noteRepo/Templates/SQL - template.md",
+    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
+    "noteRepo/Templates/SELENIUM - template.md",
+    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
     "noteRepo/Java/Array/resources",

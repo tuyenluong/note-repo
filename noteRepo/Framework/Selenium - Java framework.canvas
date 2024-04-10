@@ -10,7 +10,7 @@
 		{"id":"c6bf5148900e145e","type":"text","text":"Driver\n![[Pasted image 20240406141301.png]]\n![[Pasted image 20240406141336.png]]","x":200,"y":-1660,"width":600,"height":560},
 		{"id":"23374aa4df15cf8b","type":"text","text":"Why we should Java class for WebDriver elements?\n- Ease to call\n- Ease to manage\n- Avoid duplicate reference element","x":675,"y":-860,"width":250,"height":260},
 		{"id":"0f32b0845076ba81","type":"text","text":"Report\n- Extent R\n- Allure","x":-335,"y":-320,"width":250,"height":160},
-		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-585,"y":-1190,"width":250,"height":200}
+		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-520,"y":-1290,"width":250,"height":200}
 	],
 	"edges":[
 		{"id":"3ca6e543d5a83981","fromNode":"2b80517928f13624","fromSide":"bottom","toNode":"62f0a8e5af419acb","toSide":"top"},
