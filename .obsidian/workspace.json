@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "244168bf8ae2c4fe",
+        "id": "06842cdc003e8dec",
         "type": "tabs",
         "children": [
           {
-            "id": "39232db18436405a",
+            "id": "ba8812e5d8fca0e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
-                "viewState": {
-                  "x": 403.3058980306212,
-                  "y": -961.7805073935544,
-                  "zoom": -1.4829917422288235
-                }
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -72,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "24444e767f926965",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Framework/Selenium - Java framework.canvas",
+                "file": "noteRepo/Java/String/JAVA - String methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Framework/Selenium - Java framework.canvas"
+                "file": "noteRepo/Java/String/JAVA - String methods.md"
               }
             }
           },
@@ -153,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,39 +170,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "39232db18436405a",
+  "active": "ba8812e5d8fca0e1",
   "lastOpenFiles": [
-    "noteRepo/Framework/Pasted image 20240406143441.png",
-    "noteRepo/Framework/Pasted image 20240406141301.png",
-    "noteRepo/Framework/Selenium - Java framework.canvas",
-    "noteRepo/Framework/Pasted image 20240406141336.png",
-    "noteRepo/Framework/Pasted image 20240406141128.png",
-    "noteRepo/data-structure-algo.md",
-    "noteRepo/Global Hotkeys.md",
-    "README.md",
-    "noteRepo/Home/Home.md",
+    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "noteRepo/Java/String/JAVA - String methods.md",
-    "noteRepo/Java/String/JAVA - String pool.md",
+    "noteRepo/Templates/SQL - template.md",
     "noteRepo/Templates/ISTQB - template.md",
+    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
+    "noteRepo/Templates/ENG - template.md",
     "noteRepo/Templates/Templates manage.md",
-    "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
-    "noteRepo/Java/Interface & Abstract.md",
-    "noteRepo/Home/Learning.md",
-    "noteRepo/PV Automation.md",
-    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
     "noteRepo/Templates/FRAMEWORK - template.md",
     "noteRepo/Templates/JAVA - template.md",
     "noteRepo/Templates/LINUX - template.md",
-    "noteRepo/Templates/SQL - template.md",
-    "noteRepo/Templates/ROBOT-FRAMEWORK - template.md",
     "noteRepo/Templates/SELENIUM - template.md",
-    "noteRepo/Templates/ENG - template.md",
-    "2024-04-04.md",
-    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "noteRepo/English/ENG - Irregular Nouns That Do Not Change At All When Made Plural.md",
-    "noteRepo/Linux/Introduction to Linux/LINUX - Linux flavours.md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Download and Install Linux (CentOS 9).md",
-    "noteRepo/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
+    "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
+    "noteRepo/Java/Array/JAVA - Sorting, Searching & Comparing Array.md",
+    "noteRepo/Java/Array/JAVA - Creating an Array.md",
+    "noteRepo/Java/Array/JAVA - Multidimensional Array.md",
+    "noteRepo/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "noteRepo/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "noteRepo/Java/Building Blocks/JAVA - Class Structure.md",
+    "noteRepo/Java/Flow Control/JAVA - Do-While Loop.md",
+    "noteRepo/Java/Flow Control/JAVA - While Loop.md",
+    "noteRepo/Java/Flow Control/JAVA - Switch Expression.md",
+    "noteRepo/Java/Flow Control/JAVA - If-Else Statement.md",
+    "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
+    "noteRepo/Java/Interface & Abstract.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Lab Design.md",
+    "noteRepo/Linux/Download, Install and Configure/LINUX - Redhat Installation.md",
+    "noteRepo/Framework/Selenium - Java framework.canvas",
+    "noteRepo/Framework/Pasted image 20240406143441.png",
+    "noteRepo/Framework/Pasted image 20240406141301.png",
+    "noteRepo/Framework/Pasted image 20240406141336.png",
+    "noteRepo/Framework/Pasted image 20240406141128.png",
     "noteRepo/Java/Date and Time/resources",
     "noteRepo/Java/Date and Time",
     "noteRepo/Java/Array/resources",
@@ -217,7 +217,6 @@
     "noteRepo/Computer_In_General",
     "My Home/Start/Java/resouces/Pasted image 20240222012937.png",
     "My Home/Start/Java/resouces/Pasted image 20240219170809.png",
-    "My Home/Start/Linux/resouces/Pasted image 20240212235007.png",
-    "My Home/Start/Linux/resouces/Pasted image 20240212232244.png"
+    "My Home/Start/Linux/resouces/Pasted image 20240212235007.png"
   ]
 }

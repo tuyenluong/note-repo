@@ -73,7 +73,6 @@ name += "Wayne"; ==>> equivilent to 'name = name + "Wayne"'
 System.out.println(name);  ==>> JohnWayne 
 ```
 
-
 ## String Methods
 
 ### `length()`
@@ -175,12 +174,70 @@ System.out.println(name.toUppercase());
 ```
 
 ### `equals()`, `equalsIgnoreCase()`
-- Turn the String to upper case
+- First of all, the `equals()` method only make assertion for the content of the object .
+- And `==` operator is the one who make assertion between objects. 
 ```java
-String name = "John Wayne"; 
-System.out.println(name.toUppercase()); 
-==>> JOHN WAYNE
+String name1 = new String("John Wayne"); 
+String name2 = new String("John Wayne"); 
+String name3 = new String("john wayne"); 
+System.out.println(name1 == name2); 
+==>> false // not referencing to the same object
+System.out.println(name1.equals(name2));
+==>> true // the content of both object is the same
+System.out.println(name1.equals(name3));
+==>> false // String is case-sensitive
+System.out.println(name1.equalsIgnoreCase(name3));
+==>> true // the equalsIsIgnoreCase will ignore case-sensitive.
 ```
+
+### `startWith()`, `endWith()`
+- Like the name of the method said, they just make assertion if the string is starts of ends with some sub string. 
+```java
+String name = "John Wayne";
+System.out.println(name.startsWith("J")); 
+==>> true 
+System.out.println(name.startsWith("Jo")); 
+==>> true 
+System.out.println(name.endWith("e")); 
+==>> true 
+System.out.println(name.endWith("Wayne")); 
+==>> true 
+```
+- Note that you have to be careful with this starts and ends with method is that it ***ONLY ACCEPTS STRING***
+- So if you try to pass the character, for example `'J'` and try to test if it starts with J.
+- This will not compile because the argument of these methods is always a string and it cannot be character.
+```java
+String name = "John Wayne";
+System.out.println(name.startsWith('J')); 
+==>> DOES NOT COMPILE // argument is a String, not char!!
+```
+
+### `contains()`
+- This method just assert that if your string contains some other substring.
+- This method is [[JAVA - What is case-sensitive and non case-sensitive|case-sensitive]].
+```java
+String name = "John Wayne";
+System.out.println(name.contains("n")); 
+==>> true 
+System.out.println(name.contains("John")); 
+==>> true 
+System.out.println(name.contains("j")); 
+==>> false  // contains() method is case-sensitive
+```
+
+### `replace()`
+- Like the name suggested, this method will replace some string/char with others string/char
+```java
+String name = "abcdeabc";
+System.out.println(name.replace('c', 'y')); 
+==>> abydeaby // replace all instances of 'c' with 'y' 
+System.out.println(name.replace("c", "y")); 
+==>> abydeaby // parameters can be both String and char
+System.out.println(name.replace("bcd", "xyz")); 
+==>> axyzeaby
+```
+
+### `strip()`, `trim()`, `stripLeading()`, `stripTrailing()`
 
 
 
