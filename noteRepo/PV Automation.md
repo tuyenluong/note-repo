@@ -69,9 +69,10 @@
 		*  Một đối tượng thuộc các lớp khác nhau có thể hiểu cùng một thông điệp theo những cách khác nhau
 	* **Tính kế thừa** = Cho phép kế thừa lại những tính năng mà một đối tượng khác đã có. Trong Java, có thể kế thừa các thuộc tính và phương thức từ lớp này sang lớp khác. Chúng tôi nhóm "khái niệm thừa kế" thành hai loại:
 		* subclass (con) - lớp kế thừa từ một lớp khác
-		* Superclass (cha mẹ) - lớp được kế thừa từ
+		* superclass (cha mẹ) - lớp được kế thừa từ
 * Sự khác biệt của Abtracts và Interfaces class?
 	* Abtracts
+		* Không có constructor
 		* Không hỗ trợ đa thừa kế
 		* Có thể định nghĩa body của phương thức, property.
 		* Có thể xác định modifier.
@@ -98,13 +99,13 @@
 	* Default = Trong lớp, trong package
 	* Private = Trong lớp
 * Constructor là gì?
-	* 
+	* A constructor in Java Programming is **a block of code that initializes (constructs) the state and value during object creation**. It is called every time an object with the help of a new () keyword is created. Even if you haven't specified any constructor in the code, the Java compiler calls a default constructor.
 * Wrapper class là gì trong Java?
 	* Wrapper class là các classes chuyển đổi các dạng data nguyên thủy sang dạng object. Tất cả các dạng data nguyên thủy đều có một Wrapper class của chính nó (*Được phân biệt bằng chữ cái đầu viết hoa hay viêt thường khi khai báo kiểu dữ liệu*).
 * Làm sao để truy cập được một phương thức private?
 	* Thông qua hàm getter và setter
 * Làm sao để chạy một chương trình JAVA mà ko thông qua IDE?
-	* Bằng lệnh Java ngay trên chính terminal của máy local.
+	* Bằng lệnh java ngay trên chính terminal của máy local.
 * Exception:
 	* Checked  = failed tại thời điểm complie mà mình ko có try catch. Checked exception dc kế thừa từ Lớp Exception, ngoại trừ Lớp Runtime
 	* Uncheckd = failed do lỗi lập trình, Exception này sẽ ko báo lỗi tại thời điểm compile. Runtime là Lớp cơ sở cho tất cả Unchecked exception.
@@ -116,12 +117,46 @@
 	* Set = ko có index và ko dc trùng lặp
 	* List =  có index, có thể trùng lặp, có thể truy cập ngẫu nhiên.
 	* Queue = Có index nhưng truy cập theo cấu trúc hàng đợi.
+	* Stack = 
 	* Map = ko có index, dữ liệu theo cặp key và value. Key cần phải độc nhất trong khi Value thì ko cần.
 
 **Về kiến thức testing**
 * Vòng đời của bug
+	* New
+	* Assigned
+	* Open
+		* Rejected
+		* Duplicate
+		* Not a Bug
+		* Deferred
+	* In progress
+	* Fixed
+		* Closed
+		* Re-open
+* Regression test là gì?
+	* Regression test là một hình thức kiểm thử phần mềm để xem các chức năng cũ và mới của nó có còn hoạt động đúng sau khi thay đổi hệ thống hay không
+* Smoke test là gì?
+	* Smoke test là một loại Kiểm thử phần mềm được thực hiện sau khi xây dựng phần mềm để xác định rằng các chức năng quan trọng của chương trình đang hoạt động tốt.
+* Sanity test là gì? 
+	* Sanity testing là một loại Kiểm thử phần mềm được thực hiện sau khi nhận được một bản build phần mềm, với những thay đổi nhỏ về mã, hoặc chức năng, để xác định rằng các lỗi đã được sửa và không có vấn đề gì khác xảy ra do những thay đổi này.
+* Các Test level trong Testing
+	* 1. Unit Test
+		* Test bởi dev
+	* 2. Integration Test (API test)
+		* Test bởi tester
+	* 3. System Test (UI test)
+		* Test bởi tester
+		* Functional Test
+		* Performance Test
+		* Database Test
+		* Security Test
+		* Usability Test
+		* Compatibility Test
+		* Recovery Test
+	* 4. Acceptance Test
+		* Test bởi bên thứ 4
 * Điều quan trọng trong 1 cái bug report là bug descriptions
-	* Summary, priority, platform/env, description, steps, expect/Acutal, evident.
+	* Summary, priority, platform/env, description, steps, expect/actual, evident.
 * Prority khác gì với Serverity?
 	* Prority = Mức độ ưu tiên
 		* Priority được thiết lập với tester dành cho developer được dưa trên yêu cầu của Clients.
@@ -141,3 +176,12 @@
 * Các phần thành để có dc một test plan hoàn chỉnh:
 	* 
 
+### Câu hỏi dành cho người PV
+- What is the size of the QA/QC team? 
+	- Is there a dedicated QA lead for the Automation team?
+- Do you guys OT regularly?
+	- If you do, does it come from your own will or client requests?
+- I know the firm is also an outsourcing company, so:
+	- On average, how long does your guys' project take to reach the end?
+	- And after the project do you guys also take on the maintenance role?
+- 

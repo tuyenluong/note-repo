@@ -120,8 +120,6 @@ System.out.println(greeting + ", " + name + "!") ==>> Hello, John Wayne!
 ```
 
 
-
-
 ```java
 float x = 2.7;
 ```
