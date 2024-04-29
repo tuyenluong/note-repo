@@ -11,15 +11,8 @@ Tags: [[english]]
 - omit ^bc73e2
 	- verb
 	- leave out or exclude (*someone or something*), either intentionally or forgetfully.
-```audio-player
-[[omit.mp3]]
-```
-```audio-player
-ádas
-```
-```audio-player
+![[Recording 20240429221347.webm]]
 
-```
 - heavens
 	- exclamation
 		- an [expression](https://dictionary.cambridge.org/vi/dictionary/english/expression "expression") of [surprise](https://dictionary.cambridge.org/vi/dictionary/english/surprise "surprise"), [anger](https://dictionary.cambridge.org/vi/dictionary/english/anger "anger"), [annoyance](https://dictionary.cambridge.org/vi/dictionary/english/annoy "annoyance"), or [emphasis](https://dictionary.cambridge.org/vi/dictionary/english/emphasis "emphasis")
@@ -27,22 +20,20 @@ Tags: [[english]]
 	- plural noun
 		- the sky
 		- "*They rolled their eyes toward the heavens.*"
-```audio-player
-[[heavens.mp3]]
-```
+![[Recording 20240429221447.webm]]
+
 - convey ^21428d
 	- verb
 	- transport or carry to a place
 	- "pipes were laid to **convey** water **to** the house"
-```audio-player
-[[convey.mp3]]
-```
+![[Recording 20240429221543.webm]]
+
 - incident whitespace
 	- noun
 ![[JAVA - What is Incidental white spaces#^f00eea]] ^5c2eb2
-```audio-player
-[[incidental-whitespace.mp3]]
-```
+![[Recording 20240429221633.webm]]
+
+
 
 
 

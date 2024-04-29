@@ -1,24 +1,4 @@
-1. [[LINUX - What is Operating System]]
-2. [[LINUX - What is Linux]]
-3. [[LINUX - History of Linux]]
-4. [[LINUX - What is differences between Unix vs Linux]]
-5. [[LINUX - Linux vs Windows]]
-6. [[LINUX - Linux vs Unix]]
-7. [[LINUX - Linux Users]]
-8. [[LINUX - Linux flavours]]
-9. [[LINUX - What is Virtual Box]]
-10. [[LINUX - Virtual Machine Management]]
-11. [[LINUX - Lab Design]]
-12. [[LINUX - Redhat Installation]]
-13. [[LINUX - CentOS vs CentOS Stream]]
-14. [[LINUX - Download and Install Linux (CentOS 7)]]
-15. [[LINUX - Download and Install Linux (CentOS 8)]]
-16. [[LINUX - Download and Install Linux (CentOS 9)]]
-17. [[LINUX - Creating a Virtual Machine]]
-18. [[LINUX - Ubuntu Installation]]
-19. [[LINUX - Keyboard Keys Used in Linux]]
-20. [[LINUX - Option Install Linux on Cloud]]
-21. [[LINUX - Take a snapshot of VM]]
-22. [[LINUX - Different Ways to Install Linux]]
-23. [[LINUX - Message for Redhat Installation]]
-24. [[LINUX - Downloading and Installing VirtualBox]]
+```dataview
+table file.name as Title, Creation_date, Modification_date
+from [[linux]] sort Creation_date DESC
+```

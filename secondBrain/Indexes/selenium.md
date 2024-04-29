@@ -1,18 +1,4 @@
-[[SELENIUM - Additional Keys]]
-[[SELENIUM - Advanced Interactions]]
-[[SELENIUM - Alerts]]
-[[SELENIUM - Application Navigation]]
-[[SELENIUM - ChromeOptions Class]]
-[[SELENIUM - Create a Test]]
-[[SELENIUM - Element Interactions]]
-[[SELENIUM - Event Listeners]]
-[[SELENIUM - Explicit Waits]]
-[[SELENIUM - Finding Web Elements]]
-[[SELENIUM - Fluent Waits]]
-[[SELENIUM - Frames]]
-[[SELENIUM - Implicit Waits]]
-[[SELENIUM - Interacting with Dropdown]]
-[[SELENIUM - Other Wait Strategies]]
-[[SELENIUM - Set-up]]
-[[SELENIUM - Take Screenshot]]
-[[SELENIUM - Using Javascript]]
+```dataview
+table file.name as Title, Creation_date, Modification_date
+from [[selenium]]  sort Creation_date DESC
+```

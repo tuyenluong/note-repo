@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6da7c47f637208ab",
+        "id": "1ab43f5243ed9a8d",
         "type": "tabs",
         "children": [
           {
-            "id": "419d5e0841fa4005",
+            "id": "588457ca2deb313a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f322c6e91f374267",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban board.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "string methods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,23 +65,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 283.5
   },
   "right": {
     "id": "24444e767f926965",
     "type": "split",
     "children": [
       {
-        "id": "d97e14ead1dace03",
+        "id": "faaa751885f62fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "d993e8fd2454ee7e",
+            "id": "e0c81b2e0bca40f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eadaf9aa81f988b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "767a9939c0a432fb",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban board.md",
+                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,55 +133,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012119,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "3c550cb835d9630e",
+            "id": "f0afaf7c9cd74f9d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "faaa751885f62fb6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0c81b2e0bca40f6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban board.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eadaf9aa81f988b4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban board.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             }
           },
@@ -173,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban board.md"
+                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md"
               }
             }
           },
@@ -194,14 +177,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,58 +196,96 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f322c6e91f374267",
+  "floating": {
+    "id": "41c2d48d932bb5b9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9c3050806717cbd5",
+        "type": "window",
+        "children": [
+          {
+            "id": "6bc018c42088771c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aad22ddb629330f6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "secondBrain/Home/Kanban-Task/Kanban_board.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 196,
+        "y": 0,
+        "width": 1144,
+        "height": 824,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aad22ddb629330f6",
   "lastOpenFiles": [
-    "secondBrain/Java/String/JAVA - String methods.md",
+    "secondBrain/Home/Kanban-Task/Kanban_board.md",
     "secondBrain/Home/Kanban-Task/Kanban board.md",
-    "secondBrain/Home/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Home/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Home/Kanban-Task/Rename all the note.md",
-    "secondBrain/Home/Kanban-Task",
-    "secondBrain/Home/Learning/Learning.md",
-    "asdas.md",
-    "Untitled.md",
-    "secondBrain/Home/Home.md",
-    "secondBrain/Indexes/linux.md",
-    "secondBrain/Linux/Download, Install and Configure/LINUX - Downloading and Installing VirtualBox.md",
-    "secondBrain/Linux/Introduction to Linux/LINUX - What is Operating System.md",
-    "secondBrain/Linux/Introduction to Linux/LINUX - History of Linux.md",
-    "secondBrain/Linux/Download, Install and Configure/LINUX - Different Ways to Install Linux.md",
-    "secondBrain/Home/Learning/Information technology.md",
-    "secondBrain/Home/Learning/Languages.md",
-    "secondBrain/Home/Ideas.md",
-    "secondBrain/Home/Interests.md",
-    "secondBrain/API Testing/Common API test cases that can be used to test various APIs.md",
     "secondBrain/Indexes/api.md",
-    "secondBrain/API Testing/API Testing Interview questions.md",
-    "secondBrain/PV Automation.md",
-    "secondBrain/data-structure-algo.md",
-    "README.md",
+    "JAVA - dasdsadsa.md",
+    "secondBrain/Templates/SELENIUM - template.md",
+    "secondBrain/Templates/SQL - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
+    "secondBrain/Templates/LINUX - template.md",
+    "secondBrain/Java/String/JAVA - String Builder.md",
+    "secondBrain/Indexes/java.md",
     "secondBrain/Global Hotkeys.md",
-    "secondBrain/Indexes/english.md",
-    "secondBrain/Home/Learning",
-    "secondBrain/ISTQB/Bug life-cycle.canvas",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/Indexes",
+    "secondBrain/Home/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Java/String/JAVA - String methods.md",
+    "secondBrain/Java/String/JAVA - What is mutable and immutable means.md",
+    "secondBrain/Templates/Templates manage.md",
+    "secondBrain/Indexes/testingFramework.md",
+    "secondBrain/Home/Kanban board.md",
+    "secondBrain/Home/Home.md",
+    "secondBrain/Indexes/selenium.md",
+    "secondBrain/English/ENG - List of keywords or phrases.md",
+    "secondBrain/English/resources/Recording 20240429221347.webm",
     "secondBrain/English/resources/essential-whitespace.mp3",
-    "noteRepo/English/resources/essential-whitespace.mp3.crdownload",
-    "secondBrain/English/resources/incidental-whitespace.mp3",
-    "noteRepo/English/resources/incidental-whitespace.mp3.crdownload",
-    "secondBrain/English/resources/omit.mp3",
-    "secondBrain/English/resources/heavens.mp3",
-    "secondBrain/Linux/resouces/Pasted image 20240224183601.png",
-    "secondBrain/Linux/resouces/Pasted image 20240212235007.png",
-    "secondBrain/Linux/resouces/Pasted image 20240212232244.png",
-    "secondBrain/Linux/resouces/Pasted image 20240212232229.png",
-    "secondBrain/Framework/Pasted image 20240406141301.png",
-    "secondBrain/Framework/Pasted image 20240406143441.png",
-    "secondBrain/Framework/Pasted image 20240406141336.png",
-    "secondBrain/Framework/Pasted image 20240406141128.png",
-    "secondBrain/Java/Flow Control/resources/Pasted image 20240325234802.png",
-    "secondBrain/Java/Flow Control/resources/Pasted image 20240319010455.png"
+    "README.md",
+    "secondBrain/English/resources/Recording 20240429221633.webm",
+    "secondBrain/English/resources/Recording 20240429221543.webm",
+    "secondBrain/English/resources/Recording 20240429221447.webm",
+    "Recording 20240429221254.webm",
+    "Recording 20240429221314.webm",
+    "secondBrain/English/resources/Recording 20240429220229.webm",
+    "Recording 20240429220123.webm",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Framework/resources/Pasted image 20240406143441.png",
+    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
+    "secondBrain/Framework/resources/Pasted image 20240406141301.png",
+    "secondBrain/Framework/resources/Pasted image 20240406141128.png",
+    "secondBrain/Framework/resources",
+    "secondBrain/Java/Operators/resources/Pasted image 20240310145305.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240310145155.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240310145103.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240303141212.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240303135756.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240303132231.png",
+    "secondBrain/ISTQB/Bug life-cycle.canvas",
+    "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
 }

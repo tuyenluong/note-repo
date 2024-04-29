@@ -397,6 +397,8 @@ System.out.println(" ".isBlank());
 - `%n` = inserts a system-dependent line separator
 ### `format()` and  `formatted()`
 
+The different between these to methods lies within the code.
+- `format()` method only use as a static method and have to pass in the format and the arguments is a must, but for locale parameter is optional
 - `format()` method returns a formatted string, specified format string and, arguments. It's also have a locale argument as well, but locale arguments in not used very often.
 - The format will replace the [[#^417dce|String formatting symbols]] by the given string arguments.
 ```java
@@ -410,7 +412,7 @@ System.out.println(printOut2);
 John has 5 marbles.
 John has 5 marbles.
 ```
-- `formatted()`
+- While for the `formatted()` method, it can use directly on the format itself and only need to pass in the arguments.
 ```java
 String name = "John";
 int numberOfMarbles = 5;
@@ -423,10 +425,29 @@ John has 5 marbles.
 John has 5 marbles.
 ```
 
+### method chaining: left -> right
+- String method also support method chaining.
+```java
+String name = "   John Wayne   "
+System.out.println(name.trim().toUpperCase()).replace('Y','R'));
+==>>JOHN WARNE
+```
 
-
-
-
+### String are immutable!
+Be careful when using String method in a individual line like below:
+Because [[JAVA - What is mutable and immutable means|String are immutable]].
+```java
+String name = "   John Wayne   "
+name.trim();
+System.out.println(name);
+==>>   John Wayne   
+```
+Due to all String methods is always returning a new String, so it's the best if the method can return to a reference that can hold the value or pass it inside a method as parameter.
+```java
+String name = "   John Wayne   "
+System.out.println(name.trim());
+==>>John Wayne   
+```
 
 
 

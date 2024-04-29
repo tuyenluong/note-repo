@@ -2,11 +2,17 @@
 	* Alt + N  = Select a desired template and create
 	* Ctrl + M = Move the note to the corresponding folder
 * Ctrl + O = Search for a file
+* Ctrl + Shift + F = Search for all files
 * Ctrl + G = Open Graph
 * Ctrl + Shift + C  = Open Local Graph View
-* Ctrl + Alt + <- / -> = Forward / Backward between pages
+* Ctrl + T = Open a new tab
+* Ctrl+ Tab = Forward pages
+* Ctrl + Shift + Tab = Backward pages
 * Ctrl + W = Close the current note
-* Ctrl + Shift + B = create block a code
+* Ctrl + Shift + B = Create block a code
+* Ctrl + R = Start recording
+* Ctrl + Shift + R = Stop recording
+* Ctrl + X = Switch between markdown mode and Kanban mode
 
 | Hotkey           | Action                       |
 | ---------------- | ---------------------------- |
@@ -17,9 +23,6 @@
 | Shift + Tab      | Previous Cell                |
 | Enter            | Next Row                     |
 | Ctrl + Shift + D | Open table controls sidebar  |
-
-Tags:
-
 
 Setup:
 - [[sortspec]]

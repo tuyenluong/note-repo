@@ -2,19 +2,22 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "secondBrain/Home/Kanban board",
+      "value": "secondBrain/Home/Kanban-Task/Kanban_board",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
       "revertView": true,
-      "openWhenEmpty": false,
+      "openWhenEmpty": true,
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": false,
-      "commands": [],
+      "pin": true,
+      "commands": [
+        "graph:open",
+        "workspace:move-to-new-window"
+      ],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }
