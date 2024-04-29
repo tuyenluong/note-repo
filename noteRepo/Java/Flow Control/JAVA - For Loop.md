@@ -31,7 +31,7 @@ for (initialization; condition; update){
 ![[Pasted image 20240325234802.png]]
 
 
-- It's possible to [[List of keywords#^bc73e2|omit]] any one of the statements, but you still have to keep your `;`'s in place
+- It's possible to [[ENG - List of keywords or phrases#^bc73e2|omit]] any one of the statements, but you still have to keep your `;`'s in place
 ```java
 for ( ; ; ){ } ==>> This is valid 
 ```

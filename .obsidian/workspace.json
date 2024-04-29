@@ -4,17 +4,42 @@
     "type": "split",
     "children": [
       {
-
-        "id": "645d527f296b7fa0",
+        "id": "715a4f8283aaaa3c",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2ae5fc6001fde7",
+            "id": "0b978f0313ee2bdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "noteRepo/Home/Home.md",
+                "file": "noteRepo/Java/Building Blocks/JAVA - Text Blocks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaab07d4bb665324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da71a153681d2beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "noteRepo/English/ENG - List of keywords or phrases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -89,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noteRepo/Home/Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "noteRepo/Home/Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "noteRepo/Home/Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,14 +191,35 @@
       "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
-      "media-extended:Open media": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bf2ae5fc6001fde7",
+  "active": "eaab07d4bb665324",
   "lastOpenFiles": [
+    "noteRepo/Java/String/JAVA - String methods.md",
+    "noteRepo/Java/Building Blocks/JAVA - Text Blocks.md",
+    "noteRepo/English/ENG - List of keywords or phrases.md",
+    "README.md",
+    "List of keywords or phrases.md",
+    "noteRepo/Home/Home.md",
+    "noteRepo/Java/Flow Control/JAVA - For Loop.md",
+    "noteRepo/Java/String/JAVA - What is Incidental white spaces.md",
+    "noteRepo/English/Interesting words.md",
+    "noteRepo/English/resources/essential-whitespace.mp3",
+    "noteRepo/English/resources/essential-whitespace.mp3.crdownload",
+    "noteRepo/English/resources/incidental-whitespace.mp3",
+    "noteRepo/English/resources/incidental-whitespace.mp3.crdownload",
+    "noteRepo/English/resources/omit.mp3",
+    "noteRepo/English/resources/heavens.mp3",
+    "noteRepo/English/resources/convey.mp3",
+    "noteRepo/English/ENG - What is noun.md",
+    "noteRepo/English/List of keywords or phrases.md",
+    "noteRepo/English/ENG - Article or no article.md",
+    "noteRepo/English/resources/convey.mp3.crdownload",
+    "noteRepo/English/resources/heavens.mp3.crdownload",
+    "noteRepo/English/resources/omit.mp3.crdownload",
     "noteRepo/Java/Operators/JAVA - Comparison Operators.md",
+    "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
     "noteRepo/Java/Operators/JAVA - Assignment Operators.md",
     "noteRepo/Java/Operators/JAVA - Unary Operators.md",
     "noteRepo/Java/Operators/JAVA - Binary Operators.md",
@@ -186,40 +230,17 @@
     "noteRepo/Java/Building Blocks/JAVA - Environment.md",
     "noteRepo/Java/Building Blocks/JAVA - Objects.md",
     "noteRepo/PV Automation.md",
-    "noteRepo/Home/Home.md",
     "noteRepo/ISTQB/ISTQB - Testing Misconceptions.md",
     "noteRepo/ISTQB/ISTQB - Testing's contributions to success.md",
-    "noteRepo/ISTQB/ISTQB - What is testing.md",
-    "noteRepo/Audio/Record (online-voice-recorder.com) (2).mp3",
-    "noteRepo/Audio/Record (online-voice-recorder.com) (1).mp3",
-    "noteRepo/Audio/Record (online-voice-recorder.com).mp3",
-    "noteRepo/Audio/audio.md",
-    "noteRepo/Audio",
-    "noteRepo/data-structure-algo.md",
     "noteRepo/Linux/resouces/Pasted image 20240224183601.png",
     "noteRepo/Linux/resouces/Pasted image 20240212235007.png",
     "noteRepo/Linux/resouces/Pasted image 20240212232244.png",
     "noteRepo/Linux/resouces/Pasted image 20240212232229.png",
-    "noteRepo/Templates/sortspec.md",
-    "noteRepo/Templates/GIT - template.md",
-    "noteRepo/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
-    "noteRepo/Git/GIT - What is CRLF - LF.md",
-    "noteRepo/Git",
-    "noteRepo/Java/String/JAVA - String methods.md",
     "noteRepo/Framework/Selenium - Java framework.canvas",
-    "strinh.md",
     "noteRepo/Framework/Pasted image 20240406141301.png",
     "noteRepo/Framework/Pasted image 20240406143441.png",
     "noteRepo/Framework/Pasted image 20240406141336.png",
     "noteRepo/Framework/Pasted image 20240406141128.png",
-    "noteRepo/Framework/FRAMEWORK - Automation Structure.md",
-    "noteRepo/Framework/FRAMEWORK - How to set up the environment manually.md",
-    "noteRepo/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
-    "noteRepo/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "noteRepo/Java/Date and Time/resources",
-    "noteRepo/Java/Date and Time",
-    "noteRepo/Java/Array/resources",
-    "noteRepo/Java/String/resources",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240325234802.png",
     "noteRepo/Java/Flow Control/resources/Pasted image 20240319010455.png"
   ]

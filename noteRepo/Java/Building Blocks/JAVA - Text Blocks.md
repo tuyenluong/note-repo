@@ -44,3 +44,17 @@ Modification date: Friday 23rd February 2024 00:41:19
 ![[Pasted image 20240223012141.png]] ^533f33
 
 ![[Pasted image 20240223012227.png]] ^7c5cac
+
+### Text Block Methods
+Java introduced **text blocks** (also known as **multiline strings**) in Java 13 as a preview feature, and they became a standard feature in Java 15. Text blocks simplify writing multiline string literals in Java. They are particularly useful for working with JSON, HTML, or SQL queries directly embedded in Java code. Text blocks are defined by triple double quotes (`"""`), and any content within the triple quotes is considered part of the string, including newlines and any leading whitespace common to all lines.
+#### Key Methods for Text Blocks
+Text blocks in Java come with several useful methods that help manage and manipulate the content effectively:
+1. [[JAVA - String methods#^3062c7|stripIndent()]]:
+    - This method removes incidental white space from the beginning of every line in the string.
+    - It is useful for correcting indentation when your string literals need to align with your code's formatting.
+2. [[JAVA - String methods#^71eb32|translateEscapes()]]:
+    - Processes escape sequences in the text block, such as `\n`, `\t`, and Unicode escapes like `\uXXXX`.
+    - This allows for dynamic interpretation of escape sequences that are part of the text block data.
+3. **`formatted(Object... args)`**:
+    - This method is an instance method equivalent to `String.format()`. It allows you to format the text block using provided arguments, making it easier to embed variables or perform formatting directly within the string.
+    - It supports the same format specifiers as `String.format()`.

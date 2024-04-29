@@ -271,13 +271,143 @@ System.out.println("|" + str.strip() + "|");
 - [[JAVA - Java Versions#^27d3ee|indent() method was introduced in Java 12]]
 - This method is useful to add or remove white spaces from the beginning of the line to adjust indentation for each string line. 
 - `indent(n)` method takes one parameter, which is integer.
-- It also normalizes exiting line breaks
+- It also normalizes exiting line terminators
+	- This is a characteristic of the `indent()` method
+- Then, suffix each line with `\n`.
 - If `n = 0` then it will does nothing
+```java
+String str = "    John\n    D.\n    Wayne"
+System.out.println("--");
+System.out.println(str);
+System.out.println("--");
+==>> Result
+--
+    John
+    D.
+    Wayne
+--
+```
 - If `n > 0`, adds the same number of blank spaces to each line
+```java
+String str = "    John\n    D.\n    Wayne"
+System.out.println("--");
+System.out.println(str.indent(2));
+System.out.println("--");
+==>> Result
+--
+      John
+      D.
+      Wayne  // suffix each line with `\n`
+      // This is a characteristic of the `indent()` method
+--
+```
 - If `n < 0`, tries to remove n number of whitespace characters from the beginning of line 
 ```java
-
+String str = "    John\n    D.\n    Wayne"
+System.out.println("--");
+System.out.println(str.indent(-2));
+System.out.println("--");
+==>> Result
+-- 
+    John // Remove 2 spaces in each line.
+    D.
+    Wayne // suffix each line with `\n`
+    // This is a characteristic of the `indent()` method
+--
 ```
+
+### `stripIndent()` method
+^3062c7
+
+- Removes all leading [[JAVA - What is Incidental white spaces|incidental whitespace]]
+```java
+String str = "    John\n      D.\n      Wayne"
+System.out.println("--");
+System.out.println(str.stripIndent());
+System.out.println("--");
+==>> Result
+-- 
+John // Remove all all leading incidental whitespace
+D.
+Wayne 
+-- //DOES NOT add line break at the end
+```
+- Normalizes exiting line breaks
+- *DOES NOT* add line break at the end if missing
+- So this means that the method looks for the first non-empty character.
+```java
+String str = "    John\n      D.\n      Wayne"
+System.out.println("--");
+System.out.println(str.stripIndent());
+System.out.println("--");
+==>> Result
+-- 
+John // Remove all all leading incidental whitespace
+  D.
+  Wayne 
+-- //DOES NOT add line break at the end
+```
+
+### `translateEscapes()` method
+^71eb32
+- First, we don't use `translateEscapes()`
+```java
+String name = "John\\tWayne"
+System.out.println(name);
+==>> John\tWayne //The first backslash will escapes the second one
+				// Because of that the compiler don't recognize the 
+				// "\t" sequence
+```
+- Now we will use the `translateEscapes()` method to translate all the escapes sequence
+```java
+String name = "John\\tWayne"
+System.out.println(name.translateEscapes());
+==>> John    Wayne //The methid will translate the escapes sequence to tab
+```
+
+### `isEmpty()` and  `isBlank()`
+- The different between `isEmpty()` and  `isBlank()` is:
+- `isEmpty()` only checks for the character presence, if the string even has a non-word character like space or tab present, it will consider the string is not empty.
+```java
+System.out.println("".isEmpty());
+==>> true
+```
+
+```java
+System.out.println(" ".isEmpty());
+==>> false
+```
+
+- While `isBlank()` is check for both the presence and non-word characters like space or tab.
+```java
+System.out.println("".isBlank());
+==>> true
+```
+
+```java
+System.out.println(" ".isBlank());
+==>> true
+```
+
+### String formatting symbols
+- `%s` = for any type, usually for String
+- `%d` = for integral values (`int` and `long`)
+- `%f` = for decimal number (`float` and `double`)
+- `%n` = inserts a system-dependent line separator
+
+### `format()` and  `formatted()`
+```java
+String name = "John";
+int numberOfMarbles = 5;
+String printOut1 = name + " has " + numberOfmarbles + " marbles.";
+String printOut2 = String.format("%s has %d marbles.", name, numberOfMarbles);
+==>> 
+```
+
+
+
+
+
 
 
 ---
