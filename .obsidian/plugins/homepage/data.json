@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "noteRepo/Home/Home",
+      "value": "secondBrain/Home/Kanban board",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

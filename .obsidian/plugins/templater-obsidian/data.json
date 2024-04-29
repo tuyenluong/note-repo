@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "noteRepo/Templates",
+  "templates_folder": "secondBrain/Templates",
   "templates_pairs": [
     [
       "",
