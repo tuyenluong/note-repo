@@ -1,11 +1,10 @@
+---
+Creation_date: 2024-02-23 01:23
+Modification_date: Friday 23rd February 2024 01:23:30
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-02-23 01:23
-Modification date: Friday 23rd February 2024 01:23:30
-
-----
-
- Tags: [[java]]
 ## Variables (terminology)
 
 - **Variable** is a name for a piece of memory which stores data

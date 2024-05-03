@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-04-13 21:09
+Modification_date: Wednesday 13th April 2022 21:09:39
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-04-13 21:09
-Modification date: Wednesday 13th April 2022 21:09:39
 
-----
-
-Tags: [[english]]
 
 > I'll prepare and someday my chance will come.
 > — <cite>Abraham Lincoln</cite>

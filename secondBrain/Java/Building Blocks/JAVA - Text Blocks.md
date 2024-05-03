@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-02-23 00:41
+Modification_date: Friday 23rd February 2024 00:41:19
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-02-23 00:41
-Modification date: Friday 23rd February 2024 00:41:19
 
-----
-
- Tags: [[java]]
 
 - Introduced as standard feature in Java 15
 - It has triple quote

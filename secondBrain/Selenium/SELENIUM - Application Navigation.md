@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:12
+Modification_date: Saturday 30th April 2022 22:12:53
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:12
-Modification date: Saturday 30th April 2022 22:12:53
 
-----
-
-Tags: [[selenium]]
 
 > Better be ignorant of a matter than half know it.
 > — <cite>Publilius Syrus</cite>

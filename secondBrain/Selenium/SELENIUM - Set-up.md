@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-04-30 21:55
+Modification_date: Saturday 30th April 2022 21:55:32
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 21:55
-Modification date: Saturday 30th April 2022 21:55:32
 
-----
-
-Tags: [[selenium]]
 
 > It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 > — <cite>Franklin D. Roosevelt</cite>

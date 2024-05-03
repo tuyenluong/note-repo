@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-02-24 18:27
+Modification_date: Saturday 24th February 2024 18:27:11
+Indexes: "[[linux]]"
+---
 
 ----
-Creation date: 2024-02-24 18:27
-Modification date: Saturday 24th February 2024 18:27:11
 
-----
-
- Tags: [[linux]]
 - Linux is used by a wide range of **users** and **organization** due to its versatility, stability, and open-source nature.
 	- Developers
 	- Educational institutions

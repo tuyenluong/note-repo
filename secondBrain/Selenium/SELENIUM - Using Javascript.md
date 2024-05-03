@@ -1,13 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:12
+Modification_date: Saturday 30th April 2022 22:12:13
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:12
-Modification date: Saturday 30th April 2022 22:12:13
 
-----
-
-
-Tags: [[selenium]]
 
 > Never apologize for showing feeling. When you do so, you apologize for truth.
 > — <cite>Benjamin Disraeli</cite>

@@ -1,11 +1,12 @@
+---
+Creation_date: 2024-01-31 07:10
+Modification_date: Wednesday 31st January 2024 07:10:27
+Indexes: "[[java]]"
+---
+
 
 ----
-Creation date: 2024-01-31 07:10
-Modification date: Wednesday 31st January 2024 07:10:27
 
-----
-
- Tags: [[java]]
 
 > Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheep like passivity, and sets us at noting and contriving.
 > — <cite>John Dewey</cite>

@@ -1,12 +1,12 @@
+---
+Creation_date: 2024-03-03 12:01
+Modification_date: Sunday 3rd March 2024 12:01:51
+Indexes: "[[java]]"
+---
 
 
 ----
-Creation date: 2024-03-03 12:01
-Modification date: Sunday 3rd March 2024 12:01:51
 
-----
-
- Tags: [[java]]
 
 ## Arithmetic Binary Operators
 

@@ -1,12 +1,10 @@
+---
+Creation_date: 2024-03-03 12:02
+Modification_date: Sunday 3rd March 2024 12:02:53
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-03-03 12:02
-Modification date: Sunday 3rd March 2024 12:02:53
-
-----
-
- Tags: [[java]]
-
 ## Comparison operators
 
 1. Return a `boolean` value (*true or false*).

@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:00
+Modification_date: Saturday 30th April 2022 22:00:48
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:00
-Modification date: Saturday 30th April 2022 22:00:48
 
-----
-
-Tags: [[selenium]]
 
 > Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 > — <cite>Satchel Paige</cite>

@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-05-01 03:50
+Modification_date: Sunday 1st May 2022 03:50:53
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-05-01 03:50
-Modification date: Sunday 1st May 2022 03:50:53
 
-----
-
-Tags: [[english]]
 
 > You do not become good by trying to be good, but by finding the goodness that is already within you.
 > — <cite>Eckhart Tolle</cite>

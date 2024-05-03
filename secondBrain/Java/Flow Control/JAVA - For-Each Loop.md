@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-03-10 14:58
+Modification_date: Sunday 10th March 2024 14:58:02
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-03-10 14:58
-Modification date: Sunday 10th March 2024 14:58:02
 
-----
-
- Tags: [[java]]
 ## The Syntax of for-each loop
 ```java
 String[] cars = {"Ford", "Renault", "Fiat", "Kia"}

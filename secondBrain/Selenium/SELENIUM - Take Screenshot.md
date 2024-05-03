@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:13
+Modification_date: Saturday 30th April 2022 22:13:30
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:13
-Modification date: Saturday 30th April 2022 22:13:30
 
-----
-
-Tags: [[selenium]]
 
 > Wisdom has never made a bigot, but learning has.
 > — <cite>Josh Billings</cite>

@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-03-20 16:51
+Modification_date: Sunday 20th March 2022 16:51:09
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-03-20 16:51
-Modification date: Sunday 20th March 2022 16:51:09
 
-----
-
-Tags: [[english]]
 
 > A day of worry is more exhausting than a day of work.
 > — <cite>John Lubbock</cite>

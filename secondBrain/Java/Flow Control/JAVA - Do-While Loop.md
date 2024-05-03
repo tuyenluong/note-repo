@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-03-10 14:57
+Modification_date: Sunday 10th March 2024 14:57:20
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-03-10 14:57
-Modification date: Sunday 10th March 2024 14:57:20
 
-----
-
- Tags: [[java]]
 ## The Syntax of Do/While Loop
 
 - The main difference compared to [[JAVA - While Loop|while loop]]

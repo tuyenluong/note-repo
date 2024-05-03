@@ -1,11 +1,12 @@
+---
+Creation_date: 2024-01-31 06:51
+Modification_date: Wednesday 31st January 2024 06:51:00
+Indexes: "[[java]]"
+---
+
 
 ----
-Creation date: 2024-01-31 06:51
-Modification date: Wednesday 31st January 2024 06:51:00
 
-----
-
- Tags: [[java]]
 
 > Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 > — <cite>Diogenes</cite>
@@ -16,6 +17,7 @@ Modification date: Wednesday 31st January 2024 06:51:00
 	- java: executes a program
 	- jar: java archive (*packing files together)
 	- javadoc: for documentation
+	- jshell: java shell executional tool
 - Java Runtime Environment (*JRE)
 	- In Java 8 and earlier, this was a subset of JDK
 	- JRE allows the user to run Java applications (*No compiler)

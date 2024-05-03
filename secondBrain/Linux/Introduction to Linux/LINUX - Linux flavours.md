@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-02-24 18:17
+Modification_date: Saturday 24th February 2024 18:17:06
+Indexes: "[[linux]]"
+---
 
 ----
-Creation date: 2024-02-24 18:17
-Modification date: Saturday 24th February 2024 18:17:06
 
-----
-
- Tags: [[linux]]
 ## Linux flavors = Linux distributions (or distro)
 
 - Popular distros

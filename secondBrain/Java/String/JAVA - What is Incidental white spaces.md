@@ -1,12 +1,10 @@
-
+---
+Creation_date: 2024-04-28 11:49
+Modification_date: Sunday 28th April 2024 11:49:18
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-04-28 11:49
-Modification date: Sunday 28th April 2024 11:49:18
-
-----
-
- Tags: [[java]]
 
 [[ENG - List of keywords or phrases#^5c2eb2|Incidental white spaces]] refer to the spaces that are not intentionally added to [[ENG - List of keywords or phrases#^21428d|convey]] a specific layout or format in content but occur as a by-product of coding, formatting, or data entry practices.
 

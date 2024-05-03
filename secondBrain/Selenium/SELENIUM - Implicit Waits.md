@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:11
+Modification_date: Saturday 30th April 2022 22:11:40
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:11
-Modification date: Saturday 30th April 2022 22:11:40
 
-----
-
-Tags: [[selenium]]
 
 > He who lives in harmony with himself lives in harmony with the world.
 > — <cite>Marcus Aurelius</cite>

@@ -1,10 +1,10 @@
+---
+Creation_date: 2022-03-20 14:52
+Modification_date: Sunday 20th March 2022 16:31:14
+Indexes: "[[english]]"
+---
  ----
-Creation date: 2022-03-20 14:52
-Modification date: Sunday 20th March 2022 16:31:14
 
-----
-
-Tags: [[english]]
 
 > The invariable mark of wisdom is to see the miraculous in the common.
 > — <cite>Ralph Waldo Emerson</cite>

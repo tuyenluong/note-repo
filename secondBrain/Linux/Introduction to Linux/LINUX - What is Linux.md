@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-07-27 11:12
+Modification_date: Wednesday 27th July 2022 11:12:12
+Indexes: "[[linux]]"
+---
 
 ----
-Creation date: 2022-07-27 11:12
-Modification date: Wednesday 27th July 2022 11:12:12
 
-----
-
- Tags: [[linux]]
 
 > But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 > — <cite>Alan Watts</cite>

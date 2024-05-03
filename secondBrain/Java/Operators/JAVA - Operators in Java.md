@@ -1,13 +1,11 @@
+---
+Creation_date: 2024-02-24 19:05
+Modification_date: Saturday 24th February 2024 19:05:00
+Indexes: "[[java]]"
+---
 
 
 ----
-Creation date: 2024-02-24 19:05
-Modification date: Saturday 24th February 2024 19:05:00
-
-----
-
- Tags: [[java]]
-
 ## An operation consist of 3 part
 - Operands ^d8d14f
 - Operator

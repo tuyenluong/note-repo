@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-02-12 23:08
+Modification_date: Monday 12th February 2024 23:08:38
+Indexes: "[[linux]]"
+---
 
 ----
-Creation date: 2024-02-12 23:08
-Modification date: Monday 12th February 2024 23:08:38
 
-----
-
- Tags: [[linux]]
  
 - In simple words
 	- An operating system (*OS*) is a software that acts as a middleman or a bridge between computer hardware and the computer user. It provides a user interface and controls the computer hardware so that software can function.

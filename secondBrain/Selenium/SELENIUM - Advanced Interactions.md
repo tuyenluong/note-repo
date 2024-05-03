@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:06
+Modification_date: Saturday 30th April 2022 22:06:28
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:06
-Modification date: Saturday 30th April 2022 22:06:28
 
-----
-
-Tags: [[selenium]]
 
 > Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 > — <cite>Epictetus</cite>

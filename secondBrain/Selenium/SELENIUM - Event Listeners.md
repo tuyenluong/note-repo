@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:15
+Modification_date: Saturday 30th April 2022 22:15:38
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:15
-Modification date: Saturday 30th April 2022 22:15:38
 
-----
-
-Tags: [[selenium]]
 
 > We may encounter many defeats, but we must not be defeated.
 > — <cite>Maya Angelou</cite>

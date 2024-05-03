@@ -1,12 +1,11 @@
+---
+Creation_date: 2024-02-14 10:57
+Modification_date: Wednesday 14th February 2024 10:57:30
+Indexes: "[[java]]"
+---
 
 
 ----
-Creation date: 2024-02-14 10:57
-Modification date: Wednesday 14th February 2024 10:57:30
-
-----
-
- Tags: [[java]]
 
 ## Primitive Types
 

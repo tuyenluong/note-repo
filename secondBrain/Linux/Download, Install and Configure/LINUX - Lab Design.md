@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-02-24 19:05
+Modification_date: Saturday 24th February 2024 19:05:33
+Indexes: "[[linux]]"
+---
 
 ----
-Creation date: 2024-02-24 19:05
-Modification date: Saturday 24th February 2024 19:05:33
 
-----
-
- Tags: [[linux]]
 
 There is two option to design your lab to practice Linux:
 1. Virtualization software:

@@ -1,11 +1,10 @@
+---
+Creation_date: 2022-03-20 14:50
+Modification_date: Sunday 20th March 2022 16:29:18
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-03-20 14:50
-Modification date: Sunday 20th March 2022 16:29:18
-
-----
-
-Tags: [[english]]
 
 > Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 > — <cite>Dale Turner</cite>

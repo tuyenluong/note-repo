@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-05-26 17:02
+Modification_date: Thursday 26th May 2022 17:02:53
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-05-26 17:02
-Modification date: Thursday 26th May 2022 17:02:53
 
-----
-
-Tags: [[selenium]]
 
 > If you want to go east, don't go west.
 > — <cite>Ramakrishna</cite>

@@ -6,15 +6,16 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] [[Rename all the note in Learning]]
 - [ ] [[Add flashcards in all note in Learning]]
-- [ ] [[Add creation and modification date into each index pages]]
+- [ ] [[Rename all the note in Learning]]
 
 
 ## In progress
 
 **Complete**
+- [x] [[Add creation and modification date into each index pages]]
 - [ ] Start lesson [[JAVA - String Builder]]
+
 
 ## Done
 
@@ -27,9 +28,15 @@ kanban-plugin: basic
 **Complete**
 
 
-***
+## Archive
+
+
 
 ## Archive
+
+
+
+
 
 %% kanban:settings
 ```

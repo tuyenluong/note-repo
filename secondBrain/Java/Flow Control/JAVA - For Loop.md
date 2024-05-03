@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-03-10 14:57
+Modification_date: Sunday 10th March 2024 14:57:43
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-03-10 14:57
-Modification date: Sunday 10th March 2024 14:57:43
 
-----
-
- Tags: [[java]]
 ## The syntax of the For Loop
 
 ```java

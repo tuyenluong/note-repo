@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2024-04-12 13:03
+Modification_date: Friday 12th April 2024 13:03:34
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-04-12 13:03
-Modification date: Friday 12th April 2024 13:03:34
 
-----
-
- Tags: [[java]]
 
 What is the different between versions?
 - Java 8

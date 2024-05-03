@@ -1,11 +1,11 @@
+---
+Creation_date: 2022-03-20 14:25
+Modification_date: Sunday 20th March 2022 16:21:28
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-03-20 14:25
-Modification date: Sunday 20th March 2022 16:21:28
 
-----
-
-Tags: [[english]]
 
 > Friends show their love in times of trouble, not in happiness.
 > — <cite>Euripides</cite>

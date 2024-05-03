@@ -1,13 +1,11 @@
-
+---
+Creation_date: 2022-05-26 17:06
+Modification_date: Thursday 26th May 2022 17:06:36
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-05-26 17:06
-Modification date: Thursday 26th May 2022 17:06:36
 
-----
-
-
-Tags: [[selenium]]
 
 > Before we acquire great power, we must acquire wisdom to use it well.
 > — <cite>Ralph Waldo Emerson</cite>

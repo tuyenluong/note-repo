@@ -1,12 +1,11 @@
+---
+Creation_date: 2024-03-18 20:27
+Modification_date: Monday 18th March 2024 20:27:04
+Indexes: "[[linux]]"
+---
 
 
 ----
-Creation date: 2024-03-18 20:27
-Modification date: Monday 18th March 2024 20:27:04
-
-----
-
- Tags: [[linux]]
 
 - You can use Ubuntu/Kali or any Linux OS
 	- But CentOS is recommended.
@@ -15,3 +14,9 @@ Modification date: Monday 18th March 2024 20:27:04
 	- CentOS 7
 	- CentOS 8 Stream
 	- CentOS 8 Stream
+
+
+
+
+
+

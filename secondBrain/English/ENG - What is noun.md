@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-03-19 00:08
+Modification_date: Sunday 20th March 2022 16:21:20
+Indexes: "[[english]]"
+---
 
 ----
-Creation date: 2022-03-19 00:08
-Modification date: Sunday 20th March 2022 16:21:20
 
-----
-
-Tags: [[english]]
 
 > You always succeed in producing a result.
 > — <cite>Tony Robbins</cite>

@@ -1,13 +1,11 @@
-
+---
+Creation_date: 2024-03-10 14:56
+Modification_date: Sunday 10th March 2024 14:56:33
+Indexes: "[[java]]"
+---
 
 ----
-Creation date: 2024-03-10 14:56
-Modification date: Sunday 10th March 2024 14:56:33
-
-----
-
- Tags: [[java]]
-## Switch expression only available for Java 17 and above only
+xpression only available for Java 17 and above only
 
 - Improved syntax for combining values from Java 8 to Java 17
 ```java

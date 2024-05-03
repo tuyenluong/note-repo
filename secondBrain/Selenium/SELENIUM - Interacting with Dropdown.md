@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2022-04-30 22:05
+Modification_date: Saturday 30th April 2022 22:05:51
+Indexes: "[[selenium]]"
+---
 
 ----
-Creation date: 2022-04-30 22:05
-Modification date: Saturday 30th April 2022 22:05:51
 
-----
-
-Tags: [[selenium]]
 
 > Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 > — <cite>Tony Blair</cite>

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab43f5243ed9a8d",
+        "id": "c3e93dc969175ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "588457ca2deb313a",
+            "id": "88797bf059e3d6e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Home/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md"
               }
             }
           },
@@ -200,19 +205,19 @@
     }
   },
   "floating": {
-    "id": "41c2d48d932bb5b9",
+    "id": "e4120b3468ac2753",
     "type": "floating",
     "children": [
       {
-        "id": "9c3050806717cbd5",
+        "id": "04b89f1fff1f3b9d",
         "type": "window",
         "children": [
           {
-            "id": "6bc018c42088771c",
+            "id": "865a6bd7dfb8eb36",
             "type": "tabs",
             "children": [
               {
-                "id": "aad22ddb629330f6",
+                "id": "843879fe82f239d6",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -227,45 +232,45 @@
           }
         ],
         "direction": "vertical",
-        "x": 196,
-        "y": 0,
-        "width": 1144,
-        "height": 824,
-        "maximize": false,
+        "x": 389,
+        "y": 20,
+        "width": 1142,
+        "height": 992,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "aad22ddb629330f6",
+  "active": "88797bf059e3d6e9",
   "lastOpenFiles": [
+    "secondBrain/Git/GIT - What is CRLF - LF.md",
     "secondBrain/Home/Kanban-Task/Kanban_board.md",
-    "secondBrain/Home/Kanban-Task/Kanban board.md",
-    "secondBrain/Indexes/api.md",
-    "JAVA - dasdsadsa.md",
-    "secondBrain/Templates/SELENIUM - template.md",
-    "secondBrain/Templates/SQL - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Templates/GIT - template.md",
-    "secondBrain/Templates/ENG - template.md",
-    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
-    "secondBrain/Templates/JAVA - template.md",
-    "secondBrain/Templates/ISTQB - template.md",
-    "secondBrain/Templates/LINUX - template.md",
-    "secondBrain/Java/String/JAVA - String Builder.md",
-    "secondBrain/Indexes/java.md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Home/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Java/String/JAVA - String methods.md",
-    "secondBrain/Java/String/JAVA - What is mutable and immutable means.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Home/Kanban board.md",
-    "secondBrain/Home/Home.md",
+    "secondBrain/Indexes/git.md",
+    "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
     "secondBrain/Indexes/selenium.md",
-    "secondBrain/English/ENG - List of keywords or phrases.md",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/testingFramework.md",
+    "secondBrain/Indexes/java.md",
+    "secondBrain/Indexes/java/Creation-date.md",
+    "secondBrain/Indexes/java/Modification-date.md",
+    "secondBrain/Selenium/SELENIUM - Implicit Waits.md",
+    "secondBrain/Selenium/SELENIUM - Frames.md",
+    "secondBrain/Selenium/SELENIUM - Fluent Waits.md",
+    "secondBrain/Selenium/SELENIUM - Finding Web Elements.md",
+    "secondBrain/Selenium/SELENIUM - Explicit Waits.md",
+    "secondBrain/Selenium/SELENIUM - Event Listeners.md",
+    "secondBrain/Selenium/SELENIUM - Element Interactions.md",
+    "secondBrain/Selenium/SELENIUM - Create a Test.md",
+    "secondBrain/Selenium/SELENIUM - ChromeOptions Class.md",
+    "secondBrain/Selenium/SELENIUM - Application Navigation.md",
+    "secondBrain/Selenium/SELENIUM - Alerts.md",
+    "secondBrain/Selenium/SELENIUM - Advanced Interactions.md",
+    "secondBrain/Selenium/SELENIUM - Additional Keys.md",
+    "secondBrain/Selenium/SELENIUM - Interacting with Dropdown.md",
     "secondBrain/English/resources/Recording 20240429221347.webm",
     "secondBrain/English/resources/essential-whitespace.mp3",
-    "README.md",
     "secondBrain/English/resources/Recording 20240429221633.webm",
     "secondBrain/English/resources/Recording 20240429221543.webm",
     "secondBrain/English/resources/Recording 20240429221447.webm",
