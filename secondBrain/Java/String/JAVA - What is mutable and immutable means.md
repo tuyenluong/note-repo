@@ -15,3 +15,8 @@ In contrast, immutable objects don't allow this kind of operation. You'll just h
 
 ---
 ## Flash cards section
+
+What is mutable and immutable objects?
+?
+Mutable objects are those that allow you to change their data or value in place without affecting the object's identity, and vice versa for immutable.
+<!--SR:!2024-05-03,1,230-->

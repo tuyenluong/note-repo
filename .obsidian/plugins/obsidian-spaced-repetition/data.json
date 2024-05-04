@@ -4,13 +4,9 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#Java",
-      "#Linux",
-      "#Selenium",
-      "#English",
-      "#SeleniumFramework"
+      ""
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
@@ -44,7 +40,8 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-05-03",
+
+  "buryDate": "2024-05-04",
   "buryList": [],
   "historyDeck": null
 }

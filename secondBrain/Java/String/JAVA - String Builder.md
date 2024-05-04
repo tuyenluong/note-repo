@@ -17,3 +17,68 @@ StringBuilder name = new StringBuilder("John Wayne");
 	- `subString()`, `indexOf()`, `length()`,  and `charAt()`
 
 ### `append()` method
+```java
+StringBuilder name = new StringBuilder("John");
+name.append("Wayne");
+System.out.println(name);
+==>>JohnWayne // StringBuilder is mutable
+```
+
+### chaining with `append()`
+- `append()`also allow chaining method because all arguments are converted to String and you can use chaining.
+- chaining is evaluate from left to right.
+```java
+StringBuilder name = new StringBuilder("John");
+name.append("Wayne").append(1).append(true);
+System.out.println(name);
+==>>JohnWayne1true // all arguments are converted to String
+```
+
+### `insert()`
+- `StringBuilder` provide an`insert()`method.
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+name.insert(5, "D. ");
+System.out.println(name);
+==>>John D. Wayne // insert into after the definded index. 
+```
+
+### chaining with `insert()`
+- `insert()` allow chaining method because it's have the same reason with the `append()` method.
+- chaining is evaluate from left to right.
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+name.insert(5, "D. ").insert(6, "A"); // insert "D." after index 5 first
+System.out.println(name);            // and then insert "A" after index 6
+==>>John DA. Wayne // which is the dot sign
+```
+
+### `delete(int start, int end)` method
+- The `delete()` method of StringBuilder class removes the characters starting from index start to index end-1 from String contained by StringBuilder.
+- This method takes two indexes as a parameter first start represents index of the first character and end Index represents index after the last character of the substring to be removed from String contained by StringBuilder and returns the remaining String as StringBuilder Object.
+- **Parameters:** This method accepts two parameters: 
+	- **start**: index of the first character of the substring.
+	- **end**: index after the last character of the substring.
+
+### `deleteCharAt()` method
+
+### `replace()` method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Flash cards section
+
+What class help concatenation and modification a String, but  mutable? ;; StringBuilder
+<!--SR:!2024-05-03,1,230-->

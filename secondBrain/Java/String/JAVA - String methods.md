@@ -174,7 +174,7 @@ System.out.println(name.toUppercase());
 
 ### `equals()`, `equalsIgnoreCase()`
 - First of all, the `equals()` method only make assertion for the content of the object .
-- And `==` operator is the one who make assertion between objects. 
+- And == operator is the one who make assertion between objects. 
 ```java
 String name1 = new String("John Wayne"); 
 String name2 = new String("John Wayne"); 
@@ -394,7 +394,7 @@ System.out.println(" ".isBlank());
 - `%d` = for integral values (`int` and `long`)
 - `%f` = for decimal number (`float` and `double`)
 - `%n` = inserts a system-dependent line separator
-### `format()` and  `formatted()`
+### `format()`and `formatted()`
 
 The different between these to methods lies within the code.
 - `format()` method only use as a static method and have to pass in the format and the arguments is a must, but for locale parameter is optional
