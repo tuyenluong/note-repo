@@ -13,13 +13,13 @@ kanban-plugin: basic
 ## In progress
 
 **Complete**
-- [x] [[Add creation and modification date into each index pages]]
 - [ ] Start lesson [[JAVA - String Builder]]
 
 
 ## Done
 
 **Complete**
+- [x] [[Add creation and modification date into each index pages]]
 - [x] Finish [[JAVA - String methods]]
 
 

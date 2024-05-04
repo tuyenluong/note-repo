@@ -1,7 +1,8 @@
 ---
 Creation_date: 2022-05-01 03:50
 Modification_date: Sunday 1st May 2022 03:50:53
-Indexes: "[[english]]"
+Indexes:
+  - "[[grammar]]"
 ---
 
 ----
@@ -14,21 +15,21 @@ Indexes: "[[english]]"
 <h2>1 - No article</h2>
 We don't usually use *a/an* or *the* with:
 
-| Type                                  |                                                            |                        |                  |                                      | 
-| ------------------------------------- | ---------------------------------------------------------- | ---------------------- | ---------------- | ------------------------------------ | 
-| **people's names and titles**             | David                                                      | Mr Brown               | Professor Smith  | Uncle John                           |
-| **named shops and companies**             | Harrods                                                    | Tesco                  | Microsoft        | United Airlines                      |
-| **cities, towns, states and regions**     | London                                                     | Sydney                 | Madrid           | Florida                              |
-| **most countries and continents**         | Russia                                                     | Japan                  | Turkey           | Australia                            |
-| **mountains, hills and lakes**            | Mount Vesuvius                                             | Box Hill               | Lake Placid      |                                      |
-| **most roads, streets, squaresand parks** | Park Lane                                                  | Oxford Street          | Trafalgar Square | Times Square                         |
-| **named airports and stations**           | Miami Airport                                              | Birmingham Bus Station | Victoria Station |                                      |
-| **schools, universities, etc.**           | Bradford Grammar School                                    | Yale University        |                  |                                      |
-| **times, days and months**                | at three o'clock                                           | at midday              | on Monday        | in December                          |
-| **languages, school subjects and sports** | English                                                    | history                | basketball       | tennis                               |
-| **means of transport and communication**  | by train                                                   | by bus                 | by email         | by phone (BUT on foot and in person) |
-| **meals**                                 | What time is dinner? Let's meet after lunch. (BUT a snack) |                        |                  |                                      |
-| **nouns + numbers**                       | Go to check-in 3A.                                         | I'm in Room 334.       | Look at page 98.                 |                                      |
+| Type                                      |                                                            |                        |                  |                                      |     |
+| ----------------------------------------- | ---------------------------------------------------------- | ---------------------- | ---------------- | ------------------------------------ | --- |
+| **people's names and titles**             | David                                                      | Mr Brown               | Professor Smith  | Uncle John                           |     |
+| **named shops and companies**             | Harrods                                                    | Tesco                  | Microsoft        | United Airlines                      |     |
+| **cities, towns, states and regions**     | London                                                     | Sydney                 | Madrid           | Florida                              |     |
+| **most countries and continents**         | Russia                                                     | Japan                  | Turkey           | Australia                            |     |
+| **mountains, hills and lakes**            | Mount Vesuvius                                             | Box Hill               | Lake Placid      |                                      |     |
+| **most roads, streets, squaresand parks** | Park Lane                                                  | Oxford Street          | Trafalgar Square | Times Square                         |     |
+| **named airports and stations**           | Miami Airport                                              | Birmingham Bus Station | Victoria Station |                                      |     |
+| **schools, universities, etc.**           | Bradford Grammar School                                    | Yale University        |                  |                                      |     |
+| **times, days and months**                | at three o'clock                                           | at midday              | on Monday        | in December                          |     |
+| **languages, school subjects and sports** | English                                                    | history                | basketball       | tennis                               |     |
+| **means of transport and communication**  | by train                                                   | by bus                 | by email         | by phone (BUT on foot and in person) |     |
+| **meals**                                 | What time is dinner? Let's meet after lunch. (BUT a snack) |                        |                  |                                      |     |
+| **nouns + numbers**                       | Go to check-in 3A.                                         | I'm in Room 334.       | Look at page 98. |                                      |     |
 
 We don't use an article for: at home, at work, in bed, at school
 <h2>2 - the</h2>

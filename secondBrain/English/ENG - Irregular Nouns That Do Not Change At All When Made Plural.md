@@ -1,7 +1,9 @@
 ---
 Creation_date: 2022-03-20 14:50
 Modification_date: Sunday 20th March 2022 16:29:18
-Indexes: "[[english]]"
+Indexes:
+  - "[[noun]]"
+  - "[[grammar]]"
 ---
 
 ----

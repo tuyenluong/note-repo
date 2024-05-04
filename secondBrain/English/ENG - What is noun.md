@@ -1,7 +1,9 @@
 ---
 Creation_date: 2022-03-19 00:08
 Modification_date: Sunday 20th March 2022 16:21:20
-Indexes: "[[english]]"
+Indexes:
+  - "[[noun]]"
+  - "[[grammar]]"
 ---
 
 ----
@@ -11,7 +13,7 @@ Indexes: "[[english]]"
 > — <cite>Tony Robbins</cite>
 
 
- 
+
 Noun are the words we use for:
 * people, things, and placed such as: *a tourist*, *a postcard*, *a museum* 
 * activities, ideas and feelings: *shopping*, *information*, *love*, *amaze*, *ragane*, *envy*, *sad*, 

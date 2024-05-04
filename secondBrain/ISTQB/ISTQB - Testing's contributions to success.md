@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2023-06-07 22:37
+Modification_date: Wednesday 7th June 2023 22:37:53
+Indexes: "[[istqb]]"
+---
 
 ----
-Creation date: 2023-06-07 22:37
-Modification date: Wednesday 7th June 2023 22:37:53
 
-----
-
- Tags: [[istqb]]
 
 > He who lives in harmony with himself lives in harmony with the world.
 > — <cite>Marcus Aurelius</cite>

@@ -1,12 +1,11 @@
-
+---
+Creation_date: 2023-05-16 20:36
+Modification_date: Tuesday 16th May 2023 20:36:48
+Indexes: "[[istqb]]"
+---
 
 ----
-Creation date: 2023-05-16 20:36
-Modification date: Tuesday 16th May 2023 20:36:48
 
-----
-
- Tags: [[istqb]]
 
 > The world is but a canvas to the imagination.
 > — <cite>Henry David Thoreau</cite>

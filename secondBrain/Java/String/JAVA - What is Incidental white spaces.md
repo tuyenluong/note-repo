@@ -6,7 +6,7 @@ Indexes: "[[java]]"
 
 ----
 
-[[ENG - List of keywords or phrases#^5c2eb2|Incidental white spaces]] refer to the spaces that are not intentionally added to [[ENG - List of keywords or phrases#^21428d|convey]] a specific layout or format in content but occur as a by-product of coding, formatting, or data entry practices.
+[[ENG - incident whitespace|Incidental white spaces]] refer to the spaces that are not intentionally added to [[ENG - convey|convey]] a specific layout or format in content but occur as a by-product of coding, formatting, or data entry practices.
 
 In Java, incidental whitespace refers to the extra spaces that are added unintentionally, such as when copying text from a source document or due to indentation in the Integrated Development Environment (IDE) to make the code easier to read. ^f00eea
 

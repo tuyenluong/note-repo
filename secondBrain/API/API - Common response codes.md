@@ -4,7 +4,6 @@ Modification_date: Friday 3rd May 2024 04:14:34
 Indexes: "[[api]]"
 ---
 
-
 ----
 When making API requests, verifying the response code is a crucial step in determining whether the request was successful and how to handle the outcome. **The HTTP response codes are standardized, providing a consistent way to interpret the results of a request.**
 ### Common HTTP Response Codes
