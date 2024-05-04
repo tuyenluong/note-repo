@@ -14,6 +14,8 @@ Indexes:
   - "[[ENG - template]]"
   - "[[Home]]"
   - "[[Indexes - template]]"
+  - "[[Common - template]]"
+
 ---
 This is we you can navigation between multiple templates:
 
