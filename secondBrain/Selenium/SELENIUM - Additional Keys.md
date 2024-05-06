@@ -26,3 +26,17 @@ Indexes: "[[selenium]]"
 public void enterPi(){
     enterText(Keys.chord(Keys.ALT, "p"));
 }
+
+
+
+
+
+---
+## Flash cards section
+
+What Selenium Keys class method is used for performing keyboard actions like pressing the arrow or function keys? ;; Keys class
+How do you simulate pressing multiple keys at once in Selenium, such as ALT and P? ;; Keys.chord()
+What does `Keys.chord(Keys.ALT, "p")` in Selenium do when executed? ;; Simulates pressing ALT and 'p' simultaneously
+Which Selenium Keys class constant is used to represent the backspace key? ;; Keys.BACK_SPACE
+List some special keys supported by the Selenium Keys class. ;; Alt, Cancel, Clear, Command, Control, Decimal, Delete, Enter, Help, Home, Insert
+What range of function keys can be simulated using the Selenium Keys class? ;; F1 through F12

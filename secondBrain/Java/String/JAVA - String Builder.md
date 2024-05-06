@@ -1,7 +1,10 @@
 ---
 Creation_date: 2024-03-26 00:42
 Modification_date: Tuesday 26th March 2024 00:42:32
-Indexes: "[[java]]"
+Indexes:
+  - "[[java]]"
+tags:
+  - "#review"
 ---
 
 ----
@@ -79,5 +82,5 @@ System.out.println(name);            // and then insert "A" after index 6
 ---
 ## Flash cards section
 
-What class help concatenation and modification a String, but  mutable? ;; StringBuilder
-<!--SR:!2024-05-03,1,230-->
+
+

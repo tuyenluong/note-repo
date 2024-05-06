@@ -6,10 +6,12 @@ Indexes:
   - "[[Ideas]]"
   - "[[Interests]]"
   - "[[Templates manage]]"
+  - "[[Kanban_board]]"
 ---
 What activity are you doing:
 [[learning]]
 [[Ideas]]
 [[Interests]]
 [[Templates manage]]
+[[Kanban_board]]
 

@@ -6,26 +6,27 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] [[Add flashcards in all note in Learning]]
-- [ ] [[Rename all the note in Learning]]
+- [ ] Start lesson [[JAVA - String pool]]
 
 
 ## In progress
 
 **Complete**
+- [x] [[Add flashcards in all note in Learning]]
 - [ ] Start lesson [[JAVA - String Builder]]
 
 
 ## Done
 
 **Complete**
-- [x] [[Add creation and modification date into each index pages]]
-- [x] Finish [[JAVA - String methods]]
 
 
 ## Production
 
 **Complete**
+- [x] Finish [[JAVA - String methods]]
+- [x] [[Add creation and modification date into each index pages]]
+- [x] [[Rename all the note in Learning]]
 
 
 ## Archive

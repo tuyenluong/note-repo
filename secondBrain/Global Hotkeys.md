@@ -1,6 +1,7 @@
 * Create note from a template
 	* Alt + N  = Select a desired template and create
 	* Ctrl + M = Move the note to the corresponding folder
+	* F2 = Rename current file
 * Tab manipulations
 	* Ctrl + T = Open a new tab
 	* Ctrl+ Tab = Forward pages

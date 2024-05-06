@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c023a30589bef80c",
+        "id": "9352f6e71ea516e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b2e81ad290d3c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/English/List-of-words/ENG - differ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f6db1590890f2a2",
+            "id": "8dd26db2a0872df1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,19 +16,30 @@
             }
           },
           {
-            "id": "90cd70b76b669987",
+            "id": "a4f7eabbbee8b977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Indexes/noun.md",
+                "file": "secondBrain/Java/String/JAVA - String methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "73f71165e1193d91",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "string methods",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/English/List-of-words/ENG - differ.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/English/List-of-words/ENG - differ.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/English/List-of-words/ENG - differ.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/English/List-of-words/ENG - differ.md"
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
               }
             }
           },
@@ -195,7 +193,7 @@
             }
           },
           {
-            "id": "2208dade6287fdc0",
+            "id": "fc4e2c8de067140b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -203,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -219,81 +217,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "d35f91134d6057eb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b14b8f8c6a852f22",
-        "type": "window",
-        "children": [
-          {
-            "id": "639501ff4941f44c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "be070acb954cb8b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secondBrain/English/List-of-words/ENG - omit.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 156,
-        "y": 167,
-        "width": 508,
-        "height": 660,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4b2e81ad290d3c14",
+  "active": "73f71165e1193d91",
   "lastOpenFiles": [
-    "secondBrain/English/List-of-words/ENG - omit.md",
-    "secondBrain/English/List-of-words/ENG - List of keywords or phrases.md",
-    "secondBrain/English/List-of-words/ENG - differ.md",
-    "secondBrain/English/List-of-words/ENG - different.md",
-    "secondBrain/English/List-of-words/ENG - difference or differences.md",
-    "secondBrain/English/List-of-words/ENG - impulsively.md",
-    "secondBrain/English/List-of-words/ENG - loan.md",
-    "secondBrain/Indexes/noun.md",
-    "secondBrain/English/List-of-words/ENG - lend.md",
-    "secondBrain/English/List-of-words/ENG - borrow.md",
-    "ENG - incident whitespace.md",
-    "secondBrain/English/List-of-words/ENG - Interesting words.md",
-    "secondBrain/Indexes/exclamation.md",
+    "secondBrain/Java/String/JAVA - String methods.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "Untitled.md",
+    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Indexes/english.md",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/Indexes/Home.md",
+    "secondBrain/Indexes/vocabulary.md",
     "secondBrain/Indexes/verb.md",
-    "secondBrain/Indexes/api.md",
-    "secondBrain/English/List-of-words/ENG - convey.md",
-    "secondBrain/English/List-of-words/ENG - hevens.md",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
-    "ENG - List of keywords or phrases.md-.md",
+    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
+    "secondBrain/Java/JAVA - Java Versions.md",
+    "secondBrain/English/Vocab/ENG - hevens.md",
+    "secondBrain/English/ENG - What is noun.md",
+    "secondBrain/Indexes/grammar.md",
+    "secondBrain/Indexes/learning.md",
+    "secondBrain/Indexes/languages.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/exclamation.md",
+    "secondBrain/English/Vocab/ENG - Interesting words.md",
+    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/Selenium/SELENIUM - Additional Keys.md",
+    "secondBrain/Selenium/SELENIUM - Application Navigation.md",
+    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+    "secondBrain/API/API - Response code.md",
     "secondBrain/Templates/API - template.md",
-    "secondBrain/Templates/LINUX - template.md",
-    "secondBrain/Templates/JAVA - template.md",
-    "secondBrain/Templates/ISTQB - template.md",
-    "secondBrain/Templates/GIT - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Templates/ENG - template.md",
-    "secondBrain/English/List-of-words",
-    "secondBrain/Indexes/java.md",
+    "secondBrain/English/resources/Recording 20240429221347.webm",
+    "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/English/Vocab",
     "secondBrain/English/resources/Recording 20240504125210.webm",
     "Recording 20240504125133.webm",
     "Recording 20240504125046.webm",
@@ -301,11 +263,9 @@
     "secondBrain/English/resources/Recording 20240504123634.webm",
     "secondBrain/English/resources/Recording 20240504123741.webm",
     "secondBrain/English/resources/Recording 20240504123707.webm",
-    "Recording 20240504123653.webm",
     "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
-    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
     "secondBrain/Framework/resources/Pasted image 20240406141301.png",
     "secondBrain/Framework/resources/Pasted image 20240406141128.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240310145305.png",
