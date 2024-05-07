@@ -123,6 +123,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +136,7 @@
               "type": "localgraph",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
+
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,6 +183,7 @@
               "type": "outline",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md"
+
               }
             }
           },
@@ -205,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5,
-    "collapsed": true
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,47 +226,84 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "73f71165e1193d91",
+  "floating": {
+    "id": "e4120b3468ac2753",
+    "type": "floating",
+    "children": [
+      {
+        "id": "04b89f1fff1f3b9d",
+        "type": "window",
+        "children": [
+          {
+            "id": "865a6bd7dfb8eb36",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "843879fe82f239d6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "secondBrain/Home/Kanban-Task/Kanban_board.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 389,
+        "y": 20,
+        "width": 1142,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "88797bf059e3d6e9",
   "lastOpenFiles": [
-    "secondBrain/Java/String/JAVA - String methods.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "Untitled.md",
     "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Indexes/english.md",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Indexes/vocabulary.md",
-    "secondBrain/Indexes/verb.md",
-    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
-    "secondBrain/Java/JAVA - Java Versions.md",
-    "secondBrain/English/Vocab/ENG - hevens.md",
-    "secondBrain/English/ENG - What is noun.md",
-    "secondBrain/Indexes/grammar.md",
-    "secondBrain/Indexes/learning.md",
-    "secondBrain/Indexes/languages.md",
-    "secondBrain/Indexes/istqb.md",
-    "secondBrain/Indexes/exclamation.md",
-    "secondBrain/English/Vocab/ENG - Interesting words.md",
-    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/Selenium/SELENIUM - Additional Keys.md",
-    "secondBrain/Selenium/SELENIUM - Application Navigation.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/API/API - Response code.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/English/resources/Recording 20240429221347.webm",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
-    "secondBrain/English/Vocab",
+    "secondBrain/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Kanban-Task",
     "secondBrain/English/resources/Recording 20240504125210.webm",
-    "Recording 20240504125133.webm",
-    "Recording 20240504125046.webm",
     "secondBrain/English/resources/Recording 20240504124801.webm",
-    "secondBrain/English/resources/Recording 20240504123634.webm",
+    "secondBrain/English/resources/Recording 20240504124527.webm",
     "secondBrain/English/resources/Recording 20240504123741.webm",
     "secondBrain/English/resources/Recording 20240504123707.webm",
+
+    "secondBrain/English/resources/Recording 20240504123634.webm",
+    "secondBrain/English/List-of-words/ENG - omit.md",
+    "secondBrain/English/List-of-words/ENG - loan.md",
+    "secondBrain/English/List-of-words/ENG - lend.md",
+    "secondBrain/English/List-of-words/ENG - Interesting words.md",
+    "secondBrain/English/List-of-words/ENG - incident whitespace.md",
+    "secondBrain/English/List-of-words/ENG - impulsively.md",
+    "secondBrain/English/List-of-words/ENG - hevens.md",
+    "secondBrain/English/List-of-words/ENG - different.md",
+    "secondBrain/English/List-of-words/ENG - difference or differences.md",
+    "secondBrain/English/List-of-words/ENG - differ.md",
+    "secondBrain/English/List-of-words/ENG - convey.md",
+    "secondBrain/English/List-of-words/ENG - borrow.md",
+    "secondBrain/English/List-of-words",
+    "secondBrain/Git/GIT - What is CRLF - LF.md",
+    "secondBrain/Home/Kanban-Task/Kanban_board.md",
+    "secondBrain/Indexes/git.md",
+    "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/Indexes/selenium.md",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/testingFramework.md",
+    "secondBrain/Indexes/java.md",
+    "secondBrain/English/resources/Recording 20240429221347.webm",
+    "secondBrain/English/resources/essential-whitespace.mp3",
+
     "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
     "secondBrain/Framework/resources/Pasted image 20240406141301.png",
     "secondBrain/Framework/resources/Pasted image 20240406141128.png",
@@ -274,6 +313,7 @@
     "secondBrain/Java/Operators/resources/Pasted image 20240303141212.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303135756.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303132231.png",
+    "secondBrain/ISTQB/Bug life-cycle.canvas",
     "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
 }
