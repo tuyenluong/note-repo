@@ -123,7 +123,6 @@
               "type": "outgoing-link",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
-
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,6 @@
               "type": "localgraph",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
-
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +181,6 @@
               "type": "outline",
               "state": {
                 "file": "secondBrain/Kanban-Task/Kanban_board.md"
-
               }
             }
           },
@@ -226,45 +223,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "e4120b3468ac2753",
-    "type": "floating",
-    "children": [
-      {
-        "id": "04b89f1fff1f3b9d",
-        "type": "window",
-        "children": [
-          {
-            "id": "865a6bd7dfb8eb36",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "843879fe82f239d6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "secondBrain/Home/Kanban-Task/Kanban_board.md"
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 389,
-        "y": 20,
-        "width": 1142,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "88797bf059e3d6e9",
+  "active": "e10570a4e421d150",
   "lastOpenFiles": [
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/API/API - Common response codes.md",
     "secondBrain/Kanban-Task/Rename all the note in Learning.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
@@ -298,8 +260,6 @@
     "secondBrain/Indexes/selenium.md",
     "secondBrain/Indexes/api.md",
     "secondBrain/Indexes/istqb.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Indexes/java.md",
     "secondBrain/English/resources/Recording 20240429221347.webm",
     "secondBrain/English/resources/essential-whitespace.mp3",
 
