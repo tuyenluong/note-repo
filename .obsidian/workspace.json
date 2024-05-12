@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9352f6e71ea516e7",
+        "id": "a1e7c6afb626793e",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd26db2a0872df1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4f7eabbbee8b977",
+            "id": "0bdc1220190e8248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Java/String/JAVA - String methods.md",
+                "file": "secondBrain/Java/String/JAVA - String Builder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,17 +21,15 @@
             }
           },
           {
-            "id": "73f71165e1193d91",
+            "id": "1beb573e86527c98",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "24444e767f926965",
@@ -105,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,15 +209,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e10570a4e421d150",
+  "active": "1beb573e86527c98",
   "lastOpenFiles": [
-    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Java/String/JAVA - String Builder.md",
+    "secondBrain/Java/String/JAVA - String methods.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "Untitled.md",
+    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Indexes/english.md",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/Indexes/Home.md",
+    "secondBrain/Indexes/vocabulary.md",
+    "secondBrain/Indexes/verb.md",
+    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
+    "secondBrain/Java/JAVA - Java Versions.md",
+    "secondBrain/English/Vocab/ENG - hevens.md",
+    "secondBrain/English/ENG - What is noun.md",
+    "secondBrain/Indexes/grammar.md",
+    "secondBrain/Indexes/learning.md",
+    "secondBrain/Indexes/languages.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/exclamation.md",
+    "secondBrain/English/Vocab/ENG - Interesting words.md",
+    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
     "secondBrain/API/API - Common response codes.md",
     "secondBrain/Kanban-Task/Rename all the note in Learning.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Kanban-Task/Add creation and modification date into each index pages.md",
-    "secondBrain/Kanban-Task",
+    "secondBrain/API/API - Response code.md",
+    "secondBrain/English/resources/Recording 20240429221347.webm",
+    "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/English/Vocab",
     "secondBrain/English/resources/Recording 20240504125210.webm",
     "secondBrain/English/resources/Recording 20240504124801.webm",
     "secondBrain/English/resources/Recording 20240504124527.webm",

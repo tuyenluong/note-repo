@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "secondBrain/Home/Kanban-Task/Kanban_board",
+      "value": "secondBrain/Kanban-Task/Kanban_board",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
