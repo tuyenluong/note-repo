@@ -63,11 +63,8 @@ System.out.println(name);            // and then insert "A" after index 6
 ### `deleteCharAt(int index)` method
 - The `deleteCharAt()`method of StringBuilder class removes the character index from a String contained by StringBuilder.
 - If the integer pass in parameter is greater than the length of the String, then it will encounter the `StringIndexOutOfBoundsException`error. So be careful.
+
 ### `replace()` method
-
-
-
-
 
 
 

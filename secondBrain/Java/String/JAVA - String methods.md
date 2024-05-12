@@ -464,17 +464,17 @@ What is the result of `"John" + 3 + 8` in Java? ;; The result is `John38` becaus
 What happens when you concatenate a string with `null` in Java? ;; When you concatenate a string with `null`, Java converts `null` to the string `"null"` and concatenates it, resulting in strings like `"Johnnull"`.
 <!--SR:!2024-05-06,1,223-->
 How do you use the `+=` operator for string concatenation? ;; The `+=` operator is used to append the string on the right to the variable on the left, equivalent to `variable = variable + "string"`.
-<!--SR:!2024-05-06,1,230-->
+<!--SR:!2024-05-14,1,210-->
 What does the `length()` method of a String return? ;; The `length()` method returns the number of characters in the string.
 <!--SR:!2024-05-06,1,223-->
 What exception is thrown when accessing a character index that exceeds the string length? ;; Accessing an index that exceeds the string length throws a `StringIndexOutOfBoundsException`.
-<!--SR:!2024-05-06,1,223-->
+<!--SR:!2024-05-15,2,223-->
 How can you find the first occurrence of a character 't' in a string using `indexOf()`? ;; You can find the first occurrence of the character 't' by using `string.indexOf('t')`.
 <!--SR:!2024-05-06,1,230-->
 What does the `substring(int start, int end)` method do? ;; It returns a new string that is a substring of the original string, starting from the index `start` and ending at index `end` (exclusive).
-<!--SR:!2024-05-06,1,224-->
+<!--SR:!2024-05-14,1,204-->
 What does the `toLowerCase()` method do to a string? ;; The `toLowerCase()` method converts all characters of the string to lower case.
-<!--SR:!2024-05-06,1,223-->
+<!--SR:!2024-05-14,1,203-->
 How does the `equals()` method compare two strings in Java? ;; The `equals()` method compares the content of two strings, returning `true` if they are identical.
 <!--SR:!2024-05-06,1,230-->
 What does the `startsWith()` method do, and what type of argument does it accept? ;; The `startsWith()` method checks if the string starts with the specified substring and accepts a String argument.
