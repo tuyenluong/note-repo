@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e7c6afb626793e",
+        "id": "cd62b00d5cf231a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0bdc1220190e8248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/String/JAVA - String Builder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1beb573e86527c98",
+            "id": "4a6145bddbf2be2a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -209,68 +194,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1beb573e86527c98",
+  "active": "4a6145bddbf2be2a",
   "lastOpenFiles": [
-    "secondBrain/Java/String/JAVA - String Builder.md",
-    "secondBrain/Java/String/JAVA - String methods.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "Untitled.md",
-    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Indexes/english.md",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Indexes/vocabulary.md",
-    "secondBrain/Indexes/verb.md",
-    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
-    "secondBrain/Java/JAVA - Java Versions.md",
-    "secondBrain/English/Vocab/ENG - hevens.md",
-    "secondBrain/English/ENG - What is noun.md",
-    "secondBrain/Indexes/grammar.md",
-    "secondBrain/Indexes/learning.md",
-    "secondBrain/Indexes/languages.md",
-    "secondBrain/Indexes/istqb.md",
-    "secondBrain/Indexes/exclamation.md",
+    "secondBrain/English/Vocab/ENG - lend.md",
+    "secondBrain/English/Vocab/ENG - omit.md",
+    "secondBrain/English/Vocab/ENG - loan.md",
     "secondBrain/English/Vocab/ENG - Interesting words.md",
-    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/API/API - Response code.md",
-    "secondBrain/English/resources/Recording 20240429221347.webm",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/English/Vocab/ENG - incident whitespace.md",
+    "secondBrain/English/Vocab/ENG - impulsively.md",
+    "secondBrain/English/Vocab/ENG - hevens.md",
+    "secondBrain/English/Vocab/ENG - different.md",
+    "secondBrain/English/Vocab/ENG - difference or differences.md",
+    "secondBrain/English/Vocab/ENG - differ.md",
+    "secondBrain/English/Vocab/ENG - convey.md",
+    "secondBrain/English/Vocab/ENG - borrow.md",
     "secondBrain/English/Vocab",
+    "secondBrain/English/collocations-phrases",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/English/ENG - What is noun.md",
+    "secondBrain/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "secondBrain/Java/String/JAVA - String Builder.md",
+    "secondBrain/Selenium/SELENIUM - Application Navigation.md",
+    "secondBrain/Indexes/collocation - phrases.md",
+    "secondBrain/Indexes/english.md",
+    "secondBrain/English/vocabbulary/ENG - hevens.md",
+    "secondBrain/Indexes/Untitled.md",
+    "secondBrain/Indexes/vocabulary.md",
+    "secondBrain/English/vocabbulary/ENG - impulsively.md",
+    "secondBrain/Indexes/adjective.md",
+    "secondBrain/Indexes/grammar.md",
+    "secondBrain/Indexes/verb.md",
+    "secondBrain/Kanban-Task",
     "secondBrain/English/resources/Recording 20240504125210.webm",
     "secondBrain/English/resources/Recording 20240504124801.webm",
     "secondBrain/English/resources/Recording 20240504124527.webm",
     "secondBrain/English/resources/Recording 20240504123741.webm",
     "secondBrain/English/resources/Recording 20240504123707.webm",
-
     "secondBrain/English/resources/Recording 20240504123634.webm",
-    "secondBrain/English/List-of-words/ENG - omit.md",
-    "secondBrain/English/List-of-words/ENG - loan.md",
-    "secondBrain/English/List-of-words/ENG - lend.md",
-    "secondBrain/English/List-of-words/ENG - Interesting words.md",
-    "secondBrain/English/List-of-words/ENG - incident whitespace.md",
-    "secondBrain/English/List-of-words/ENG - impulsively.md",
-    "secondBrain/English/List-of-words/ENG - hevens.md",
-    "secondBrain/English/List-of-words/ENG - different.md",
-    "secondBrain/English/List-of-words/ENG - difference or differences.md",
-    "secondBrain/English/List-of-words/ENG - differ.md",
-    "secondBrain/English/List-of-words/ENG - convey.md",
-    "secondBrain/English/List-of-words/ENG - borrow.md",
     "secondBrain/English/List-of-words",
-    "secondBrain/Git/GIT - What is CRLF - LF.md",
-    "secondBrain/Home/Kanban-Task/Kanban_board.md",
-    "secondBrain/Indexes/git.md",
-    "secondBrain/Home/Kanban-Task/Add creation and modification date into each index pages.md",
-    "secondBrain/Java/String/JAVA - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/Indexes/selenium.md",
-    "secondBrain/Indexes/api.md",
-    "secondBrain/Indexes/istqb.md",
-    "secondBrain/English/resources/Recording 20240429221347.webm",
-    "secondBrain/English/resources/essential-whitespace.mp3",
-
     "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
     "secondBrain/Framework/resources/Pasted image 20240406141301.png",
