@@ -31,7 +31,8 @@ When making API requests, verifying the response code is a crucial step in deter
 	    
 - **404 Not Found**: 
 	- The server can't find the requested resource. This is often used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.
-	    
+- **422 Un-Processable Content:**
+	- Indicates that the server understands the content type of the request entity, and the syntax of the request entity is correct, but it was unable to process the contained instructions.
 - **500 Internal Server Error**: 
 	- The server has encountered a situation it doesn't know how to handle.
 
