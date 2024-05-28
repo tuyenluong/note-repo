@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2c89d3e7606e867a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduce yourself.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduce yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduce yourself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Introduce yourself.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduce yourself.md"
+              }
             }
           },
           {
@@ -194,8 +213,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b484bb9f38cee836",
+  "active": "2c89d3e7606e867a",
   "lastOpenFiles": [
+    "Introduce yourself.md",
     "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
     "secondBrain/Java/JAVA - Functional interfaces.md",
     "secondBrain/Indexes/collocation - phrases.md",
@@ -225,7 +245,6 @@
     "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "secondBrain/Java/String/JAVA - String Builder.md",
     "secondBrain/Java/String/JAVA - String methods.md",
-    "Untitled.md",
     "secondBrain/Kanban-Task/Rename all the note in Learning.md",
     "secondBrain/Framework/resources/Pasted image 20240406141336.png",
     "secondBrain/English/resources/Recording 20240429221347.webm",
