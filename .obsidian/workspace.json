@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "cd62b00d5cf231a7",
+        "id": "0baa7b803849fcc3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a6145bddbf2be2a",
+            "id": "44eed691ece66863",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "34036fe9db41e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "secondBrain/API/resources/api-design.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "secondBrain/API/resources/api-design.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "secondBrain/API/resources/api-design.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "secondBrain/API/resources/api-design.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "secondBrain/API/resources/api-design.png"
+              }
             }
           },
           {
@@ -176,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 450.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +211,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4a6145bddbf2be2a",
+  "active": "34036fe9db41e7a0",
   "lastOpenFiles": [
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/resources/api-design.png",
+    "secondBrain/API/resources",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Java/String/JAVA - String Builder.md",
+    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
     "secondBrain/English/Vocab/ENG - lend.md",
     "secondBrain/English/Vocab/ENG - omit.md",
     "secondBrain/English/Vocab/ENG - loan.md",
@@ -213,7 +236,6 @@
     "secondBrain/Indexes/information_technolody.md",
     "secondBrain/English/ENG - What is noun.md",
     "secondBrain/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
-    "secondBrain/Java/String/JAVA - String Builder.md",
     "secondBrain/Selenium/SELENIUM - Application Navigation.md",
     "secondBrain/Indexes/collocation - phrases.md",
     "secondBrain/Indexes/english.md",
@@ -221,9 +243,6 @@
     "secondBrain/Indexes/Untitled.md",
     "secondBrain/Indexes/vocabulary.md",
     "secondBrain/English/vocabbulary/ENG - impulsively.md",
-    "secondBrain/Indexes/adjective.md",
-    "secondBrain/Indexes/grammar.md",
-    "secondBrain/Indexes/verb.md",
     "secondBrain/Kanban-Task",
     "secondBrain/English/resources/Recording 20240504125210.webm",
     "secondBrain/English/resources/Recording 20240504124801.webm",
@@ -231,7 +250,6 @@
     "secondBrain/English/resources/Recording 20240504123741.webm",
     "secondBrain/English/resources/Recording 20240504123707.webm",
     "secondBrain/English/resources/Recording 20240504123634.webm",
-    "secondBrain/English/List-of-words",
     "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
     "secondBrain/Framework/resources/Pasted image 20240406141301.png",
