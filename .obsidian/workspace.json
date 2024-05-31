@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52c83359c90b7c1b",
+        "id": "0baa7b803849fcc3",
         "type": "tabs",
         "children": [
           {
-            "id": "46c1d8465bc4f33f",
+            "id": "44eed691ece66863",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,12 +16,35 @@
             }
           },
           {
-            "id": "2c89d3e7606e867a",
+            "id": "34036fe9db41e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "secondBrain/API/resources/api-design.v0.2.png"
+              }
+            }
+          },
+          {
+            "id": "3b9acd60861da6f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduce yourself.md",
+                "file": "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac6dd00e5f1471ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/API/API - Common response codes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduce yourself.md",
+                "file": "secondBrain/API/resources/api-design.v0.2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduce yourself.md",
+                "file": "secondBrain/API/resources/api-design.v0.2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduce yourself.md",
+                "file": "secondBrain/API/resources/api-design.v0.2.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduce yourself.md"
+                "file": "secondBrain/API/resources/api-design.v0.2.png"
               }
             }
           },
@@ -195,64 +218,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 450.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2c89d3e7606e867a",
+  "active": "34036fe9db41e7a0",
   "lastOpenFiles": [
+    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/API/resources/api-design.v0.2.png",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/Templates/JMETER - template.md",
     "Introduce yourself.md",
-    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
-    "secondBrain/Java/JAVA - Functional interfaces.md",
-    "secondBrain/Indexes/collocation - phrases.md",
-    "secondBrain/English/vocabbulary/ENG - borrow.md",
-    "secondBrain/English/vocabbulary/ENG - omit.md",
-    "secondBrain/English/vocabbulary/ENG - loan.md",
-    "secondBrain/English/vocabbulary/ENG - lend.md",
-    "secondBrain/English/vocabbulary/ENG - Interesting words.md",
-    "secondBrain/English/vocabbulary/ENG - incident whitespace.md",
-    "secondBrain/English/vocabbulary/ENG - impulsively.md",
-    "secondBrain/English/vocabbulary/ENG - hevens.md",
-    "secondBrain/English/vocabbulary/ENG - different.md",
-    "secondBrain/English/vocabbulary/ENG - difference or differences.md",
-    "secondBrain/English/vocabbulary/ENG - convey.md",
-    "secondBrain/English/vocabbulary/ENG - differ.md",
-    "secondBrain/English/vocabbulary",
-    "secondBrain/API/resources/api-design.png",
     "secondBrain/API/resources",
     "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/API/API - Response code.md",
-    "secondBrain/API/API - API Testing Interview questions.md",
-    "secondBrain/Templates/JMETER - template.md",
-    "secondBrain/Jmeter",
-    "secondBrain/Templates/ISTQB - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "secondBrain/Java/String/JAVA - String Builder.md",
-    "secondBrain/Java/String/JAVA - String methods.md",
-    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
-    "secondBrain/English/resources/Recording 20240429221347.webm",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
+    "secondBrain/English/Vocab/ENG - lend.md",
+    "secondBrain/English/Vocab/ENG - omit.md",
+    "secondBrain/English/Vocab/ENG - loan.md",
+    "secondBrain/English/Vocab/ENG - Interesting words.md",
+    "secondBrain/English/Vocab/ENG - incident whitespace.md",
+    "secondBrain/English/Vocab/ENG - impulsively.md",
+    "secondBrain/English/Vocab/ENG - hevens.md",
+    "secondBrain/English/Vocab/ENG - different.md",
+    "secondBrain/English/Vocab/ENG - difference or differences.md",
+    "secondBrain/English/Vocab/ENG - differ.md",
+    "secondBrain/English/Vocab/ENG - convey.md",
+    "secondBrain/English/Vocab/ENG - borrow.md",
     "secondBrain/English/Vocab",
+    "secondBrain/English/collocations-phrases",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/English/ENG - What is noun.md",
+    "secondBrain/Framework/FRAMEWORK - Cách fix lỗi classpath 55.md",
+    "secondBrain/Selenium/SELENIUM - Application Navigation.md",
+    "secondBrain/Indexes/collocation - phrases.md",
+    "secondBrain/Indexes/english.md",
+    "secondBrain/Kanban-Task",
     "secondBrain/English/resources/Recording 20240504125210.webm",
     "secondBrain/English/resources/Recording 20240504124801.webm",
     "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/English/resources/Recording 20240504123741.webm",
+    "secondBrain/English/resources/Recording 20240504123707.webm",
+    "secondBrain/English/resources/Recording 20240504123634.webm",
     "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
     "secondBrain/Framework/resources/Pasted image 20240406141301.png",
@@ -262,6 +285,7 @@
     "secondBrain/Java/Operators/resources/Pasted image 20240310145103.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303141212.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303135756.png",
+    "secondBrain/Java/Operators/resources/Pasted image 20240303132231.png",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
