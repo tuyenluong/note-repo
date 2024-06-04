@@ -464,7 +464,7 @@ What is the result of `"John" + 3 + 8` in Java? ;; The result is `John38` becaus
 What happens when you concatenate a string with `null` in Java? ;; When you concatenate a string with `null`, Java converts `null` to the string `"null"` and concatenates it, resulting in strings like `"Johnnull"`.
 <!--SR:!2024-05-06,1,223-->
 How do you use the `+=` operator for string concatenation? ;; The `+=` operator is used to append the string on the right to the variable on the left, equivalent to `variable = variable + "string"`.
-<!--SR:!2024-05-14,1,210-->
+<!--SR:!2024-06-06,2,210-->
 What does the `length()` method of a String return? ;; The `length()` method returns the number of characters in the string.
 <!--SR:!2024-05-06,1,223-->
 What exception is thrown when accessing a character index that exceeds the string length? ;; Accessing an index that exceeds the string length throws a `StringIndexOutOfBoundsException`.

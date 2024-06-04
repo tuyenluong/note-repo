@@ -57,13 +57,13 @@ Indexes: "[[java]]"
 ## Flash cards section
 
 What command to creates a jar file of desired project with the Java command?;; jar -cvf \<yourNewJarFileName\>.jar .
-<!--SR:!2024-05-14,1,190-->
+<!--SR:!2024-06-06,2,190-->
 
 What is the option -cvf stands for in the jar command?;; -cvf stand for --create --verbose --file
-<!--SR:!2024-05-14,1,192-->
+<!--SR:!2024-06-07,3,212-->
 
 How can you choose which folder to be archive with the jar command?
 ?
 By identifying the custom folder to be archive after you defined your jar file name
 jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\>
-<!--SR:!2024-05-14,1,192--> 
+<!--SR:!2024-06-06,2,192--> 

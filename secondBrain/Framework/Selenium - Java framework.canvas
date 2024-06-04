@@ -4,7 +4,6 @@
 		{"id":"c6bf5148900e145e","type":"text","text":"Driver\n![[Pasted image 20240406141301.png]]\n![[Pasted image 20240406141336.png]]","x":200,"y":-1660,"width":600,"height":560},
 		{"id":"1d5bd0e64489907e","type":"text","text":"Session Manager\n- Global   Config\n- Enhanced Driver","x":-520,"y":-560,"width":260,"height":160},
 		{"id":"0f32b0845076ba81","type":"text","text":"Report\n- Extent R\n- Allure","x":-120,"y":-230,"width":250,"height":160},
-		{"id":"62b4f8ac3b8e220a","type":"text","text":"- Enhanced Driver\n- DataMapper\n- Report","x":71,"y":-560,"width":260,"height":160},
 		{"id":"23374aa4df15cf8b","type":"text","text":"Why we should Java class for WebDriver elements?\n- Ease to call\n- Ease to manage\n- Avoid duplicate reference element","x":1440,"y":-820,"width":250,"height":260},
 		{"id":"62f0a8e5af419acb","type":"text","text":"Selenium\n- Pages/Component\n- Maven\n- Elements/Action","x":880,"y":-730,"width":250,"height":160},
 		{"id":"4db701c91768f6ee","type":"text","text":"Data\n- Json\n- SQL\n- Excel","x":173,"y":-940,"width":250,"height":160},
@@ -12,7 +11,8 @@
 		{"id":"2b8135d5f5719942","type":"text","text":"Grid 4 - Remote\n\nstart /b java -jar selenium-server-4.10.0.jar event-bus --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --port 5557\n\nstart /b java -jar selenium-server-4.10.0.jar sessionqueue --port 5559\n\nstart /b java -jar selenium-server-4.10.0.jar sessions --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --port 5556\n\nstart /b java -jar selenium-server-4.10.0.jar distributor --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --sessions http://localhost:5556 --sessionqueue http://localhost:5559 --port 5553 --bind-bus false\n\nstart /b java -jar selenium-server-4.10.0.jar router --sessions http://localhost:5556 --distributor http://localhost:5553 --sessionqueue http://localhost:5559 --port 4444\n\nstart /b java -jar selenium-server-4.10.0.jar node --publish-events tcp://localhost:4442 --subscribe-events tcp://localhost:4443 --max-threads 18","x":1005,"y":-230,"width":905,"height":300},
 		{"id":"6534f434375f81e8","type":"text","text":"Grid 4","x":630,"y":-480,"width":250,"height":50},
 		{"id":"67d99f1608cb0883","type":"text","text":"Grid local\nhttps://www.selenium.dev/blog/2022/introducing-selenium-manager/","x":403,"y":-230,"width":445,"height":130},
-		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-245,"y":-890,"width":250,"height":200}
+		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-510,"y":-930,"width":250,"height":200},
+		{"id":"62b4f8ac3b8e220a","type":"text","text":"- Enhanced Driver\n- DataMapper\n- Report","x":70,"y":-570,"width":260,"height":160}
 	],
 	"edges":[
 		{"id":"3ca6e543d5a83981","fromNode":"2b80517928f13624","fromSide":"bottom","toNode":"62f0a8e5af419acb","toSide":"top"},
@@ -27,6 +27,6 @@
 		{"id":"28c62c397b2215e1","fromNode":"62b4f8ac3b8e220a","fromSide":"top","toNode":"62f0a8e5af419acb","toSide":"left"},
 		{"id":"59288e8a9a80a3d0","fromNode":"c6bf5148900e145e","fromSide":"bottom","toNode":"4db701c91768f6ee","toSide":"top"},
 		{"id":"0a3833111c96dedc","fromNode":"4db701c91768f6ee","fromSide":"bottom","toNode":"62b4f8ac3b8e220a","toSide":"top"},
-		{"id":"ec0b27efdf677133","fromNode":"1d5bd0e64489907e","fromSide":"top","toNode":"b9ea79b078f84336","toSide":"left"}
+		{"id":"006103a8abf3d676","fromNode":"1d5bd0e64489907e","fromSide":"top","toNode":"b9ea79b078f84336","toSide":"bottom"}
 	]
 }

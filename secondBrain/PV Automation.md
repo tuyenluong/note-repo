@@ -45,7 +45,7 @@
 		-   @AfterTest
 		-   @AfterSuite
 * Các loại wait dc hỗ trợ bởi Selenium? 
-	* Implicit wait (Đợi ngầm) sẽ đợi một khoản thời gian nhất định trước khi cho ra error No Such Element
+	* Implicit wait (Đợi ngầm) sẽ đợi một khoản thời gian nhất định trước khi tìm element và cho ra error No Such Element
 	* Explicit wait ngoài đợi theo một khoản thời gian ra thì còn có thể đợi theo các điều kiện tương ứng rồi mới cho ra error ElementNotVisibleException
 	* Fluent wait
 * Lúc sử dụng lệnh click, thì có thể sử dụng tọa độ của màn hình để định vị ko?
