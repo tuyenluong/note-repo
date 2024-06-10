@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## To do
 
 - [ ] Start lesson [[JAVA - String pool]]
+- [ ] Start lesson [[JAVA - Sorting data]]
 
 
 ## In progress

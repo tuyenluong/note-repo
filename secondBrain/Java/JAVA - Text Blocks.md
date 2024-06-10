@@ -6,7 +6,6 @@ Indexes: "[[java]]"
 
 ----
 
-
 - Introduced as standard feature in Java 15
 - It has triple quote
 - And be careful when you put the triple quotes in the beginning, it must be followed by the new line.

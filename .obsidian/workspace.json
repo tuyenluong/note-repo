@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dae5f17f72896a57",
+        "id": "ab021cef8e8c11c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e275e4a42c879b81",
+            "id": "e24620039a2d1c09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/JAVA - Creating an Array.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 266.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "secondBrain/Java/JAVA - Creating an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "secondBrain/Java/JAVA - Creating an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "secondBrain/Java/JAVA - Creating an Array.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "secondBrain/Java/JAVA - Creating an Array.md"
+              }
             }
           },
           {
@@ -176,73 +186,74 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
+    "width": 450.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e275e4a42c879b81",
+  "active": "e24620039a2d1c09",
   "lastOpenFiles": [
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/Java/Building Blocks/resouces",
+    "secondBrain/Java/Building Blocks/JAVA - Variables.md",
+    "secondBrain/Java/Building Blocks/JAVA - Text Blocks.md",
+    "secondBrain/Java/Building Blocks/JAVA - Packages.md",
+    "secondBrain/Java/Building Blocks/JAVA - Objects.md",
+    "secondBrain/Java/Building Blocks/JAVA - Compile, Run and Archive.md",
+    "secondBrain/Java/Building Blocks/JAVA - main() method.md",
+    "secondBrain/Java/Building Blocks/JAVA - Local Variable Type Inference.md",
+    "secondBrain/Java/Building Blocks/JAVA - Garbage Collector.md",
+    "secondBrain/Java/Building Blocks/JAVA - Environment.md",
+    "secondBrain/Java/Building Blocks/JAVA - Data Types.md",
+    "secondBrain/Java/Building Blocks/JAVA - Class Structure.md",
+    "secondBrain/Java/Building Blocks/EntendResources",
+    "secondBrain/Java/Building Blocks",
+    "secondBrain/Indexes/java/Modification-date.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Indexes/java/Creation-date.md",
+    "secondBrain/Indexes/java",
     "secondBrain/API/API - What is backward compatibility.md",
-    "secondBrain/API/resources/api-design.v0.2.png",
-    "secondBrain/API/resources/api-design.v0.1.png",
-    "secondBrain/API/API - API Testing Interview questions.md",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "Introduce yourself.md",
-    "secondBrain/PV Automation.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/API/Common API test cases that can be used to test various APIs.md",
-    "README.md",
+    "secondBrain/Java/JAVA - Multidimensional Array.md",
+    "secondBrain/Java/JAVA - Class Structure.md",
+    "secondBrain/Java/JAVA - Packages.md",
+    "secondBrain/Java/JAVA - Variables.md",
+    "secondBrain/Java/JAVA - main() method.md",
+    "secondBrain/Java/JAVA - Text Blocks.md",
+    "secondBrain/Java/JAVA - Data Types.md",
+    "secondBrain/Java/JAVA - Garbage Collector.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/Templates/SELENIUM - template (conflict 2024-05-29-12-34-07).md",
-    "secondBrain/Templates/GIT - template (conflict 2024-05-29-12-34-07).md",
-    "secondBrain/Indexes/exclamation.md",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/java.md",
-    "secondBrain/Indexes/selenium.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Indexes/testingFramework (conflict 2024-05-29-12-34-05).md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/API/API - dsadsadsa.md",
-    "secondBrain/English/vocabbulary/ENG - incident whitespace.md",
-    "secondBrain/Indexes/vocabulary.md",
-    "secondBrain/Indexes/noun.md",
-    "secondBrain/English/ENG - How to COUNT the Uncountable nouns.md",
-    "secondBrain/Indexes/english.md",
-    "secondBrain/Selenium/SELENIUM - Other Wait Strategies.md",
-    "secondBrain/English/vocabbulary",
-    "secondBrain/API/resources/api-design.png",
-    "secondBrain/API/resources",
-    "secondBrain/Jmeter",
-    "secondBrain/Framework/resources/Pasted image 20240406141336.png",
-    "secondBrain/English/resources/Recording 20240429221347.webm",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
-    "secondBrain/English/Vocab",
-    "secondBrain/English/resources/Recording 20240504125210.webm",
-    "secondBrain/English/resources/Recording 20240504124801.webm",
-    "secondBrain/English/resources/Recording 20240504124527.webm",
+    "secondBrain/Java/JAVA - String Builder.md",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "secondBrain/English/resources/essential-whitespace.mp3",
+    "secondBrain/Java/EntendResources/Build-in+Modules.pdf",
+    "secondBrain/Java/resources/Pasted image 20240131065628.png",
+    "secondBrain/Java/resources/Pasted image 20240310145305.png",
+    "secondBrain/Java/resources/Pasted image 20240325234802.png",
+    "secondBrain/Java/resources/Pasted image 20240319010455.png",
+    "secondBrain/Java/resources/Pasted image 20240319010508.png",
+    "secondBrain/Java/String",
+    "secondBrain/Java/resources/Pasted image 20240303132231.png",
+    "secondBrain/Java/resources/Pasted image 20240223004354.png",
+    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/API/resources/api-design.v0.2.png",
+    "secondBrain/Home/Learning",
+    "secondBrain/Home/Kanban-Task",
+    "secondBrain/Home",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
-    "secondBrain/Framework/resources/Pasted image 20240406141301.png",
-    "secondBrain/Framework/resources/Pasted image 20240406141128.png",
-    "secondBrain/Java/Operators/resources/Pasted image 20240310145305.png",
-    "secondBrain/Java/Operators/resources/Pasted image 20240310145155.png",
-    "secondBrain/Java/Operators/resources/Pasted image 20240310145103.png",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
