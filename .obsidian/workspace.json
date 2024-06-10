@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66ff114637c62cf8",
+        "id": "dae5f17f72896a57",
         "type": "tabs",
         "children": [
           {
-            "id": "d37582f970de4360",
+            "id": "e275e4a42c879b81",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "01ee69f7848eddbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Indexes/noun.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "363e43bbc56e20cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "da186bdace748bff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "secondBrain/Framework/Selenium - Java framework.canvas",
-                "viewState": {
-                  "x": 207.47640122501525,
-                  "y": -447.8726851289336,
-                  "zoom": -0.42440423363737756
-                }
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 761.5
+    "width": 303.5
   },
   "right": {
     "id": "24444e767f926965",
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Framework/Selenium - Java framework.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Framework/Selenium - Java framework.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +108,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Framework/Selenium - Java framework.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "secondBrain/Framework/Selenium - Java framework.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -237,18 +195,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b484bb9f38cee836",
+  "active": "e275e4a42c879b81",
   "lastOpenFiles": [
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - What is backward compatibility.md",
+    "secondBrain/API/resources/api-design.v0.2.png",
+    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/API/API - API Testing Interview questions.md",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "Introduce yourself.md",
+    "secondBrain/PV Automation.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/API/Common API test cases that can be used to test various APIs.md",
+    "README.md",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Templates/SELENIUM - template (conflict 2024-05-29-12-34-07).md",
     "secondBrain/Templates/GIT - template (conflict 2024-05-29-12-34-07).md",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Indexes/exclamation.md",
     "secondBrain/Indexes/information_technolody.md",
     "secondBrain/Indexes/java.md",
     "secondBrain/Indexes/selenium.md",
     "secondBrain/Indexes/testingFramework.md",
     "secondBrain/Indexes/testingFramework (conflict 2024-05-29-12-34-05).md",
-    "secondBrain/API/API - Common response codes.md",
     "secondBrain/Global Hotkeys.md",
     "secondBrain/API/API - dsadsadsa.md",
     "secondBrain/English/vocabbulary/ENG - incident whitespace.md",
@@ -257,22 +226,10 @@
     "secondBrain/English/ENG - How to COUNT the Uncountable nouns.md",
     "secondBrain/Indexes/english.md",
     "secondBrain/Selenium/SELENIUM - Other Wait Strategies.md",
-    "secondBrain/Selenium/SELENIUM - Advanced Interactions.md",
-    "secondBrain/Selenium/SELENIUM - Additional Keys (conflict 2024-05-29-12-34-07).md",
-    "secondBrain/Indexes/selenium (conflict 2024-05-29-12-34-05).md",
-    "secondBrain/Indexes/api (conflict 2024-05-29-12-34-05).md",
-    "secondBrain/Indexes/languages.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/PV Automation.md",
-    "secondBrain/API/resources/api-design.v0.1.png",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "Introduce yourself.md",
-    "secondBrain/API/resources/api-design.v0.2.png",
     "secondBrain/English/vocabbulary",
     "secondBrain/API/resources/api-design.png",
     "secondBrain/API/resources",
     "secondBrain/Jmeter",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "secondBrain/Framework/resources/Pasted image 20240406141336.png",
     "secondBrain/English/resources/Recording 20240429221347.webm",
     "secondBrain/English/resources/Recording 20240504124527.webm",

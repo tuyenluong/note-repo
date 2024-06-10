@@ -3,7 +3,6 @@ Creation_date: 2024-03-03 12:01
 Modification_date: Monday 18th March 2024 20:31:39
 Indexes: "[[api]]"
 ---
-Tags: [[api]]
 
 1.  What is an API and how does it work?
 	1. Follow-up question: What are some examples of APIs that you have used or interacted with?

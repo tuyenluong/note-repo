@@ -26,8 +26,11 @@ When making API requests, verifying the response code is a crucial step in deter
 	- The server understood the request but refuses to authorize it.
 - **404 Not Found**: 
 	- The server can't find the requested resource. This is often used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.
+- **409 Conflict:**
+	- This status code indicates that the request could not be completed due to a conflict with the current state of the resource. In the context of creating a user, it means that a user with the same identifier (such as a username or email) already exists in the system, and thus, the server is unable to fulfil the request to create a new user with the same identifier.
 - **422 Un-Processable Content:**
 	- Indicates that the server understands the content type of the request entity, and the syntax of the request entity is correct, but it was unable to process the contained instructions.
+- **429 Too many requests**:
 - **500 Internal Server Error**: 
 	- The server has encountered a situation it doesn't know how to handle.
 
