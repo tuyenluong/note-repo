@@ -54,7 +54,7 @@ System.out.println(name);            // and then insert "A" after index 6
 ```
 
 ### `delete(int start, int end)` method
-- The `delete()` method of StringBuilder class removes the characters starting from index start to index end-1 from String contained by StringBuilder.
+- The `delete()` method of StringBuilder class removes the characters from index start to index end-1 from String contained by StringBuilder.
 - This method takes two indexes as a parameter first start represents index of the first character and end Index represents index after the last character of the substring to be removed from String contained by StringBuilder and returns the remaining String as StringBuilder Object.
 - **Parameters:** This method accepts two parameters: 
 	- **start**: index of the first character of the substring.
@@ -67,7 +67,12 @@ System.out.println(name);            // and then insert "A" after index 6
 ### `replace()`method
 - These are actually two different method, the String `replace()` method and the StringBuilder `replace()` method. 
 - 
-
+```java
+StringBuilder sb = new StringBuilder("abcdef");
+sb.replace(1, 3, "John") // insert "D." after index 5 first
+System.out.println(name);            // and then insert "A" after index 6
+==>>John DA. Wayne  // which is the dot sign
+```
 
 
 

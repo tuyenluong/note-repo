@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] [[Rename all the note in Learning]]
-- [ ] [[Add flashcards in all note in Learning]]
-- [ ] [[Add creation and modification date into each index pages]]
+- [ ] [[secondBrain/Kanban/Kanban-Task/Rename all the note in Learning]]
+- [ ] [[secondBrain/Kanban/Kanban-Task/Add flashcards in all note in Learning]]
+- [ ] [[secondBrain/Kanban/Kanban-Task/Add creation and modification date into each index pages]]
 
 
 ## In progress

@@ -3,7 +3,6 @@ Creation_date: 2024-04-10 17:00
 Modification_date: Wednesday 10th April 2024 17:00:32
 Indexes: "[[git]]"
 ---
-
 ----
 
 

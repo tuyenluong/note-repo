@@ -6,7 +6,7 @@ Indexes:
   - "[[Ideas]]"
   - "[[Interests]]"
   - "[[Templates manage]]"
-  - "[[Kanban_board]]"
+  - "[[secondBrain/Kanban-Task/Kanban_board]]"
 ---
 
 

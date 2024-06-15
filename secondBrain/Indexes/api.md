@@ -4,7 +4,6 @@ Modification_date: Tuesday 26th March 2024 00:42:32
 Indexes:
   - "[[information_technolody]]"
 ---
-
 ```dataview
 table file.name as Title, Creation_date, Modification_date
 from [[api]]  sort Creation_date DESC
