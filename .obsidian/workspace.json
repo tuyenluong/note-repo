@@ -4,15 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "35064e457138e12c",
+        "id": "4314a2e2a71e5829",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f7021612f7449e",
+            "id": "2bcb7daaccc96156",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "1d7021824479ca12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/PV Automation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cd9593ffb1a7e3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008a0485fa4c1fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/API/API - Common response codes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +98,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 350.5
+=======
+    "width": 303.5,
+    "collapsed": true
+>>>>>>> 8bd7a99 (update note API)
   },
   "right": {
     "id": "24444e767f926965",
@@ -81,7 +119,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
+=======
+                "file": "secondBrain/Java/PV Automation.md",
+>>>>>>> 8bd7a99 (update note API)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +140,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
+=======
+                "file": "secondBrain/Java/PV Automation.md",
+>>>>>>> 8bd7a99 (update note API)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +156,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "secondBrain/Kanban-Task/Kanban_board.md",
+=======
+                "file": "secondBrain/Java/PV Automation.md",
+>>>>>>> 8bd7a99 (update note API)
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +206,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "secondBrain/Kanban-Task/Kanban_board.md"
+=======
+                "file": "secondBrain/Java/PV Automation.md"
+>>>>>>> 8bd7a99 (update note API)
               }
             }
           },
@@ -181,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5,
+    "width": 261.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,6 +246,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "audio-recorder:Start/stop recording": false
     }
   },
@@ -280,6 +335,65 @@
     "secondBrain/Java/resources/Pasted image 20240303132231.png",
     "secondBrain/Java/resources/Pasted image 20240223004354.png",
     "secondBrain/Framework/resources/Pasted image 20240406143441.png",
+=======
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "1d7021824479ca12",
+  "lastOpenFiles": [
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/Java/PV Automation.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/API/API - Response code.md",
+    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/API/resources/api-design.v0.2.png",
+    "secondBrain/API/API Testing Interview questions.md",
+    "secondBrain/Java/JAVA - Operators in Java.md",
+    "secondBrain/Java/JAVA - If-Else Statement.md",
+    "secondBrain/Java/JAVA - Switch Statement.md",
+    "secondBrain/Java/JAVA - What is mutable and immutable means.md",
+    "secondBrain/Templates/Introduce yourself.md",
+    "secondBrain/Linux/LINUX - CentOS vs CentOS Stream.md",
+    "secondBrain/Linux/LINUX - Creating a Virtual Machine.md",
+    "secondBrain/Linux/LINUX - Different Ways to Install Linux.md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 8).md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 7).md",
+    "secondBrain/Linux/LINUX - Downloading and Installing VirtualBox.md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 9).md",
+    "secondBrain/Linux/LINUX - History of Linux.md",
+    "secondBrain/Linux/LINUX - Keyboard Keys Used in Linux.md",
+    "secondBrain/Linux/LINUX - Lab Design.md",
+    "secondBrain/Linux/LINUX - Linux flavours.md",
+    "secondBrain/Linux/LINUX - Linux Users.md",
+    "secondBrain/Linux/LINUX - Linux vs Unix.md",
+    "secondBrain/Linux/LINUX - Linux vs Windows.md",
+    "secondBrain/Linux/LINUX - Message for Redhat Installation.md",
+    "secondBrain/Linux/LINUX - Option Install Linux on Cloud.md",
+    "secondBrain/Linux/ExtendResouces/Module+1.pdf",
+    "secondBrain/Linux/ExtendResouces/Virtual+memory.pdf",
+    "secondBrain/Linux/ExtendResouces/Parts+of+OS.pdf",
+    "secondBrain/Linux/ExtendResouces/Operating+system.pdf",
+    "secondBrain/Linux/ExtendResouces/Inside+Linux.pdf",
+    "secondBrain/Linux/ExtendResouces/History+of+Unix.pdf",
+    "secondBrain/Linux/ExtendResouces",
+    "secondBrain/Java/resources/Pasted image 20240223012227.png",
+    "secondBrain/Java/resources/Pasted image 20240325234802.png",
+    "secondBrain/Java/resources/Pasted image 20240319010508.png",
+    "secondBrain/Java/resources/Pasted image 20240319010455.png",
+    "secondBrain/Java/resources/Pasted image 20240310145305.png",
+    "secondBrain/Java/resources/Pasted image 20240310145155.png",
+    "secondBrain/Java/resources/Pasted image 20240310145103.png",
+    "secondBrain/Java/resources/Pasted image 20240303141212.png",
+    "secondBrain/Java/resources",
+    "secondBrain/Java/EntendResources/Build-in+Modules.pdf",
+    "secondBrain/Java/EntendResources",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
+>>>>>>> 8bd7a99 (update note API)
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
