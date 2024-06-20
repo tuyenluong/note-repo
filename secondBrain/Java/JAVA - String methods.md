@@ -237,7 +237,7 @@ System.out.println(name.replace("bcd", "xyz"));
 ```
 
 ### `strip()`, `trim()`, `stripLeading()`, `stripTrailing()`
-- [[JAVA - Java Versions#^a09d53|stirp(), stripLeading(), stripTrailing() was introduced in Java 11]]
+- [[java-11|stirp(), stripLeading(), stripTrailing() was introduced in Java 11]]
 	- Whitespaces also includes `\t (tab)`, `\n (new line)`, `\r (carriage return)`.
 	- All escape sequences count as one character in length.
 - [[JAVA - What is the different between trim() and strip()|More detail about stirp(), stripLeading(), stripTrailing()]]
@@ -267,7 +267,7 @@ System.out.println("|" + str.strip() + "|");
 ```
 
 ### `indent(n)` method
-- [[JAVA - Java Versions#^27d3ee|indent() method was introduced in Java 12]]
+- [[java-12|indent() method was introduced in Java 12]]
 - This method is useful to add or remove white spaces from the beginning of the line to adjust indentation for each string line. 
 - `indent(n)` method takes one parameter, which is integer.
 - It also normalizes exiting line terminators

@@ -70,10 +70,26 @@ System.out.println(name);            // and then insert "A" after index 6
 - In below case, `b` and `c` will be removed and `JOHN` will be inserted.
 ```java
 StringBuilder sb = new StringBuilder("abcdef");
-sb.replace(1, 3, "John") // insert "D." after index 5 first
-System.out.println(name);            // and then insert "A" after index 6
-==>>John DA. Wayne  // which is the dot sign
+sb.replace(1, 3, "John")    // insert "D." after index 5 first
+System.out.println(sb);     // and then insert "A" after index 6
+==>>John DA. Wayne          // which is the dot sign
 ```
+- If the end index is to large, `replace()` through the end (*no exception!*)
+- Although 100 is greater than the length of the String, but for the compiler, this just means go through the end of the String
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+name.replace(5, 100, "Doe"); 
+System.out.println(name);   
+==>>John Doe
+```
+
+## `reverse()`method
+
+## `toString()`method
+
+
+
+
 
 
 
