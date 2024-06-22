@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54bafb0e1f59dd3a",
+        "id": "8ee84d2e7f7162df",
         "type": "tabs",
         "children": [
           {
-            "id": "4b40d2397fb2b097",
+            "id": "bc1e6bdd841cc2c5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -162,35 +162,68 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4b40d2397fb2b097",
+  "floating": {
+    "id": "50519e8ba7425e79",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a43777c1c22e3a95",
+        "type": "window",
+        "children": [
+          {
+            "id": "50cb6b2e185262ad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf028383c0c1ec25",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1536,
+        "height": 824,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bc1e6bdd841cc2c5",
   "lastOpenFiles": [
     "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Indexes/java/java-version.md",
-    "secondBrain/Indexes/java/java-9.md",
-    "secondBrain/Indexes/java/java-8-or-lower.md",
-    "secondBrain/Indexes/api.md",
-    "secondBrain/Indexes/selenium.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Indexes/linux.md",
-    "secondBrain/Indexes/languages.md",
-    "secondBrain/Indexes/istqb.md",
-    "secondBrain/Indexes/Interests.md",
-    "secondBrain/Indexes/english/vocabulary.md",
-    "secondBrain/Indexes/english/noun.md",
-    "secondBrain/Indexes/english/collocation - phrases.md",
-    "secondBrain/Indexes/english/exclamation.md",
-    "secondBrain/Indexes/english/english.md",
-    "secondBrain/Indexes/english/adjective.md",
-    "secondBrain/Indexes/english/grammar.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/english",
+    "secondBrain/Java/JAVA - String Builder.md",
+    "secondBrain/Java/JAVA - Comparison Operators.md",
+    "secondBrain/Java/JAVA - Unary Operators.md",
+    "secondBrain/Java/JAVA - Operators in Java.md",
+    "secondBrain/Java/JAVA - Class Structure.md",
+    "secondBrain/Java/JAVA - Compile, Run and Archive.md",
+    "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/Java/JAVA - Creating Dates and Times.md",
+    "secondBrain/Java/JAVA - Data Types.md",
+    "secondBrain/Java/JAVA - Do-While Loop.md",
+    "secondBrain/Java/JAVA - Environment.md",
+    "secondBrain/Java/JAVA - Garbage Collector.md",
+    "secondBrain/Java/JAVA - Functional interfaces.md",
+    "secondBrain/Java/JAVA - If-Else Statement.md",
+    "secondBrain/Java/JAVA - Interface & Abstract.md",
+    "secondBrain/Java/JAVA - Multidimensional Array.md",
+    "secondBrain/Java/JAVA - Methods on Dates and Times.md",
+    "secondBrain/Java/JAVA - Objects.md",
+    "secondBrain/Java/JAVA - Binary Operators.md",
+    "secondBrain/Java/JAVA - Local Variable Type Inference.md",
+    "secondBrain/Java/JAVA - Switch Expression.md",
+    "secondBrain/Java/JAVA - Switch Statement.md",
+    "secondBrain/Java/JAVA - Text Blocks.md",
+    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
     "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Indexes/java/java-12.md",
-    "secondBrain/Indexes/java/java-11.md",
-    "secondBrain/Indexes/java/java-10.md",
-    "secondBrain/Java/JAVA - Java Versions.md",
-    "secondBrain/Java/Java12.md",
-    "secondBrain/Indexes/java/java-22.md",
+    "secondBrain/Indexes/english",
     "secondBrain/Indexes/java"
   ]
 }

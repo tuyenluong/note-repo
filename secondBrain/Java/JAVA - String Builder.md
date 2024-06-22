@@ -84,11 +84,57 @@ System.out.println(name);
 ```
 
 ## `reverse()`method
+- `reverse()`method is a straightforward method, it will reverse the given string in the StringBuilder object. 
+```java
+StringBuilder name = new StringBuilder("LUKA");
+name.reverse(); 
+System.out.println(name);   
+==>>AKUL
+```
 
 ## `toString()`method
+- `toString()`method helps return a String object from the StringBuilder object.
+- This method not just present is StringBuilder class, but also present in many other classes that inherited from the Object class.
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+String strName = name.toString();
+```
 
 
+## StringBuilder doesn't implement `equals()`method!!
+- `equals()` is the same as [[JAVA - Comparison Operators#^0c8660|equals operator]]
+```java
+StringBuilder name1 = new StringBuilder("John Wayne");
+StringBuilder name2 = new StringBuilder("John Wayne");
+System.out.println(name1 == name2);   
+==>>false
+System.out.println(name1.equals(name2));   
+==>>false
+```
+- If you want to compare the content, we have to convert it back to String:
+```java
+StringBuilder name1 = new StringBuilder("John Wayne");
+StringBuilder name2 = new StringBuilder("John Wayne");
+System.out.println(name1.toString().equals(name2.toString()));   
+==>>true
+```
 
+## `subString()`returns a String and doesn't change the StringBuilder content
+- The `subString()`method in the StringBuilder class need to return to a String variable, other wise it will not apply the changes on the StringBuilder content.
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+name.subString(2, 6);
+System.out.println(name);   
+==>>John Wayne
+```
+
+- Here the fix code:
+```java
+StringBuilder name = new StringBuilder("John Wayne");
+String subName = name.subString(2, 6);
+System.out.println(subName);   
+==>>hn W
+```
 
 
 

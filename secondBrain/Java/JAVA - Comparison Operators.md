@@ -8,7 +8,7 @@ Indexes: "[[java]]"
 ## Comparison operators
 
 1. Return a `boolean` value (*true or false*).
-2. Equals operator (*a == b*).
+2. Equals operator (*a == b*). ^0c8660
 	1. Primitives: returns true if values are the same.
 	2. Objects: [[JAVA - Comparison Operators#^bf36c0|returns true if both values reference to the same object.]]
 3. Not-equals operator (*a != b*) works in the same way.
@@ -42,7 +42,7 @@ These operators just straight forward.
 | >          | greater                                                                             |
 | >=         | greater or equal                                                                    |
 | instanceof | instanceof in Java is a comparison operator which specified in comparison data type |
-### instanceof
+### `instanceof`
 - `instanceof` can compare the reference data type and return the value `true` or `false` base on the result.
 	- `instanceof` can also compares the reference it's a specified type of a class or sub-class or a interface
 	- It returns `true` or `false`.

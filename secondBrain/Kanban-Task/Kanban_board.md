@@ -1,12 +1,11 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
 ## To do
 
-- [ ] Start lesson [[JAVA - String pool]]
 - [ ] Start lesson [[JAVA - Sorting data]]
 
 
@@ -14,12 +13,13 @@ kanban-plugin: basic
 
 **Complete**
 - [x] [[secondBrain/Kanban-Task/Add flashcards in all note in Learning]]
-- [ ] Start lesson [[JAVA - String Builder]]
+- [x] Start lesson [[JAVA - String pool]]
 
 
 ## Done
 
 **Complete**
+- [x] Start lesson [[JAVA - String Builder]]
 
 
 ## Production
@@ -42,6 +42,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

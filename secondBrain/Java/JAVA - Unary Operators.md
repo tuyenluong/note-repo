@@ -39,4 +39,4 @@ Here's what happens step by step:
 3. The stored value (5) is assigned to `a` because of the assignment operation (`a =`).
 4. As a result, after the statement `a = a++;`, `a` will still have the value 5.
 
-- The reason behind this behavior is that the post-increment operator (`a++`) increments the value of `a`, but returns the original value before the increment. So, even though `a` is incremented, the incremented value is not stored in `a` until after the assignment operation is completed. Therefore, the assignment reverts `a` back to its original value before the increment.
+- The reason behind this behaviour is that the post-increment operator (`a++`) increments the value of `a`, but returns the original value before the increment. So, even though `a` is incremented, the incremented value is not stored in `a` until after the assignment operation is completed. Therefore, the assignment reverts `a` back to its original value before the increment.

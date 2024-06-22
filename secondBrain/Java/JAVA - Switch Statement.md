@@ -4,7 +4,6 @@ Modification_date: Sunday 10th March 2024 14:56:01
 Indexes: "[[java]]"
 ---
 
-
 ----
 
 ## The Syntax of Switch Statement
