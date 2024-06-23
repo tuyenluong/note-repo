@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee84d2e7f7162df",
+        "id": "3815fd3921b4fbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1e6bdd841cc2c5",
+            "id": "281c3fdf2ba2ae6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0eec3c59c20780ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/JAVA - String Pool.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde05d4d00e16662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e488f40e3adda95",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -89,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+              }
             }
           },
           {
@@ -147,57 +193,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "custom-sort:Toggle custom sorting": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "floating": {
-    "id": "50519e8ba7425e79",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a43777c1c22e3a95",
-        "type": "window",
-        "children": [
-          {
-            "id": "50cb6b2e185262ad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf028383c0c1ec25",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1536,
-        "height": 824,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bc1e6bdd841cc2c5",
+  "active": "281c3fdf2ba2ae6c",
   "lastOpenFiles": [
+    "secondBrain/Java/JAVA - String Pool.md",
+    "secondBrain/Java/resources/Pasted image 20240624011359.png",
+    "secondBrain/Java/resources/Pasted image 20240624011005.png",
     "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
+    "secondBrain/Java/resources/Pasted image 20240623143302.png",
+    "secondBrain/Java/JAVA - Garbage Collector.md",
+    "secondBrain/Indexes/java/java-version.md",
+    "secondBrain/Java/resources/Pasted image 20240623135612.png",
+    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Java/JAVA - Variables.md",
+    "secondBrain/Java/JAVA - Local Variable Type Inference.md",
+    "secondBrain/Indexes/java/java-10.md",
+    "secondBrain/Java/JAVA - Switch Expression.md",
+    "secondBrain/Indexes/java/java-17.md",
+    "secondBrain/Indexes/java/java-8-or-lower.md",
+    "secondBrain/Java/resources/Pasted image 20240623111452.png",
+    "secondBrain/Indexes/english/idioms.md",
+    "secondBrain/Indexes/english/slangs.md",
     "secondBrain/Java/JAVA - String Builder.md",
     "secondBrain/Java/JAVA - Comparison Operators.md",
     "secondBrain/Java/JAVA - Unary Operators.md",
@@ -209,20 +241,6 @@
     "secondBrain/Java/JAVA - Data Types.md",
     "secondBrain/Java/JAVA - Do-While Loop.md",
     "secondBrain/Java/JAVA - Environment.md",
-    "secondBrain/Java/JAVA - Garbage Collector.md",
-    "secondBrain/Java/JAVA - Functional interfaces.md",
-    "secondBrain/Java/JAVA - If-Else Statement.md",
-    "secondBrain/Java/JAVA - Interface & Abstract.md",
-    "secondBrain/Java/JAVA - Multidimensional Array.md",
-    "secondBrain/Java/JAVA - Methods on Dates and Times.md",
-    "secondBrain/Java/JAVA - Objects.md",
-    "secondBrain/Java/JAVA - Binary Operators.md",
-    "secondBrain/Java/JAVA - Local Variable Type Inference.md",
-    "secondBrain/Java/JAVA - Switch Expression.md",
-    "secondBrain/Java/JAVA - Switch Statement.md",
-    "secondBrain/Java/JAVA - Text Blocks.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/Java/JAVA - String methods.md",
     "secondBrain/Indexes/english",
     "secondBrain/Indexes/java"
   ]

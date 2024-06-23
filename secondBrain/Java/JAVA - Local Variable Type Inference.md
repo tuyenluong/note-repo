@@ -7,7 +7,7 @@ Indexes: "[[java]]"
 
 ----
 
-This new feature called "***Local Variable Type Inference***" (*LVTI*), **this feature is introduced in Java 10**.
+This new feature called "***Local Variable Type Inference***" (*LVTI*), **this feature is introduced in** [[java-10|Java 10]]. 
 - **Local variables** - can be used only for local variables.
 - **Type inference** - the type of the variable is inferred by the compiler.
 	- The way of the type inferred works is the compiler will figure out the type based on the assigned value to the variable.

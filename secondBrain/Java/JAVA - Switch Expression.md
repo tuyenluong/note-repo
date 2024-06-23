@@ -5,9 +5,11 @@ Indexes: "[[java]]"
 ---
 
 ----
-xpression only available for Java 17 and above only
+Expression only available for Java 17 and above only
 
 - Improved syntax for combining values from Java 8 to Java 17
+
+[[java-8-or-lower|Java 8 version]]
 ```java
 ==>> Java 8
 ==>> Standard way to use Switch statment
@@ -28,6 +30,7 @@ switch(a){
 }
 ```
 
+[[java-17|Java 17 version]]
 ```java
 ==>> Java 17
 ==>> Able to combind and delimate values by commas 

@@ -14,10 +14,7 @@
       "autoCreate": true,
       "autoScroll": false,
       "pin": true,
-      "commands": [
-        "graph:open",
-        "workspace:move-to-new-window"
-      ],
+      "commands": [],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }

@@ -13,13 +13,13 @@ kanban-plugin: board
 
 **Complete**
 - [x] [[secondBrain/Kanban-Task/Add flashcards in all note in Learning]]
-- [x] Start lesson [[JAVA - String pool]]
 
 
 ## Done
 
 **Complete**
 - [x] Start lesson [[JAVA - String Builder]]
+- [x] Start lesson [[JAVA - String Pool]]
 
 
 ## Production
