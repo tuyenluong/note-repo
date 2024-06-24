@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3815fd3921b4fbf4",
+        "id": "eb2b325d5b4aa7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "281c3fdf2ba2ae6c",
+            "id": "6f24857ae1ca14d5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,40 +21,6 @@
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "0eec3c59c20780ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/JAVA - String Pool.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde05d4d00e16662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e488f40e3adda95",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -182,13 +148,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "a6d2fb196eedd555",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9kaWN0aW9uYXJ5LmNhbWJyaWRnZS5vcmcvdmkvZGljdGlvbmFyeS9lbmdsaXNo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 622.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,41 +180,44 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "3d-graph:3D Graph": false
+      "open-gate:English-Vocabulary": false
     }
   },
-  "active": "281c3fdf2ba2ae6c",
+  "active": "6f24857ae1ca14d5",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA - String Pool.md",
+    "secondBrain/English/ENG - List of keywords or phrases.md",
+    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
+    "secondBrain/Kanban/Kanban-Task/Kanban_board.md",
+    "secondBrain/Java/JAVA - String Builder.md",
+    "secondBrain/Java/JAVA - What is mutable and immutable means.md",
+    "secondBrain/Java/JAVA - String pool.md",
+    "secondBrain/Indexes/java/java-8-or-lower.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Indexes/selenium.md",
+    "secondBrain/Indexes/english/noun.md",
+    "secondBrain/Java/resources/Pasted image 20240623143302.png",
+    "secondBrain/Java/JAVA - Local Variable Type Inference.md",
+    "secondBrain/Java/JAVA - Garbage Collector.md",
+    "secondBrain/Indexes/java/java-10.md",
+    "secondBrain/Indexes/java/java-version.md",
+    "secondBrain/Indexes/java/java-17.md",
+    "secondBrain/Java/JAVA - Switch Expression.md",
+    "secondBrain/Indexes/java/java-22.md",
+    "secondBrain/Indexes/java/java-12.md",
+    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Java/JAVA - What is the different between trim() and strip().md",
+    "secondBrain/Java/JAVA - Unicode under U+0020.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Indexes/english/vocabulary.md",
+    "ENG - legal age.md",
+    "secondBrain/Indexes/english/ENG - social drinker.md",
+    "secondBrain/English/resources/Recording 20240504123741.webm",
+    "ENG -  heavy drinker.md",
+    "Pasted image 20240624124346.png",
     "secondBrain/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Java/resources/Pasted image 20240624011005.png",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
-    "secondBrain/Java/resources/Pasted image 20240623143302.png",
-    "secondBrain/Java/JAVA - Garbage Collector.md",
-    "secondBrain/Indexes/java/java-version.md",
     "secondBrain/Java/resources/Pasted image 20240623135612.png",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Java/JAVA - Variables.md",
-    "secondBrain/Java/JAVA - Local Variable Type Inference.md",
-    "secondBrain/Indexes/java/java-10.md",
-    "secondBrain/Java/JAVA - Switch Expression.md",
-    "secondBrain/Indexes/java/java-17.md",
-    "secondBrain/Indexes/java/java-8-or-lower.md",
     "secondBrain/Java/resources/Pasted image 20240623111452.png",
-    "secondBrain/Indexes/english/idioms.md",
-    "secondBrain/Indexes/english/slangs.md",
-    "secondBrain/Java/JAVA - String Builder.md",
-    "secondBrain/Java/JAVA - Comparison Operators.md",
-    "secondBrain/Java/JAVA - Unary Operators.md",
-    "secondBrain/Java/JAVA - Operators in Java.md",
-    "secondBrain/Java/JAVA - Class Structure.md",
-    "secondBrain/Java/JAVA - Compile, Run and Archive.md",
-    "secondBrain/Java/JAVA - Creating an Array.md",
-    "secondBrain/Java/JAVA - Creating Dates and Times.md",
-    "secondBrain/Java/JAVA - Data Types.md",
-    "secondBrain/Java/JAVA - Do-While Loop.md",
-    "secondBrain/Java/JAVA - Environment.md",
     "secondBrain/Indexes/english",
     "secondBrain/Indexes/java"
   ]

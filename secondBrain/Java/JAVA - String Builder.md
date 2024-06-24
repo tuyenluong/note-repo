@@ -100,7 +100,6 @@ StringBuilder name = new StringBuilder("John Wayne");
 String strName = name.toString();
 ```
 
-
 ## StringBuilder doesn't implement `equals()`method!!
 - `equals()` is the same as [[JAVA - Comparison Operators#^0c8660|equals operator]]
 ```java
@@ -119,7 +118,7 @@ System.out.println(name1.toString().equals(name2.toString()));
 ==>>true
 ```
 
-## `subString()`returns a String and doesn't change the StringBuilder content
+## `subString()`doesn't change the StringBuilder content if it don't returns a String
 - The `subString()`method in the StringBuilder class need to return to a String variable, other wise it will not apply the changes on the StringBuilder content.
 ```java
 StringBuilder name = new StringBuilder("John Wayne");
@@ -128,7 +127,7 @@ System.out.println(name);
 ==>>John Wayne
 ```
 
-- Here the fix code:
+- Here are the fix code:
 ```java
 StringBuilder name = new StringBuilder("John Wayne");
 String subName = name.subString(2, 6);

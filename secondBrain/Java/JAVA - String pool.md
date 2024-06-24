@@ -8,7 +8,8 @@ Indexes: "[[java]]"
 
 ## What is **String pool** or **intern pool**?
 
--  **String pool** or **intern pool** is a place for JVM to stores new string with literal value into it.
+-  **String pool** is available from [[java-8-or-lower|Java 7 and onward]]
+- **String pool** or **intern pool** is a place for JVM to stores new string with literal value into it.
 - Now if you create a new string variable and assign it with the sane literal value.
 	- Instead of creating a new memory spot for this literal value.
 	- Java will save the memory and look in the **String Pool**.
@@ -36,7 +37,7 @@ System.out.println(name == theName);
 
 - The result will be false. Why you asked?
 
-Because the Pool is created at Compile-time, and `trim()`is evaluated at Run-time. >> [[JAVA - What is the differ between Run-time and Compile-time|See more what is the differ between Compile-time and Run-time]]
+Because the Pool is created at Compile-time, and `trim()`is evaluated at Run-time. [[JAVA - What is the differ between Run-time and Compile-time|>>>See more what is the differ between Compile-time and Run-time]]
 
 The compiler doesn't know that these two literals are equivalent because the `trim()`will be evaluated only at Run-time.
 
@@ -71,3 +72,13 @@ Note that, if another _String_ with the same contents exists in the String c
 
 - If you don't want the compiler to use the SCP, then you can achieve this by creating a new object with the keyword "new"
 ![[Pasted image 20240624011359.png]]
+
+## A note from Java 9
+
+Until [[java-8-or-lower|Java 8]], _Strings_ were internally represented as an array of characters – _char[]_, encoded in _UTF-16_, so that every character uses two bytes of memory.
+
+With [[java-9|Java 9]] a new representation is provided, called _Compact Strings._ This new format will choose the appropriate encoding between _char[]_ and _byte[]_ depending on the stored content.
+
+Since the new _String_ representation will use the _UTF-16_ encoding only when necessary, the amount of _heap_ memory will be significantly lower, which in turn causes less _Garbage Collector_ overhead on the _JVM._
+
+[Reference by Baeldung page](https://www.baeldung.com/java-string-pool#a-note-about-java-9)
