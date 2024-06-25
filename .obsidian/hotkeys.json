@@ -101,5 +101,23 @@
       ],
       "key": "X"
     }
+  ],
+  "open-gate:open-list-gates-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "open-gate:open-gate-create-new": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

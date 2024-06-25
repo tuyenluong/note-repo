@@ -2,12 +2,9 @@
 Creation_date: 2024-05-20 10:21
 Modification_date: Monday 20th May 2024 10:21:43
 Indexes:
-  - "[[java]]"
+  - "[[functional_interfaces]]"
 ---
-
-
 ----
-
 # Four available Functional interfaces and examples
 
 There are four main functional interfaces in Java, three of which are commonly used in the **Stream API**:

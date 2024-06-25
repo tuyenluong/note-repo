@@ -1,7 +1,8 @@
 ---
 Creation_date: 2024-02-12 13:09
 Modification_date: Monday 12th February 2024 13:09:49
-Indexes: "[[java]]"
+Indexes:
+  - "[[java_building_block]]"
 ---
 
 

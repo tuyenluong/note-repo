@@ -1,7 +1,8 @@
 ---
 Creation_date: 2024-04-29 21:13
 Modification_date: Monday 29th April 2024 21:13:50
-Indexes: "[[java]]"
+Indexes:
+  - "[[string]]"
 ---
 
 

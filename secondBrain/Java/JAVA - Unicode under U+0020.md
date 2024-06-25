@@ -2,7 +2,7 @@
 Creation_date: 2024-06-18 10:23
 Modification_date: Tuesday 18th June 2024 10:23:06
 Indexes:
-  - "[[java]]"
+  - "[[string]]"
 ---
 ----
 

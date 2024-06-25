@@ -11,6 +11,28 @@
       "url": "https://dictionary.cambridge.org/vi/dictionary/english",
       "zoomFactor": 1,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly93d3cuamF2YXRwb2ludC5jb20vamF2YS10dXRvcmlhbA==": {
+      "id": "aHR0cHM6Ly93d3cuamF2YXRwb2ludC5jb20vamF2YS10dXRvcmlhbA==",
+      "title": "JavaPoint",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly93d3cuamF2YXRwb2ludC5jb20vamF2YS10dXRvcmlhbA%3D%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://www.javatpoint.com/java-tutorial",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==": {
+      "id": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+      "title": "Java-Udemy",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw%3D%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://www.udemy.com/course/java-certification-exam-prep-oca-1z0-808-ocp-1z0-829/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
     }
   }
 }
