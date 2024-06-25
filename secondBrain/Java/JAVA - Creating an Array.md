@@ -9,11 +9,16 @@ Indexes:
 ## `Arrays.sort()` method
 - Creating a new array
 - Arrays are [[JAVA - What is mutable and immutable means|mutable]], `sort()` changes the original array! 
-```java
-int[] nums = new int[]{3, -1, 17}
-Arrays.sort(nums);
-System.out.println(Arrays.toString(nums));
-==>> [-1, 3, 17]
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		int[] nums = new int[]{3, 17, -1};
+		Arrays.sort(nums);
+		System.out.println(Arrays.toString(nums));
+		//==>> [-1, 3, 17]
+	}
+}
 ```
 
 ## `Arrays.binarySearch(arr[], elementOfTheArr)` method
@@ -28,31 +33,50 @@ System.out.println(Arrays.toString(nums));
 ### Examples
 
 - Sorted array
-```java
-int[] nums = new int[]{3, -1, 17}
-Arrays.sort(nums); // [-1, 3, 17]
-System.out.println(Arrays.binarySearch(nums, -1));
-==>> 0
-System.out.println(Arrays.binarySearch(nums, 17));
-==>> 2
-System.out.println(Arrays.binarySearch(nums, 0));
-==>> -2
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		int[] nums = new int[]{3, 17, -1};
+		Arrays.sort(nums); // [-1, 3, 17]
+		System.out.println(Arrays.binarySearch(nums, -1));
+		//==>> 0
+		System.out.println(Arrays.binarySearch(nums, 17));
+		//==>> 2
+		System.out.println(Arrays.binarySearch(nums, 0));
+		//==>> -2
+	}
+}
 ```
 
 - Unsorted array
-```java
-int[] nums = new int[]{3, -1, 17}
-System.out.println(Arrays.binarySearch(nums, -1));
-==>> unpredictable result
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		int[] nums = new int[]{3, 17, -1};
+		System.out.println(Arrays.binarySearch(nums, -1));
+		//==>> unpredictable result
+	}
+}
 ```
 
 ## `Arrays.compare(fistArr, secondArr)` method
 
-- Determines which array is `smaller` and returns:
+- How to determines which array is `smaller` and returns?
 	- Negative number if `first` is smaller then the `second`
 	- Zero if the arrays are equal in content
 	- Positive number if `first` is larger then the `second`
-
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		System.out.println("Return positive number: " + Arrays.compare(new int[]{3, 7}, new int[]{3}) );
+		System.out.println("Return number zero: " + Arrays.compare(new int[]{3, 7}, new int[]{3, 7}));
+		System.out.println("Return negative number: "+Arrays.compare(new int[]{3, 3}, new int[]{7}));
+	}
+}
+```
 ### What is consider `smaller`?
 
 - If one array has less number of elements, it's `smaller`
@@ -64,4 +88,5 @@ System.out.println(Arrays.binarySearch(nums, -1));
 	- Numbers are `smaller` than letters
 	- Uppercase is `smaller` than lowercase
 	- Alphabetical order is applied
-https://onecompiler.com/java/42ha4j96y
+
+

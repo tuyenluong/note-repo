@@ -33,6 +33,28 @@
       "url": "https://www.udemy.com/course/java-certification-exam-prep-oca-1z0-808-ocp-1z0-829/",
       "zoomFactor": 1,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9jb21wbGV0ZS1saW51eC10cmFpbmluZy1jb3Vyc2UtdG8tZ2V0LXlvdXItZHJlYW0taXQtam9iLw==": {
+      "id": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9jb21wbGV0ZS1saW51eC10cmFpbmluZy1jb3Vyc2UtdG8tZ2V0LXlvdXItZHJlYW0taXQtam9iLw==",
+      "title": "Linux-Udemy",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9jb21wbGV0ZS1saW51eC10cmFpbmluZy1jb3Vyc2UtdG8tZ2V0LXlvdXItZHJlYW0taXQtam9iLw%3D%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9pbnRyb2R1Y3Rpb24tdG8tY29tcHV0ZXItbmV0d29ya3Mv": {
+      "id": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9pbnRyb2R1Y3Rpb24tdG8tY29tcHV0ZXItbmV0d29ya3Mv",
+      "title": "Networking-Udemy",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9pbnRyb2R1Y3Rpb24tdG8tY29tcHV0ZXItbmV0d29ya3Mv\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://www.udemy.com/course/introduction-to-computer-networks/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
     }
   }
 }

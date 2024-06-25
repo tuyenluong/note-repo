@@ -2,14 +2,15 @@
 Creation_date: 2024-06-25 20:53
 Modification_date: Tuesday 25th June 2024 20:53:10
 Indexes:
-  - "[[data_and_algo]]"
+  - "[[dataStructure_and_algoritms]]"
   - "[[array]]"
 ---
 
 ----
 
 ```run-java
-public static void main(String[] args){
+public class Test{
+	public static void main(String[] args){
 	int[] arr = new int[]{1,2,3,4,5,6,7};
 	int biggest = Integer.MIN_VALUE;
 	for(int i = 0; i < arr.length; i++){
@@ -18,7 +19,9 @@ public static void main(String[] args){
 		}
 	}
 	System.out.println(biggest);
+	}
 }
+
 ```
 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d26c8cb304267b6a",
+        "id": "d5370a573b6b8c06",
         "type": "tabs",
         "children": [
           {
-            "id": "2f711221d71e69a2",
+            "id": "5ef74103980e6447",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -146,14 +145,29 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "446fe81b04200fb5",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+              "state": {}
+            }
+          },
+          {
+            "id": "45190ca9b0c3ee9c",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9kaWN0aW9uYXJ5LmNhbWJyaWRnZS5vcmcvdmkvZGljdGlvbmFyeS9lbmdsaXNo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 932.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,39 +185,79 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "open-gate:English-Vocabulary": false,
-      "open-gate:Geeks-Java": false,
       "open-gate:JavaPoint": false,
-      "open-gate:Java-Udemy": false
+      "open-gate:Java-Udemy": false,
+      "open-gate:Linux-Udemy": false,
+      "open-gate:Networking-Udemy": false
     }
   },
-  "active": "2f711221d71e69a2",
+  "floating": {
+    "id": "46d6e7536b48a7b5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f926919e142d3d26",
+        "type": "window",
+        "children": [
+          {
+            "id": "56cc75ed8457d8f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc181b495f1df44d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secondBrain/Java/JAVA - Find biggest number in an array.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 787,
+        "y": 308,
+        "width": 605,
+        "height": 497,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5ef74103980e6447",
   "lastOpenFiles": [
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Indexes/java/topics/data_and_algo.md",
     "secondBrain/Java/JAVA - Find biggest number in an array.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Indexes/java/topics/array.md",
-    "secondBrain/Templates/sortspec.md",
     "secondBrain/Java/JAVA - Creating an Array.md",
-    "secondBrain/Java/JAVA - What is mutable and immutable means.md",
-    "secondBrain/Indexes/java/topics/string.md",
-    "secondBrain/Java/JAVA - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/Java/JAVA - Unicode under U+0020.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/java/topics/java_building_block.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Java/JAVA - While Loop.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+    "secondBrain/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Kanban/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Kanban/Kanban board.md",
+    "secondBrain/Kanban/Kanban-Task/Add flashcards in all note in Learning.md",
+    "secondBrain/Kanban/Kanban-Task/Kanban_board.md",
+    "secondBrain/Kanban/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Templates/Templates manage.md",
+    "secondBrain/Templates/JMETER - template.md",
+    "secondBrain/Templates/Introduce yourself.md",
+    "secondBrain/Templates/Common - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Indexes/Home.md",
+    "secondBrain/Indexes/learning.md",
+    "secondBrain/Indexes/Interests.md",
+    "secondBrain/Indexes/Ideas.md",
+    "secondBrain/Kanban-Task",
     "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Java/JAVA - What is the different between trim() and strip().md",
-    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
-    "secondBrain/Java/JAVA - What is Incidental white spaces.md",
-    "secondBrain/Java/JAVA - Variables.md",
-    "secondBrain/Java/JAVA - Unary Operators.md",
-    "secondBrain/Java/JAVA - Text Blocks.md",
-    "secondBrain/Java/JAVA - Switch Statement.md",
-    "secondBrain/Java/JAVA - Switch Expression.md",
-    "secondBrain/Java/JAVA - String pool.md",
-    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Indexes/git.md",
+    "secondBrain/Indexes/testingFramework.md",
+    "secondBrain/Indexes/selenium.md",
+    "secondBrain/Indexes/linux.md",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
