@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2b325d5b4aa7d7",
+        "id": "b1642a754c982bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "6f24857ae1ca14d5",
+            "id": "f75c27218b3aeb21",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -19,11 +18,32 @@
                   "kanban-plugin": "board",
                   "list-collapse": []
                 }
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "0366484913f7f62a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "598de8eb74a6684a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Indexes/java/java-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -97,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Indexes/java/java-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Indexes/java/java-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Indexes/java/java-10.md"
               }
             }
           },
@@ -183,8 +204,21 @@
       "open-gate:English-Vocabulary": false
     }
   },
-  "active": "6f24857ae1ca14d5",
+  "active": "598de8eb74a6684a",
   "lastOpenFiles": [
+    "secondBrain/Indexes/java/java-version.md",
+    "secondBrain/Indexes/java/java-15.md",
+    "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/Indexes/java/array.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Indexes/languages.md",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Indexes/Interests.md",
+    "secondBrain/Indexes/Ideas.md",
+    "secondBrain/English/vocabbulary/ENG -  heavy drinker.md",
+    "array.md",
+    "secondBrain/English/vocabbulary/ENG - legal age.md",
+    "secondBrain/Templates/Common - template.md",
     "secondBrain/English/ENG - List of keywords or phrases.md",
     "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
     "secondBrain/Kanban/Kanban-Task/Kanban_board.md",
@@ -199,20 +233,7 @@
     "secondBrain/Java/JAVA - Local Variable Type Inference.md",
     "secondBrain/Java/JAVA - Garbage Collector.md",
     "secondBrain/Indexes/java/java-10.md",
-    "secondBrain/Indexes/java/java-version.md",
-    "secondBrain/Indexes/java/java-17.md",
-    "secondBrain/Java/JAVA - Switch Expression.md",
-    "secondBrain/Indexes/java/java-22.md",
-    "secondBrain/Indexes/java/java-12.md",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Java/JAVA - What is the different between trim() and strip().md",
-    "secondBrain/Java/JAVA - Unicode under U+0020.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Indexes/english/vocabulary.md",
-    "ENG - legal age.md",
-    "secondBrain/Indexes/english/ENG - social drinker.md",
     "secondBrain/English/resources/Recording 20240504123741.webm",
-    "ENG -  heavy drinker.md",
     "Pasted image 20240624124346.png",
     "secondBrain/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Java/resources/Pasted image 20240624011005.png",

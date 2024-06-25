@@ -6,7 +6,10 @@ Indexes:
 
 ----
 
-
+```dataview
+table file.name as Title, Creation_date, Modification_date
+from [[<% tp.file.title %>]]  sort Creation_date DESC
+```
 
 
 
