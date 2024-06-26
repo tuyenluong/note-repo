@@ -2,7 +2,7 @@
 Creation_date: 2024-06-25 20:53
 Modification_date: Tuesday 25th June 2024 20:53:10
 Indexes:
-  - "[[dataStructure_and_algoritms]]"
+  - "[[data_structure_algo]]"
   - "[[array]]"
 ---
 

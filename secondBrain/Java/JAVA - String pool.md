@@ -26,6 +26,9 @@ System.out.println(name == theName);
 ==>> true 
 ```
 
+^663b55
+
+
 ![[Pasted image 20240623111452.png]]
 
 - This concept has been explained in [[JAVA - Garbage Collector|Garbage Collector lesson]]. It' the same with how stack and heap memory work.

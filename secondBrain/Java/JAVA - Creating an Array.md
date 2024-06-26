@@ -6,87 +6,111 @@ Indexes:
 ---
 
 ----
-## `Arrays.sort()` method
-- Creating a new array
-- Arrays are [[JAVA - What is mutable and immutable means|mutable]], `sort()` changes the original array! 
+
+## Declaring an Array
+
+```java
+int[] nums = new int[3];
+```
+
+**Key elements in the syntax**
+- [] (*read the array elements*)
+- naming (*nums*)
+- **new** keyword
+- size: \[3]
+
+## Initializing an Array
+
+- First declare, then initialize
+```java
+int[] nums = new int[3];
+nums = new int[]{3, -1, 17};
+```
+
+- initialization can be done without **new** keyword
+```java
+int[] nums = {3, -1, 17};
+```
+
+- Declaring and initializing at once
+```java
+int[] nums = new int[]{3, -1, 17};
+int[] array = {2, 0, 107};
+```
+
+## There are more allowed ways to declare an array
+- Allowed space between the data type and square bracket and the name.
+```java
+int[] nums;
+int [] nums;
+int []nums;
+int nums[];
+int nums [];
+```
+
+- NOTE: The size of the array can only be on the right-hand side!!
+```java
+int[3] nums = ... // THIS WILL NOT COMPILE
+```
+
+- You can have multiple values in one declaration (*Not recommend, but possible*)
+```java
+int[] nums1, nums2;
+```
+
+- You can even declare int number and int array in the same line
+```java
+int nums[], a; // The 'nums' is an array, and 'a' is just a integer
+```
+
+#### NOTE: arrays don't implement `equals()`method
+- Since arrays don't implement `equals()`method, that means that the `equals()`method is the same as the double sign. 
+- As we have mentioned in [[JAVA - Garbage Collector|Garbage Collector lesson]], although these two may similar in content but they are 2 different objects in the memory. Because each one is declared with a **new** keyword
+- Or in [[JAVA - String pool#^663b55|String Pool lesson]], two equals sign compares references
 ```run-java
-import java.util.Arrays;
 public class Test{
 	public static void main(String[] args){
-		int[] nums = new int[]{3, 17, -1};
-		Arrays.sort(nums);
-		System.out.println(Arrays.toString(nums));
-		//==>> [-1, 3, 17]
+		int[] nums1 = new int[]{3, -1, 17};
+		int[] nums2 = new int[]{3, -1, 17};
+		System.out.print(nums1.equals(nums2));
+		//==>> false
 	}
 }
 ```
 
-## `Arrays.binarySearch(arr[], elementOfTheArr)` method
-- This method only works on sorted arrays
-	- If array is not sorted, the result is unpredictable
-- Takes array and array element as arguments
-	- If element is found, the index of the element is returned
-	- If element is not found, the negative number is returned
-		- `-(index_where_the_element_would_belong + 1)`
-		- `nth place with '-' in front`
-- Array elements are counted from 0
-### Examples
+## Printing out the array
 
-- Sorted array
+- If you try to print the array directly with the print statement, then you will get a "Hash code" of the reference in return, not the value, and this is not very friendly.
 ```run-java
-import java.util.Arrays;
 public class Test{
 	public static void main(String[] args){
-		int[] nums = new int[]{3, 17, -1};
-		Arrays.sort(nums); // [-1, 3, 17]
-		System.out.println(Arrays.binarySearch(nums, -1));
-		//==>> 0
-		System.out.println(Arrays.binarySearch(nums, 17));
-		//==>> 2
-		System.out.println(Arrays.binarySearch(nums, 0));
-		//==>> -2
+		int[] nums1 = new int[]{3, -1, 17};
+		System.out.print(nums1);
+		//==>> [I@f7f7f9f5 >> this is the Hash code of the reference
 	}
 }
 ```
 
-- Unsorted array
+- You need to import the `import java.util.Arrays;`class to be able to use the `toString()` method to make the printing statement works.
 ```run-java
 import java.util.Arrays;
 public class Test{
 	public static void main(String[] args){
-		int[] nums = new int[]{3, 17, -1};
-		System.out.println(Arrays.binarySearch(nums, -1));
-		//==>> unpredictable result
+		int[] nums1 = new int[]{3, -1, 17};
+		System.out.print(Arrays.toString(nums1));
+		//==>> [3, -1, 17]
 	}
 }
 ```
 
-## `Arrays.compare(fistArr, secondArr)` method
-
-- How to determines which array is `smaller` and returns?
-	- Negative number if `first` is smaller then the `second`
-	- Zero if the arrays are equal in content
-	- Positive number if `first` is larger then the `second`
+- Every array has a property called `length`, note that it's not a method!!
 ```run-java
-import java.util.Arrays;
 public class Test{
 	public static void main(String[] args){
-		System.out.println("Return positive number: " + Arrays.compare(new int[]{3, 7}, new int[]{3}) );
-		System.out.println("Return number zero: " + Arrays.compare(new int[]{3, 7}, new int[]{3, 7}));
-		System.out.println("Return negative number: "+Arrays.compare(new int[]{3, 3}, new int[]{7}));
+		int[] nums1 = new int[]{3, -1, 17};
+		System.out.print(nums1.length);
+		//==>> 3
 	}
 }
 ```
-### What is consider `smaller`?
-
-- If one array has less number of elements, it's `smaller`
-- If both arrays have the same number of elements
-	- The `smaller` array is the one whose first different member is `smaller`
-- Null is `smaller` than any other values
-- For Strings:
-	- One is `smaller` if it's a prefix of another
-	- Numbers are `smaller` than letters
-	- Uppercase is `smaller` than lowercase
-	- Alphabetical order is applied
-
 

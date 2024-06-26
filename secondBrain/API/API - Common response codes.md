@@ -40,8 +40,8 @@ When making API requests, verifying the response code is a crucial step in deter
 	- The user has sent too many requests in a given amount of time ("rate limiting").
 - **500 Internal Server Error**: 
 	- The server has encountered a situation it doesn't know how to handle.
-
-
+-  **502 Bad Gateway**: 
+	- **`502 Bad Gateway`** server error response code indicates that the server, while acting as a gateway or proxy, received an invalid response from the upstream server.
 
 
 ---

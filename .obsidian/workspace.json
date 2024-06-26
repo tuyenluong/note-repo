@@ -4,20 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d5370a573b6b8c06",
+        "id": "0d66d5cba0dced46",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef74103980e6447",
+            "id": "ab1bf876604ca24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Java/JAVA - Creating an Array.md",
+                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2de0cbcc46762393",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA - Creating an Array.md",
+                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA - Creating an Array.md",
+                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA - Creating an Array.md"
+                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md"
               }
             }
           },
@@ -167,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 932.5
+    "width": 1053.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,73 +200,35 @@
       "open-gate:Networking-Udemy": false
     }
   },
-  "floating": {
-    "id": "46d6e7536b48a7b5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f926919e142d3d26",
-        "type": "window",
-        "children": [
-          {
-            "id": "56cc75ed8457d8f7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc181b495f1df44d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secondBrain/Java/JAVA - Find biggest number in an array.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 787,
-        "y": 308,
-        "width": 605,
-        "height": 497,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5ef74103980e6447",
+  "active": "ab1bf876604ca24f",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA - Find biggest number in an array.md",
     "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/Java/Data Structure and Algo.md",
+    "secondBrain/Indexes/english/english.md",
+    "secondBrain/English/Interesting words.md",
+    "secondBrain/English/vocabbulary/ENG - Interesting words.md",
+    "secondBrain/Indexes/languages.md",
+    "secondBrain/Indexes/java_script.md",
+    "secondBrain/Indexes/data_structure_algo.md",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/Indexes/git.md",
+    "secondBrain/Indexes/Ideas.md",
+    "secondBrain/Indexes/Home.md",
+    "secondBrain/Indexes/selenium.md",
+    "secondBrain/Java/JAVA - Find biggest number in an array.md",
+    "secondBrain/Indexes/java/java.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Templates/Introduce yourself.md",
+    "secondBrain/Java/JAVA - Text Blocks.md",
     "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
     "secondBrain/Kanban-Task/Add creation and modification date into each index pages.md",
     "secondBrain/Kanban/Kanban-Task/Add creation and modification date into each index pages.md",
-    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Kanban/Kanban board.md",
-    "secondBrain/Kanban/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Kanban/Kanban-Task/Kanban_board.md",
-    "secondBrain/Kanban/Kanban-Task/Rename all the note in Learning.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Templates/JMETER - template.md",
-    "secondBrain/Templates/Introduce yourself.md",
-    "secondBrain/Templates/Common - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Indexes/learning.md",
-    "secondBrain/Indexes/Interests.md",
-    "secondBrain/Indexes/Ideas.md",
     "secondBrain/Kanban-Task",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/api.md",
-    "secondBrain/Indexes/git.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Indexes/selenium.md",
-    "secondBrain/Indexes/linux.md",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
