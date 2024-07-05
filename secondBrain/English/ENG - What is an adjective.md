@@ -10,7 +10,7 @@ Indexes:
 
 ### What Is an adjective?
 
-The [most simple definition](https://writingcenter.uagc.edu/adjectives) is: an adjective describes a noun. Concerning function, adjectives can be defined as information gatherers. **More specifically, they collect information based on an object's shape, size, colour, age/number, origin, or material.**
+The [most simple definition](https://writingcenter.uagc.edu/adjectives) is: an adjective describes a noun. Concerning function, adjectives can be defined as information gatherers. **More specifically, they collect information based on an object's shape, size, color, age/number, origin, or material.**
 
 Some example sentences with adjectives:
 - It’s a **big** cat.

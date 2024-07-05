@@ -47,7 +47,7 @@ Indexes:
 			- The parameter list in parenthesis
 			- An exception list
 			- The method body
-		- And there are something called **Method signature**, it's a combination of two components:
+		- And there are something called **Method signature**, it's a combination of two components: ^c92110
 			- Method name: 
 				- Serving as a distinctive identifier within a class, the method name is used to call or invoke the method. It plays a pivotal role in the overall method signature.
 			- Parameter Types:

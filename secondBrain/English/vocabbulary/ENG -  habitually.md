@@ -8,8 +8,7 @@ Indexes:
 
 ----
 
-
-<center><iframe width="800" height="400" src="https://dictionary.cambridge.org/vi/dictionary/english/habitually"></iframe></center>
+- In a way that is habitual
 
 
 

@@ -4,31 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0d66d5cba0dced46",
+        "id": "ba77504f967dad34",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1bf876604ca24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de0cbcc46762393",
+            "id": "0c761de3ee62e755",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4f27a9f12bf6a3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md"
+                "file": "secondBrain/Java/JAVA -  Defining Methods.md"
               }
             }
           },
@@ -156,18 +157,10 @@
             }
           },
           {
-            "id": "446fe81b04200fb5",
+            "id": "bf1f8e299eccec62",
             "type": "leaf",
             "state": {
               "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
-              "state": {}
-            }
-          },
-          {
-            "id": "45190ca9b0c3ee9c",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly9kaWN0aW9uYXJ5LmNhbWJyaWRnZS5vcmcvdmkvZGljdGlvbmFyeS9lbmdsaXNo",
               "state": {}
             }
           }
@@ -176,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1053.5
+    "width": 969.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,40 +187,44 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "open-gate:English-Vocabulary": false,
+      "open-gate:France-Dictionary": false,
       "open-gate:JavaPoint": false,
       "open-gate:Java-Udemy": false,
       "open-gate:Linux-Udemy": false,
       "open-gate:Networking-Udemy": false
     }
   },
-  "active": "ab1bf876604ca24f",
+  "active": "4f27a9f12bf6a3bf",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/Java/JAVA -  Defining Methods.md",
     "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/Java/Data Structure and Algo.md",
-    "secondBrain/Indexes/english/english.md",
-    "secondBrain/English/Interesting words.md",
-    "secondBrain/English/vocabbulary/ENG - Interesting words.md",
-    "secondBrain/Indexes/languages.md",
-    "secondBrain/Indexes/java_script.md",
-    "secondBrain/Indexes/data_structure_algo.md",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/git.md",
-    "secondBrain/Indexes/Ideas.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Indexes/selenium.md",
-    "secondBrain/Java/JAVA - Find biggest number in an array.md",
-    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Java/Wikilinks.md",
+    "secondBrain/Java/Wikislink.md",
+    "2024-07-05.md",
+    "secondBrain/Java/JAVA - Class Structure.md",
+    "Pasted image 20240705171351.png",
+    "secondBrain/Java/JAVA - Creating Dates and Times.md",
+    "secondBrain/Java/JAVA - Sorting data.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Java/JAVA - Multidimensional Array.md",
+    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Indexes/java/topics/array.md",
+    "secondBrain/Java/JAVA - Find biggest number in an array.md",
+    "secondBrain/Indexes/data_structure_algo.md",
+    "secondBrain/Indexes/linux.md",
+    "secondBrain/Linux/LINUX - Exam on GAQM.md",
     "secondBrain/Global Hotkeys.md",
-    "secondBrain/Templates/Introduce yourself.md",
-    "secondBrain/Java/JAVA - Text Blocks.md",
-    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Kanban-Task/Add creation and modification date into each index pages.md",
-    "secondBrain/Kanban/Kanban-Task/Add creation and modification date into each index pages.md",
+    "secondBrain/Selenium/SELENIUM - ChromeOptions Class.md",
+    "secondBrain/Selenium/SELENIUM - Create a Test.md",
+    "secondBrain/Selenium/SELENIUM - Alerts.md",
+    "secondBrain/Selenium/SELENIUM - Other Wait Strategies.md",
+    "secondBrain/Selenium/SELENIUM - Set-up.md",
+    "secondBrain/Selenium/SELENIUM - Take Screenshot.md",
+    "secondBrain/Selenium/SELENIUM - Using Javascript.md",
+    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
+    "secondBrain/Selenium/SELENIUM - Event Listeners.md",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "secondBrain/Git/github-recovery-codes.txt",
     "secondBrain/Kanban-Task",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",

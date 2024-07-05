@@ -19,29 +19,26 @@ kanban-plugin: board
 
 **Complete**
 - [x] Start lesson [[JAVA - String Builder]]
+- [x] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
 - [x] Start lesson [[JAVA - String Pool]]
 
 
 ## Production
 
 **Complete**
-- [x] Finish [[JAVA - String methods]]
-- [x] [[secondBrain/Kanban-Task/Add creation and modification date into each index pages]]
-- [x] [[secondBrain/Kanban-Task/Rename all the note in Learning]]
 
 
 ## Archive
 
-
-
-## Archive
-
+- [ ] [[secondBrain/Kanban-Task/Rename all the note in Learning]]
+- [ ] [[secondBrain/Kanban-Task/Add creation and modification date into each index pages]]
+- [ ] Finish [[JAVA - String methods]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board"}
+{"kanban-plugin":"board","list-collapse":[]}
 ```
 %%

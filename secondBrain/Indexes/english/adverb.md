@@ -5,11 +5,13 @@ Indexes:
   - "[[english]]"
 ---
 
-
 ----
 
 
-
+```dataview
+table file.name as Title, Creation_date, Modification_date
+from [[adverb]]  sort Creation_date DESC
+```
 
 
 

@@ -5,7 +5,6 @@ Indexes:
   - "[[date_and_time]]"
 ---
 
-
 ----
 
 

@@ -1,7 +1,9 @@
 ---
 Creation_date: 2022-04-30 22:12
 Modification_date: Saturday 30th April 2022 22:12:13
-Indexes: "[[selenium]]"
+Indexes:
+  - "[[selenium]]"
+  - "[[java_script]]"
 ---
 
 ----

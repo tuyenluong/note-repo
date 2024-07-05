@@ -12,7 +12,9 @@ Indexes: "[[selenium]]"
 
 Disable infobars "Chrome is being controlled by automated software."
 
-**options.setExperimentalOption("excludeSwitches", Collections._singletonList_("enable-automation")); options.setExperimentalOption("useAutomationExtension",false);**
+```java
+options.setExperimentalOption("excludeSwitches", Collections._singletonList_("enable-automation")); options.setExperimentalOption("useAutomationExtension",false);
+```
 
 _// Use this approach from Chrome 76 or above_
 
@@ -26,12 +28,14 @@ In your automated test, if you're doing something very advanced, you might want 
 
 This is how we can create a cookie on the website:
 
+```java
 private void setCookie(){ 
 	Cookie cookie = new Cookie.Builder("TAU","123") 
 		.domain("[the-internet.herokuapp.com](http://the-internet.herokuapp.com/)") 
 		.build(); 
 	driver.manage().addCookie(cookie); 
 }
+```
 
 But we can have other methods to manage cookies as well:
 
