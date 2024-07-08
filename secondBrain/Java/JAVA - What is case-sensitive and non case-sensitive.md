@@ -23,6 +23,7 @@ In a non-case-sensitive programming language, what is the behaviour when compari
 What impact does case sensitivity have on variable names in programming languages? ;; In a case-sensitive language, variable names must match exactly in terms of capitalization to refer to the same variable, while in a non-case-sensitive language, capitalization does not matter.
 <!--SR:!2024-05-06,1,226-->
 When writing code in a case-sensitive environment, what consideration should be given to function names and keywords? ;; In a case-sensitive environment, function names and keywords must be written with consistent capitalization as per their definitions, otherwise, the code may result in errors or unexpected behaviour.
+<!--SR:!2024-07-10,1,216-->
 How would a case-sensitive file system handle requests to access files named "Document.txt" and "document.txt"? ;; In a case-sensitive file system, "Document.txt" and "document.txt" would be treated as distinct files, and attempts to access one using the other's name would result in a file not found error.
 <!--SR:!2024-05-06,1,230-->
 Explain the behaviour of a case-insensitive programming language when comparing characters or strings. ;; In a case-insensitive language, character or string comparisons are performed without regard to case differences, treating uppercase and lowercase letters as equivalent.

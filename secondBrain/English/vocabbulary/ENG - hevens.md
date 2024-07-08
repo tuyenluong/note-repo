@@ -42,8 +42,3 @@ Indexes:
 
 ---
 ## Flash cards section
-
-Heavens
-?
-Can be both exclamation and plural non
-![[Recording 20240429221447.webm]]

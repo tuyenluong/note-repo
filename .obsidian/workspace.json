@@ -11,14 +11,8 @@
             "id": "a266b3fbcf2a39fa",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,22 +138,13 @@
             }
           },
           {
-            "id": "45190ca9b0c3ee9c",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly9kaWN0aW9uYXJ5LmNhbWJyaWRnZS5vcmcvdmkvZGljdGlvbmFyeS9lbmdsaXNo",
-              "state": {}
-            }
-          },
-          {
             "id": "708013ddc5ba6c72",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -172,9 +153,17 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:secondBrain/Indexes path:",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -184,10 +173,18 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.3628873693012117,
+                  "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "83dadda680d792f8",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+              "state": {}
             }
           }
         ],
@@ -195,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 812.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,34 +218,37 @@
   },
   "active": "a266b3fbcf2a39fa",
   "lastOpenFiles": [
-    "secondBrain/Linux/LINUX - Exam on GAQM.md",
-    "secondBrain/Java/resources/Pasted image 20240705171351.png",
-    "secondBrain/Java/Wikilinks.md",
+    "secondBrain/Indexes/java/topics/methods.md",
+    "secondBrain/Java/JAVA - Access Modifiers.md",
     "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
-    "secondBrain/Java/JAVA - Local and Instance Variables.md",
-    "secondBrain/Java/JAVA -  Defining Methods.md",
-    "secondBrain/Git/github-recovery-codes.md",
-    "secondBrain/English/vocabbulary/ENG - social drinker.md",
-    "secondBrain/English/vocabbulary/ENG - massively.md",
-    "secondBrain/English/vocabbulary/ENG - massive.md",
-    "secondBrain/English/ENG - What is an adverb.md",
-    "secondBrain/Templates/Untitled.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
-    "secondBrain/Soft_skills",
-    "secondBrain/Templates/presentation.md",
-    "secondBrain/Indexes/soft_skills.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Templates/SOFT_SKILLS - template.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/Templates/Common - template.md",
-    "secondBrain/Indexes/english/vocabulary.md",
-    "secondBrain/Java/PV Automation.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+    "secondBrain/English/vocabbulary/ENG - hevens.md",
     "secondBrain/Java/JAVA - Creating an Array.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/Java/Data Structure and Algo.md",
+    "secondBrain/Indexes/java/topics/array.md",
+    "secondBrain/Indexes/presentation.md",
+    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
+    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Indexes/selenium/topics/webDriver.md",
+    "secondBrain/Indexes/selenium/version/selenium_3_and_lower.md",
+    "secondBrain/Indexes/selenium/topics/grid.md",
+    "secondBrain/Indexes/selenium/version",
+    "secondBrain/Indexes/selenium/topics/ide.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Indexes/selenium/topics",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Java/SELENIUM - History.md",
+    "secondBrain/Indexes/selenium/selenium.md",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/Indexes/selenium/version/selenium_version.md",
+    "secondBrain/Selenium/SELENIUM - Set-up.md",
+    "secondBrain/Selenium/SELENIUM - Finding Web Elements.md",
+    "secondBrain/Selenium/SELENIUM - Element Interactions.md",
+    "secondBrain/Selenium/SELENIUM - Create a Test.md",
+    "secondBrain/Selenium/SELENIUM - Interacting with Dropdown.md",
+    "secondBrain/Selenium/SELENIUM - Advanced Interactions.md",
+    "secondBrain/Selenium/SELENIUM - Additional Keys.md",
+    "secondBrain/Indexes/selenium",
+    "secondBrain/Java/resources/Pasted image 20240705171351.png",
+    "secondBrain/Soft_skills",
     "secondBrain/Kanban-Task",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",
@@ -261,7 +261,6 @@
     "secondBrain/Java/resources/Pasted image 20240624011005.png",
     "secondBrain/Java/resources/Pasted image 20240623135612.png",
     "secondBrain/Java/resources/Pasted image 20240623111452.png",
-    "secondBrain/Indexes/english",
-    "secondBrain/Indexes/java"
+    "secondBrain/Indexes/english"
   ]
 }

@@ -16,7 +16,7 @@ int[] nums = new int[3];
 **Key elements in the syntax**
 - [] (*read the array elements*)
 - naming (*nums*)
-- **new** keyword
+- **new** keyword ^2960c3
 - size: \[3]
 
 ## Initializing an Array
