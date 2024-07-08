@@ -4,108 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9b008c49e1661f4f",
-        "type": "split",
+        "id": "abbd57906450c3fe",
+        "type": "tabs",
         "children": [
           {
-            "id": "ba77504f967dad34",
-            "type": "tabs",
-            "dimension": 72.98076923076923,
-            "children": [
-              {
-                "id": "0c761de3ee62e755",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "4f27a9f12bf6a3bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secondBrain/Java/JAVA -  Defining Methods.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "30366407ef665300",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fbbb249684f9f735",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secondBrain/Java/JAVA - Variables.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+            "id": "a266b3fbcf2a39fa",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "2d8faae9a3c86b27",
-            "type": "tabs",
-            "dimension": 27.019230769230766,
-            "children": [
-              {
-                "id": "0470532ccd0ad430",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.362887369301212,
-                      "close": false
-                    }
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -180,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md"
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
               }
             }
           },
@@ -233,19 +148,54 @@
             }
           },
           {
-            "id": "bf1f8e299eccec62",
+            "id": "45190ca9b0c3ee9c",
             "type": "leaf",
             "state": {
-              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+              "type": "aHR0cHM6Ly9kaWN0aW9uYXJ5LmNhbWJyaWRnZS5vcmcvdmkvZGljdGlvbmFyeS9lbmdsaXNo",
               "state": {}
+            }
+          },
+          {
+            "id": "708013ddc5ba6c72",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 969.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,42 +216,39 @@
       "open-gate:JavaPoint": false,
       "open-gate:Java-Udemy": false,
       "open-gate:Linux-Udemy": false,
-      "open-gate:Networking-Udemy": false,
-      "open-gate:France-Dictionary": false
+      "open-gate:Networking-Udemy": false
     }
   },
-  "active": "30366407ef665300",
+  "active": "a266b3fbcf2a39fa",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA -  Defining Methods.md",
-    "secondBrain/Java/JAVA - Variables.md",
-    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
-    "secondBrain/Java/JAVA - Assignment Operators.md",
-    "secondBrain/Java/Data Structure and Algo.md",
-    "secondBrain/Java/resources/Pasted image 20240705171351.png",
-    "Recording 20240708213417.webm",
-    "secondBrain/Java/JAVA - Local and Instance Variables.md",
-    "secondBrain/Indexes/java/topics/methods.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/Java/Wikilinks.md",
-    "secondBrain/Java/Wikislink.md",
-    "2024-07-05.md",
-    "secondBrain/Java/JAVA - Class Structure.md",
-    "secondBrain/Java/JAVA - Creating Dates and Times.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Java/JAVA - Multidimensional Array.md",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Indexes/java/topics/array.md",
-    "secondBrain/Java/JAVA - Find biggest number in an array.md",
-    "secondBrain/Indexes/data_structure_algo.md",
-    "secondBrain/Indexes/linux.md",
     "secondBrain/Linux/LINUX - Exam on GAQM.md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Selenium/SELENIUM - ChromeOptions Class.md",
-    "secondBrain/Selenium/SELENIUM - Create a Test.md",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "secondBrain/Git/github-recovery-codes.txt",
+    "secondBrain/Java/resources/Pasted image 20240705171351.png",
+    "secondBrain/Java/Wikilinks.md",
+    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
+    "secondBrain/Java/JAVA - Local and Instance Variables.md",
+    "secondBrain/Java/JAVA -  Defining Methods.md",
+    "secondBrain/Git/github-recovery-codes.md",
+    "secondBrain/English/vocabbulary/ENG - social drinker.md",
+    "secondBrain/English/vocabbulary/ENG - massively.md",
+    "secondBrain/English/vocabbulary/ENG - massive.md",
+    "secondBrain/English/ENG - What is an adverb.md",
+    "secondBrain/Templates/Untitled.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
+    "secondBrain/Soft_skills",
+    "secondBrain/Templates/presentation.md",
+    "secondBrain/Indexes/soft_skills.md",
+    "secondBrain/Templates/Templates manage.md",
+    "secondBrain/Templates/SOFT_SKILLS - template.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/Templates/Common - template.md",
+    "secondBrain/Indexes/english/vocabulary.md",
+    "secondBrain/Java/PV Automation.md",
+    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+    "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/Java/Data Structure and Algo.md",
     "secondBrain/Kanban-Task",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",
