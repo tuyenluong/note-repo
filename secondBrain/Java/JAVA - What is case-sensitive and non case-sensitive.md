@@ -31,5 +31,6 @@ What challenges might arise when porting code from a case-insensitive to a case-
 How can the choice between case-sensitive and non-case-sensitive programming languages impact code readability and maintainability? ;; The choice between case-sensitive and non-case-sensitive languages can impact code readability and maintainability by affecting naming conventions and the ease of understanding code for developers.
 <!--SR:!2024-06-06,2,210-->
 What is the significance of case sensitivity in database queries, especially in SQL? ;; In SQL, case sensitivity can affect the correctness of database queries, as keywords and identifiers may need to match exactly in terms of capitalization to be recognized by the database engine.
+<!--SR:!2024-07-09,1,217-->
 When working in a case-sensitive programming environment, why is it important for developers to pay attention to the capitalization of identifiers? ;; In a case-sensitive environment, paying attention to the capitalization of identifiers is crucial to ensure that variables, functions, and keywords are correctly recognized and used throughout the codebase.
 <!--SR:!2024-05-14,1,206-->

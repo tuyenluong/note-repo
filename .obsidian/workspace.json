@@ -4,32 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "ba77504f967dad34",
-        "type": "tabs",
+        "id": "9b008c49e1661f4f",
+        "type": "split",
         "children": [
           {
-            "id": "0c761de3ee62e755",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "ba77504f967dad34",
+            "type": "tabs",
+            "dimension": 72.98076923076923,
+            "children": [
+              {
+                "id": "0c761de3ee62e755",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4f27a9f12bf6a3bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secondBrain/Java/JAVA -  Defining Methods.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "30366407ef665300",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fbbb249684f9f735",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secondBrain/Java/JAVA - Variables.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "4f27a9f12bf6a3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "2d8faae9a3c86b27",
+            "type": "tabs",
+            "dimension": 27.019230769230766,
+            "children": [
+              {
+                "id": "0470532ccd0ad430",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.362887369301212,
+                      "close": false
+                    }
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -104,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
+                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA -  Defining Methods.md",
+                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA -  Defining Methods.md"
+                "file": "secondBrain/Java/JAVA - Local and Instance Variables.md"
               }
             }
           },
@@ -187,22 +263,30 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "open-gate:English-Vocabulary": false,
-      "open-gate:France-Dictionary": false,
       "open-gate:JavaPoint": false,
       "open-gate:Java-Udemy": false,
       "open-gate:Linux-Udemy": false,
-      "open-gate:Networking-Udemy": false
+      "open-gate:Networking-Udemy": false,
+      "open-gate:France-Dictionary": false
     }
   },
-  "active": "4f27a9f12bf6a3bf",
+  "active": "30366407ef665300",
   "lastOpenFiles": [
     "secondBrain/Java/JAVA -  Defining Methods.md",
+    "secondBrain/Java/JAVA - Variables.md",
+    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
+    "secondBrain/Java/JAVA - Assignment Operators.md",
+    "secondBrain/Java/Data Structure and Algo.md",
+    "secondBrain/Java/resources/Pasted image 20240705171351.png",
+    "Recording 20240708213417.webm",
+    "secondBrain/Java/JAVA - Local and Instance Variables.md",
+    "secondBrain/Indexes/java/topics/methods.md",
+    "secondBrain/Indexes/java/java.md",
     "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
     "secondBrain/Java/Wikilinks.md",
     "secondBrain/Java/Wikislink.md",
     "2024-07-05.md",
     "secondBrain/Java/JAVA - Class Structure.md",
-    "Pasted image 20240705171351.png",
     "secondBrain/Java/JAVA - Creating Dates and Times.md",
     "secondBrain/Java/JAVA - Sorting data.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
@@ -216,13 +300,6 @@
     "secondBrain/Global Hotkeys.md",
     "secondBrain/Selenium/SELENIUM - ChromeOptions Class.md",
     "secondBrain/Selenium/SELENIUM - Create a Test.md",
-    "secondBrain/Selenium/SELENIUM - Alerts.md",
-    "secondBrain/Selenium/SELENIUM - Other Wait Strategies.md",
-    "secondBrain/Selenium/SELENIUM - Set-up.md",
-    "secondBrain/Selenium/SELENIUM - Take Screenshot.md",
-    "secondBrain/Selenium/SELENIUM - Using Javascript.md",
-    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
-    "secondBrain/Selenium/SELENIUM - Event Listeners.md",
     "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "secondBrain/Git/github-recovery-codes.txt",
     "secondBrain/Kanban-Task",

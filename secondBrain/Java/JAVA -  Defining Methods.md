@@ -62,3 +62,15 @@ public void doNothing() { } // This is OK
 
 The keywords like `final`, `static` can come before the `return type`. It's true? ;; False
 <!--SR:!2024-07-09,4,270-->
+
+What is the output of this code?
+```java
+public int addNumbers(int a, int b){
+	long c = 1L;
+	return c * (a + b); // DOES NOT COMPILE due to the long data type
+}
+System.out.println(addNumbers(2, 3))
+```
+?
+==>> DOES NOT COMPILE
+<!--SR:!2024-07-11,3,252-->
