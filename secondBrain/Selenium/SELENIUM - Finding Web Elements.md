@@ -19,20 +19,22 @@ So we need to tell WebDriver: "I want you to find this element on the page".
 
 To find elements:
 
--   driver.findElement() it needs a By object.
--   driver.findElement**s**() it also needs a By object, but in plural.
+-   `driver.findElement()` it needs a `By` object.
+-   `driver.findElements()` it also needs a `By` object, but in plural.
 
-After we finish that, the findElement() methods will return a WebElement, and it will return the first element that it finds.
+After we finish that, the `findElement()` methods will return a `WebElement`, and it will return the first element that it finds.
 
 In case you want to find multiple elements and you want to count them.
 
 Let's write the code:
 
--   driver.findElement**s**(By.tagName("A")) the plural version and it will find all the tag name have A elements.
+-   `driver.findElement**s**(By.tagName("A"))` the plural version and it will find all the tag name have A elements.
 -   Make a variable to contain all the elements in a list:
--   List\<WebElement> variable = driver.findElement**s** (By.tagName("A"))
--   System.out.println(variable.size())
+```java
+List<WebElement> variable = driver.findElements (By.tagName("A"))
+System.out.println(variable.size())
+```
 
-And if you want to find an element that does not exist, then you gonna get an exception: "NoSuchElementException"
+And if you want to find an element that does not exist, then you gonna get an exception: `NoSuchElementException`
 
 In Automation Test, is a very common thing that you will encounter this exception.

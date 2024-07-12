@@ -15,13 +15,13 @@ Other Wait Strategies
 
 If we do the driver.Manage.timeouts again, let's see what else is here.
 
-There's also the pageLoadTimeout.
+There's also the `pageLoadTimeout`.
 
-The pageLoadTimeout allows you to set the amount of time to wait for a page load to complete before it throws an error.
+The `pageLoadTimeout` allows you to set the amount of time to wait for a page load to complete before it throws an error.
 
 This is also something that you can add to your script at the project level to say, "I would like to wait a certain amount of time for my pages to load."
 
-Then there's also this setScriptTimeout.
+Then there's also this `setScriptTimeout`.
 
 This will allow you to set the amount of time to wait for asynchronous scripts to finish executing.
 

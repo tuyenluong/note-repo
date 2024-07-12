@@ -18,7 +18,9 @@ To scroll down, we can write a method using Javascript in able to "scroll" on th
 
 We can use "JavascriptExecutor" in the Selenium package like this:
 
--   ((JavasciptExecutor)driver).executeScript("JS-code-within-of-String",)
+```java
+((JavasciptExecutor)driver).executeScript("JS-code-within-of-String");
+```
 
 **Infinity Scroll**
 
@@ -31,9 +33,15 @@ We can use a script that helps us scroll to the elements that we want.
 
 The whole method will be:
 
--   **public void scrollToParagragh(int index){**
--   **String script = "window.scrollTo('horizontal','vertically')";**
--   **var jsExecutor = (JavascriptExecutor)driver;**
--   **while(getNumberOfParagraghPresent() < index){**
--   **jsExecutor.executeSxript(script);}}**
--   **private int getNumberOfParagraghPresent(){ return driver.finElements(textBlocks).size();}**
+```java
+public void scrollToParagragh(int index){
+	String script = "window.scrollTo('horizontal','vertically')";
+	var jsExecutor = (JavascriptExecutor)driver;
+	while(getNumberOfParagraghPresent() < index){
+		jsExecutor.executeSxript(script);
+	}
+}
+private int getNumberOfParagraghPresent(){ 
+	return driver.finElements(textBlocks).size();
+}
+```

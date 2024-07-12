@@ -58,7 +58,7 @@ Indexes:
 ## Flash cards section
 
 What command to creates a jar file of desired project with the Java command?;; jar -cvf \<yourNewJarFileName\>.jar .
-<!--SR:!2024-06-06,2,190-->
+<!--SR:!2024-07-11,1,170-->
 
 What is the option -cvf stands for in the jar command?;; -cvf stand for --create --verbose --file
 <!--SR:!2024-06-07,3,212-->

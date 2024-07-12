@@ -61,7 +61,7 @@ public void doNothing() { } // This is OK
 ## Flash cards section
 
 The keywords like `final`, `static` can come before the `return type`. It's true? ;; False
-<!--SR:!2024-07-09,4,270-->
+<!--SR:!2024-07-12,2,250-->
 
 What is the output of this code?
 ```java

@@ -20,13 +20,16 @@ Indexes:
 -   There are all of these function keys. So F1 through 12
 -   There's help, home, insert...
 -   Keys usage:
--   Keys.BACK_SPACE
--   The _"**.chord()**"_ method allows us to send multiple keys, at one time.
+-   `Keys.BACK_SPACE`
+-   The `.chord()` method allows us to send multiple keys, at one time.
 -   Example: (_This will equal when you press ALT + p at the same time on your keyboard_)
 
+```java
 public void enterPi(){
     enterText(Keys.chord(Keys.ALT, "p"));
 }
+```
+
 
 
 
@@ -38,7 +41,7 @@ public void enterPi(){
 What Selenium Keys class method is used for performing keyboard actions like pressing the arrow or function keys? ;; Keys class
 <!--SR:!2024-05-08,1,230-->
 How do you simulate pressing multiple keys at once in Selenium, such as ALT and P? ;; Keys.chord()
-<!--SR:!2024-05-08,1,230-->
+<!--SR:!2024-07-11,1,210-->
 What does `Keys.chord(Keys.ALT, "p")` in Selenium do when executed? ;; Simulates pressing ALT and 'p' simultaneously
 <!--SR:!2024-05-08,1,230-->
 Which Selenium Keys class constant is used to represent the backspace key? ;; Keys.BACK_SPACE

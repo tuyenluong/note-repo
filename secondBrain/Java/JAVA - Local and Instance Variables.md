@@ -26,13 +26,15 @@ Indexes:
 
 ### `final` means that *reference* is constant, content of the *reference* can be modified
 
-```java
-public void printSomething(){
-	final int[] a = {1, 3, 5};
-	a[1] = 7; 
-	System.out.prinln(Arrays.toString(a));
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		final int[] a = {1, 3, 5};
+		a[1] = 7; 
+		System.out.println(Arrays.toString(a));
+	}
 }
-==>> [1, 7, 4]
 ```
 
 
@@ -71,4 +73,14 @@ public void printSomething(){
 ?
 Yes, `final` means that *reference* is constant, content of the *reference* can be modified
 Result: \[1, 7, 4]
+```run-java
+import java.util.Arrays;
+public class Test{
+	public static void main(String[] args){
+		final int[] a = {1, 3, 5};
+		a[1] = 7; 
+		System.out.println(Arrays.toString(a));
+	}
+}
+```
 <!--SR:!2024-07-12,4,270-->

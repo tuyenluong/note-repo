@@ -63,6 +63,7 @@ public class Test{
 ```
 
 ## `Arrays.compare(fistArr, secondArr)` method
+^dea931
 
 - How to determines which array is `smaller` and returns?
 	- Negative number if `first` is smaller then the `second`
@@ -125,3 +126,6 @@ public class Test{
 
 
 
+
+---
+## Flash cards section

@@ -9,12 +9,12 @@
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
-    "showContextInCards": true,
+    "showContextInCards": false,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": true,
@@ -40,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-07-09",
+  "buryDate": "2024-07-10",
   "buryList": [],
   "historyDeck": null
 }

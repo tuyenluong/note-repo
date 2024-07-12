@@ -41,7 +41,7 @@ Indexes:
 	- Methods
 		- Methods often perform actions or operations on the state (attributes or properties) of the current instance (object) of the class. The behaviour of a class is encapsulated within its methods, allowing objects to interact with each other and with their own internal state.
 		- Method declarations have six components:
-			- Modifier
+			- [[JAVA - Access Modifiers|Modifier]]
 			- The return type or void if the method not return a value
 			- The method name
 			- The parameter list in parenthesis

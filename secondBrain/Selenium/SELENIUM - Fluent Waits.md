@@ -43,34 +43,41 @@ And then specify how many seconds. In addition to seconds, there's also nano, mi
 
 We're going to stick with the same example, so let's say 5 seconds and then we can do another . to keep going.
 
+```java
 FluentWait wait = new FluentWait(driver)
      .withTimeout(Duration.ofSeconds(5))
+```
 
 Then we can say, “okay, I want you to poll every maybe 1 second”. So, we can say duration of 1 second.
 
+```java
 FluentWait wait = new FluentWait(driver)
     .withTimeout(Duration.ofSeconds(5))
     .pollingEvery(Duration.ofSeconds(1))
+```
 
-And then another . to say “ignore the NoSuchElementException”.
+And then another . to say ignore the `NoSuchElementException`.
 
-So, let's say that the element was not present in the DOM. If we tried to find it before it was there, then it would throw this NoSuchElementException.
+So, let's say that the element was not present in the DOM. If we tried to find it before it was there, then it would throw this `NoSuchElementException`.
 
 So, to ignore that exception, we say:
 
+```java
 FluentWait wait = new FluentWait(driver)
     .withTimeout(Duration.ofSeconds(5))
     .pollingEvery(Duration.ofSeconds(1))
     .ignoring(NoSuchElementException.class);
+```
 
 You can specify any other exceptions that you wanted in there.
 
 Okay, so again, this is equivalent to the creation of the object for the explicit wait.
 
-In order for it to actually do something, we need to do a wait.until and then we'd go ahead and give it that same expected condition.
+In order for it to actually do something, we need to do a `wait.until` and then we'd go ahead and give it that same expected condition.
 
 And now we have a fluent wait.
 
+```java
 FluentWait wait = new FluentWait(driver)
     .withTimeout(Duration.ofSeconds(5))
      .pollingEvery(Duration.ofSeconds(1))
@@ -78,5 +85,6 @@ FluentWait wait = new FluentWait(driver)
 
 wait.until(ExpectedConditions.invisibilityOf(
         driver.findElement(loadingIndicator)));
+```
 
 So, this gives you a little bit more control. In addition to just setting the timeout, you can also say how often it should check for this and any exceptions to ignore.

@@ -38,9 +38,26 @@ These developments reflect the ongoing evolution of Selenium to keep pace with c
 
 
 
-
-
-
-
 ---
 ## Flash cards section
+
+What are the Selenium suite components?
+?
+Selenium IDE, Selenium RC, Selenium WebDriver, Selenium Grid
+
+What is the difference between Selenium 2.0 and Selenium 3.0?
+?
+Selenium 2.0 streamlined creating automated tests for web applications by combining the original Selenium project with the WebDriver project. While Selenium Remote Control (RC) became outdated after the merge, it was still supported for a while to ensure existing tests wouldn’t break.
+<!--SR:!2024-07-11,1,230-->
+
+Is Selenium WebDriver and Selenium RC is the same?
+?
+No, Selenium WebDriver is APIs, which provided a more robust and efficient way to interact with web browsers compared to the older Selenium RC (Remote Control).
+
+In which version does Selenium RC get removed? 
+?
+Selenium 3.0, but it's remained available for backward compatibility.
+
+W3C WebDriver Standard was introduced in which version?
+?
+Selenium 3.0 but until to Selenium 4.0 it was become fully W3C WebDriver Standard

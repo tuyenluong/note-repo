@@ -25,4 +25,4 @@ Because it's a util package, every method of the Navigation class return void. S
 
 Method to switch between tabs.
 
-Web Driver has a method **.getWindowHandles()** will get us all the opening windows or tasks.
+Web Driver has a method `.getWindowHandles()` will get us all the opening windows or tasks.

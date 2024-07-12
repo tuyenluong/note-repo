@@ -21,7 +21,7 @@ How does a case-sensitive programming environment handle identifiers that differ
 <!--SR:!2024-05-06,1,226-->
 In a non-case-sensitive programming language, what is the behaviour when comparing strings like "Word" and "word"? ;; In a non-case-sensitive language, the comparison of "Word" and "word" would yield a true result as the comparison ignores case differences.
 What impact does case sensitivity have on variable names in programming languages? ;; In a case-sensitive language, variable names must match exactly in terms of capitalization to refer to the same variable, while in a non-case-sensitive language, capitalization does not matter.
-<!--SR:!2024-05-06,1,226-->
+<!--SR:!2024-07-11,1,206-->
 When writing code in a case-sensitive environment, what consideration should be given to function names and keywords? ;; In a case-sensitive environment, function names and keywords must be written with consistent capitalization as per their definitions, otherwise, the code may result in errors or unexpected behaviour.
 <!--SR:!2024-07-10,1,216-->
 How would a case-sensitive file system handle requests to access files named "Document.txt" and "document.txt"? ;; In a case-sensitive file system, "Document.txt" and "document.txt" would be treated as distinct files, and attempts to access one using the other's name would result in a file not found error.
@@ -32,6 +32,6 @@ What challenges might arise when porting code from a case-insensitive to a case-
 How can the choice between case-sensitive and non-case-sensitive programming languages impact code readability and maintainability? ;; The choice between case-sensitive and non-case-sensitive languages can impact code readability and maintainability by affecting naming conventions and the ease of understanding code for developers.
 <!--SR:!2024-06-06,2,210-->
 What is the significance of case sensitivity in database queries, especially in SQL? ;; In SQL, case sensitivity can affect the correctness of database queries, as keywords and identifiers may need to match exactly in terms of capitalization to be recognized by the database engine.
-<!--SR:!2024-07-09,1,217-->
+<!--SR:!2024-07-11,1,197-->
 When working in a case-sensitive programming environment, why is it important for developers to pay attention to the capitalization of identifiers? ;; In a case-sensitive environment, paying attention to the capitalization of identifiers is crucial to ensure that variables, functions, and keywords are correctly recognized and used throughout the codebase.
 <!--SR:!2024-05-14,1,206-->

@@ -48,4 +48,4 @@ The thing is needed for our Automation Test:
 -  And you have to make sure that the dependency is imported, is in the "Maven" tab on the middle right of the IntelliJ.
     -   Click on it and open the "Dependency" folder to check.
     -   If it's not there, you can re-import it on the menu tab.
-    - And the last thing on the set-up step, you need to create a "resources" directory and move the ChromeDriver executable to the "resources" directory so that your project be able to use it.
+    - And the last thing on the set-up step, you need to create a "resources" directory and move the `ChromeDriver` executable to the "resources" directory so that your project be able to use it.
