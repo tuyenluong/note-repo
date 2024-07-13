@@ -4,27 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "849725fab3724b05",
+        "id": "3e9e7f659f13686e",
         "type": "tabs",
         "children": [
           {
-            "id": "d5940f9e63995324",
+            "id": "1ebb707e93dea8f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7a6cb66732a6095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -78,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -103,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+              }
             }
           },
           {
@@ -152,11 +148,46 @@
             }
           },
           {
-            "id": "0a7606319e0a7ce6",
+            "id": "708013ddc5ba6c72",
             "type": "leaf",
             "state": {
-              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:secondBrain/Indexes path:",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012117,
+                  "close": true
+                }
+              }
             }
           }
         ],
@@ -164,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 873.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,57 +218,56 @@
       "open-gate:JavaPoint": false,
       "open-gate:Java-Udemy": false,
       "open-gate:Linux-Udemy": false,
-      "open-gate:Networking-Udemy": false,
-      "publish:Publish changes...": false
+      "open-gate:Networking-Udemy": false
     }
   },
-  "active": "d5940f9e63995324",
+  "active": "1ebb707e93dea8f4",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA - Insert an element to any index of the array by shifting to the right.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/Java/JAVA - Creating an Array.md",
-    "secondBrain/Nouns 19 06 2023 5685f907e4004b43960a6c310b2390ed.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "2024-07-10.md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Java/JAVA - Local and Instance Variables.md",
-    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
-    "README.md",
-    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Indexes/linux.md",
-    "secondBrain/Indexes/information_technolody.md",
-    "secondBrain/Indexes/selenium/selenium.md",
-    "secondBrain/Indexes/data_structure_algo.md",
-    "secondBrain/Java/JAVA - Find biggest number in an array.md",
-    "secondBrain/Indexes/java/topics/array.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/selenium/topics/webDriver.md",
-    "secondBrain/Selenium/SELENIUM - Window.scrollBy().md",
-    "secondBrain/Selenium/SELENIUM - Advanced Interactions.md",
-    "secondBrain/Indexes/selenium/topics/grid.md",
-    "secondBrain/Indexes/selenium/topics/ide.md",
-    "secondBrain/Indexes/selenium/version/selenium_version.md",
     "secondBrain/Selenium/SELENIUM - History.md",
     "secondBrain/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Java/resources/Pasted image 20240710162910.png",
+    "secondBrain/Java/JAVA - Insert an element to any index of the array by shifting to the right.md",
+    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Git/GIT - Common Git commands.md",
+    "secondBrain/Git/github-recovery-codes.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/Java/JAVA - Find two biggest number.md",
+    "secondBrain/Java/PV Automation.md",
+    "secondBrain/Indexes/java/topics/methods.md",
+    "secondBrain/Java/JAVA - Access Modifiers.md",
+    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
+    "secondBrain/English/vocabbulary/ENG - hevens.md",
+    "secondBrain/Java/JAVA - Creating an Array.md",
+    "secondBrain/Indexes/java/topics/array.md",
+    "secondBrain/Indexes/presentation.md",
+    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Indexes/selenium/topics/webDriver.md",
+    "secondBrain/Indexes/selenium/version/selenium_3_and_lower.md",
+    "secondBrain/Indexes/selenium/topics/grid.md",
     "secondBrain/Indexes/selenium/version",
+    "secondBrain/Indexes/selenium/topics/ide.md",
+    "secondBrain/Indexes/java/java.md",
     "secondBrain/Indexes/selenium/topics",
+    "secondBrain/Indexes/api.md",
+    "secondBrain/Java/SELENIUM - History.md",
+    "secondBrain/Indexes/selenium/selenium.md",
+    "secondBrain/Indexes/information_technolody.md",
     "secondBrain/Indexes/selenium",
-    "secondBrain/Soft_skills",
     "secondBrain/Java/resources/Pasted image 20240705171351.png",
-    "Pasted image 20240705171351.png",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "secondBrain/Git/github-recovery-codes.txt",
+    "secondBrain/Soft_skills",
     "secondBrain/Kanban-Task",
     "secondBrain/Indexes/java/topics",
     "secondBrain/Indexes/java/versions",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
     "secondBrain/Java/EntendResources/Build-in+Modules.pdf",
     "secondBrain/Java/resources/Pasted image 20240623143302.png",
+    "secondBrain/English/resources/Recording 20240504123741.webm",
     "Pasted image 20240624124346.png",
     "secondBrain/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Java/resources/Pasted image 20240624011005.png",
-    "secondBrain/Java/resources/Pasted image 20240623135612.png"
+    "secondBrain/Java/resources/Pasted image 20240623135612.png",
+    "secondBrain/Indexes/english"
   ]
 }
