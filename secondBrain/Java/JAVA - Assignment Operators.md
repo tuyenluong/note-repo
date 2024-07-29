@@ -7,7 +7,6 @@ Indexes:
 
 ----
 
-
 ## Assignment operators
 
 - Assignment operator ( **=** ) has the lowest precedence
@@ -161,6 +160,109 @@ if(isOk == true){ ==>> The correct operator
 }
 ==>> Result: B
 ```
+
+
+
+---
+## Flash cards section
+
+What is the precedence of the assignment operator ( = )?
+?
+The assignment operator ( = ) has the lowest precedence. First, the operation on the right-hand side is performed, and the result is assigned to a variable on the left-hand side.
+
+How does Java handle auto-casting with smaller to larger data types?
+?
+Java automatically promotes smaller data types to larger data types. For example: 
+```java
+short x = 5;
+int y; y = x;
+```
+This is OK because `x` is casted to `int`.
+
+Why can't you assign an `int` value to a `short` variable without explicit casting?
+?
+You cannot assign an `int` value to a `short` variable because `int` is a larger data type. For example: 
+```java
+int a = 5;
+short b;
+b = a;
+```
+This is not OK.
+
+How do you explicitly cast a larger data type to a smaller data type?
+?
+You can explicitly cast a larger data type to a smaller data type by specifying the cast. For example: 
+```java
+int a = 5;
+short b;
+b = (short) a;
+```
+ This is OK.
+
+Can you assign a `double` value to an `int` variable directly? Why or why not?
+?
+No, you cannot assign a `double` value to an `int` variable directly because `double` is a larger data type. For example: `int x = 1.0;` This is not OK.
+
+Why can't you assign a `long` value to an `int` variable directly?
+?
+You can't assign a `long` value to an `int` variable because `long` is a larger data type. For example: `int y = 123L;` This is not OK.
+
+Is it acceptable to assign an `int` value to a `long` variable? Why?
+?
+Yes, it is acceptable to assign an `int` value to a `long` variable because `int` is smaller than `long`. For example: `long z = 5;` This is OK.
+
+How do you cast a `byte` value to a `long` variable?
+?
+You can cast a `byte` value to a `long` variable explicitly. For example: `long w = (byte) 7;` This is OK.
+
+Why can't you assign a `double` value to a `float` variable directly?
+?
+You cannot assign a `double` value to a `float` variable directly because `double` is a larger data type. For example: `float k = 2.3;` This is not OK.
+
+Why is it acceptable to assign an integer literal to a `short` variable directly?
+?
+It is acceptable because the compiler can figure out that the value is within the range of `short`. For example: `short a = 7;` This is OK.
+
+What happens when you perform arithmetic operations with `short` and `byte`?
+?
+Whenever you perform operations with `short` and `byte`, all values are promoted to `int`, and the result is an `int`. For example: `short c = (short) (a + b);` This is OK.
+
+What are compound assignment operators and provide an example?
+?
+Compound assignment operators are shorthand notations of assignment operations. For example: `a += 5` is equivalent to `a = a + 5`.
+
+What does the assignment operator do in an expression?
+?
+The assignment operator assigns the value from the right-hand side to the left-hand side and also returns the value of the variable. For example:
+```java
+int x = 5;
+int y = (x = 3) * 2;
+```
+The result is `x = 3` and `y = 6`.
+
+What is the common mistake in the following code:
+```java
+boolean isOk = false
+if(isOk = true) { ... }
+```
+?
+The mistake is using a single equal sign ( = ) instead of a double equal sign ( == ) for comparison. The result will be `true` because the assignment operator reassigns `isOk` to `true`.
+
+What is the correct way to compare a boolean variable in an if statement?
+?
+The correct way is to use the double equal sign ( == ) for comparison. For example:
+```java
+boolean isOk = false;
+if(isOk == true) { ... }
+```
+The result will be `false`.
+
+
+
+
+
+
+
 
 
 

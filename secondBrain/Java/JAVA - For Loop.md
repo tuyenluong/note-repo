@@ -49,3 +49,66 @@ i=2, j=2
 
 ### Everything else works the same as in while loop
 - break, continue, nested loops, unreachable code, breaking with return, etc.
+
+
+
+---
+## Flash cards section
+
+What is the syntax of a for loop in Java?
+?
+```java
+for (initialization; condition; update) {
+    // executes while the condition is true
+}
+```
+
+What is the first step in the execution order of a for loop? ;; Execute the initialization statement (only once).
+
+What is the second step in the execution order of a for loop? ;; Check the condition.
+
+What happens if the condition in a for loop is true? ;; Execute the code inside the loop.
+
+What happens if the condition in a for loop is false? ;; Exit the loop.
+
+What is the fourth step in the execution order of a for loop? ;; Execute the update statement.
+
+How does a for loop compare to a while loop in terms of syntax? ;; A for loop initializes, checks the condition, and updates in the same line, making it more convenient, easier to read, and compact.
+
+Can you omit any statements in a for loop? ;; Yes, you can omit any one of the statements, but you must keep the semicolons in place.
+
+What is the result of this code?
+```java
+for ( ; ; ) { }
+```
+?
+This creates an infinite loop and is valid.
+
+How can you use multiple indices in a for loop?
+?
+```java
+for (int i = 0, j = 0; (i + j) < 5; i++, j++) {
+    System.out.println("i=" + i + ", j=" + j);
+}
+```
+
+What will the output of this code be?
+```java
+for (int i = 0, j = 0; (i + j) < 5; i++, j++) {
+    System.out.println("i=" + i + ", j=" + j);
+}
+
+```
+?
+Plain text
+```java
+i=0, j=0
+i=1, j=1
+i=2, j=2
+```
+
+Do break, continue, nested loops, unreachable code, and breaking with return work the same way in for loops as in while loops? ;; Yes, they work the same way in both for loops and while loops.
+
+
+
+

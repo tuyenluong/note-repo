@@ -89,3 +89,62 @@ Indexes:
 	    - Yes, only one class in a Java file can be declared as public. If there's more than one public class, the compilation will fail.
 	- **If there's another class marked as public, it will not compile:**
 	    - Correct, having more than one public class in a Java file will result in a compilation error.
+
+
+
+---
+## Flash cards section
+
+What is a class in Java? ;; A class is a basic building block of every Java program, describing the parts and characteristics of objects.
+
+What is an object in Java? ;; An object is a realization of a class, often called an instance of the class.
+
+What is an instance in Java? ;; An instance is a single representation of a class, also known as an object.
+
+What is a reference in Java? ;; A reference is a variable that points to an object.
+
+What are the two main elements of Java classes? ;; Fields and methods.
+
+What are class variables? ;; Variables declared with the static keyword within a class, shared by all instances of the class.
+
+What are instance variables? ;; Variables declared within a class but outside any method, associated with an instance and having different values for each instance.
+
+What are local variables? ;; Variables declared within a method or block of code, limited in scope to that method or block.
+
+What are parameters in Java? ;; Variables declared in method declarations, used to receive values from the caller.
+
+What do methods in Java do? ;; Methods perform actions or operations on the state of the current instance of the class.
+
+What are the six components of a method declaration? ;; Modifier, return type or void, method name, parameter list in parentheses, exception list, and method body.
+
+What is a method signature in Java? ;; A combination of the method name and its parameter types.
+
+Does the method signature include the return type? ;; No, the return type is not part of the method signature.
+
+What is method overloading? ;; Defining multiple methods in the same class with the same name but different method signatures.
+
+What is the purpose of comments in Java? ;; To make the code more readable, ignored by the compiler.
+
+What are the three ways to comment out text in Java? ;; Single-line comments (//), block comments (/* ... _/), and Javadoc comments (/_* ... */).
+
+Is it good practice to have each class in its own .java file? ;; Yes, to enhance code organization and maintainability.
+
+Can you have multiple classes in one .java file? ;; Yes, but only one can be a top-level class.
+
+What is a top-level class in Java? ;; The main class in a .java file, often marked as public but not necessarily.
+
+What happens if the top-level class is marked as public? ;; The filename must match the class name.
+
+How many classes in a .java file can be marked as public? ;; Only one. If there's more than one, the compilation will fail.
+
+What will happen if there's another class marked as public in the same .java file? ;; The compilation will fail.
+
+
+
+
+
+
+
+
+
+

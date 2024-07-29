@@ -455,36 +455,95 @@ System.out.println(name.trim());
 ## Flash cards section
 
 How do you create a new String object in Java? ;; You can create a new String object by using the `new String("text")` syntax or by string literal like `"text"`.
-<!--SR:!2024-05-08,3,250-->
+<!--SR:!2024-07-26,12,270-->
 What are two ways to concatenate strings in Java? ;; The two ways to concatenate strings in Java are using the `+` operator (e.g., `str1 + str2`) and the `concat()` method (e.g., `str1.concat(str2)`).
-<!--SR:!2024-07-13,3,243-->
+<!--SR:!2024-07-22,8,263-->
 What does the `+` operator do when both operands are numeric in Java? ;; When both operands are numeric, the `+` operator performs addition.
-<!--SR:!2024-07-13,3,250-->
+<!--SR:!2024-07-27,13,270-->
 What is the result of `"John" + 3 + 8` in Java? ;; The result is `John38` because concatenation in Java is evaluated from left to right.
-<!--SR:!2024-05-08,3,250-->
+<!--SR:!2024-07-24,10,250-->
 What happens when you concatenate a string with `null` in Java? ;; When you concatenate a string with `null`, Java converts `null` to the string `"null"` and concatenates it, resulting in strings like `"Johnnull"`.
-<!--SR:!2024-07-12,2,223-->
+<!--SR:!2024-07-19,5,243-->
 How do you use the `+=` operator for string concatenation? ;; The `+=` operator is used to append the string on the right to the variable on the left, equivalent to `variable = variable + "string"`.
 <!--SR:!2024-07-11,1,190-->
 What does the `length()` method of a String return? ;; The `length()` method returns the number of characters in the string.
 <!--SR:!2024-05-06,1,223-->
 What exception is thrown when accessing a character index that exceeds the string length? ;; Accessing an index that exceeds the string length throws a `StringIndexOutOfBoundsException`.
 <!--SR:!2024-05-15,2,223-->
-How can you find the first occurrence of a character 't' in a string using `indexOf()`? ;; You can find the first occurrence of the character 't' by using `string.indexOf('t')`.
-<!--SR:!2024-05-06,1,230-->
+What does the `indexOf()` method do?
+?
+The `indexOf()` method find the first occurrence of the character 't' by using `string.indexOf('t')`.
+<!--SR:!2024-07-17,3,250-->
 What does the `substring(int start, int end)` method do? ;; It returns a new string that is a substring of the original string, starting from the index `start` and ending at index `end` (exclusive).
 <!--SR:!2024-05-14,1,204-->
 What does the `toLowerCase()` method do to a string? ;; The `toLowerCase()` method converts all characters of the string to lower case.
-<!--SR:!2024-05-14,1,203-->
+<!--SR:!2024-07-15,1,183-->
 How does the `equals()` method compare two strings in Java? ;; The `equals()` method compares the content of two strings, returning `true` if they are identical.
-<!--SR:!2024-07-12,2,230-->
+<!--SR:!2024-07-22,8,250-->
 What does the `startsWith()` method do, and what type of argument does it accept? ;; The `startsWith()` method checks if the string starts with the specified substring and accepts a String argument.
-<!--SR:!2024-05-08,3,250-->
+<!--SR:!2024-07-21,7,250-->
 Describe what the `replace(char oldChar, char newChar)` method does. ;; The `replace(char oldChar, char newChar)` method returns a new string resulting from replacing all occurrences of `oldChar` in the string with `newChar`.
 <!--SR:!2024-07-20,10,270-->
 What is the difference between `trim()` and `strip()` methods in Java? ;; Both methods remove leading and trailing white space from a string, but `strip()` is Unicode-aware and thus can handle a wider range of white space characters than `trim()`.
-<!--SR:!2024-05-06,1,223-->
+<!--SR:!2024-07-15,1,203-->
 Explain the function of the `indent(int n)` method introduced in Java 12. ;; The `indent(int n)` method adjusts the indentation of each line in the string by adding or removing spaces, normalizes line terminators, and adds a line break after each line.
-<!--SR:!2024-05-06,1,223-->
+<!--SR:!2024-07-17,3,243-->
 What does the `isEmpty()` method check for in a string? ;; The `isEmpty()` method checks if the string has a length of zero, meaning it is empty.
 <!--SR:!2024-07-12,2,230-->
+
+**What does the `+` operator do when used with two numeric values in Java?**  
+;; It performs addition.
+
+**What does the `+` operator do when used with at least one String value in Java?**  
+;; It performs concatenation.
+
+**What is the output of `System.out.println("John" + 3 + 8);`?**  
+;; John38
+
+**What is the output of `System.out.println("John" + (3 + 8));`?**  
+;; John11
+
+**What will be the result of concatenating `"John"` and `null`?**  ;; Johnnull
+
+**What is the purpose of the `concat()` method in Java Strings?**  ;; It concatenates two Strings.
+
+**How does `StringBuilder` differ from `String` regarding immutability?** ;; `StringBuilder` is mutable while `String` is immutable.
+
+**What is the output of `new String("John Wayne").length()`?**  ;; 10
+
+**What does the `charAt()` method do in Java?**  ;; It returns the character at a specified index.
+
+**What is the output of `System.out.println("Doctor Dolittle".indexOf('t'));`?**  ;; 3
+
+**How does `indexOf()` behave when searching for a String instead of a character?**  ;; It returns the index of the first occurrence of the specified substring.
+
+**What will `System.out.println("John Wayne".substring(3, 8));` output?** ;; n Way
+
+**What is the result of `System.out.println(" abc ".strip());`?**  ;; |abc|
+
+**What is the output of `System.out.println(" abc ".trim());`?**  ;; |abc|
+
+**What does the `replace()` method do in Java Strings?**  ;; It replaces occurrences of a specified character or substring with another character or substring.
+
+**What is the difference between `isEmpty()` and `isBlank()` in Java Strings?**  ;; `isEmpty()` checks if the string has zero length, while `isBlank()` checks if the string is empty or contains only whitespace characters.
+
+**What does the `stripIndent()` method do?**  ;; It removes all leading incidental whitespace from each line of a multi-line string.
+
+**What is the output of `System.out.println("John\\tWayne".translateEscapes());`?**  ;; John Wayne (translates the escape sequence to a tab)
+
+**What is the result of `System.out.println("%s has %d marbles.".formatted("John", 5));`?**  ;; John has 5 marbles
+
+**What will `String.format("%s has %d marbles.", "John", 5);` return?**  ;; John has 5 marbles
+
+**What is the output of `System.out.println(" John Wayne ".trim().toUpperCase().replace('Y', 'R'));`?**  ;; JOHN RARNE
+
+**How does method chaining work with Java Strings?**  ;; Methods are executed in a left-to-right order, and each method call operates on the result of the previous one.
+
+**What is the effect of using `String.trim()` on an immutable String object?**  ;; It returns a new String with the leading and trailing whitespace removed; the original String remains unchanged.
+
+**What does `name.isEmpty()` return for an empty string?**  ;; true
+
+
+**What does `name.isBlank()` return for a string containing only whitespace?**  ;; true
+
+

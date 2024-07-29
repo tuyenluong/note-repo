@@ -43,3 +43,57 @@ for(var car : cars){
 	System.out.println(car);
 }
 ```
+
+
+---
+## Flash cards section
+
+What is the syntax of a for-each loop in Java?
+?
+```java
+for(Type element : array) {
+    // code to be executed
+}
+```
+
+How can you use a for-each loop to print all elements in a string array called `cars`?
+?
+```java
+String[] cars = {"Ford", "Renault", "Fiat", "Kia"};
+for(String car : cars) {
+    System.out.println(car);
+}
+```
+
+What is a common use case for a traditional for loop when working with arrays? ;; A traditional for loop is often used to access members of the array and control over the indices.
+
+How can you use a traditional for loop to print all elements in a string array called `cars`?
+?
+```java
+String[] cars = {"Ford", "Renault", "Fiat", "Kia"};
+for(int i = 0; i < cars.length; i++) {
+    System.out.println(cars[i]);
+}
+```
+
+What is an advantage of using a for-each loop over a traditional for loop? ;; A for-each loop is more convenient for accessing all members of the array.
+
+What is a disadvantage of using a for-each loop compared to a traditional for loop? ;; You don't have control over the indices in a for-each loop.
+
+In what scenarios would a traditional for loop be preferable over a for-each loop? ;; In scenarios involving mathematical purposes, such as multiplication of matrices or where index control is required, a traditional for loop is preferable.
+
+How can you use a for-each loop with Local Variable Type Inference (LVTI) in Java 17 to print all elements in a string array called `cars`?
+?
+```java
+String[] cars = {"Ford", "Renault", "Fiat", "Kia"};
+for(var car : cars) {
+    System.out.println(car);
+}
+```
+
+
+
+
+
+
+

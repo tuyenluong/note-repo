@@ -6,7 +6,6 @@ Indexes:
 ---
 
 ----
-
 ## Local Variables
 
 - Defined inside the block of code `{ }`, go out of scope
@@ -51,16 +50,16 @@ public class Test{
 ## Flash cards section
 
 Local variable is only able to defined one optional modifier only. It's true? ;; Yes, it's true
-<!--SR:!2024-07-11,3,250-->
+<!--SR:!2024-07-24,10,270-->
 
 Once final local variable is assigned a value, it can be changed. It's true? ;; No , it's false
-<!--SR:!2024-07-09,1,230-->
+<!--SR:!2024-07-15,1,210-->
 
 All local variables must be explicitly initialized before used. It's true? ;; Yes, it's true
-<!--SR:!2024-07-12,4,270-->
+<!--SR:!2024-07-30,16,290-->
 
 All instance variables must be explicitly initialized before used. It's true? ;; No , it's false
-<!--SR:!2024-07-13,4,272-->
+<!--SR:!2024-07-24,10,272-->
 
 Will I able to change the value of the a array below?
 ```java

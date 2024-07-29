@@ -109,3 +109,108 @@ public class Dog2 {
 ![[Pasted image 20240310145305.png]]
 
 
+---
+## Flash cards section
+
+What do comparison operators return in Java? ;; A boolean value (true or false).
+
+How does the equals operator (a == b) work for primitives? ;; Returns true if the values are the same.
+
+How does the equals operator (a == b) work for objects? ;; Returns true if both values reference the same object.
+
+How does the not-equals operator (a != b) work for primitives? ;; Returns false if the values are the same.
+
+How does the not-equals operator (a != b) work for objects? ;; Returns false if both values reference the same object.
+
+Can you compare values of different types in Java? ;; No, you can only compare values of similar types, though auto-casting applies.
+
+What happens if both references point to null? ;; They are considered equal.
+
+What will the following code print:
+```java
+String name2 = new String("John Wayne");
+String name1 = new String("John Wayne");
+System.out.println(name1 == name2);
+```
+?
+False, because name1 and name2 point to different objects.
+
+What will the following code print:
+```java
+String name1 = new String("John Wayne");
+String name3 = name1;
+System.out.println(name1 == name3);
+```
+?
+True, because `name1` and `name3` point to the same object.
+
+What are the relational operators in Java?
+?
+< (*less*), <= (*less or equal*), > (*greater*), >= (*greater or equal*)
+
+What does the `instanceof` operator do in Java? ;; It compares the reference data type and returns true or false based on the result.
+
+What can `instanceof` compare?
+?
+It can compare whether a reference is a specified type of a class, a subclass, or an interface.
+
+What does the following code print:
+```java
+public class MyApp{
+	public static void isInteger(Number num){
+		if(num instanceof Integer){
+			System.out.println(num + " is an Integer");
+		}else{
+			System.out.println(num + " is not an Integer");
+		}
+	}
+	public static void main(String args[]){
+		isInteger(5);
+		isInteger(3.14);
+	}
+}
+```
+?
+```java
+5 is an Integer
+3.14 is not an Integer
+```
+
+What is the result of comparing any object instance with a null type using `instanceof`? ;; It returns false.
+
+What happens if null is on the right-hand side of the `instanceof` operator? ;; The code does not compile.
+
+What does the following code print:
+```java
+public class Dog2 {
+	public static void main(String args[]) {
+		Dog2 d = null;
+		System.out.println(d instanceof Dog2);
+	}
+}
+```
+?
+`false`
+
+What happens with the following code:
+```java
+public class Dog2 {
+	public static void main(String args[]) {
+		System.out.println(null instanceof null);
+	}
+}
+```
+?
+`DOES NOT COMPILE.`
+
+What is the logical AND operator in Java? ;; `a & b`, true if both operands are true.
+
+What is the conditional AND operator in Java? ;; `a && b`, true if both operands are true and stops evaluation once the result can be determined.
+
+What is the logical inclusive OR operator in Java? ;; `a | b`, true if at least one operand is true.
+
+What is the logical exclusive OR (XOR) operator in Java? ;; `a ^ b`, true only if one operand is true and the other is false.
+
+What is the conditional OR operator in Java? ;; `a || b`, true if at least one operand is true and stops evaluation once the result can be determined.
+
+What is the difference between logical and conditional operators in Java? ;; Conditional operators stop evaluation once the result can be determined (short-circuit evaluation).

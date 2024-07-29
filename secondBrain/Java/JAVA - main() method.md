@@ -63,3 +63,92 @@ java Names "John D." Wayne
 	First name: John D.
 	Last name: Wayne
 ```
+
+
+---
+## Flash cards section
+
+What is the entry point of a Java program? ;; The entry point of a Java program is the `main` method.
+
+Which method signature is NOT valid for the `main` method in Java?
+- [ ] `public static void main(String[] args) { }`
+- [ ] `public static void main(String... args) { }`
+- [ ] `public static void main(String args[]) { }`
+- [ ] `public void main(String[] args) { }`
+?
+`public void main(String[] args) { }` is NOT a valid `main` method signature. The `main` method must be `public static void`.
+
+How would you run a Java program with arguments using `java` command? ;; You would compile the program using `javac`, and then run it using `java` followed by the class name and any arguments. For example: `java Names John Wayne`.
+
+What is the output of this command if `Names.java` is compiled and run with arguments?
+```java
+public class Names {
+	public static void main(String[] args){
+		System.out.println("First name: " + args[0]);
+		System.out.println("Last name: " + args[1]);
+	}
+}
+
+java Names John Wayne
+```
+?
+The output will be:
+```java
+First name: John
+Last name: D.
+```
+The argument `D.` is treated as a separate parameter because it is not enclosed in quotes.
+
+Why does the following command result in an `ArrayIndexOutOfBoundsException`?
+```java
+public class Names {
+	public static void main(String[] args){
+		System.out.println("First name: " + args[0]);
+		System.out.println("Last name: " + args[1]);
+	}
+}
+
+java Names John
+```
+?
+It results in an `ArrayIndexOutOfBoundsException` because there are not enough arguments to fill both `args[0]` and `args[1]`.
+
+What will be the output of this command?
+```java
+public class Names {
+	public static void main(String[] args){
+		System.out.println("First name: " + args[0]);
+		System.out.println("Last name: " + args[1]);
+	}
+}
+
+java Names "John D." Wayne
+```
+?
+The output will be:
+```java
+First name: John D.
+Last name: Wayne
+```
+The double quotes ensure that `"John D."` is treated as a single argument.
+
+What is the command to compile `Names.java` into bytecode? ;; The command to compile `Names.java` into bytecode is `javac Names.java`.
+
+How has the behaviour of `java` command changed in Java 11 and above regarding compilation and running? ;; In Java 11 and above, the `java` command can compile and auto-run code, so the `javac` command is not always necessary. The `.class` file may not be generated.
+
+Given this code, what will be the output if the `Names` class is run with the arguments `"Alice" "Bob" "Charlie"`?
+```java
+public class Names {
+    public static void main(String[] args) {
+        System.out.println("First name: " + args[0]);
+        System.out.println("Last name: " + args[1]);
+    }
+}
+```
+?
+The output will be:
+```java
+First name: Alice
+Last name: Bob
+```
+The argument `"Charlie"` is ignored because the program only expects two arguments.

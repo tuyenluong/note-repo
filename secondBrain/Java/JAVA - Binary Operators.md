@@ -5,10 +5,7 @@ Indexes:
   - "[[operator]]"
 ---
 
-
 ----
-
-
 ## Arithmetic Binary Operators
 
 ```java
@@ -98,3 +95,65 @@ System.out.println(result);
 ==>>  The data types that get promoted is intvalue, so the result data type will be double as well.
 ```
 
+
+---
+## Flash cards section
+
+What is the result of 11 divided by 4 if the result is assigned to an integer?
+?
+The result is 2 because integer division returns the floor value, ignoring the decimal part.
+```java
+int a = 11 / 4;
+```
+
+How do you determine the remainder of the division of 11 by 4?
+?
+Use the modulo operator: `int b = 11 % 4;` The result is 3.
+
+How can you check if a number is even or odd using the modulo operator?
+?
+Use `if (n % 2 == 0)` for even and `else` for odd.
+
+What happens if operands have different data types in an arithmetic operation?
+?
+Java promotes one of the operands to the larger of the two data types.
+
+What will be the result and data type of the expression 
+```java
+short a = 17;
+float b = 15;
+double c = 35;
+System.out.println(a * b / c);
+```
+?
+The result will be a double because both `a` and `b` are promoted to double.
+
+What happens when an integer and a decimal value are used in an arithmetic operation?
+?
+Java promotes the integer to a decimal before performing the operation.
+
+What happens when you perform an arithmetic operation with `byte`, `short`, or `char`?
+?
+They are always promoted to `int` before the operation.
+
+Why does this code not compile?
+```java
+short x = 17;
+short y = 15;
+short z = x + y;
+```
+?
+Because `x` and `y` are promoted to `int`, making the result `int`, which cannot be assigned to `short` without explicit casting.
+
+What will be the data type of the result if an `int` and a `double` are used in an arithmetic operation?
+?
+The result will be of type `double`.
+
+What does the following code do:
+```java
+int intValue = 5;
+double decimalValue = 3.5;
+double result = intValue + decimalValue;
+```
+?
+The `int` value is promoted to `double`, and the result is a `double` with the value 8.5.

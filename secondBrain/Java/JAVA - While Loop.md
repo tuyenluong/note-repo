@@ -180,3 +180,129 @@ public void printPairs(){
 	}
 }
 ```
+
+
+
+
+---
+## Flash cards section
+
+**What is the syntax of a `while` loop in Java?** ;; `while (condition) { // body of the loop }`
+
+**What is an infinite loop?** ;; An infinite loop is a loop that runs forever because its condition always evaluates to true.
+
+**How can you prevent an infinite loop in Java?** ;; You can use a `break` statement or a sentinel condition to exit the loop.
+
+**What is a sentinel condition?** ;; A sentinel condition is a specific value used to terminate a loop when reached.
+
+What will this code do?
+```java
+int i = 0;
+while (i < 10) {
+    System.out.println(i);
+    i++;
+}
+```
+?
+The code will print numbers from 0 to 9, each on a new line.
+
+What will this code do?
+```java
+int a = 5, b = 7;
+while (a > b) {
+    System.out.println("Hello");
+}
+```
+?
+The code will never execute the `println` statement because `a` is always less than `b`.
+
+What will happen with this code?
+```java
+int a = 5, b = 7;
+while (a < b) {
+    System.out.println("Hello");
+}
+```
+?
+The code will create an infinite loop because `a` is always less than `b`, and there is no code to change `a` or `b`.
+
+What is the output of this code?
+```java
+int n = 0;
+while (true) {
+    System.out.println(n);
+    if (n == 9) break;
+    n++;
+}
+```
+?
+The code will print numbers from 0 to 9, each on a new line, and then terminate.
+
+What will this code do?
+```java
+int i = 0, j = 0;
+while (i < 3) {
+    i++;
+    j = 0;
+    while (j < 3) {
+        j++;
+        System.out.print("(" + i + ", " + j + ") ");
+    }
+}
+```
+?
+The code will print pairs of numbers from 1 to 3 for both `i` and `j` in a nested loop format.
+
+True or False: The following code will print "Hello" infinitely:
+```java
+while (true) {
+    System.out.println("Hello");
+}
+```
+?
+True. This loop will print "Hello" indefinitely.
+
+**True or False: The `break` statement in the inner loop of a nested loop breaks out of both the inner and outer loops.** ;; False. The `break` statement only exits the innermost loop unless labelled.
+
+**True or False: You can use a `continue` statement to exit a loop entirely.** ;; False. The `continue` statement only skips the current iteration and proceeds with the next iteration of the loop.
+
+**True or False: The `return` statement will terminate only the loop in which it is used.** ;; False. The `return` statement will exit the entire method, not just the loop.
+
+True or False: The following code will compile and run correctly:
+```java
+int i = 0;
+while (true) {
+    if (i == 10) break;
+    System.out.println(i);
+}
+```
+?
+True. The code will print numbers from 0 to 9 and then terminate due to the `break` statement.
+
+What will this code print?
+```java
+int i = 0, j = 0;
+OUTER_LOOP: while (true) {
+    i++;
+    j = 0;
+    INNER_LOOP: while (true) {
+        j++;
+        System.out.print("(" + i + ", " + j + ") ");
+        if (j == 3) break OUTER_LOOP;
+    }
+}
+```
+?
+The code will print pairs of numbers from `(1, 1)` to `(1, 3)` and then terminate due to the labelled `break`.
+
+What will be the result of this code?
+```java
+int i = 0;
+while (true) {
+    i++;
+    if (i == 5) break;
+}
+System.out.println("Done");
+```
+?
+The code will print "Done" after the `break` statement terminates the loop when `i` reaches 5.

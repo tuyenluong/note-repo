@@ -189,3 +189,164 @@ String getDirection (Compass value){
 	}
 }
 ```
+
+
+
+---
+## Flash cards section
+
+**What is a significant syntax improvement for switch statements in Java 17?** ;; The use of `->` instead of `:` and the elimination of the need for `break` statements.
+
+**What is the preferred syntax for a switch statement in Java 17 when using multiple cases?** 
+?
+Use a comma to separate multiple cases and `->` for the action, like this:
+```java
+switch(a) {
+    case 0, 1, 2 -> System.out.println("Good day");
+    case 3, 4 -> System.out.println("Hi");
+    default -> System.out.println("Hello");
+}
+```
+
+**How can you handle multiple commands within a single case block in a Java 17 switch expression?**  
+?
+By using curly braces `{}` to create a block of code, like this:
+```java
+switch(a) {
+    case 0, 1, 2 -> {
+        System.out.println("Good day");
+        System.out.print(" to you");
+    }
+    case 3, 4 -> System.out.println("Hi");
+    default -> System.out.println("Hello");
+}
+```
+
+**How does a switch expression return values in Java 17?**  
+?
+By assigning the result of the switch expression to a variable, like this:
+```java
+String greeting = switch(a) {
+    case 0, 1, 2 -> "Good day";
+    case 3, 4 -> "Hi";
+    default -> "Hello";
+};
+```
+
+What is the output of the following switch expression code?
+```java
+int a = 1;
+String greeting = switch(a) {
+    case 0, 1, 2 -> {
+        String arg1 = "Good";
+        String arg2 = " day";
+        yield arg1 + arg2;
+    }
+    case 3, 4 -> "Hi";
+    default -> "Hello";
+};
+System.out.println(greeting);
+```
+?
+`Good day`
+
+**What does the `yield` keyword do in a switch expression?**  
+;; It returns a value from a case block of a switch expression.
+
+What is the result of the following code?
+```java
+public void greet(int a) {
+    String greeting = switch(a) {
+        case 0 -> "Good morning";
+        case 1 -> {
+            if (a > 0) {
+                yield "Good morning";
+            } else {
+                yield "Good afternoon";
+            }
+        }
+        case 2 -> "Good afternoon";
+        default -> "Hello";
+    };
+    System.out.println(greeting);
+}
+greet(1);
+```
+?
+`Good morning`
+
+**What happens if you use `yield` in a single statement block in a switch expression?**  
+?
+It is valid but not recommended. Example:
+```java
+public void greet(int a) {
+    String greeting = switch(a) {
+        case 0, 1, 2 -> "Good day";
+        case 3, 4 -> { yield "Hi"; }
+        default -> "Hello";
+    };
+    System.out.println(greeting);
+}
+greet(3);
+```
+`Hi`
+
+**What types of values can a switch expression in Java 17 return?**  
+;; It can return different types of values depending on the case, such as `String`, `int`, `boolean`, or `double`.
+
+What is the output of the following code with type inference?
+```java
+public void greet(int a) {
+    var greeting = switch(a) {
+        case 0 -> "Good morning"; // String
+        case 1 -> 7;              // int
+        case 2 -> true;           // boolean
+        default -> 3.14;          // double
+    };
+    System.out.println(greeting);
+}
+greet(2);
+```
+?
+`true`
+
+**What is required for a switch expression to compile in Java 17?**  
+;; It must handle all possible cases or provide a `default` case.
+
+What will be the result of the following switch expression code if `default` is missing?
+```java
+public void greet(int a) {
+    var greeting = switch(a) {
+        case 0 -> "Good morning";
+        case 1 -> "Good afternoon";
+        case 2 -> "Good evening";
+    };
+    System.out.println(greeting);
+}
+greet(3);
+```
+?
+`DOES NOT COMPILE`
+
+**How can using `enum` improve handling of switch expressions?**  ;; By listing all possible values of the `enum`, ensuring all cases are covered.
+
+**How can you ensure a switch expression handles all possible cases?**  
+;; By providing a `default` case or using an `enum` to list all possible values.
+
+**What is the output of the following code using an `enum` in a switch expression?**
+```java
+enum Compass {NORTH, SOUTH, EAST, WEST}
+
+String getDirection(Compass value) {
+    return switch(value) {
+        case NORTH -> "Up";
+        case SOUTH -> "Down";
+        case EAST -> "Right";
+        case WEST -> "Left";
+    };
+}
+System.out.println(getDirection(Compass.EAST));
+```
+?
+`Right`
+

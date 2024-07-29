@@ -4,24 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "3e9e7f659f13686e",
+        "id": "a14677c824faf728",
         "type": "tabs",
         "children": [
           {
-            "id": "1ebb707e93dea8f4",
+            "id": "27be1dfe3d555750",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "secondBrain/Java/JAVA - While Loop.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d708ab0f7b2f46ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3287458b6f8a089c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Java/JAVA - Overloading Methods.md"
               }
             }
           },
@@ -153,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,11 +217,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 266.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,7 +229,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -221,39 +246,41 @@
       "open-gate:Networking-Udemy": false
     }
   },
-  "active": "1ebb707e93dea8f4",
+  "active": "3287458b6f8a089c",
   "lastOpenFiles": [
-    "secondBrain/Selenium/SELENIUM - History.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+    "secondBrain/Java/JAVA - While Loop.md",
+    "secondBrain/Java/JAVA - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/Java/JAVA - Variables.md",
+    "secondBrain/Java/JAVA - What is the different between trim() and strip().md",
+    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
+    "secondBrain/Java/JAVA - What is mutable and immutable means.md",
+    "secondBrain/Java/JAVA - What is Incidental white spaces.md",
+    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
+    "secondBrain/Java/JAVA - Unary Operators.md",
+    "secondBrain/Java/JAVA - Unicode under U+0020.md",
+    "secondBrain/Java/JAVA - Text Blocks.md",
+    "secondBrain/Java/JAVA - Switch Statement.md",
+    "secondBrain/Java/JAVA - Switch Expression.md",
+    "secondBrain/Java/JAVA - String pool.md",
+    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Java/JAVA - String Builder.md",
+    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
+    "secondBrain/Java/JAVA - Sorting data.md",
+    "secondBrain/Java/JAVA - Packages.md",
+    "secondBrain/Java/JAVA - Period, Duration, Instant.md",
+    "secondBrain/Java/JAVA - Overloading Methods.md",
+    "secondBrain/Java/JAVA - Operators in Java.md",
+    "secondBrain/Java/JAVA - Objects.md",
+    "secondBrain/Java/JAVA - Multidimensional Array.md",
+    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
+    "secondBrain/Books",
     "secondBrain/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Java/resources/Pasted image 20240710162910.png",
-    "secondBrain/Java/JAVA - Insert an element to any index of the array by shifting to the right.md",
-    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Git/Pasted image 20240713132320.png",
-    "secondBrain/Git/GIT - Common Git commands.md",
-    "secondBrain/Git/github-recovery-codes.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/Java/JAVA - Find two biggest number.md",
-    "secondBrain/Java/PV Automation.md",
-    "secondBrain/Indexes/java/topics/methods.md",
-    "secondBrain/Java/JAVA - Access Modifiers.md",
-    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
-    "secondBrain/English/vocabbulary/ENG - hevens.md",
-    "secondBrain/Java/JAVA - Creating an Array.md",
-    "secondBrain/Indexes/java/topics/array.md",
-    "secondBrain/Indexes/presentation.md",
-    "secondBrain/Templates/sortspec.md",
-    "secondBrain/Indexes/selenium/topics/webDriver.md",
-    "secondBrain/Indexes/selenium/version/selenium_3_and_lower.md",
-    "secondBrain/Indexes/selenium/topics/grid.md",
     "secondBrain/Indexes/selenium/version",
-    "secondBrain/Indexes/selenium/topics/ide.md",
-    "secondBrain/Indexes/java/java.md",
     "secondBrain/Indexes/selenium/topics",
-    "secondBrain/Indexes/api.md",
-    "secondBrain/Java/SELENIUM - History.md",
-    "secondBrain/Indexes/selenium/selenium.md",
-    "secondBrain/Indexes/information_technolody.md",
     "secondBrain/Indexes/selenium",
     "secondBrain/Java/resources/Pasted image 20240705171351.png",
     "secondBrain/Soft_skills",
@@ -263,11 +290,9 @@
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
     "secondBrain/Java/EntendResources/Build-in+Modules.pdf",
     "secondBrain/Java/resources/Pasted image 20240623143302.png",
-    "secondBrain/English/resources/Recording 20240504123741.webm",
     "Pasted image 20240624124346.png",
     "secondBrain/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Java/resources/Pasted image 20240624011005.png",
-    "secondBrain/Java/resources/Pasted image 20240623135612.png",
-    "secondBrain/Indexes/english"
+    "secondBrain/Java/resources/Pasted image 20240623135612.png"
   ]
 }

@@ -171,3 +171,94 @@ System.out.println(x) ==>> DOES NOT COMPILE
 					==>> x is out of scope
 ```
 
+
+
+---
+## Flash cards section
+
+**What is a variable in Java?** ;; A variable is a name for a piece of memory that stores data.
+
+**What is the difference between declaring and initializing a variable?** ;; Declaring a variable means stating its type and name (e.g., `int x;`), while initializing a variable means assigning it a value (e.g., `int x = 5;`).
+
+**What is an identifier in Java?** ;; An identifier is the name used for a variable, method, class, interface, or package.
+
+**What are the rules for naming an identifier in Java?** ;; An identifier must begin with a letter, currency symbol, or underscore, and it can include numbers but cannot start with a number. Single underscores alone are not allowed, and reserved words cannot be used.
+
+**What are the Java naming conventions for variables and constants?** ;; Variables use camelCase (e.g., `fullName`), and constants use SNAKE_CASE (e.g., `MAX_HEIGHT`). Classes, interfaces, and enums use PascalCase (e.g., `MyClass`).
+
+**Are Java identifiers case-sensitive?** ;; Yes, Java identifiers are case-sensitive, meaning `firstOrder` and `firstORDER` would be treated as different variables.
+
+**True or False: You can declare and initialize variables of different types in a single command.** ;; False. You can only declare and initialize variables of the same type in a single command.
+
+**True or False: The `final` keyword applied to a variable means the variable’s value can be changed later.** ;; False. The `final` keyword means that the variable's value cannot be changed once assigned.
+
+**True or False: An identifier in Java can start with a number as long as it is followed by letters or underscores.** ;; False. An identifier cannot start with a number.
+
+**True or False: A local variable must be initialized before use.** ;; True. Local variables must be initialized before they are used in a method.
+
+**True or False: The following code will compile successfully: `int _;`** ;; False. While underscores are allowed as part of an identifier, a single underscore alone is not a valid identifier in Java.
+
+What will this code print?
+```java
+public class Test {
+    public static void main(String[] args) {
+        int x = 10;
+        int y = 20;
+        System.out.println(x + " " + y);
+    }
+}
+```
+?
+The output will be `10 20`.
+
+What will happen if you try to compile this code?
+```java
+public class Test {
+    public static void main(String[] args) {
+        int x, String name;
+    }
+}
+```
+?
+The code will not compile because you cannot declare variables of different data types in a single command.
+
+What will this code do?
+```java
+public class Test {
+    public static void main(String[] args) {
+        int x = 5;
+        if (x > 0) {
+            int y = 10;
+            System.out.println(y);
+        }
+        System.out.println(y);
+    }
+}
+```
+?
+The code will not compile because `y` is out of scope when accessed outside the `if` block.
+
+What is the output of this code?
+```java
+public class Test {
+    public static void main(String[] args) {
+        final int MAX_HEIGHT = 100;
+        System.out.println(MAX_HEIGHT);
+    }
+}
+```
+?
+The output will be `100`.
+
+What will happen if you try to compile this code?
+```java
+public class Test {
+    public static void main(String[] args) {
+        final int[] MY_NUMBERS = new int[5];
+        MY_NUMBERS[2] = 13; // This is OK
+        MY_NUMBERS = null; // This will cause a compile error
+    }
+}
+```
+?
+The code will compile successfully for `MY_NUMBERS[2] = 13;` but will not compile for `MY_NUMBERS = null;` because `MY_NUMBERS` is a final reference.

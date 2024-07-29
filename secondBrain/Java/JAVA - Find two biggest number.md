@@ -12,6 +12,10 @@ Indexes:
 
 ```run-java
 public class Test{
+	public static void main(String... args){
+		int[] arr = {14,15,346,64,756};
+		twoLargest(arr);
+	}
 	public static void twoLargest(int values[]){
 
 	int largestA = values[0];

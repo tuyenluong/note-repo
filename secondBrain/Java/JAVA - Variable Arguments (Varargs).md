@@ -85,13 +85,13 @@ public class Test{
 ## Flash cards section
 
 The number of varargs arguments should be in the same data type;; Yes, it's true
-<!--SR:!2024-07-13,4,270-->
+<!--SR:!2024-07-31,17,290-->
 
-Varargs argument can place anywhere in the parameter list. It's true? ;; No, it's false
-<!--SR:!2024-07-13,4,270-->
+Varargs argument can place anywhere in the parameter list. It's true? ;; No, it's false, it should be at the end of the parameterlist
+<!--SR:!2024-07-28,14,290-->
 
 A method can have more than one varargs argument. It's true? ;; No, it's false
-<!--SR:!2024-07-13,4,270-->
+<!--SR:!2024-07-25,11,270-->
 
 
 Will this code compile?
@@ -127,3 +127,100 @@ public class Test{
 ?
 No, it will not compile.
 <!--SR:!2024-07-13,4,270-->
+
+**What is a varargs parameter in Java?** ;; A varargs parameter allows a method to accept any number of parameters of the same type, represented as an array.
+
+**What are the two rules for using varargs in a method?** ;; A method can have at most one varargs argument, and the varargs argument must be the last parameter in the parameter list.
+
+**Can a method have multiple varargs parameters?** ;; No, a method can have only one varargs parameter.
+
+**Where must the varargs parameter be positioned in the method parameter list?** ;; The varargs parameter must be the last parameter in the method parameter list.
+
+Given the following code, what will be the output?
+```java
+public class Test{
+    public static void greet(String greeting, String... names){
+        for(String name : names){
+            System.out.println(greeting + ", " + name + "!");
+        }
+    }
+    public static void main(String[] args){
+        greet("Hello", "John", "George", "Luke");
+    }
+}
+```
+?
+The output will be:
+```java
+Hello, John!
+Hello, George!
+Hello, Luke!
+```
+
+What is the output of this code?
+```java
+public class Test{
+    public static void greet(String greeting, String... names){
+        for(String name : names){
+            System.out.println(greeting + ", " + name + "!");
+        }
+    }
+    public static void main(String[] args){
+        String[] allNames = {"Peter", "Paul"};
+        greet("Hello", allNames);
+    }
+}
+```
+?
+The output will be:
+```java
+Hello, Peter!
+Hello, Paul!
+```
+
+What will happen if you try to use an anonymous array with varargs in this code?
+```java
+public class Test{
+    public static void greet(String greeting, String... names){
+        for(String name : names){
+            System.out.println(greeting + ", " + name + "!");
+        }
+    }
+    public static void main(String[] args){
+        greet("Hello", {"John", "George", "Luke"});
+    }
+}
+```
+?
+The code will not compile because Java does not support passing anonymous arrays directly with varargs.
+
+What is the output of this code?
+```java
+public class Test{
+    public static void greet(String greeting, String... names){
+        for(String name : names){
+            System.out.println(greeting + ", " + name + "!");
+        }
+    }
+    public static void main(String[] args){
+        greet("Hello", new String[]{"John", "George", "Luke"});
+    }
+}
+```
+?
+The output will be:
+```java
+Hello, John!
+Hello, George!
+Hello, Luke!
+```
+
+**True or False: You can have more than one varargs parameter in a method.** ;; False. A method can have only one varargs parameter.
+
+**True or False: Varargs must be the first parameter in a method parameter list.** ;; False. Varargs must be the last parameter in the method parameter list.
+
+**True or False: Passing an anonymous array to a method with varargs is allowed in Java.** ;; False. Anonymous arrays cannot be passed directly with varargs.
+
+**True or False: You must use the `new` keyword when creating an array to pass to a method with varargs.** ;; False. While using `new` is one way to create an array, it's not required. You can also pass a pre-defined array directly.
+
+**True or False: The following method signature is valid: `public static void method(String... args, int... numbers)`.** ;; False. The varargs parameter must be the last parameter in the method signature.

@@ -70,3 +70,73 @@ a = 2 + (2*2) + (10/5) + 1
 | **2**  | ?:                                                                  | ternary                                                                                                                     | right-to-left |
 | **1**  | =   +=   -=  <br>*=   /=   %=  <br>&=   ^=   \|=  <br><<=  >>= >>>= | assignment                                                                                                                  | right-to-left |
 | **0**  | ->                                                                  | lambda expression arrow                                                                                                     | right-to-left |
+
+
+---
+## Flash cards section
+
+What is the difference between unary and binary operators in Java? ;; Unary operators operate on a single operand (e.g., `a++`), while binary operators operate on two operands (e.g., `a = b + c`).
+
+What is the ternary operator in Java and how is it used? ;; The ternary operator is `? :`, used for conditional expressions. For example, `a = (b > 0) ? 3 : 2` assigns `3` to `a` if `b` is greater than `0`, otherwise assigns `2`.
+
+Given the expression `a = 2 + (2*2) + (10/5) + 1`, what is the result? ;; The result is `9`. The expression is evaluated with multiplication and division first, then addition.
+
+What is operator precedence in Java? ;; Operator precedence determines the order in which operators are evaluated in an expression. Operators with higher precedence are evaluated before those with lower precedence.
+
+What is the difference between operator precedence and operator associativity? ;; Operator precedence defines the order in which operators are evaluated, while associativity determines the order of operations for operators of the same precedence level (left-to-right or right-to-left).
+
+Given the following code, what will be the output and explain why?
+```java
+int a = 5;
+int b = 10;
+int c = 2;
+int result = a + b * c;
+System.out.println(result);
+```
+?
+The output will be `25`. Multiplication has higher precedence than addition, so `b * c` is evaluated first (`10 * 2 = 20`), and then `a + 20` (`5 + 20 = 25`).
+
+What will be the result of the following expression considering operator precedence?
+```java
+int result = 3 + 4 * 2 / (1 - 5) ^ 2 ^ 3;
+```
+?
+The result will be `3`. The expression is evaluated as follows:
+1. `4 * 2 = 8`
+2. `1 - 5 = -4`
+3. `8 / -4 = -2`
+4. `-2 ^ 2 = 0` (bitwise XOR, not exponentiation)
+5. `0 ^ 3 = 3`
+6. Finally, `3 + 3 = 6`
+
+Given the following code, what will be the output and explain the precedence and associativity?
+```java
+int x = 10;
+int y = 5;
+int z = x > y ? x : y;
+System.out.println(z);
+```
+?
+The output will be `10`. The ternary operator `? :` has higher precedence than the `>` operator, so `x > y` is evaluated first. Since `10 > 5` is `true`, `x` is assigned to `z`.
+
+Given the following code, determine the output and explain the use of operators:
+```java
+boolean result = true && false || true;
+System.out.println(result);
+```
+?
+The output will be `true`. The `&&` operator has higher precedence than the `||` operator, so `true && false` evaluates to `false`. Then `false || true` evaluates to `true`.
+
+What will the following code output?
+```java
+int a = 8;
+int b = 4;
+int c = a / b * (2 + 3) % 3;
+System.out.println(c);
+```
+?
+The output will be `2`. Here’s the evaluation:
+1. `2 + 3 = 5`
+2. `a / b = 8 / 4 = 2`
+3. `2 * 5 = 10`
+4. `10 % 3 = 1`

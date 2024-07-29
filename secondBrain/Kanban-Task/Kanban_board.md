@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Start lesson [[JAVA - Sorting data]]
 
 
 ## In progress
@@ -18,9 +17,6 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] Start lesson [[JAVA - String Builder]]
-- [x] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
-- [x] Start lesson [[JAVA - String Pool]]
 
 
 ## Production
@@ -30,12 +26,19 @@ kanban-plugin: board
 
 ## Archive
 
+
+
+***
+
+## Archive
+
 - [ ] [[secondBrain/Kanban-Task/Rename all the note in Learning]]
+- [ ] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
+- [ ] Start lesson [[JAVA - Sorting data]]
+- [ ] Start lesson [[JAVA - String Pool]]
+- [ ] Start lesson [[JAVA - String Builder]]
 - [ ] [[secondBrain/Kanban-Task/Add creation and modification date into each index pages]]
 - [ ] Finish [[JAVA - String methods]]
-
-
-
 
 %% kanban:settings
 ```

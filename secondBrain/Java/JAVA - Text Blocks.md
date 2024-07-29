@@ -58,3 +58,111 @@ Text blocks in Java come with several useful methods that help manage and manipu
 3. **`formatted(Object... args)`**:
     - This method is an instance method equivalent to `String.format()`. It allows you to format the text block using provided arguments, making it easier to embed variables or perform formatting directly within the string.
     - It supports the same format specifiers as `String.format()`.
+
+
+---
+## Flash cards section
+
+**What feature was introduced in Java 15 to handle multiline strings?**  ;; Text blocks, defined by triple double quotes (`"""`).
+
+**What is a key requirement for the starting delimiter of a text block?**  ;; The starting delimiter must be followed by a new line.
+
+**How does incidental whitespace differ from essential whitespace in a text block?**  ;; Incidental whitespace is ignored by the compiler, while essential whitespace (spaces after the first non-empty character) is preserved.
+
+**What happens if the ending delimiter of a text block is on the same line as the text?**  ;; The new line is not inserted, and the text directly before the ending delimiter will not have a trailing new line.
+
+**What is the purpose of the `stripIndent()` method in text blocks?**  ;; `stripIndent()` removes incidental whitespace from the beginning of every line, correcting indentation.
+
+**What does the `translateEscapes()` method do in a text block?**  ;; `translateEscapes()` processes escape sequences like `\n`, `\t`, and Unicode escapes within the text block.
+
+**What is the purpose of the `formatted(Object... args)` method for text blocks?**  ;; It allows formatting the text block using provided arguments, similar to `String.format()`.
+
+What does the following code output?
+```java
+String text = """
+    Hello,
+    World!
+    """;
+System.out.println(text);
+```
+?
+```java
+Hello,
+World!
+```
+
+What does the following code output and why?
+```java
+String text = """
+    Hello,
+    World!""";
+System.out.println(text);
+```
+?
+```java
+Hello,
+World!"" 
+```
+The ending delimiter is on the same line as the text, so the new line is not included.
+
+**How do you correct the indentation of a text block if the text block is indented relative to the code?**  ;; Use the `stripIndent()` method to remove the extra indentation.
+
+**What is the output of this text block after using `stripIndent()`?**
+```java
+String text = """
+    \tHello,
+    \tWorld!
+    """.stripIndent();
+System.out.println(text);
+```
+?
+```java
+Hello,
+World!
+```
+
+What is the result of the following code?
+```java
+String text = """
+    Hello,
+    World!
+    """.formatted("Java");
+System.out.println(text);
+```
+?
+```java
+Hello,
+World!
+```
+
+What will this text block output?
+```java
+String text = """
+    Hello,\n
+    World!
+    """;
+System.out.println(text.translateEscapes());
+```
+?
+```java
+Hello,
+World!
+```
+
+What does the following text block output?
+```java
+String text = """
+    Name: %s
+    Age: %d
+    """.formatted("Alice", 30);
+System.out.println(text);
+```
+?
+```java
+Name: Alice
+Age: 30
+```
+
+**What happens if you use triple quotes without a new line after the opening delimiter?**  ;; The code will not compile because the triple quotes must be followed by a new line.
+
+**How does the text block handle quotation marks inside it?**  ;; Quotation marks inside the text block are treated as part of the string and do not require escaping.

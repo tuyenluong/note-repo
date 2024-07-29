@@ -8,7 +8,6 @@ Indexes:
 
 ----
 
-
  - Creating objects
 	 - [[JAVA - Class Structure#^a36269|Object is an instance of the class.]] (*Object = house, Class = blueprint*)
 	 - New object is created using a keyword called *new*:
@@ -104,4 +103,118 @@ GFG()
 ^a4e19d
 
 
+---
+## Flash cards section
 
+What is the purpose of the `new` keyword in Java? ;; The `new` keyword is used to create new objects and invoke the constructor of the class.
+
+How does the Java compiler handle a class if no constructor is provided? ;; If no constructor is provided, the Java compiler generates a default no-argument constructor.
+
+What is a valid constructor in Java? ;; A valid constructor does not have a return type, not even `void`, and its name must match the class name exactly.
+
+What happens if a constructor has a return type? ;; If a constructor has a return type, it is treated as a method, not a constructor.
+
+Given this code, what will be the output?
+```java
+public class Student {
+    public Student() {
+        System.out.println("New student is created.");
+    }
+    public static void main(String[] args) {
+        Student s = new Student();
+    }
+}
+```
+?
+The output will be:
+```java
+New student is created.
+```
+This code creates a new `Student` object and invokes the constructor, which prints a message.
+
+Analyze the following code. What will be the output and in what order will the statements execute?
+```java
+public class Test {
+    static {
+        System.out.println("1st static init");
+    }
+    {
+        System.out.println("1st instance init");
+    }
+    {
+        System.out.println("2nd instance init");
+    }
+    int j = 10;
+    public Test() {
+        System.out.println("Constructor");
+    }
+    public static void main(String[] args) {
+        Test t = new Test();
+    }
+}
+```
+?
+The output will be:
+```java
+1st static init
+2nd instance init
+1st instance init
+Constructor
+```
+Explanation: The static initialization block runs first, followed by instance initialization blocks in the order they appear, then the constructor.
+
+What is the order of execution for static initialization blocks, instance initialization blocks, and constructors? ;; The order of execution is: static initialization blocks (once per class load), instance initialization blocks (in the order they appear), and then constructors.
+
+Given this code, what will be the output?
+```java
+public class GFG {
+    {
+        System.out.println("2nd instance init");
+    }
+    public GFG(int x) {
+        System.out.println("ONE argument constructor");
+    }
+    public GFG() {
+        System.out.println("No argument constructor");
+    }
+    public static void main(String[] args) {
+        GFG obj = new GFG(10);
+    }
+}
+```
+?
+The output will be:
+```java
+2nd instance init
+ONE argument constructor
+```
+Explanation: The instance initialization block runs before the constructor, so the instance initialization block executes first, followed by the constructor with one argument.
+
+Given this code, what will be the output and in what order will the statements execute?
+```java
+public class Example {
+    int j = 10;
+    {
+        System.out.println("1st instance init");
+    }
+    {
+        System.out.println("2nd instance init");
+    }
+    public Example() {
+        System.out.println("Constructor");
+    }
+    public static void main(String[] args) {
+        Example e = new Example();
+    }
+}
+```
+?
+The output will be:
+```java
+2nd instance init
+1st instance init
+Constructor
+```
+Explanation: Instance initialization blocks execute in the order they appear, so "2nd instance init" is printed before "1st instance init", followed by the constructor.
+
+What is the difference between instance initialization blocks and constructors? ;; Instance initialization blocks run whenever a class is initialized and before constructors are invoked. They are executed in the order they appear, whereas constructors are used to initialize new objects and can take parameters.

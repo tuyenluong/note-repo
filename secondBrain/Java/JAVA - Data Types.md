@@ -5,7 +5,6 @@ Indexes:
   - "[[java_building_block]]"
 ---
 
-
 ----
 
 ## Primitive Types
@@ -139,4 +138,123 @@ long a = 298374612936;
 long a = 298374612936L;
 ```
 ^dc8858
+
+
+---
+## Flash cards section
+
+What are the primitive types in Java and their respective keywords?
+?
+boolean, byte, short, int, long, float, double, char
+
+What is the range of a byte in Java? ;; -128 to 127
+
+What is the range of a short in Java? ;; -32,768 to 32,767
+
+What is the range of an int in Java? ;; -2,147,483,648 to 2,147,483,647
+
+What is the range of a long in Java? ;; -2^63 to 2^63 - 1
+
+What is the default value of a boolean in Java? ;; false
+
+What character is required at the end of a float literal? ;; `f` or `F`
+
+What character is required at the end of a long literal? ;; `l` or `L`
+
+What are the supported digital formats in Java?
+?
+Base 10, Octal, Hexadecimal, Binary
+
+How do you denote an octal number in Java? ;; Use 0 as a prefix, e.g., `017`
+
+How do you denote a hexadecimal number in Java? ;; Use `0x` or `0X` as a prefix, e.g., `0xFF`
+
+How do you denote a binary number in Java? ;; Use `0b` or `0B` as a prefix, e.g., `0b10`
+
+What is the rule for using underscores in numeric literals in Java? ;; Underscores can be used for readability but not at the beginning, end, right before, or after the decimal point.
+
+What is the wrapper class for an int in Java? ;; Integer
+
+What method is commonly used to create a wrapper object from a primitive? ;; `valueOf()`
+
+How do you convert a String into a wrapper class?
+?
+```java
+Integer n = Integer.valueOf("12");
+```
+
+How do you parse a String into a primitive int?
+?
+```java
+int m = Integer.parseInt("101");
+```
+
+Before Java 9, how could you create a wrapper object?
+?
+```java
+Integer p = new Integer(5);
+```
+
+What are some useful methods provided by wrapper classes?
+?
+`byteValue()`, `shortValue()`, `intValue()`, `floatValue()`, `doubleValue()`, `booleanValue()`, `charValue()`
+
+What will the following code print:
+```java
+Double d = Double.valueOf(314.67); 
+System.out.println(d.byteValue());
+System.out.println(d.intValue());
+System.out.println(d.doubleValue());
+```
+?
+```java
+58
+314
+314.67
+```
+
+Are Strings considered primitive types in Java? ;; No, Strings are not primitive types but are commonly used like primitives.
+
+What is the output of the following code:
+```java
+String greeting = "Hello"; 
+String name = "John Wayne"; 
+System.out.println(greeting + ", " + name + "!");
+```
+?
+```java
+Hello, John Wayne!
+```
+
+Will the following code compile:
+```java
+float x = 2.7;
+```
+?
+No, it will not compile because a float literal requires an `f` or `F` at the end.
+
+Will the following code compile:
+```java
+float x = 2.7f;
+```
+?
+Yes, it will compile because the float literal has an `f` at the end.
+
+Will the following code compile:
+```java
+long a = 298374612936;
+```
+?
+No, it will not compile because a long literal requires an `L` at the end.
+
+Will the following code compile:
+```java
+long a = 298374612936L;
+```
+?
+Yes, it will compile because the long literal has an `L` at the end.
+
+
+
+
 
