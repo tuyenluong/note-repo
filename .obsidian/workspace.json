@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a14677c824faf728",
+        "id": "345a46a9098834fd",
         "type": "tabs",
         "children": [
           {
-            "id": "27be1dfe3d555750",
+            "id": "d83181e5534b684f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Java/JAVA - While Loop.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d708ab0f7b2f46ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3287458b6f8a089c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
+                "file": "secondBrain/Java/JAVA - Static members.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 340.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
+                "file": "secondBrain/Java/JAVA - Static members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
+                "file": "secondBrain/Java/JAVA - Static members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,32 +129,14 @@
             }
           },
           {
-            "id": "f4df67da31ea7e5e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "secondBrain/Java/JAVA - Overloading Methods.md"
-              }
-            }
-          },
-          {
-            "id": "bc119a1e007f10f5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "708013ddc5ba6c72",
+            "id": "44cf7de2072250db",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Java/JAVA - Overloading Methods.md",
+                "file": "secondBrain/Java/JAVA - Static members.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -190,17 +145,9 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:secondBrain/Indexes path:",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -210,18 +157,36 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012117,
-                  "close": true
+                  "scale": 0.7132754626224423,
+                  "close": false
                 }
               }
             }
+          },
+          {
+            "id": "f4df67da31ea7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "secondBrain/Java/JAVA - Static members.md"
+              }
+            }
+          },
+          {
+            "id": "1ce15e94744b0f82",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
+    "width": 677.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -238,61 +203,57 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "open-gate:English-Vocabulary": false,
-      "open-gate:France-Dictionary": false,
-      "open-gate:JavaPoint": false,
-      "open-gate:Java-Udemy": false,
-      "open-gate:Linux-Udemy": false,
-      "open-gate:Networking-Udemy": false
+      "omnisearch:Omnisearch": false,
+      "open-gate:Java": false
     }
   },
-  "active": "3287458b6f8a089c",
+  "active": "d83181e5534b684f",
   "lastOpenFiles": [
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Java/JAVA - While Loop.md",
-    "secondBrain/Java/JAVA - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/Java/JAVA - Variables.md",
-    "secondBrain/Java/JAVA - What is the different between trim() and strip().md",
-    "secondBrain/Java/JAVA - What is the differ between Run-time and Compile-time.md",
-    "secondBrain/Java/JAVA - What is mutable and immutable means.md",
-    "secondBrain/Java/JAVA - What is Incidental white spaces.md",
-    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
-    "secondBrain/Java/JAVA - Unary Operators.md",
-    "secondBrain/Java/JAVA - Unicode under U+0020.md",
-    "secondBrain/Java/JAVA - Text Blocks.md",
-    "secondBrain/Java/JAVA - Switch Statement.md",
-    "secondBrain/Java/JAVA - Switch Expression.md",
-    "secondBrain/Java/JAVA - String pool.md",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Java/JAVA - String Builder.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Java/JAVA - Packages.md",
-    "secondBrain/Java/JAVA - Period, Duration, Instant.md",
-    "secondBrain/Java/JAVA - Overloading Methods.md",
-    "secondBrain/Java/JAVA - Operators in Java.md",
-    "secondBrain/Java/JAVA - Objects.md",
-    "secondBrain/Java/JAVA - Multidimensional Array.md",
+    "secondBrain/Java/JAVA - Defining Methods.md",
+    "secondBrain/Java/JAVA - Boxing and Unboxing.md",
+    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Git/GIT - Common Git commands.md",
     "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
     "secondBrain/Books",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Java/JAVA - Interface & Abstract.md",
+    "secondBrain/Indexes/java/topics/abstraction.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Java/JAVA - Abstract Classes.md",
+    "secondBrain/Java/JAVA - Static members.md",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Java/JAVA - String pool.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/Java/JAVA - Find biggest number in an array.md",
+    "secondBrain/Java/JAVA - Sorting data.md",
+    "secondBrain/Templates/Introduce yourself.md",
+    "secondBrain/Indexes/java/topics/lambdas.md",
+    "secondBrain/API/resources/api-design.v0.2.png",
+    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/API/API Testing Interview questions.md",
+    "secondBrain/API/API - What is backward compatibility.md",
+    "secondBrain/API/API - Common response codes.md",
+    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
+    "secondBrain/API/API - API Testing Interview questions.md",
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/Templates manage.md",
+    "README.md",
+    "secondBrain/Git/github-recovery-codes.md",
+    "secondBrain/Indexes/java/topics/date_and_time.md",
     "secondBrain/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Java/resources/Pasted image 20240710162910.png",
-    "secondBrain/Git/Pasted image 20240713132320.png",
     "secondBrain/Indexes/selenium/version",
     "secondBrain/Indexes/selenium/topics",
     "secondBrain/Indexes/selenium",
-    "secondBrain/Java/resources/Pasted image 20240705171351.png",
     "secondBrain/Soft_skills",
+    "secondBrain/Java/resources/Pasted image 20240705171351.png",
+    "Pasted image 20240705171351.png",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "secondBrain/Git/github-recovery-codes.txt",
     "secondBrain/Kanban-Task",
     "secondBrain/Indexes/java/topics",
-    "secondBrain/Indexes/java/versions",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
-    "secondBrain/Java/EntendResources/Build-in+Modules.pdf",
     "secondBrain/Java/resources/Pasted image 20240623143302.png",
-    "Pasted image 20240624124346.png",
-    "secondBrain/Java/resources/Pasted image 20240624011359.png",
-    "secondBrain/Java/resources/Pasted image 20240624011005.png",
-    "secondBrain/Java/resources/Pasted image 20240623135612.png"
+    "Pasted image 20240624124346.png"
   ]
 }

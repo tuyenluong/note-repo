@@ -17,6 +17,11 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Start lesson [[JAVA - String Builder]]
+- [x] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
+- [x] Start lesson [[JAVA - Static members]]
+- [x] Start lesson [[JAVA - String Pool]]
+- [x] Start lesson [[JAVA - Sorting data]]
 
 
 ## Production
