@@ -169,6 +169,7 @@ if(isOk == true){ ==>> The correct operator
 What is the precedence of the assignment operator ( = )?
 ?
 The assignment operator ( = ) has the lowest precedence. First, the operation on the right-hand side is performed, and the result is assigned to a variable on the left-hand side.
+<!--SR:!2024-08-03,1,230-->
 
 How does Java handle auto-casting with smaller to larger data types?
 ?
@@ -206,6 +207,7 @@ No, you cannot assign a `double` value to an `int` variable directly because `do
 Why can't you assign a `long` value to an `int` variable directly?
 ?
 You can't assign a `long` value to an `int` variable because `long` is a larger data type. For example: `int y = 123L;` This is not OK.
+<!--SR:!2024-08-06,4,270-->
 
 Is it acceptable to assign an `int` value to a `long` variable? Why?
 ?
@@ -226,6 +228,7 @@ It is acceptable because the compiler can figure out that the value is within th
 What happens when you perform arithmetic operations with `short` and `byte`?
 ?
 Whenever you perform operations with `short` and `byte`, all values are promoted to `int`, and the result is an `int`. For example: `short c = (short) (a + b);` This is OK.
+<!--SR:!2024-08-06,4,270-->
 
 What are compound assignment operators and provide an example?
 ?

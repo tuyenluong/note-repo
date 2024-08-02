@@ -124,6 +124,7 @@ How do you first declare and then initialize an array in Java?
 int[] nums = new int[3];
 nums = new int[]{3, -1, 17};
 ```
+<!--SR:!2024-08-06,4,270-->
 
 How do you initialize an array without using the **new** keyword?
 ?
@@ -223,6 +224,7 @@ public class Test{
 `[3, -1, 17]`
 
 What property do all arrays in Java have that gives their size? ;; `length` (note: it's not a method).
+<!--SR:!2024-08-06,4,270-->
 
 What will the following code print:
 ```java

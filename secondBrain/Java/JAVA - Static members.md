@@ -277,7 +277,7 @@ static import java.lang.Math.pow;
 ?
 It's not allowed to have any optional keyword such as `static` goes before the `import` keyword, It will result in the compiler will not compiles.
 
-Can the `static final` member get assign a value later, after the initialized?
+Is there a way that a `static final` member get assign a value later, after the initialized?
 - [ ] Yes, it's possible
 - [ ] No, `static final` member must be initialized before use
 ?
@@ -298,4 +298,4 @@ public class Item {
     }
 }
 ```
-<!--SR:!2024-07-19,1,230-->
+<!--SR:!2024-08-05,3,250-->

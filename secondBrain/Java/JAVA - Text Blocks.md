@@ -134,6 +134,7 @@ System.out.println(text);
 Hello,
 World!
 ```
+<!--SR:!2024-08-03,1,230-->
 
 What will this text block output?
 ```java
@@ -148,6 +149,7 @@ System.out.println(text.translateEscapes());
 Hello,
 World!
 ```
+<!--SR:!2024-08-06,4,270-->
 
 What does the following text block output?
 ```java

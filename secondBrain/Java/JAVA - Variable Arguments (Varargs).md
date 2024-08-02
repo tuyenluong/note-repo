@@ -84,14 +84,14 @@ public class Test{
 ---
 ## Flash cards section
 
-The number of varargs arguments should be in the same data type;; Yes, it's true
-<!--SR:!2024-07-31,17,290-->
+The number of varargs arguments should be in the same data type. it's true? ;; Yes, it's true
+<!--SR:!2024-10-09,68,310-->
 
 Varargs argument can place anywhere in the parameter list. It's true? ;; No, it's false, it should be at the end of the parameterlist
-<!--SR:!2024-07-28,14,290-->
+<!--SR:!2024-09-26,55,310-->
 
 A method can have more than one varargs argument. It's true? ;; No, it's false
-<!--SR:!2024-07-25,11,270-->
+<!--SR:!2024-09-13,42,290-->
 
 
 Will this code compile?
@@ -109,10 +109,10 @@ public class Test{
 ```
 ?
 Yes, it's. Despite that initialize a new array using `new` keyword to pass into the varargs is not recommended, but it allow we to initialize an array and cast it into the varargs. So it's valid.
-<!--SR:!2024-07-13,4,270-->
+<!--SR:!2024-08-15,13,290-->
 
 Can I pass an anonymous array into the varargs?
-```run-java
+```java
 public class Test{
 	public static void greet (String greeting, String... names){
 		for(String name : names){
@@ -126,13 +126,28 @@ public class Test{
 ```
 ?
 No, it will not compile.
-<!--SR:!2024-07-13,4,270-->
+Run the code to review.
+```run-java
+public class Test{
+	public static void greet (String greeting, String... names){
+		for(String name : names){
+			System.out.println(greeting + ", " + name +"!");
+		}
+	}
+	public static void main(String... args){
+		greet("Hello", {"John", "George", "Luke"});
+	}
+}
+```
+<!--SR:!2024-08-16,14,290-->
 
 **What is a varargs parameter in Java?** ;; A varargs parameter allows a method to accept any number of parameters of the same type, represented as an array.
 
 **What are the two rules for using varargs in a method?** ;; A method can have at most one varargs argument, and the varargs argument must be the last parameter in the parameter list.
+<!--SR:!2024-08-06,4,281-->
 
 **Can a method have multiple varargs parameters?** ;; No, a method can have only one varargs parameter.
+<!--SR:!2024-08-06,4,284-->
 
 **Where must the varargs parameter be positioned in the method parameter list?** ;; The varargs parameter must be the last parameter in the method parameter list.
 
@@ -156,6 +171,7 @@ Hello, John!
 Hello, George!
 Hello, Luke!
 ```
+<!--SR:!2024-08-06,4,281-->
 
 What is the output of this code?
 ```java

@@ -50,16 +50,16 @@ public class Test{
 ## Flash cards section
 
 Local variable is only able to defined one optional modifier only. It's true? ;; Yes, it's true
-<!--SR:!2024-07-24,10,270-->
+<!--SR:!2024-09-07,36,290-->
 
 Once final local variable is assigned a value, it can be changed. It's true? ;; No , it's false
-<!--SR:!2024-07-15,1,210-->
+<!--SR:!2024-08-05,3,230-->
 
 All local variables must be explicitly initialized before used. It's true? ;; Yes, it's true
-<!--SR:!2024-07-30,16,290-->
+<!--SR:!2024-10-04,63,310-->
 
 All instance variables must be explicitly initialized before used. It's true? ;; No , it's false
-<!--SR:!2024-07-24,10,272-->
+<!--SR:!2024-08-08,6,252-->
 
 Will I able to change the value of the a array below?
 ```java
@@ -82,4 +82,4 @@ public class Test{
 	}
 }
 ```
-<!--SR:!2024-07-12,4,270-->
+<!--SR:!2024-08-17,15,290-->

@@ -110,6 +110,7 @@ str = 100;
 ```
 ?
 The code will not compile because `str` was initially inferred as a `String`, and the reassignment to `100` (an `int`) is not allowed in the same scope.
+<!--SR:!2024-08-06,4,270-->
 
 Explain why this code is valid:
 ```java

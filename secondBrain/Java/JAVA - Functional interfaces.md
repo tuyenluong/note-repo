@@ -68,6 +68,7 @@ Alice
 Bob
 Charlie
 ```
+<!--SR:!2024-08-05,3,268-->
 
 What does this code do?
 ```java
@@ -125,6 +126,7 @@ System.out.println(count);
 ```
 ?
 It counts the number of strings in the list with a length greater than 3 and prints the count: `1`.
+<!--SR:!2024-08-03,1,230-->
 
 What is the result of the following code?
 ```java

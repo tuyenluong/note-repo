@@ -113,6 +113,7 @@ Use the modulo operator: `int b = 11 % 4;` The result is 3.
 How can you check if a number is even or odd using the modulo operator?
 ?
 Use `if (n % 2 == 0)` for even and `else` for odd.
+<!--SR:!2024-08-06,4,270-->
 
 What happens if operands have different data types in an arithmetic operation?
 ?
@@ -157,3 +158,4 @@ double result = intValue + decimalValue;
 ```
 ?
 The `int` value is promoted to `double`, and the result is a `double` with the value 8.5.
+<!--SR:!2024-08-06,4,270-->

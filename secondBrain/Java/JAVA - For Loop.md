@@ -63,7 +63,8 @@ for (initialization; condition; update) {
 }
 ```
 
-What is the first step in the execution order of a for loop? ;; Execute the initialization statement (only once).
+What is the first step in the execution order of a for loop? ;; The initialization statement is executed first and only once. It typically initializes the loop control variable.
+<!--SR:!2024-08-03,1,230-->
 
 What is the second step in the execution order of a for loop? ;; Check the condition.
 

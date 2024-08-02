@@ -60,20 +60,20 @@ public void doNothing() { } // This is OK
 ---
 ## Flash cards section
 
-The keywords like `final`, `static` can come before the `return type`. It's true? ;; False
-<!--SR:!2024-07-22,8,270-->
+The keywords like `final`, `static` can come before the return type. It's true? ;; False
+<!--SR:!2024-08-06,4,250-->
 
 What is the output of this code?
 ```java
 public int addNumbers(int a, int b){
 	long c = 1L;
-	return c * (a + b); // DOES NOT COMPILE due to the long data type
+	return c * (a + b); 
 }
 System.out.println(addNumbers(2, 3))
 ```
 ?
 ==>> DOES NOT COMPILE
-<!--SR:!2024-07-11,3,252-->
+<!--SR:!2024-08-14,12,272-->
 
 What must come after the return type in a method declaration? ;; The method signature must come after the return type.
 

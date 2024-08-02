@@ -69,14 +69,19 @@ class Dog extends Mammal{
 - `abstract` classes can have constructors
 	- But they can be called only using `super()` from the child class
 - `abstract` classes or methods is not works with these keywords:  `final`, `private` `static`. Because:
-	-  If an`abstract` class or method mark `final`, then the classes or methods **cannot** be extends or overridden. 
-		- So there is no point for doing such thing.
-	- If an`abstract` method be mark `private`, then the methods **cannot** be overridden. 
-		- So it's obviously cannot be done
-	- `static` method **cannot** can be overridden
-		- Therefore, `abstract static` is not allowed
+	-  If an`abstract` class or method mark `final`, then the `final` classes cannot be extended, and final methods cannot be overridden, which defeats the purpose of being abstract.
+	- If an`abstract` method be mark `private`, then the `private` methods are not visible to subclasses, so they cannot be overridden.
+	- `static` method **cannot** can be overridden. Therefore, `abstract static` is not allowed
+## Summary
 
+- An abstract class can have both abstract and non-abstract methods.
+- Constructors in abstract classes are used to initialize common properties of the subclasses.
+- The following combination of keywords is not allowed:
+    - `abstract final`
+    - `abstract private`
+    - `abstract static`
 
+By following these rules, you can effectively use abstract classes and methods in Java to create a clear and organized class hierarchy.
 
 
 

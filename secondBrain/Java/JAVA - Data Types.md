@@ -150,6 +150,7 @@ boolean, byte, short, int, long, float, double, char
 What is the range of a byte in Java? ;; -128 to 127
 
 What is the range of a short in Java? ;; -32,768 to 32,767
+<!--SR:!2024-08-03,1,230-->
 
 What is the range of an int in Java? ;; -2,147,483,648 to 2,147,483,647
 
@@ -176,6 +177,7 @@ What is the rule for using underscores in numeric literals in Java? ;; Underscor
 What is the wrapper class for an int in Java? ;; Integer
 
 What method is commonly used to create a wrapper object from a primitive? ;; `valueOf()`
+<!--SR:!2024-08-03,1,230-->
 
 How do you convert a String into a wrapper class?
 ?
@@ -239,6 +241,7 @@ float x = 2.7f;
 ```
 ?
 Yes, it will compile because the float literal has an `f` at the end.
+<!--SR:!2024-08-06,4,270-->
 
 Will the following code compile:
 ```java

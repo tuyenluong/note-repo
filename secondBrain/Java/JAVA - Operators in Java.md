@@ -76,6 +76,7 @@ a = 2 + (2*2) + (10/5) + 1
 ## Flash cards section
 
 What is the difference between unary and binary operators in Java? ;; Unary operators operate on a single operand (e.g., `a++`), while binary operators operate on two operands (e.g., `a = b + c`).
+<!--SR:!2024-08-03,1,230-->
 
 What is the ternary operator in Java and how is it used? ;; The ternary operator is `? :`, used for conditional expressions. For example, `a = (b > 0) ? 3 : 2` assigns `3` to `a` if `b` is greater than `0`, otherwise assigns `2`.
 
@@ -140,3 +141,4 @@ The output will be `2`. Here’s the evaluation:
 2. `a / b = 8 / 4 = 2`
 3. `2 * 5 = 10`
 4. `10 % 3 = 1`
+<!--SR:!2024-08-05,3,268-->

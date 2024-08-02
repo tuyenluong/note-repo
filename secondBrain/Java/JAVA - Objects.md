@@ -107,6 +107,7 @@ GFG()
 ## Flash cards section
 
 What is the purpose of the `new` keyword in Java? ;; The `new` keyword is used to create new objects and invoke the constructor of the class.
+<!--SR:!2024-08-06,4,270-->
 
 How does the Java compiler handle a class if no constructor is provided? ;; If no constructor is provided, the Java compiler generates a default no-argument constructor.
 

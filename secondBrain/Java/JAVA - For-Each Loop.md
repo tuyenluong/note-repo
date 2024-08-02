@@ -66,6 +66,7 @@ for(String car : cars) {
 ```
 
 What is a common use case for a traditional for loop when working with arrays? ;; A traditional for loop is often used to access members of the array and control over the indices.
+<!--SR:!2024-08-06,4,270-->
 
 How can you use a traditional for loop to print all elements in a string array called `cars`?
 ?
@@ -79,6 +80,7 @@ for(int i = 0; i < cars.length; i++) {
 What is an advantage of using a for-each loop over a traditional for loop? ;; A for-each loop is more convenient for accessing all members of the array.
 
 What is a disadvantage of using a for-each loop compared to a traditional for loop? ;; You don't have control over the indices in a for-each loop.
+<!--SR:!2024-08-06,4,270-->
 
 In what scenarios would a traditional for loop be preferable over a for-each loop? ;; In scenarios involving mathematical purposes, such as multiplication of matrices or where index control is required, a traditional for loop is preferable.
 

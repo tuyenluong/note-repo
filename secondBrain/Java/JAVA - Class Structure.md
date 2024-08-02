@@ -57,7 +57,7 @@ Indexes:
 			-  Be careful to some statement like below one. The Method signature did not include the return type.
 				- "Overloading is the ability to have a class with multiple methods of the same name where the arguments and return type (method signature) allow the compiler to determine which of the same named methods were meant to be called."
 			- Method signature and method overloading are not the same terms, although they are related concepts:
-				- Method Signature:
+				- Method Signature: ^15d35c
 					- The method signature consists of the method's name and the types and order of its parameters.
 					- It uniquely identifies a method within a class or interface.
 					- **The return type is not considered part of the method signature in Java.**
@@ -102,6 +102,7 @@ What is an object in Java? ;; An object is a realization of a class, often calle
 What is an instance in Java? ;; An instance is a single representation of a class, also known as an object.
 
 What is a reference in Java? ;; A reference is a variable that points to an object.
+<!--SR:!2024-08-05,3,252-->
 
 What are the two main elements of Java classes? ;; Fields and methods.
 
@@ -126,6 +127,7 @@ What is method overloading? ;; Defining multiple methods in the same class with 
 What is the purpose of comments in Java? ;; To make the code more readable, ignored by the compiler.
 
 What are the three ways to comment out text in Java? ;; Single-line comments (//), block comments (/* ... _/), and Javadoc comments (/_* ... */).
+<!--SR:!2024-08-06,4,270-->
 
 Is it good practice to have each class in its own .java file? ;; Yes, to enhance code organization and maintainability.
 

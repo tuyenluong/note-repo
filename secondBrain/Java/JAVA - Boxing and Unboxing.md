@@ -98,6 +98,7 @@ Java will not do both automatic operations at the same time!!
 int x = 7;
 Long z = x; // auto casting and auto boxing cannot be done at once ==>> NOT OK!
 ```
+<!--SR:!2024-08-06,4,270-->
 
 What happen if I assign a `int` literal value to `Long` wrapper variable like this?
 ```java

@@ -267,6 +267,7 @@ The result will be:
 ```java
 abdef
 ```
+<!--SR:!2024-08-06,4,270-->
 
 How does the `replace(int startIndex, int endIndex, String)` method work in `StringBuilder`? ;; It replaces the characters from `startIndex` to `endIndex-1` with the provided string.
 
@@ -339,6 +340,7 @@ The output will be:
 ```java
 true
 ```
+<!--SR:!2024-08-06,4,272-->
 
 What happens if you call `subString()` on a `StringBuilder` object but do not assign it to a `String` variable? ;; The `StringBuilder` content remains unchanged; `subString()` only returns a new `String` object.
 

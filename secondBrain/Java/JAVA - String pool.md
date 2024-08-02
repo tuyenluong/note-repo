@@ -172,6 +172,7 @@ System.out.println(s1 == s2);
 **What happens when you use the `trim()` method on a String that was initially created with leading and trailing spaces?**  ;; The `trim()` method will remove the spaces but will not affect the reference in the String pool, resulting in a different reference for the trimmed string.
 
 **What is the result of comparing two Strings created with leading and trailing spaces using == after applying the `trim()` method?**  ;; The comparison will return false if the original strings were not interned or pooled.
+<!--SR:!2024-08-06,4,270-->
 
 **What does the `intern()` method do to a String in Java?**  ;; It ensures that a String is added to the String pool and returns a reference to the pooled String.
 
@@ -240,6 +241,7 @@ System.out.println(s1 == s2);
 **What is the main difference between compile-time and run-time evaluation of Strings in Java?**  ;; Compile-time evaluation occurs during code compilation (e.g., concatenation of literals), while run-time evaluation occurs when the code is executed (e.g., method calls).
 
 **What does the `intern()` method guarantee about String references?**  ;; It guarantees that the returned reference will point to a unique instance of the String in the String pool.
+<!--SR:!2024-08-06,4,270-->
 
 What is the output of the following code?
 ```java

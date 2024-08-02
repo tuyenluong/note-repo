@@ -58,13 +58,13 @@ Indexes:
 ## Flash cards section
 
 What command to creates a jar file of desired project with the Java command?;; jar -cvf \<yourNewJarFileName\>.jar .
-<!--SR:!2024-07-11,1,170-->
+<!--SR:!2024-08-04,2,190-->
 
 How can you choose which folder to be archive with the jar command?
 ?
 By identifying the custom folder to be archive after you defined your jar file name
 jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\>
-<!--SR:!2024-07-15,1,172--> 
+<!--SR:!2024-08-04,2,192--> 
 
 What is the common-ground position for compiling Java classes with packages on Windows and Unix? ;; Windows: `cd C:\\com\\udemy\\`; Unix: `cd /com/udemy`
 
@@ -91,6 +91,7 @@ What is the command to create your own jar file? ;; `jar -cvf <yourNewJarFileNam
 What do the flags `-cvf` stand for in the jar command? ;; `-c` stands for create, `-v` stands for verbose, `-f` stands for file.
 
 What does the dot (.) signify in the jar command `jar -cvf <yourNewJarFileName>.jar .`? ;; It represents the current directory.
+<!--SR:!2024-08-05,3,253-->
 
 How can you specify a custom folder to be archived into a jar file? ;; Use `jar -cvf <yourNewJarFileName>.jar <yourCustomFolderToBeArchive>`
 

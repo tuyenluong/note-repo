@@ -177,6 +177,7 @@ System.out.println(x) ==>> DOES NOT COMPILE
 ## Flash cards section
 
 **What is a variable in Java?** ;; A variable is a name for a piece of memory that stores data.
+<!--SR:!2024-08-03,1,230-->
 
 **What is the difference between declaring and initializing a variable?** ;; Declaring a variable means stating its type and name (e.g., `int x;`), while initializing a variable means assigning it a value (e.g., `int x = 5;`).
 
@@ -221,6 +222,7 @@ public class Test {
 ```
 ?
 The code will not compile because you cannot declare variables of different data types in a single command.
+<!--SR:!2024-08-06,4,270-->
 
 What will this code do?
 ```java
@@ -255,10 +257,11 @@ What will happen if you try to compile this code?
 public class Test {
     public static void main(String[] args) {
         final int[] MY_NUMBERS = new int[5];
-        MY_NUMBERS[2] = 13; // This is OK
-        MY_NUMBERS = null; // This will cause a compile error
+        MY_NUMBERS[2] = 13; 
+        MY_NUMBERS = null; 
     }
 }
 ```
 ?
 The code will compile successfully for `MY_NUMBERS[2] = 13;` but will not compile for `MY_NUMBERS = null;` because `MY_NUMBERS` is a final reference.
+<!--SR:!2024-08-03,1,230-->

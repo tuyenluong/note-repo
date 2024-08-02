@@ -265,6 +265,7 @@ True. This loop will print "Hello" indefinitely.
 **True or False: The `break` statement in the inner loop of a nested loop breaks out of both the inner and outer loops.** ;; False. The `break` statement only exits the innermost loop unless labelled.
 
 **True or False: You can use a `continue` statement to exit a loop entirely.** ;; False. The `continue` statement only skips the current iteration and proceeds with the next iteration of the loop.
+<!--SR:!2024-08-06,4,270-->
 
 **True or False: The `return` statement will terminate only the loop in which it is used.** ;; False. The `return` statement will exit the entire method, not just the loop.
 

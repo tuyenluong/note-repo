@@ -94,6 +94,7 @@ if (y == 10) {
 ```
 ?
 The output is `"Twenty"`, because `y` equals 20, which matches the condition of the second `else-if` block.
+<!--SR:!2024-08-06,4,270-->
 
 What will the following code output?
 ```java

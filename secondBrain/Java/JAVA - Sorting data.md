@@ -320,6 +320,7 @@ Comparator<Student> byAge = Comparator.comparing(Student::getAge);
 What is the difference between the `Comparable` and `Comparator` interfaces in Java? ;; `Comparable` is used to define the natural ordering of objects of a class and is implemented by the class itself, requiring the implementation of the `compareTo()` method. `Comparator` is used to define custom orderings and is implemented externally, requiring the implementation of the `compare()` method.
 
 How do you sort a list of objects by their natural ordering using the `Comparable` interface? ;; Implement the `Comparable` interface in the class of the objects and override the `compareTo()` method. Then, use `Collections.sort()` or `List.sort()` to sort the list.
+<!--SR:!2024-08-03,1,230-->
 
 Given the following code, what will be the result when sorting by age?
 ```java
@@ -371,6 +372,7 @@ Use the `Comparator` interface to define the sorting criteria and pass it to `Co
 ```java
 Collections.sort(people, (p1, p2) -> p1.getName().compareTo(p2.getName()));
 ```
+<!--SR:!2024-08-03,1,228-->
 
 Given the following code, what will be the output when sorting by name using a `Comparator`?
 ```java

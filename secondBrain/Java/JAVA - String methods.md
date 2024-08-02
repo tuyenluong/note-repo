@@ -455,53 +455,50 @@ System.out.println(name.trim());
 ## Flash cards section
 
 How do you create a new String object in Java? ;; You can create a new String object by using the `new String("text")` syntax or by string literal like `"text"`.
-<!--SR:!2024-07-26,12,270-->
+<!--SR:!2024-09-15,44,290-->
 What are two ways to concatenate strings in Java? ;; The two ways to concatenate strings in Java are using the `+` operator (e.g., `str1 + str2`) and the `concat()` method (e.g., `str1.concat(str2)`).
-<!--SR:!2024-07-22,8,263-->
+<!--SR:!2024-09-01,30,283-->
 What does the `+` operator do when both operands are numeric in Java? ;; When both operands are numeric, the `+` operator performs addition.
-<!--SR:!2024-07-27,13,270-->
+<!--SR:!2024-09-21,50,290-->
 What is the result of `"John" + 3 + 8` in Java? ;; The result is `John38` because concatenation in Java is evaluated from left to right.
-<!--SR:!2024-07-24,10,250-->
+<!--SR:!2024-09-05,34,270-->
 What happens when you concatenate a string with `null` in Java? ;; When you concatenate a string with `null`, Java converts `null` to the string `"null"` and concatenates it, resulting in strings like `"Johnnull"`.
-<!--SR:!2024-07-19,5,243-->
+<!--SR:!2024-08-19,17,263-->
 How do you use the `+=` operator for string concatenation? ;; The `+=` operator is used to append the string on the right to the variable on the left, equivalent to `variable = variable + "string"`.
-<!--SR:!2024-07-11,1,190-->
+<!--SR:!2024-08-05,3,210-->
 What does the `length()` method of a String return? ;; The `length()` method returns the number of characters in the string.
-<!--SR:!2024-05-06,1,223-->
+<!--SR:!2024-08-05,3,243-->
 What exception is thrown when accessing a character index that exceeds the string length? ;; Accessing an index that exceeds the string length throws a `StringIndexOutOfBoundsException`.
-<!--SR:!2024-05-15,2,223-->
+<!--SR:!2024-08-09,7,243-->
 What does the `indexOf()` method do?
 ?
 The `indexOf()` method find the first occurrence of the character 't' by using `string.indexOf('t')`.
 <!--SR:!2024-07-17,3,250-->
 What does the `substring(int start, int end)` method do? ;; It returns a new string that is a substring of the original string, starting from the index `start` and ending at index `end` (exclusive).
-<!--SR:!2024-05-14,1,204-->
+<!--SR:!2024-08-03,1,184-->
 What does the `toLowerCase()` method do to a string? ;; The `toLowerCase()` method converts all characters of the string to lower case.
-<!--SR:!2024-07-15,1,183-->
+<!--SR:!2024-08-05,3,203-->
 How does the `equals()` method compare two strings in Java? ;; The `equals()` method compares the content of two strings, returning `true` if they are identical.
-<!--SR:!2024-07-22,8,250-->
+<!--SR:!2024-08-30,28,270-->
 What does the `startsWith()` method do, and what type of argument does it accept? ;; The `startsWith()` method checks if the string starts with the specified substring and accepts a String argument.
-<!--SR:!2024-07-21,7,250-->
+<!--SR:!2024-08-26,24,270-->
 Describe what the `replace(char oldChar, char newChar)` method does. ;; The `replace(char oldChar, char newChar)` method returns a new string resulting from replacing all occurrences of `oldChar` in the string with `newChar`.
-<!--SR:!2024-07-20,10,270-->
+<!--SR:!2024-09-08,37,290-->
 What is the difference between `trim()` and `strip()` methods in Java? ;; Both methods remove leading and trailing white space from a string, but `strip()` is Unicode-aware and thus can handle a wider range of white space characters than `trim()`.
-<!--SR:!2024-07-15,1,203-->
+<!--SR:!2024-08-05,3,223-->
 Explain the function of the `indent(int n)` method introduced in Java 12. ;; The `indent(int n)` method adjusts the indentation of each line in the string by adding or removing spaces, normalizes line terminators, and adds a line break after each line.
-<!--SR:!2024-07-17,3,243-->
+<!--SR:!2024-08-11,9,263-->
 What does the `isEmpty()` method check for in a string? ;; The `isEmpty()` method checks if the string has a length of zero, meaning it is empty.
-<!--SR:!2024-07-12,2,230-->
+<!--SR:!2024-08-09,7,250-->
 
-**What does the `+` operator do when used with two numeric values in Java?**  
-;; It performs addition.
+**What does the `+` operator do when used with two numeric values in Java?** ;; It performs addition.
 
-**What does the `+` operator do when used with at least one String value in Java?**  
-;; It performs concatenation.
+**What does the `+` operator do when used with at least one String value in Java?** ;; It performs concatenation.
+<!--SR:!2024-08-03,1,221-->
 
-**What is the output of `System.out.println("John" + 3 + 8);`?**  
-;; John38
+**What is the output of `System.out.println("John" + 3 + 8);`?**  ;; John38
 
-**What is the output of `System.out.println("John" + (3 + 8));`?**  
-;; John11
+**What is the output of `System.out.println("John" + (3 + 8));`?**  ;; John11
 
 **What will be the result of concatenating `"John"` and `null`?**  ;; Johnnull
 
@@ -524,6 +521,7 @@ What does the `isEmpty()` method check for in a string? ;; The `isEmpty()` metho
 **What is the output of `System.out.println(" abc ".trim());`?**  ;; |abc|
 
 **What does the `replace()` method do in Java Strings?**  ;; It replaces occurrences of a specified character or substring with another character or substring.
+<!--SR:!2024-08-04,2,240-->
 
 **What is the difference between `isEmpty()` and `isBlank()` in Java Strings?**  ;; `isEmpty()` checks if the string has zero length, while `isBlank()` checks if the string is empty or contains only whitespace characters.
 
@@ -538,6 +536,7 @@ What does the `isEmpty()` method check for in a string? ;; The `isEmpty()` metho
 **What is the output of `System.out.println(" John Wayne ".trim().toUpperCase().replace('Y', 'R'));`?**  ;; JOHN RARNE
 
 **How does method chaining work with Java Strings?**  ;; Methods are executed in a left-to-right order, and each method call operates on the result of the previous one.
+<!--SR:!2024-08-05,3,260-->
 
 **What is the effect of using `String.trim()` on an immutable String object?**  ;; It returns a new String with the leading and trailing whitespace removed; the original String remains unchanged.
 

@@ -2,7 +2,7 @@
 Creation_date: 2024-06-25 19:57
 Modification_date: Tuesday 25th June 2024 19:58:13
 Indexes:
-  - "[[java]]"
+  - "[[java-core]]"
 ---
 
 ----

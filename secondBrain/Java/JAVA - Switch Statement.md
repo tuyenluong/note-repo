@@ -233,6 +233,7 @@ hello
 Afternoon
 Evening
 ```
+<!--SR:!2024-08-05,3,250-->
 
 What does the following code output, and why?
 ```java

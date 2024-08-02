@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "345a46a9098834fd",
+        "id": "cedd1e4989790635",
         "type": "tabs",
         "children": [
           {
-            "id": "d83181e5534b684f",
+            "id": "9f25ee7897744e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Java/JAVA - Static members.md",
+                "file": "secondBrain/Java/JAVA - Records.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e3e48095cb05e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Java/JAVA - Static members.md",
+                "file": "secondBrain/Java/JAVA - Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Java/JAVA - Static members.md",
+                "file": "secondBrain/Java/JAVA - Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Java/JAVA - Static members.md",
+                "file": "secondBrain/Java/JAVA - Records.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA - Static members.md"
+                "file": "secondBrain/Java/JAVA - Records.md"
               }
             }
           },
@@ -180,13 +194,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "0e97eb9217618d0f",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 677.5,
+    "width": 215.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,43 +225,44 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false,
-      "open-gate:Java": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d83181e5534b684f",
+  "active": "9f25ee7897744e8f",
   "lastOpenFiles": [
-    "secondBrain/Java/JAVA - Defining Methods.md",
-    "secondBrain/Java/JAVA - Boxing and Unboxing.md",
+    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+    "secondBrain/Java/JAVA - Records.md",
+    "secondBrain/Indexes/java/spring.md",
+    "secondBrain/Indexes/java/core/math_api.md",
+    "secondBrain/Indexes/java/core/modules.md",
+    "secondBrain/Indexes/java/core/interfaces.md",
+    "secondBrain/Java/JAVA - Interface & Abstract.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Indexes/java/java-core.md",
+    "secondBrain/Indexes/java/core/array.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Indexes/java/versions/java-16.md",
+    "secondBrain/Indexes/java/versions/java-11.md",
+    "secondBrain/Java/JAVA - String methods.md",
+    "secondBrain/Java/Data Structure and Algo.md",
+    "secondBrain/Global Hotkeys.md",
+    "README.md",
+    "secondBrain/Templates/SPRING - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Spring",
+    "secondBrain/Indexes/java/core/string.md",
+    "secondBrain/Indexes/java/core/streams.md",
+    "secondBrain/Indexes/java/core/operator.md",
+    "secondBrain/Indexes/java/core/methods.md",
+    "secondBrain/Indexes/java/core/localization.md",
+    "secondBrain/Indexes/java/core/lambdas.md",
+    "secondBrain/Indexes/java/core/jdbc.md",
+    "secondBrain/Indexes/java/spring",
     "secondBrain/Git/Pasted image 20240713132320.png",
-    "secondBrain/Git/GIT - Common Git commands.md",
     "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
     "secondBrain/Books",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Java/JAVA - Interface & Abstract.md",
-    "secondBrain/Indexes/java/topics/abstraction.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Java/JAVA - Abstract Classes.md",
-    "secondBrain/Java/JAVA - Static members.md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Java/JAVA - String pool.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/Java/JAVA - Find biggest number in an array.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Templates/Introduce yourself.md",
-    "secondBrain/Indexes/java/topics/lambdas.md",
     "secondBrain/API/resources/api-design.v0.2.png",
     "secondBrain/API/resources/api-design.v0.1.png",
-    "secondBrain/API/API Testing Interview questions.md",
-    "secondBrain/API/API - What is backward compatibility.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/API/API - API Testing Interview questions.md",
-    "secondBrain/Templates/JAVA - template.md",
-    "secondBrain/Templates/Templates manage.md",
-    "README.md",
-    "secondBrain/Git/github-recovery-codes.md",
-    "secondBrain/Indexes/java/topics/date_and_time.md",
     "secondBrain/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Java/resources/Pasted image 20240710162910.png",
     "secondBrain/Indexes/selenium/version",
@@ -250,8 +273,6 @@
     "Pasted image 20240705171351.png",
     "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "secondBrain/Git/github-recovery-codes.txt",
-    "secondBrain/Kanban-Task",
-    "secondBrain/Indexes/java/topics",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
     "secondBrain/Java/resources/Pasted image 20240623143302.png",
     "Pasted image 20240624124346.png"
