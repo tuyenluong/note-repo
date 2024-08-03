@@ -1,7 +1,8 @@
 ---
 Creation_date: 2022-07-27 11:12
 Modification_date: Wednesday 27th July 2022 11:12:12
-Indexes: "[[linux]]"
+Indexes:
+  - "[[linux_introduction]]"
 ---
 
 ----

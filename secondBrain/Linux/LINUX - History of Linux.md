@@ -1,7 +1,8 @@
 ---
 Creation_date: 2024-02-24 17:35
 Modification_date: Saturday 24th February 2024 17:35:34
-Indexes: "[[linux]]"
+Indexes:
+  - "[[linux_introduction]]"
 ---
 
 ----

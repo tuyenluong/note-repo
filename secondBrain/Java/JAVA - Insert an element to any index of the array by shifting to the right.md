@@ -7,8 +7,8 @@ Indexes:
 ---
 
 ----
-## Steps for insert algorithm:
-1. Create a new array with larger size
+## Steps for the Insert algorithm:
+1. Create a new `array` with larger size
 2. Insert elements from the old array to the new array
 3. Shift the elements to the right until insert index is available for insert
 	1. To doing so, we need to start the loop at the end of the array, but since array started with index zero. We need to minus 1 when calling the array length. (`int i = newArr.lenght -1;`)

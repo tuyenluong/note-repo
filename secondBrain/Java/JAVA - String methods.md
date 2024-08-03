@@ -214,7 +214,7 @@ System.out.println(name.startsWith('J'));
 
 ### `contains()`
 - This method just assert that if your string contains some other substring.
-- This method is [[JAVA - What is case-sensitive and non case-sensitive|case-sensitive]].
+- This method is [[COMMON - What is case-sensitive and non case-sensitive|case-sensitive]].
 ```java
 String name = "John Wayne";
 System.out.println(name.contains("n")); 

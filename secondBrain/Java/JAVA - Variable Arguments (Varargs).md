@@ -92,10 +92,11 @@ Varargs argument can place anywhere in the parameter list. It's true? ;; No, it'
 
 A method can have more than one varargs argument. It's true? ;; No, it's false
 <<<<<<< HEAD
-<!--SR:!2024-09-13,42,290-->
+
 =======
-<!--SR:!2024-09-08,40,290-->
+
 >>>>>>> 9bb2d12 ([Java] modify notes)
+<!--SR:!2024-09-13,42,290-->
 
 
 Will this code compile?

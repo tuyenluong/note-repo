@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cedd1e4989790635",
+        "id": "efd9e3c195541bca",
         "type": "tabs",
         "children": [
           {
-            "id": "d708ab0f7b2f46ff",
+            "id": "e9a036c70e99e295",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -71,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md"
               }
             }
           },
@@ -154,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Java/JAVA - Records.md"
+                "file": "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md"
               }
             }
           },
@@ -234,32 +232,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d708ab0f7b2f46ff",
+  "active": "e9a036c70e99e295",
   "lastOpenFiles": [
-    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
-    "secondBrain/Java/JAVA - Overloading Methods.md",
+    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
+    "secondBrain/Java/JAVA - Assignment Operators.md",
+    "secondBrain/Java/JAVA - Access Modifiers.md",
+    "secondBrain/Java/JAVA - Abstract Classes.md",
+    "secondBrain/Indexes/data_structure_algo.md",
+    "secondBrain/Indexes/learning.md",
+    "secondBrain/Global Hotkeys.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Java/JAVA - Records.md",
-    "secondBrain/Indexes/java/spring.md",
-    "secondBrain/Indexes/java/core/math_api.md",
-    "secondBrain/Indexes/java/core/modules.md",
-    "secondBrain/Indexes/java/core/interfaces.md",
-    "secondBrain/Java/JAVA - Interface & Abstract.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Indexes/java/java-core.md",
-    "secondBrain/Indexes/java/core/array.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/java/versions/java-16.md",
-    "secondBrain/Indexes/java/versions/java-11.md",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Java/JAVA - String Builder.md",
-    "secondBrain/Java/JAVA - Sorting, Searching & Comparing Array.md",
-    "secondBrain/Java/JAVA - Sorting data.md",
-    "secondBrain/Java/JAVA - Packages.md",
-    "secondBrain/Java/JAVA - Period, Duration, Instant.md",
-    "secondBrain/Java/JAVA - Operators in Java.md",
-    "secondBrain/Java/JAVA - Objects.md",
+    "secondBrain/Linux/LINUX - Message for Red hat Installation.md",
+    "JAVA - Insert an element to any index of the array by shifting to the right.pdf",
+    "JAVA - Inheritance.pdf",
+    "secondBrain/Linux/LINUX - Option Install Linux on Cloud.md",
+    "secondBrain/Linux/LINUX - Redhat Installation.md",
+    "secondBrain/Linux/LINUX - Virtual Machine Management.md",
+    "secondBrain/Linux/LINUX - What is differences between Unix vs Linux.md",
+    "secondBrain/Linux/LINUX - What is Operating System.md",
+    "secondBrain/Linux/LINUX - What is Virtual Box.md",
+    "secondBrain/Linux/LINUX - Command Prompts and Getting Prompts back.md",
+    "secondBrain/Linux/LINUX - Access to Linux System.md",
+    "secondBrain/Linux/LINUX - CentOS vs CentOS Stream.md",
+    "secondBrain/Linux/LINUX - Creating a Virtual Machine.md",
+    "secondBrain/Linux/LINUX - Different Ways to Install Linux.md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 7).md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 9).md",
+    "secondBrain/Linux/LINUX - Download and Install Linux (CentOS 8).md",
+    "secondBrain/Linux/LINUX - Important Things to Remember in Linux.md",
+    "secondBrain/Linux/LINUX - Introduction to Linux File System.md",
+    "secondBrain/Indexes/linux/topic",
+    "secondBrain/Indexes/linux",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
     "secondBrain/Books",
     "secondBrain/API/resources/api-design.v0.2.png",
     "secondBrain/API/resources/api-design.v0.1.png",
@@ -268,11 +274,8 @@
     "secondBrain/Indexes/selenium/version",
     "secondBrain/Indexes/selenium/topics",
     "secondBrain/Indexes/selenium",
-    "secondBrain/Soft_skills",
     "secondBrain/Java/resources/Pasted image 20240705171351.png",
     "Pasted image 20240705171351.png",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "secondBrain/Git/github-recovery-codes.txt",
     "secondBrain/Java/resources/Pasted image 20240131065628.png",
     "secondBrain/Java/resources/Pasted image 20240623143302.png",
     "Pasted image 20240624124346.png"

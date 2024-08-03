@@ -17,11 +17,6 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] Start lesson [[JAVA - String Builder]]
-- [x] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
-- [x] Start lesson [[JAVA - Static members]]
-- [x] Start lesson [[JAVA - String Pool]]
-- [x] Start lesson [[JAVA - Sorting data]]
 
 
 ## Production
@@ -37,6 +32,11 @@ kanban-plugin: board
 
 ## Archive
 
+- [x] Start lesson [[JAVA - Static members]]
+- [x] Start lesson [[JAVA - Sorting data]]
+- [x] Start lesson [[JAVA - String Pool]]
+- [x] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
+- [x] Start lesson [[JAVA - String Builder]]
 - [ ] [[secondBrain/Kanban-Task/Rename all the note in Learning]]
 - [ ] Continue lesson [[JAVA - Sorting, Searching & Comparing Array]]
 - [ ] Start lesson [[JAVA - Sorting data]]
