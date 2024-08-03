@@ -59,7 +59,7 @@ All local variables must be explicitly initialized before used. It's true? ;; Ye
 <!--SR:!2024-10-04,63,310-->
 
 All instance variables must be explicitly initialized before used. It's true? ;; No , it's false
-<!--SR:!2024-08-08,6,252-->
+<!--SR:!2024-08-03,4,252-->
 
 Will I able to change the value of the a array below?
 ```java

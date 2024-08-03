@@ -91,7 +91,11 @@ Varargs argument can place anywhere in the parameter list. It's true? ;; No, it'
 <!--SR:!2024-09-26,55,310-->
 
 A method can have more than one varargs argument. It's true? ;; No, it's false
+<<<<<<< HEAD
 <!--SR:!2024-09-13,42,290-->
+=======
+<!--SR:!2024-09-08,40,290-->
+>>>>>>> 9bb2d12 ([Java] modify notes)
 
 
 Will this code compile?
@@ -109,7 +113,7 @@ public class Test{
 ```
 ?
 Yes, it's. Despite that initialize a new array using `new` keyword to pass into the varargs is not recommended, but it allow we to initialize an array and cast it into the varargs. So it's valid.
-<!--SR:!2024-08-15,13,290-->
+<!--SR:!2024-08-13,14,290-->
 
 Can I pass an anonymous array into the varargs?
 ```java

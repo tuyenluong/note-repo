@@ -465,7 +465,11 @@ What is the result of `"John" + 3 + 8` in Java? ;; The result is `John38` becaus
 What happens when you concatenate a string with `null` in Java? ;; When you concatenate a string with `null`, Java converts `null` to the string `"null"` and concatenates it, resulting in strings like `"Johnnull"`.
 <!--SR:!2024-08-19,17,263-->
 How do you use the `+=` operator for string concatenation? ;; The `+=` operator is used to append the string on the right to the variable on the left, equivalent to `variable = variable + "string"`.
+<<<<<<< HEAD
 <!--SR:!2024-08-05,3,210-->
+=======
+<!--SR:!2024-07-31,1,170-->
+>>>>>>> 9bb2d12 ([Java] modify notes)
 What does the `length()` method of a String return? ;; The `length()` method returns the number of characters in the string.
 <!--SR:!2024-08-05,3,243-->
 What exception is thrown when accessing a character index that exceeds the string length? ;; Accessing an index that exceeds the string length throws a `StringIndexOutOfBoundsException`.
@@ -481,7 +485,8 @@ What does the `toLowerCase()` method do to a string? ;; The `toLowerCase()` meth
 How does the `equals()` method compare two strings in Java? ;; The `equals()` method compares the content of two strings, returning `true` if they are identical.
 <!--SR:!2024-08-30,28,270-->
 What does the `startsWith()` method do, and what type of argument does it accept? ;; The `startsWith()` method checks if the string starts with the specified substring and accepts a String argument.
-<!--SR:!2024-08-26,24,270-->
+<!--SR:!2024-08-16,17,250-->
+
 Describe what the `replace(char oldChar, char newChar)` method does. ;; The `replace(char oldChar, char newChar)` method returns a new string resulting from replacing all occurrences of `oldChar` in the string with `newChar`.
 <!--SR:!2024-09-08,37,290-->
 What is the difference between `trim()` and `strip()` methods in Java? ;; Both methods remove leading and trailing white space from a string, but `strip()` is Unicode-aware and thus can handle a wider range of white space characters than `trim()`.

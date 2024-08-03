@@ -64,7 +64,7 @@ How can you choose which folder to be archive with the jar command?
 ?
 By identifying the custom folder to be archive after you defined your jar file name
 jar -cvf \<yourNewJarFileName\>.jar  \<yourCustomFolderToBeArchive\>
-<!--SR:!2024-08-04,2,192--> 
+<!--SR:!2024-07-31,1,152--> 
 
 What is the common-ground position for compiling Java classes with packages on Windows and Unix? ;; Windows: `cd C:\\com\\udemy\\`; Unix: `cd /com/udemy`
 
