@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md",
+                "file": "JAVA - Creating a Class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 340.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md",
+                "file": "JAVA - Creating a Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md",
+                "file": "JAVA - Creating a Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md"
+                "file": "JAVA - Creating a Class.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md",
+                "file": "JAVA - Creating a Class.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Spring/SPRING - What is Dependency injection.md"
+                "file": "JAVA - Creating a Class.md"
               }
             }
           },
@@ -234,8 +234,9 @@
   },
   "active": "c4ed56c9e7feffe8",
   "lastOpenFiles": [
-    "secondBrain/Kanban-Task/Untitled.md",
+    "JAVA - Creating a Class.md",
     "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "secondBrain/Kanban-Task/Untitled.md",
     "secondBrain/ISTQB/ISTQB - What is testing.md",
     "secondBrain/ISTQB/ISTQB - Testing's contributions to success.md",
     "secondBrain/ISTQB/ISTQB - Testing Misconceptions.md",
@@ -260,7 +261,6 @@
     "secondBrain/Global Hotkeys.md",
     "README.md",
     "secondBrain/Templates/SPRING - template.md",
-    "secondBrain/Templates/ENG - template.md",
     "secondBrain/Spring",
     "secondBrain/Indexes/java/spring",
     "secondBrain/Git/Pasted image 20240713132320.png",
