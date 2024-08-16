@@ -11,5 +11,7 @@
   "execute-code",
   "custom-sort",
   "better-export-pdf",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-auto-link-title",
+  "obsidian-paste-image-rename"
 ]

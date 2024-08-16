@@ -5,12 +5,7 @@ Indexes: "[[git]]"
 ---
 ----
 
-
 [windows - Git replacing LF with CRLF - Stack Overflow](https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf)
-
-
-
-
 
 
 

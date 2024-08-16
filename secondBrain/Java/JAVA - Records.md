@@ -147,8 +147,6 @@ By using compact constructors, you can encapsulate such business logic directly 
 
 
 
-
-
 ---
 ## Flash cards section
 

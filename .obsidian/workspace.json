@@ -4,19 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bba11af1bf1de8f3",
+        "id": "f01d194a6677e21d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ed56c9e7feffe8",
+            "id": "9a40965a8f996ce0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "JAVA - Creating a Class.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -70,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 245.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA - Creating a Class.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA - Creating a Class.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA - Creating a Class.md"
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JAVA - Creating a Class.md",
+                "file": "secondBrain/Kanban-Task/Kanban_board.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA - Creating a Class.md"
+                "file": "secondBrain/Kanban-Task/Kanban_board.md"
               }
             }
           },
@@ -232,51 +233,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c4ed56c9e7feffe8",
+  "active": "9a40965a8f996ce0",
   "lastOpenFiles": [
-    "JAVA - Creating a Class.md",
-    "secondBrain/Spring/SPRING - What is Dependency injection.md",
-    "secondBrain/Kanban-Task/Untitled.md",
-    "secondBrain/ISTQB/ISTQB - What is testing.md",
-    "secondBrain/ISTQB/ISTQB - Testing's contributions to success.md",
-    "secondBrain/ISTQB/ISTQB - Testing Misconceptions.md",
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/Kanban-Task/Add flashcards in all note in Learning.md",
-    "secondBrain/Java/JAVA - If-Else Statement.md",
-    "secondBrain/Java/JAVA - Garbage Collector.md",
-    "secondBrain/Java/JAVA - Records.md",
-    "secondBrain/Indexes/java/spring.md",
-    "secondBrain/Indexes/java/core/math_api.md",
-    "secondBrain/Indexes/java/core/modules.md",
-    "secondBrain/Indexes/java/core/interfaces.md",
-    "secondBrain/Java/JAVA - Interface & Abstract.md",
-    "secondBrain/Indexes/java/java-core.md",
-    "secondBrain/Indexes/java/core/array.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/java/versions/java-16.md",
-    "secondBrain/Indexes/java/versions/java-11.md",
-    "secondBrain/Java/JAVA - String methods.md",
-    "secondBrain/Java/Data Structure and Algo.md",
-    "secondBrain/Global Hotkeys.md",
-    "README.md",
-    "secondBrain/Templates/SPRING - template.md",
-    "secondBrain/Spring",
-    "secondBrain/Indexes/java/spring",
-    "secondBrain/Git/Pasted image 20240713132320.png",
+    "java/JAVA - Creating Classes.md",
+    "java",
     "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
-    "secondBrain/Books",
-    "secondBrain/API/resources/api-design.v0.2.png",
-    "secondBrain/API/resources/api-design.v0.1.png",
-    "secondBrain/Java/resources/Pasted image 20240710163613.png",
-    "secondBrain/Java/resources/Pasted image 20240710162910.png",
-    "secondBrain/Indexes/selenium/version",
-    "secondBrain/Indexes/selenium/topics",
-    "secondBrain/Indexes/selenium",
-    "secondBrain/Java/resources/Pasted image 20240705171351.png",
-    "Pasted image 20240705171351.png",
-    "secondBrain/Java/resources/Pasted image 20240131065628.png",
-    "secondBrain/Java/resources/Pasted image 20240623143302.png",
-    "Pasted image 20240624124346.png"
+    "secondBrain/Computer_In_General/COMMON - What is the differ between CLI and GUI.md",
+    "secondBrain/Computer_In_General/COMMON - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/Indexes/java/java-core.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Kanban-Task/COMMON - dsadsa.md",
+    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Git/GIT - What is CRLF - LF.md",
+    "dsa.png",
+    "webPage/lib/metadata.json",
+    "webPage/lib/media/874d8b8e340f75575caa.svg",
+    "webPage/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "webPage/lib/media",
+    "webPage/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "webPage/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "webPage/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "webPage/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "webPage/lib/fonts/94f2f163d4b698242fef.otf",
+    "webPage/lib/fonts/72505e6a122c6acd5471.woff2",
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240224183601.png",
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240212235007.png",
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240212232244.png",
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240212232229.png",
+    "webPage/secondBrain/Java/resources/Pasted image 20240710163613.png",
+    "webPage/secondBrain/Java/resources/Pasted image 20240710162910.png",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Templates/Templates manage.md",
+    "secondBrain/Templates/SQL - template.md",
+    "secondBrain/Templates/SPRING - template.md",
+    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Templates/SOFT_SKILLS - template.md",
+    "secondBrain/Templates/SELENIUM - template.md",
+    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
+    "secondBrain/Templates/LINUX - template.md",
+    "secondBrain/Templates/JMETER - template.md",
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/COMMON - template.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/ISTQB/Bug life-cycle.canvas",
+    "secondBrain/Framework/Selenium - Java framework.canvas"
   ]
 }
