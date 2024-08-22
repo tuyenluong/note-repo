@@ -1,4 +1,4 @@
-Hello my name is Lương Á Tuyền, and I'm a Test Engineer for Ekino Havas.
+Hello my name is Lương Á Tuyền, and I'm a Test Engineer for Axon Active.
 
 As a dedicated Test Engineer with over three years of hands-on experience in black box testing, I specialize in functional testing to ensure software quality and reliability.
 
