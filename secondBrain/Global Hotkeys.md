@@ -21,9 +21,8 @@
 	* Ctrl + R = Start recording
 	* Ctrl + Shift + R = Stop *recording*
 	* Ctrl + X = Switch between markdown mode and Kanban mode
-	* Ctrl + Shift + G = Create new URL gate
-	* Ctrl + Shift + L = List all URL date
 	* Ctrl + L = Create a checkbox
+	* Ctrl + ; = Add property
 
 | Hotkey           | Action                       |
 | ---------------- | ---------------------------- |
