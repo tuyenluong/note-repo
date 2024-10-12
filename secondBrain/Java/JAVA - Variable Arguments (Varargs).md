@@ -87,15 +87,11 @@ public class Test{
 The number of varargs arguments should be in the same data type. it's true? ;; Yes, it's true
 <!--SR:!2024-10-09,68,310-->
 
-Varargs argument can place anywhere in the parameter list. It's true? ;; No, it's false, it should be at the end of the parameterlist
+Varargs argument can place anywhere in the parameter list. It's true? ;; No, it's false, it should be at the end of the parameter list
 <!--SR:!2024-09-26,55,310-->
 
 A method can have more than one varargs argument. It's true? ;; No, it's false
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 9bb2d12 ([Java] modify notes)
 <!--SR:!2024-09-13,42,290-->
 
 

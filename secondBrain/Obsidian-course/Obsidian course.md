@@ -1,0 +1,46 @@
+---
+Creation_date: 2024-09-10 10:13
+Modification_date: Tuesday 10th September 2024 10:13:14
+Indexes:
+---
+
+----
+
+- Section 1: Set up Obsidian
+	- What is Obsidian?
+	- Why Obsidian?
+	- Why this course?
+	- What you will gain?
+	- Download the Starter pack and unzip - Windows
+	- Download the Starter pack and unzip - MAC
+	- Get to know the hotkeys through Global hotkeys note
+- Section 2: Markdown syntax
+	- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- Section 3: Obsidian's syntax, feature, core plugin
+	- [Obsidian syntax](https://obsidian.md/)
+	- Feature
+	- Core plugin
+- Section 4: Starter pack structure
+- Section 5: Plugins in Starter pack
+- Section 6: Sum-up lesson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Flash cards section

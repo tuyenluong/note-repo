@@ -1,3 +1,9 @@
+---
+Creation_date: 023-12-23 22:43
+Modification_date: Friday 2nd August 2024 15:57:01
+Indexes:
+  - "[[api]]"
+---
 Tags: [[api]]
 
 1.  What is an API and how does it work?
