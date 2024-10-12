@@ -4,20 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ad1445924fe97b4",
+        "id": "5813b904777ed4a6",
         "type": "tabs",
         "children": [
           {
-            "id": "20e44a291ce04f8a",
+            "id": "57599a4c5289cb4a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "secondBrain/Git/Pasted image 20240713132320.png"
               }
             }
           }
@@ -66,12 +62,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "68fae6e79aadf9e2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 245.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Git/Pasted image 20240713132320.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Git/Pasted image 20240713132320.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Git/Pasted image 20240713132320.png"
               }
             }
           },
@@ -153,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
+                "file": "secondBrain/Git/Pasted image 20240713132320.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md"
+                "file": "secondBrain/Git/Pasted image 20240713132320.png"
               }
             }
           },
@@ -207,14 +211,21 @@
               "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
               "state": {}
             }
+          },
+          {
+            "id": "32cf1caa535ad8e0",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,55 +244,55 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20e44a291ce04f8a",
+  "active": "57599a4c5289cb4a",
   "lastOpenFiles": [
+    "secondBrain/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Kanban-Task/Rename all the note in Learning.md",
     "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
-    "secondBrain/Indexes/data_structure_algo.md",
-    "secondBrain/Indexes/Interests.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Computer_In_General/COMMON - What is the differ between CLI and GUI.md",
-    "secondBrain/Java/JAVA - What's the difference between a class and an object.md",
-    "secondBrain/Spring/SPRING - What is Dependency injection.md",
-    "secondBrain/Indexes/java/core/java_building_block.md",
-    "secondBrain/Java/resources/a_class_vs_an_object.png",
-    "secondBrain/Java/JAVA - Thinks about Object.md",
-    "secondBrain/Java/JAVA - Class Structure.md",
-    "secondBrain/Java/JAVA - Creating a Class.md",
-    "secondBrain/Indexes/java/core/class_design.md",
-    "secondBrain/Templates/Indexes - template.md",
-    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Templates/TOSCA - template.md",
     "secondBrain/Templates/Introduce yourself.md",
-    "secondBrain/Tosca/TOSCA - Requirements.md",
-    "secondBrain/Tosca/TOSCA - Introduction Tosca.md",
-    "secondBrain/Tosca/TOSCA - Identify controls by properties using XScan.md",
-    "secondBrain/Tosca/TOSCA - Advanced Module Actions.md",
-    "secondBrain/Tosca/TOSCA - Create Test Step.md",
-    "secondBrain/Tosca/TOSCA - Identify controls by Anchor using XScan.md",
-    "secondBrain/Tosca/TOSCA - Action modes.md",
-    "secondBrain/Tosca/TOSCA - Introduce to Test cases.md",
-    "secondBrain/Tosca/TOSCA - Test Configuration Parameters.md",
-    "secondBrain/Tosca/resources/ReuseableTestBlock.png",
-    "secondBrain/Tosca/resources/ValueRange.png",
-    "secondBrain/Indexes/tosca/tosca_modules.md",
-    "secondBrain/Indexes/tosca",
-    "secondBrain/Tosca/BI Plan.canvas",
-    "secondBrain/Tosca/resources",
-    "tos",
-    "secondBrain/Tosca",
-    "java",
+    "secondBrain/Java/resources/a_class_vs_an_object.png",
+    "secondBrain/Java/JAVA - What's the difference between a class and an object.md",
+    "secondBrain/Java/JAVA - Thinks about Object.md",
+    "secondBrain/Indexes/english/vocabulary.md",
+    "secondBrain/Indexes/english/verb.md",
+    "secondBrain/Indexes/english/noun.md",
+    "secondBrain/Indexes/english/slangs.md",
+    "secondBrain/Indexes/english/idioms.md",
+    "secondBrain/Indexes/english/grammar.md",
+    "secondBrain/Indexes/english/exclamation.md",
+    "secondBrain/Indexes/english/english.md",
+    "secondBrain/Indexes/english/collocation - phrases.md",
+    "secondBrain/Indexes/english/adverb.md",
+    "secondBrain/Indexes/english/adjective.md",
+    "secondBrain/Indexes/english",
+    "secondBrain/Books/testing-microservices.pdf",
+    "secondBrain/Books/spring-framework-reference.pdf",
+    "secondBrain/Books/high-performance-java-persistence-sample.pdf",
+    "secondBrain/Books/cloud-native-java-designing-resilient-systems-with-spring-boot-spring-cloud-and-cloud-foundry.pdf",
+    "secondBrain/Books/articulo.pdf",
+    "secondBrain/Books/The-Well-Grounded-Java-Developer,-2nd-Edition-(Benjamin-Evans,-Martijn-Verburg,-Jason-Clark).pdf",
+    "secondBrain/Books/The Pragmatic Programmer.pdf",
+    "secondBrain/Books/RESTful Best Practices-v1_1.pdf",
+    "secondBrain/Books/Optimizing Java ( PDFDrive ).pdf",
+    "secondBrain/Obsidian-course/Obsidian course.md",
+    "secondBrain/Obsidian-course/COMMON - How to build credit.md",
+    "secondBrain/Obsidian-course/COMMON - Plan for project Testing Nexus.md",
+    "secondBrain/Obsidian-course/COMMON - Obsidian là gì.md",
+    "Untitled.canvas",
+    "secondBrain/Kanban-Task/COMMON - Development keywords.md",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "secondBrain/Computer_In_General/COMMON - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Git/Pasted image 20240713132320.png",
     "dsa.png",
-    "webPage/lib/metadata.json",
     "webPage/lib/media/874d8b8e340f75575caa.svg",
     "webPage/lib/media/3d6c1bdc4d87cde4de67.svg",
-    "webPage/lib/media",
-    "webPage/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "webPage/lib/fonts/cb10ffd7684cd9836a05.woff2",
     "webPage/secondBrain/Linux/resouces/Pasted image 20240224183601.png",
     "webPage/secondBrain/Linux/resouces/Pasted image 20240212235007.png",
     "webPage/secondBrain/Linux/resouces/Pasted image 20240212232244.png",
-    "secondBrain/ISTQB/Bug life-cycle.canvas",
-    "secondBrain/Framework/Selenium - Java framework.canvas"
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240212232229.png",
+    "webPage/secondBrain/Java/resources/Pasted image 20240710163613.png"
   ]
 }
