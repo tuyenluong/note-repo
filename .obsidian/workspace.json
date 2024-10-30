@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "284ff920cb9e75d5",
+        "id": "751912a9dcea31eb",
         "type": "tabs",
         "children": [
           {
-            "id": "75f2fb1e834a9c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian course"
-            }
-          },
-          {
-            "id": "0d05ed7efb9ea3fe",
+            "id": "c76a6fc15fa4b8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +22,7 @@
               "title": "Obsidian course"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,22 +73,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "68fae6e79aadf9e2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 283.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -193,43 +167,6 @@
             }
           },
           {
-            "id": "a81198a923a32211",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224458,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian course"
-            }
-          },
-          {
             "id": "708013ddc5ba6c72",
             "type": "leaf",
             "state": {
@@ -299,17 +236,7 @@
             }
           },
           {
-            "id": "32cf1caa535ad8e0",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd188273b3ae7c50",
+            "id": "54fc54ca52f0908b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -319,17 +246,7 @@
             }
           },
           {
-            "id": "5d4560d7782104c5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "4854cf04b8ca1331",
+            "id": "7dc10bebf63270b3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -339,14 +256,16 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 215.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -358,60 +277,59 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d05ed7efb9ea3fe",
+  "active": "7dc10bebf63270b3",
   "lastOpenFiles": [
-    "secondBrain/Obsidian-course/COMMON -  Why Obsidian.md",
-    "secondBrain/Obsidian-course/COMMON - Obsidian là gì.md",
-    "secondBrain/Obsidian-course/COMMON - How to build credit.md",
-    "secondBrain/Obsidian-course/COMMON - Plan for project Testing Nexus.md",
-    "secondBrain/Obsidian-course/COMMON - What is Obsidian.md",
+    "secondBrain/Indexes/system.md",
     "secondBrain/Obsidian-course/Obsidian course.md",
-    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
-    "secondBrain/Indexes/languages/characteristic/feminine_nouns.md",
-    "secondBrain/Indexes/languages/characteristic/masculine_nouns.md",
-    "secondBrain/Indexes/languages/german.md",
-    "secondBrain/Indexes/languages/characteristic/adjective.md",
-    "secondBrain/Indexes/languages/english.md",
-    "secondBrain/Indexes/languages/france.md",
-    "secondBrain/Indexes/languages/characteristic/adverb.md",
-    "secondBrain/Indexes/languages/characteristic/collocation - phrases.md",
-    "secondBrain/Indexes/languages/characteristic/exclamation.md",
-    "secondBrain/Indexes/languages/characteristic/grammar.md",
-    "secondBrain/Indexes/languages/characteristic/idioms.md",
-    "secondBrain/Indexes/languages/characteristic/noun.md",
-    "secondBrain/Indexes/languages/characteristic/verb.md",
-    "secondBrain/Indexes/languages/characteristic",
-    "secondBrain/German/grammar/GERMAN - German ‘Umlaut’.md",
-    "secondBrain/German/vocabulary/GERMAN - ein.md",
-    "secondBrain/German/vocabulary/GERMAN - vier.md",
-    "secondBrain/German/vocabulary/GERMAN - ich.md",
-    "secondBrain/German/vocabulary/GERMAN - Vater.md",
-    "secondBrain/German/vocabulary/GERMAN - ja.md",
-    "GERMAN - How to type German letter.png",
-    "Pasted image 20241018093149.png",
-    "secondBrain/German/grammar",
-    "secondBrain/German/resources",
-    "secondBrain/German/vocabulary",
-    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Kanban-Task/Kanban_board.md",
+    "secondBrain/Templates/TEST - template.md",
+    "secondBrain/Templates/GERMAN - template.md",
+    "secondBrain/Obsidian-course/COMMON - What is Obsidian.md",
+    "secondBrain/Obsidian-course/COMMON - Plan for project Testing Nexus.md",
+    "secondBrain/Obsidian-course/COMMON - How to build credit.md",
+    "secondBrain/Obsidian-course/COMMON -  Why Obsidian.md",
     "secondBrain/Obsidian-course",
-    "secondBrain/Indexes/languages/german",
-    "secondBrain/Indexes/languages/france",
-    "secondBrain/Indexes/languages/english",
+    "secondBrain/Kanban-Task/COMMON - Development keywords.md",
+    "secondBrain/Java/JAVA - Constructors.md",
+    "secondBrain/Indexes/quarkus.md",
+    "secondBrain/Indexes/project_Testing_Nexus.md",
+    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
+    "secondBrain/Indexes/languages/characteristic/verb.md",
+    "secondBrain/Indexes/languages/characteristic/slangs.md",
+    "secondBrain/Indexes/languages/characteristic/noun.md",
+    "secondBrain/Indexes/languages/characteristic/idioms.md",
+    "secondBrain/Indexes/languages/characteristic/masculine_nouns.md",
+    "secondBrain/Indexes/languages/characteristic/grammar.md",
+    "secondBrain/Indexes/languages/characteristic/feminine_nouns.md",
+    "secondBrain/Indexes/languages/characteristic/exclamation.md",
+    "secondBrain/Indexes/languages/characteristic/collocation - phrases.md",
+    "secondBrain/Indexes/languages/characteristic/adverb.md",
+    "secondBrain/Indexes/languages/characteristic/adjective.md",
+    "secondBrain/Indexes/languages/languages.md",
+    "secondBrain/Indexes/languages/characteristic",
     "secondBrain/Indexes/languages",
+    "secondBrain/English/resources/essential-whitespace.mp3",
+    "secondBrain/English/resources/Recording 20240429221447.webm",
+    "secondBrain/English/resources/Recording 20240504123634.webm",
     "secondBrain/Framework/Selenium - Java framework.canvas",
+    "adsa.png",
+    "Pasted image 20241012173634.png",
+    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
     "secondBrain/Java/resources/a_class_vs_an_object.png",
-    "secondBrain/Indexes/english",
-    "Untitled.canvas",
-    "secondBrain/ISTQB/Bug life-cycle.canvas",
+    "secondBrain/Tosca/resources/ReuseableTestBlock.png",
+    "secondBrain/Tosca/resources/ValueRange.png",
+    "secondBrain/Indexes/tosca",
+    "secondBrain/Tosca/BI Plan.canvas",
+    "secondBrain/Tosca/resources",
+    "tos",
+    "secondBrain/Git/Pasted image 20240713132320.png",
     "dsa.png",
     "webPage/lib/media/874d8b8e340f75575caa.svg",
     "webPage/lib/media/3d6c1bdc4d87cde4de67.svg",
     "webPage/secondBrain/Linux/resouces/Pasted image 20240224183601.png",
-    "webPage/secondBrain/Linux/resouces/Pasted image 20240212235007.png",
-    "webPage/secondBrain/Linux/resouces/Pasted image 20240212232244.png"
+    "secondBrain/ISTQB/Bug life-cycle.canvas"
   ]
 }
