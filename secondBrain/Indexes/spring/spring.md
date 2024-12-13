@@ -1,7 +1,8 @@
 ---
-Creation_date: 2024-08-02 15:56
-Modification_date: Friday 2nd August 2024 15:57:01
+Creation_date: 2024-12-13 17:28
+Modification_date: Friday 13th December 2024 17:28:10
 Indexes:
+  - "[[information_technolody]]"
   - "[[java]]"
 ---
 
@@ -11,7 +12,7 @@ Indexes:
 
 ```dataview
 table file.name as Title, Creation_date, Modification_date
-from [[spring]]  sort Creation_date DESC
+from [[]]  sort Creation_date DESC
 ```
 
 

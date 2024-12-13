@@ -77,6 +77,10 @@ public int hashCode() {
 ```
 ## All this can be replaced by only ONE line
 
+```java
+public records Student (String firstName, String lastName, Long id) { }
+```
+
 - NOTE: the `getters` in the `record` will not follow the conventional naming. 
 - `record` just use the variable name of the field members for `getters`, not `getFirstName()`, but `firstName()` !!
 

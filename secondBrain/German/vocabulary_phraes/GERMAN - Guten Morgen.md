@@ -8,7 +8,7 @@ Indexes:
 ----
 
 Guten Morgen ;; Good morning
-<!--SR:!2024-11-03,4,270-->
+<!--SR:!2024-11-25,17,290-->
 
 
 

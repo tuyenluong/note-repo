@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c76a6fc15fa4b8c9",
+            "id": "cd817bc387a7024c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Spring/SPRING - Development keywords.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPRING - Development keywords"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 473.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -256,12 +261,122 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fabbd9acef302b57",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "defed75d2bf966cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "457cf3fb2b8562e6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "55fe132d11438048",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "307f1bcc9db30505",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "697cd238bc4d56f9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "41cf10bfb584b827",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3f56958e29944075",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "844de59a57b7a1c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a1f2862353b81831",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9908accfec3237ba",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -285,36 +400,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c76a6fc15fa4b8c9",
+  "active": "cd817bc387a7024c",
   "lastOpenFiles": [
-    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Schnitzel.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - zu.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Rechnung.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Essen.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Wurst.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Restaurant.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Salz.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Entschuldigung.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Kellner.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - auf Wiedersehen.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - wie geht's.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Speisekarte.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - kalt.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Mineralwasser.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - das.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Ei.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Sandwich.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - hier.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - heiß.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - lecker.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Pizza.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - mit.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Salat.md",
-    "secondBrain/German/vocabulary/phrases.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Käse.md",
+    "secondBrain/Computer_In_General/COMMON - What is the differ between CLI and GUI.md",
+    "secondBrain/Computer_In_General/COMMON - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/Obsidian-course/COMMON -  Why Obsidian.md",
+    "secondBrain/Indexes/spring/spring.md",
+    "secondBrain/Indexes/spring/spring_authorization_server.md",
+    "secondBrain/Indexes/spring/Untitled.md",
+    "secondBrain/Indexes/spring/spring_web_services.md",
+    "secondBrain/Indexes/spring/spring_web_flow.md",
+    "secondBrain/Indexes/spring/spring_statemachine.md",
+    "secondBrain/Indexes/spring/spring_shell.md",
+    "secondBrain/Indexes/spring/spring_LDAP.md",
+    "secondBrain/Indexes/spring/spring_FLO.md",
+    "secondBrain/Indexes/spring/spring_batch.md",
+    "secondBrain/Indexes/spring/spring_REST_docs.md",
+    "secondBrain/Indexes/spring/spring_HATEOAS.md",
+    "secondBrain/Indexes/spring/spring_cloud_data_flow.md",
+    "secondBrain/Indexes/spring/spring_for_graphQL.md",
+    "secondBrain/Indexes/spring/spring_webflux.md",
+    "secondBrain/Indexes/spring/spring_core_&_mvc.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "secondBrain/Git/GIT - Common Git commands.md",
+    "secondBrain/German/grammar/GERMAN - How to type German letter.md",
+    "secondBrain/Indexes/information_technolody.md",
+    "secondBrain/Indexes/java/java.md",
+    "secondBrain/Indexes/java/java-core.md",
+    "secondBrain/Indexes/java/spring.md",
+    "secondBrain/Indexes/spring",
+    "secondBrain/German/resources/GERMAN - How to type German letter.png",
+    "secondBrain/Git/resources/Pasted image 20240713132320.png",
+    "secondBrain/Git/resources",
     "secondBrain/German/collocation_phrases",
-    "secondBrain/German/grammar/GERMAN - How to type German letter.png",
     "secondBrain/Obsidian-course",
     "secondBrain/Indexes/languages/characteristic",
     "secondBrain/Indexes/languages",
@@ -328,10 +446,7 @@
     "secondBrain/Java/resources/a_class_vs_an_object.png",
     "secondBrain/Tosca/resources/ReuseableTestBlock.png",
     "secondBrain/Tosca/resources/ValueRange.png",
-    "secondBrain/Indexes/tosca",
     "secondBrain/Tosca/BI Plan.canvas",
-    "secondBrain/Tosca/resources",
-    "secondBrain/Git/Pasted image 20240713132320.png",
     "dsa.png",
     "webPage/lib/media/874d8b8e340f75575caa.svg",
     "webPage/lib/media/3d6c1bdc4d87cde4de67.svg",

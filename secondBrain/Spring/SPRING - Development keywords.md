@@ -16,6 +16,8 @@ Indexes:
 - AJAX, WebSocket
 - API Gateway, NGinX
 - OpenAPI plugin: API generator, design first approach
+- Reactive programming
+- Native image
 
 
 

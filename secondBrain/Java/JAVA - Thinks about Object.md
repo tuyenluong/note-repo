@@ -12,7 +12,7 @@ When you design a class, think about the objects that will be created from that 
 - Things that the object **knows**
 - Things that the object **does**
 
-Things an object **knows** about itself are called
+Things an object **knows** about itself are called:
 - `Instance variables`
 
 Things an object can **do** are called:
