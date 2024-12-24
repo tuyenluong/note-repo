@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "751912a9dcea31eb",
+        "id": "284ff920cb9e75d5",
         "type": "tabs",
         "children": [
           {
@@ -72,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "68fae6e79aadf9e2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -168,6 +178,43 @@
             }
           },
           {
+            "id": "a81198a923a32211",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224458,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Obsidian course"
+            }
+          },
+          {
             "id": "708013ddc5ba6c72",
             "type": "leaf",
             "state": {
@@ -237,7 +284,17 @@
             }
           },
           {
-            "id": "54fc54ca52f0908b",
+            "id": "32cf1caa535ad8e0",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fd188273b3ae7c50",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -247,7 +304,7 @@
             }
           },
           {
-            "id": "7dc10bebf63270b3",
+            "id": "5d4560d7782104c5",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -257,7 +314,7 @@
             }
           },
           {
-            "id": "5a3c4906a5492ea8",
+            "id": "4854cf04b8ca1331",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -267,7 +324,7 @@
             }
           },
           {
-            "id": "fabbd9acef302b57",
+            "id": "f7f9198db616ee9b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -277,7 +334,7 @@
             }
           },
           {
-            "id": "defed75d2bf966cc",
+            "id": "547748eadb2545f4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -287,7 +344,7 @@
             }
           },
           {
-            "id": "457cf3fb2b8562e6",
+            "id": "eb8d5af33b0e78cb",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -297,7 +354,7 @@
             }
           },
           {
-            "id": "55fe132d11438048",
+            "id": "5739cd43d909a72d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -307,7 +364,7 @@
             }
           },
           {
-            "id": "307f1bcc9db30505",
+            "id": "f508b72815e10adc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -317,57 +374,17 @@
             }
           },
           {
-            "id": "697cd238bc4d56f9",
+            "id": "b54edda7c05377d5",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
-            "id": "41cf10bfb584b827",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3f56958e29944075",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "844de59a57b7a1c1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a1f2862353b81831",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9908accfec3237ba",
+            "id": "fdd8f790ce9cdc2a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -441,12 +458,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -458,7 +473,8 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8d388469b07d1910",
@@ -493,11 +509,15 @@
     "secondBrain/German/grammar/GERMAN - German ‘Umlaut’.md",
     "secondBrain/German/grammar/GERMAN - How to type German letter.md",
     "secondBrain/Indexes/spring",
-    "secondBrain/German/resources/GERMAN - How to type German letter.png",
+    "secondBrain/Indexes/languages/characteristic/collocation_phrases.md",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",
-    "secondBrain/German/collocation_phrases",
-    "secondBrain/Obsidian-course",
+    "secondBrain/German/vocabulary_phraes/GERMAN - zu.md",
+    "secondBrain/German/vocabulary_phraes/GERMAN - wunderbar.md",
+    "secondBrain/German/vocabulary_phraes",
+    "secondBrain/German/resources/GERMAN - How to type German letter.png",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "Clippings",
     "secondBrain/Indexes/languages/characteristic",
     "secondBrain/Indexes/languages",
     "secondBrain/English/resources/essential-whitespace.mp3",
@@ -507,9 +527,8 @@
     "Pasted image 20241012173634.png",
     "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
     "secondBrain/Java/resources/a_class_vs_an_object.png",
-    "secondBrain/Tosca/resources/ReuseableTestBlock.png",
-    "secondBrain/Tosca/resources/ValueRange.png",
-    "secondBrain/Tosca/BI Plan.canvas",
+    "Untitled.canvas",
+    "secondBrain/ISTQB/Bug life-cycle.canvas",
     "dsa.png",
     "secondBrain/ISTQB/Bug life-cycle.canvas"
   ]
