@@ -8,7 +8,6 @@ Indexes:
 ----
 
 
-
 ```dataview
 table file.name as Title, Creation_date, Modification_date
 from [[]]  sort Creation_date DESC

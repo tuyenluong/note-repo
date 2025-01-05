@@ -8,18 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d388469b07d1910",
+            "id": "75f2fb1e834a9c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "secondBrain/English/vocabbulary/ENGLISH - Synonyms for SO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Youtube process.canvas",
+                "viewState": {
+                  "x": -17,
+                  "y": -120,
+                  "zoom": -0.16840733617656534
+                }
               },
-              "icon": "lucide-file",
-              "title": "ENGLISH - Synonyms for SO"
+              "icon": "lucide-layout-dashboard",
+              "title": "Youtube process"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "introduce",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -161,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md"
+                "file": "Youtube process.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian course"
+              "title": "Outline of Youtube process"
             }
           },
           {
@@ -379,8 +380,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -394,7 +395,7 @@
             }
           },
           {
-            "id": "83f3b5fca97f37e7",
+            "id": "a459386e329f4781",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -404,47 +405,17 @@
             }
           },
           {
-            "id": "a1eb9dc49acbafc5",
+            "id": "650ba0f63870c64b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
-            "id": "db7fda80152a82c7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7c9cdfe2924adb95",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7ba9faab2cf5ad12",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1a82a729232ca971",
+            "id": "3a2b7e4f89ab05f7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -454,11 +425,12 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,59 +449,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d388469b07d1910",
+  "active": "75f2fb1e834a9c9b",
   "lastOpenFiles": [
-    "secondBrain/English/vocabbulary/ENGLISH - Synonyms for SO.md",
-    "secondBrain/English/vocabbulary/ENG - In consequence.md",
-    "secondBrain/English/vocabbulary/ENG - As a result.md",
-    "secondBrain/English/vocabbulary/ENG - Hence.md",
-    "secondBrain/English/vocabbulary/ENG - Thus.md",
-    "secondBrain/English/vocabbulary/ENG - Consequently.md",
-    "secondBrain/English/vocabbulary/ENG - Therefore.md",
-    "secondBrain/Indexes/java/versions/java-version.md",
-    "secondBrain/Indexes/java/versions/Các câu hỏi phỏng vấn Automation Tester.md",
-    "secondBrain/Indexes/selenium/selenium.md",
-    "secondBrain/Indexes/java/versions/java-14.md",
-    "secondBrain/Java/JAVA - Records.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/java/java-core.md",
-    "secondBrain/Indexes/java/versions/java-8-or-higher.md",
-    "secondBrain/Indexes/spring/spring.md",
-    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - Vater.md",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/API/API - What is backward compatibility.md",
-    "secondBrain/API/API - API Testing Interview questions.md",
-    "secondBrain/API/API Testing Interview questions.md",
-    "secondBrain/API/API - Common response codes.md",
-    "secondBrain/API/API - Common API test cases that can be used to test various APIs.md",
-    "secondBrain/API/resources/api-design.v0.2.png",
-    "secondBrain/API/resources/api-design.v0.1.png",
-    "secondBrain/Java/PV Automation.md",
-    "secondBrain/German/grammar/GERMAN - German ‘Umlaut’.md",
-    "secondBrain/German/grammar/GERMAN - How to type German letter.md",
+    "secondBrain/Spring/SPRING - Development keywords.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "Youtube process.canvas",
+    "secondBrain/Indexes/spring/spring_annotation.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/spring/spring_web_services.md",
+    "secondBrain/Indexes/spring/spring_web_flow.md",
+    "secondBrain/Indexes/spring/spring_webflux.md",
+    "secondBrain/Indexes/spring/spring_statemachine.md",
+    "secondBrain/Indexes/spring/spring_shell.md",
+    "secondBrain/Indexes/spring/spring_session.md",
+    "secondBrain/Indexes/spring/spring_security.md",
+    "secondBrain/Indexes/spring/spring_LDAP.md",
+    "secondBrain/Indexes/spring/spring_REST_docs.md",
+    "secondBrain/Indexes/spring/spring_integration.md",
+    "secondBrain/Indexes/spring/spring_HATEOAS.md",
+    "secondBrain/Indexes/spring/spring_for_graphQL.md",
+    "secondBrain/Indexes/spring/spring_for_apache_kafka.md",
+    "secondBrain/Indexes/spring/spring_FLO.md",
+    "secondBrain/Indexes/spring/spring_data.md",
+    "secondBrain/Indexes/spring/spring_core_&_mvc.md",
+    "secondBrain/Indexes/spring/spring_cloud_data_flow.md",
+    "secondBrain/Indexes/spring/spring_cloud.md",
+    "secondBrain/Indexes/spring/spring_boot.md",
+    "secondBrain/Indexes/spring/spring_batch.md",
+    "secondBrain/Indexes/spring/spring_authorization_server.md",
+    "secondBrain/Indexes/spring/spring_amqp.md",
     "secondBrain/Indexes/spring",
-    "secondBrain/Indexes/languages/characteristic/collocation_phrases.md",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",
-    "secondBrain/German/vocabulary_phraes/GERMAN - zu.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - wunderbar.md",
     "secondBrain/German/vocabulary_phraes",
     "secondBrain/German/resources/GERMAN - How to type German letter.png",
     "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "Clippings",
     "secondBrain/Indexes/languages/characteristic",
-    "secondBrain/Indexes/languages",
-    "secondBrain/English/resources/essential-whitespace.mp3",
-    "secondBrain/English/resources/Recording 20240429221447.webm",
-    "secondBrain/English/resources/Recording 20240504123634.webm",
-    "adsa.png",
-    "Pasted image 20241012173634.png",
-    "secondBrain/Books/(Head first series) Head First Java-O'Reilly Media, Inc.pdf",
+    "GERMAN - How to type German letter.png",
+    "Pasted image 20241018093149.png",
+    "secondBrain/German/grammar",
+    "secondBrain/German/resources",
+    "secondBrain/German/vocabulary",
+    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Obsidian-course",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Java/resources/a_class_vs_an_object.png",
-    "Untitled.canvas",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "dsa.png",
-    "secondBrain/ISTQB/Bug life-cycle.canvas"
+    "webPage/lib/media/874d8b8e340f75575caa.svg",
+    "webPage/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "webPage/secondBrain/Linux/resouces/Pasted image 20240224183601.png"
   ]
 }
