@@ -11,17 +11,15 @@
             "id": "75f2fb1e834a9c9b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Youtube process.canvas",
-                "viewState": {
-                  "x": -17,
-                  "y": -120,
-                  "zoom": -0.16840733617656534
-                }
+                "file": "secondBrain/Spring/SPRING - Component Annotation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Youtube process"
+              "icon": "lucide-file",
+              "title": "SPRING - Component Annotation"
             }
           }
         ]
@@ -90,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 245.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -410,12 +408,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "3a2b7e4f89ab05f7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f38657ebebc540da",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "10cabd384665ddc0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1fa6afa9e852d55d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f502d3fd35ced40a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -425,7 +463,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -451,36 +489,34 @@
   },
   "active": "75f2fb1e834a9c9b",
   "lastOpenFiles": [
-    "secondBrain/English/vocabbulary/ENG - Thus.md",
-    "Clippings/Uncover Spring Boot Best Folder Structures for Optimal Coding.md",
-    "Clippings",
     "secondBrain/English/ENG - Synonyms for SO.md",
-    "secondBrain/English/vocabbulary/ENG - Consequently.md",
-    "secondBrain/English/vocabbulary/ENG - Therefore.md",
-    "secondBrain/Obsidian-course/COMMON -  Why Obsidian.md",
-    "secondBrain/Obsidian-course/COMMON - How to build credit.md",
-    "secondBrain/Obsidian-course/COMMON - Plan for project Testing Nexus.md",
-    "secondBrain/Obsidian-course/COMMON - What is Obsidian.md",
-    "secondBrain/Obsidian-course/Obsidian course.md",
-    "secondBrain/Indexes/quarkus.md",
-    "secondBrain/Soft_skills/SOFT_SKILLS - How to make a presentation.md",
-    "secondBrain/Indexes/presentation.md",
-    "secondBrain/English/vocabbulary/ENG - In consequence.md",
-    "secondBrain/English/vocabbulary/ENG - As a result.md",
-    "secondBrain/English/vocabbulary/ENG - Hence.md",
-    "secondBrain/Indexes/java/versions/java-version.md",
-    "secondBrain/Indexes/java/versions/Các câu hỏi phỏng vấn Automation Tester.md",
-    "secondBrain/Indexes/selenium/selenium.md",
-    "secondBrain/Indexes/java/versions/java-14.md",
-    "secondBrain/Java/JAVA - Records.md",
-    "secondBrain/Indexes/java/java.md",
-    "secondBrain/Indexes/java/java-core.md",
-    "secondBrain/Indexes/java/versions/java-8-or-higher.md",
-    "secondBrain/Indexes/spring/spring.md",
-    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/API/resources/api-design.v0.2.png",
-    "secondBrain/API/resources/api-design.v0.1.png",
+    "secondBrain/Spring/SPRING - Stereotype Annotations.md",
+    "secondBrain/Indexes/spring/spring_annotation.md",
+    "secondBrain/Spring/SPRING - Component Annotation.md",
+    "Business Ideals.md",
+    "secondBrain/Global Hotkeys.md",
+    "Youtube process.canvas",
+    "Business Models.canvas",
+    "secondBrain/Java/JAVA - Environment.md",
+    "secondBrain/Indexes/java/core/java_building_block.md",
+    "secondBrain/Java/JAVA - Compile, Run and Archive.md",
+    "secondBrain/Java/PV Automation.md",
+    "secondBrain/Java/JAVA - While Loop.md",
+    "secondBrain/Java/JAVA - Switch Statement.md",
+    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
+    "secondBrain/Java/JAVA - For Loop.md",
+    "secondBrain/Java/JAVA - Boxing and Unboxing.md",
+    "secondBrain/Java/JAVA - Constructors.md",
+    "secondBrain/Spring/SPRING - Development keywords.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "secondBrain/Indexes/istqb.md",
+    "secondBrain/Indexes/spring/spring_web_services.md",
+    "secondBrain/Indexes/spring/spring_web_flow.md",
+    "secondBrain/Indexes/spring/spring_webflux.md",
+    "secondBrain/Indexes/spring/spring_statemachine.md",
+    "secondBrain/Indexes/spring/spring_shell.md",
+    "secondBrain/Indexes/spring/spring_session.md",
+    "secondBrain/Indexes/spring/spring_security.md",
     "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",
@@ -489,12 +525,14 @@
     "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
     "Clippings",
     "secondBrain/Indexes/languages/characteristic",
-    "secondBrain/Indexes/languages",
-    "secondBrain/English/resources/essential-whitespace.mp3",
-    "secondBrain/English/resources/Recording 20240429221447.webm",
-    "secondBrain/English/resources/Recording 20240504123634.webm",
-    "adsa.png",
-    "Pasted image 20241012173634.png",
+    "GERMAN - How to type German letter.png",
+    "Pasted image 20241018093149.png",
+    "secondBrain/German/grammar",
+    "secondBrain/German/resources",
+    "secondBrain/German/vocabulary",
+    "secondBrain/Git/Pasted image 20240713132320.png",
+    "secondBrain/Obsidian-course",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Java/resources/a_class_vs_an_object.png",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "dsa.png",

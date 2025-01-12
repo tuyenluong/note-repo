@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"228d3bf1b56f512b","x":-315,"y":-510,"width":350,"height":190,"type":"group","label":"Ăn theo"},
+		{"id":"06bba466c3bf1f15","x":-680,"y":-480,"width":180,"height":320,"type":"group","label":"Khởi tạo"},
+		{"id":"5d91c7274eab9b5d","type":"text","text":"Mô hình mới hoàn toàn","x":-420,"y":-180,"width":250,"height":60},
+		{"id":"5f3be61aa4325713","type":"text","text":"Mô hình sử dụng hệ thống có sẵn trên một khía cạnh mới","x":-125,"y":-180,"width":250,"height":100},
+		{"id":"f624b66df7cac23e","type":"text","text":"Mô hình mới nhưng không thay thế cái cũ, chỉ hỗ trợ","x":160,"y":-180,"width":250,"height":100},
+		{"id":"10d6df071f852040","type":"text","text":"Các loại mô hình kinh doanh","x":-125,"y":60,"width":250,"height":60},
+		{"id":"7e0401417e932c16","type":"text","text":"Netflix","x":-660,"y":-300,"width":140,"height":50},
+		{"id":"4bee1dd9f0e40774","type":"text","text":"Facebook","x":-660,"y":-380,"width":140,"height":60},
+		{"id":"97b50587289cb554","type":"text","text":"Spotify","x":-660,"y":-240,"width":140,"height":60},
+		{"id":"e7cfed09146f255a","type":"text","text":"Grab","x":-295,"y":-490,"width":140,"height":60},
+		{"id":"c364865145ad5f71","type":"text","text":"Now","x":-125,"y":-490,"width":140,"height":60},
+		{"id":"e73d3a1193c2ed7b","type":"text","text":"Btask","x":-295,"y":-400,"width":140,"height":60},
+		{"id":"55f81272c221ce72","type":"text","text":"Airbnb","x":-125,"y":-400,"width":140,"height":60},
+		{"id":"8799733a4fd543d8","type":"text","text":"Uber","x":-660,"y":-460,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"288ce3b6b449a8fd","fromNode":"10d6df071f852040","fromSide":"top","toNode":"5d91c7274eab9b5d","toSide":"bottom"},
+		{"id":"d7a7768f16e40694","fromNode":"10d6df071f852040","fromSide":"top","toNode":"5f3be61aa4325713","toSide":"bottom"},
+		{"id":"e17feb842cfc3709","fromNode":"10d6df071f852040","fromSide":"top","toNode":"f624b66df7cac23e","toSide":"bottom"},
+		{"id":"6536322489a66f3c","fromNode":"5d91c7274eab9b5d","fromSide":"left","toNode":"97b50587289cb554","toSide":"right"},
+		{"id":"3769179905faad59","fromNode":"5d91c7274eab9b5d","fromSide":"left","toNode":"7e0401417e932c16","toSide":"right"},
+		{"id":"d83e21573fac1483","fromNode":"5d91c7274eab9b5d","fromSide":"left","toNode":"4bee1dd9f0e40774","toSide":"right"},
+		{"id":"75028260c3dee268","fromNode":"5d91c7274eab9b5d","fromSide":"left","toNode":"8799733a4fd543d8","toSide":"right"},
+		{"id":"921158f9d2fed805","fromNode":"8799733a4fd543d8","fromSide":"top","toNode":"e7cfed09146f255a","toSide":"left"},
+		{"id":"0148d8b27e1c0a45","fromNode":"8799733a4fd543d8","fromSide":"top","toNode":"e73d3a1193c2ed7b","toSide":"left"},
+		{"id":"b274b96d1cc5c7fb","fromNode":"8799733a4fd543d8","fromSide":"top","toNode":"c364865145ad5f71","toSide":"left"},
+		{"id":"c58a63819897d1e5","fromNode":"8799733a4fd543d8","fromSide":"top","toNode":"55f81272c221ce72","toSide":"left"},
+		{"id":"2d5753ac5a74509c","fromNode":"5f3be61aa4325713","fromSide":"top","toNode":"e73d3a1193c2ed7b","toSide":"bottom"},
+		{"id":"5aee5c219c9ae381","fromNode":"5f3be61aa4325713","fromSide":"top","toNode":"e7cfed09146f255a","toSide":"bottom"},
+		{"id":"9c1afdd8254f7559","fromNode":"5f3be61aa4325713","fromSide":"top","toNode":"55f81272c221ce72","toSide":"bottom"},
+		{"id":"4c4eb8bed2b70f3b","fromNode":"5f3be61aa4325713","fromSide":"top","toNode":"c364865145ad5f71","toSide":"bottom"}
+	]
+}
