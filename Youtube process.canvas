@@ -1,16 +1,17 @@
 {
 	"nodes":[
-		{"id":"d4bdf2eeb9b83e6b","type":"text","text":"Idea","x":-400,"y":-100,"width":145,"height":60},
-		{"id":"6c0ba5c956266c4b","type":"text","text":"Film\n","x":260,"y":-100,"width":145,"height":60},
-		{"id":"0e825f30d4c64152","type":"text","text":"Title & Thumbnail","x":-165,"y":-100,"width":145,"height":60},
-		{"id":"003597e6f1f03abd","type":"text","text":"Publish","x":-60,"y":100,"width":145,"height":60},
-		{"id":"193f8d739659dcee","type":"text","text":"Edit","x":220,"y":100,"width":145,"height":60},
-		{"id":"a65464b3e9f970bb","type":"text","text":"Write","x":75,"y":-100,"width":145,"height":60},
+		{"id":"e68824ff35b2fb83","x":-420,"y":-80,"width":845,"height":300,"type":"group","label":"Main process"},
 		{"id":"7cefe0552bbe9c8b","type":"text","text":"Use bullet point only","x":75,"y":-220,"width":145,"height":60},
-		{"id":"3d5c36230fb1637c","type":"text","text":"- 3 main point\n- 3 sub point","x":13,"y":-400,"width":217,"height":110},
-		{"id":"be3b590d83bb7c4b","type":"text","text":"Goals: 1 video per week\n- You can to the filming process just in one Saturday in a month.\n- And for Idea, title & thumbnail and writing, you can do it in your others free time in the week.","x":-654,"y":-320,"width":653,"height":160},
-		{"id":"40cd17ac315fbce1","type":"text","text":"Must have intro and outro\n- First 30 seconds is important  ","x":315,"y":-400,"width":305,"height":110},
-		{"id":"f6e75662ddd1a364","type":"text","text":"Make a clear value proposition","x":333,"y":-220,"width":287,"height":60}
+		{"id":"f6e75662ddd1a364","type":"text","text":"Make a clear value proposition","x":333,"y":-220,"width":287,"height":60},
+		{"id":"d4bdf2eeb9b83e6b","type":"text","text":"Idea","x":-400,"y":-60,"width":145,"height":60},
+		{"id":"0e825f30d4c64152","type":"text","text":"Title & Thumbnail","x":-165,"y":-60,"width":145,"height":60},
+		{"id":"a65464b3e9f970bb","type":"text","text":"Write","x":75,"y":-60,"width":145,"height":60},
+		{"id":"6c0ba5c956266c4b","type":"text","text":"Film\n","x":260,"y":-60,"width":145,"height":60},
+		{"id":"003597e6f1f03abd","type":"text","text":"Publish","x":-60,"y":140,"width":145,"height":60},
+		{"id":"193f8d739659dcee","type":"text","text":"Edit","x":220,"y":140,"width":145,"height":60},
+		{"id":"3d5c36230fb1637c","type":"text","text":"- 3 main point\n- 3 sub point","x":39,"y":-425,"width":217,"height":110},
+		{"id":"40cd17ac315fbce1","type":"text","text":"Must have intro and outro\n- First 30 seconds is important  ","x":333,"y":-396,"width":305,"height":110},
+		{"id":"be3b590d83bb7c4b","type":"text","text":"Goals: 1 video per week\n- You can to the filming process just in one Saturday in a month.\n- And for Idea, title & thumbnail and writing, you can do it in your others free time in the week.","x":-673,"y":-350,"width":653,"height":160}
 	],
 	"edges":[
 		{"id":"17f4fc5150f13f06","fromNode":"d4bdf2eeb9b83e6b","fromSide":"right","toNode":"0e825f30d4c64152","toSide":"left"},
