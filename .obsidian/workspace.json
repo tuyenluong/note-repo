@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - Component Annotation.md",
+                "file": "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - Component Annotation"
+              "title": "SPRING - Validation with Spring Boot"
             }
           }
         ]
@@ -458,12 +458,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52ade2f923a8d96d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4c2cc863080b06a9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 30
       }
     ],
     "direction": "horizontal",
@@ -489,10 +509,17 @@
   },
   "active": "75f2fb1e834a9c9b",
   "lastOpenFiles": [
-    "secondBrain/English/ENG - Synonyms for SO.md",
+    "secondBrain/Spring/SPRING - Validation should be done on Front or Back end.md",
     "secondBrain/Spring/SPRING - Stereotype Annotations.md",
-    "secondBrain/Indexes/spring/spring_annotation.md",
+    "secondBrain/Spring/SPRING - RequestParam Annotation.md",
     "secondBrain/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Spring/SPRING - PathVariable Annotation.md",
+    "secondBrain/Spring/SPRING - Development keywords.md",
+    "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
+    "secondBrain/Indexes/spring/spring_core_&_mvc.md",
+    "secondBrain/Spring/SPRING - PathParam Annotation.md",
+    "secondBrain/Indexes/spring/spring_annotation.md",
+    "secondBrain/English/ENG - Synonyms for SO.md",
     "Business Ideals.md",
     "secondBrain/Global Hotkeys.md",
     "Youtube process.canvas",
@@ -507,16 +534,9 @@
     "secondBrain/Java/JAVA - For Loop.md",
     "secondBrain/Java/JAVA - Boxing and Unboxing.md",
     "secondBrain/Java/JAVA - Constructors.md",
-    "secondBrain/Spring/SPRING - Development keywords.md",
     "secondBrain/Spring/SPRING - What is Dependency injection.md",
     "secondBrain/Indexes/istqb.md",
     "secondBrain/Indexes/spring/spring_web_services.md",
-    "secondBrain/Indexes/spring/spring_web_flow.md",
-    "secondBrain/Indexes/spring/spring_webflux.md",
-    "secondBrain/Indexes/spring/spring_statemachine.md",
-    "secondBrain/Indexes/spring/spring_shell.md",
-    "secondBrain/Indexes/spring/spring_session.md",
-    "secondBrain/Indexes/spring/spring_security.md",
     "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",
