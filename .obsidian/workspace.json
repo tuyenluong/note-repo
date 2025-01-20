@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - ModelAndView class.md",
-                "mode": "preview",
+                "file": "secondBrain/Indexes/spring/spring_data.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - ModelAndView class"
+              "title": "spring_data"
             }
           },
           {
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 458.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -535,18 +535,21 @@
   },
   "active": "75f2fb1e834a9c9b",
   "lastOpenFiles": [
+    "secondBrain/Indexes/spring/spring.md",
+    "secondBrain/Indexes/spring/spring_boot.md",
+    "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
+    "secondBrain/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
+    "secondBrain/Spring/SPRING - Development keywords.md",
+    "secondBrain/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Spring/SPRING - ModelAndView class.md",
+    "secondBrain/Spring/SPRING - Model interface.md",
+    "secondBrain/Indexes/spring/spring_security.md",
     "secondBrain/Spring/SPRING - ModelAttribute Annotation.md",
     "secondBrain/Spring/SPRING - PathVariable Annotation.md",
     "secondBrain/Spring/SPRING - RequestParam Annotation.md",
     "secondBrain/Spring/SPRING - Stereotype Annotations.md",
     "secondBrain/Spring/SPRING - Validation should be done on Front or Back end.md",
-    "secondBrain/Spring/SPRING - Development keywords.md",
-    "secondBrain/Spring/SPRING - What is Dependency injection.md",
-    "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
-    "secondBrain/Spring/SPRING - ModelAndView class.md",
-    "secondBrain/Spring/SPRING - Model annotation.md",
-    "secondBrain/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
-    "secondBrain/Spring/SPRING - Component Annotation.md",
     "secondBrain/Obsidian-course/Business Ideals.md",
     "README.md",
     "secondBrain/Obsidian-course/Youtube process.canvas",
@@ -560,9 +563,6 @@
     "secondBrain/Indexes/java/core/java_building_block.md",
     "secondBrain/Java/JAVA - Compile, Run and Archive.md",
     "secondBrain/Java/PV Automation.md",
-    "secondBrain/Java/JAVA - While Loop.md",
-    "secondBrain/Java/JAVA - Switch Statement.md",
-    "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
     "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",

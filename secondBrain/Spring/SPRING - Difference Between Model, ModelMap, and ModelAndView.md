@@ -2,7 +2,6 @@
 Creation_date: 2025-01-20 20:23
 Modification_date: Monday 20th January 2025 20:23:02
 Indexes:
-  - "[[spring_annotation]]"
   - "[[spring_core_&_mvc]]"
   - "[[spring_boot]]"
 ---
@@ -18,9 +17,9 @@ Indexes:
 
 ## **Use Case**
 
-- **Model**: Use when you're only passing data to the view.
+- **[[SPRING - Model interface|Model]]**: Use when you're only passing data to the view.
 - **ModelMap**: Use when you need more flexibility, such as iterating over attributes like a map.
-- **ModelAndView**: Use for more complex scenarios where you need to combine model attributes and view names programmatically.
+- **[[SPRING - ModelAndView class|ModelAndView]]**: Use for more complex scenarios where you need to combine model attributes and view names programmatically.
 
 ## **Summary**
 
