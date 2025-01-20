@@ -3,7 +3,7 @@ Creation_date: 2025-01-14 12:51
 Modification_date: Tuesday 14th January 2025 12:51:24
 Indexes:
   - "[[spring_annotation]]"
-  - "[[spring_boot]]"
+  - "[[spring_core_&_mvc]]"
 ---
 
 ----

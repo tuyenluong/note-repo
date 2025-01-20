@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
+                "file": "secondBrain/Spring/SPRING - ModelAndView class.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SPRING - ModelAndView class"
+            }
+          },
+          {
+            "id": "c2225a565e098330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - Validation with Spring Boot"
+              "title": "SPRING - Difference Between Model, ModelMap, and ModelAndView"
             }
           }
         ]
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "@Service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +119,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -478,12 +493,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "865d4d0974877bf7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -500,6 +525,7 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
@@ -509,21 +535,27 @@
   },
   "active": "75f2fb1e834a9c9b",
   "lastOpenFiles": [
-    "secondBrain/Spring/SPRING - Validation should be done on Front or Back end.md",
-    "secondBrain/Spring/SPRING - Stereotype Annotations.md",
-    "secondBrain/Spring/SPRING - RequestParam Annotation.md",
-    "secondBrain/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Spring/SPRING - ModelAttribute Annotation.md",
     "secondBrain/Spring/SPRING - PathVariable Annotation.md",
+    "secondBrain/Spring/SPRING - RequestParam Annotation.md",
+    "secondBrain/Spring/SPRING - Stereotype Annotations.md",
+    "secondBrain/Spring/SPRING - Validation should be done on Front or Back end.md",
     "secondBrain/Spring/SPRING - Development keywords.md",
+    "secondBrain/Spring/SPRING - What is Dependency injection.md",
     "secondBrain/Spring/SPRING - Validation with Spring Boot.md",
+    "secondBrain/Spring/SPRING - ModelAndView class.md",
+    "secondBrain/Spring/SPRING - Model annotation.md",
+    "secondBrain/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
+    "secondBrain/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Obsidian-course/Business Ideals.md",
+    "README.md",
+    "secondBrain/Obsidian-course/Youtube process.canvas",
+    "secondBrain/Obsidian-course/Business Models.canvas",
     "secondBrain/Indexes/spring/spring_core_&_mvc.md",
     "secondBrain/Spring/SPRING - PathParam Annotation.md",
     "secondBrain/Indexes/spring/spring_annotation.md",
     "secondBrain/English/ENG - Synonyms for SO.md",
-    "Business Ideals.md",
     "secondBrain/Global Hotkeys.md",
-    "Youtube process.canvas",
-    "Business Models.canvas",
     "secondBrain/Java/JAVA - Environment.md",
     "secondBrain/Indexes/java/core/java_building_block.md",
     "secondBrain/Java/JAVA - Compile, Run and Archive.md",
@@ -531,12 +563,6 @@
     "secondBrain/Java/JAVA - While Loop.md",
     "secondBrain/Java/JAVA - Switch Statement.md",
     "secondBrain/Java/JAVA - Variable Arguments (Varargs).md",
-    "secondBrain/Java/JAVA - For Loop.md",
-    "secondBrain/Java/JAVA - Boxing and Unboxing.md",
-    "secondBrain/Java/JAVA - Constructors.md",
-    "secondBrain/Spring/SPRING - What is Dependency injection.md",
-    "secondBrain/Indexes/istqb.md",
-    "secondBrain/Indexes/spring/spring_web_services.md",
     "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
     "secondBrain/Git/resources",
