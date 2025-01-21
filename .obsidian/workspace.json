@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - Which Bean scope for which scenarios.md",
+                "file": "secondBrain/Spring/SPRING - Which Bean scope suited for which scenarios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - Which Bean scope for which scenarios"
+              "title": "SPRING - Which Bean scope suited for which scenarios"
             }
           }
         ],
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 458.5,
+    "collapsed": true
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -560,7 +561,7 @@
   },
   "active": "a10602091be2164d",
   "lastOpenFiles": [
-    "secondBrain/Spring/SPRING - Which Bean scope for which scenarios.md",
+    "secondBrain/Spring/SPRING - Which Bean scope suited for which scenarios.md",
     "secondBrain/Spring/SPRING - Bean scopes.md",
     "secondBrain/Spring/SPRING - Application Scope.md",
     "secondBrain/Spring/SPRING - Session Scope.md",
