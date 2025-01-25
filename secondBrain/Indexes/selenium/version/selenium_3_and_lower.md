@@ -10,7 +10,7 @@ Indexes:
 
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[selenium_3_and_lower]]  sort Creation_date DESC
 ```
 

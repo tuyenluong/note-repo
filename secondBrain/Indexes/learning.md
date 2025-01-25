@@ -5,6 +5,6 @@ Indexes:
   - "[[Home]]"
 ---
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[learning]]  sort Creation_date DESC
 ```

@@ -9,7 +9,7 @@ Indexes:
 ----
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[java-11]] sort Creation_date DESC
 ```
 

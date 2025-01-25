@@ -8,7 +8,7 @@ Indexes:
 [[Bug life-cycle.canvas|Bug life-cycle]]
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[istqb]]  sort Creation_date DESC
 ```
 

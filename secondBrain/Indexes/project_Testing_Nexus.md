@@ -15,7 +15,7 @@ A project that can help people archive their goals in Software Testing career pa
 
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[project_Testing_Nexus]]  sort Creation_date DESC
 ```
 

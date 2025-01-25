@@ -7,7 +7,7 @@ Indexes:
 ----
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[java_script]]  sort Creation_date DESC
 ```
 

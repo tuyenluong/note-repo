@@ -10,7 +10,7 @@ Indexes:
 
 
 ```dataview
-table file.name as Title, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[linux_disk_management_and_run_levels]]  sort Creation_date DESC
 ```
 
