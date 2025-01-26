@@ -4,27 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "284ff920cb9e75d5",
+        "id": "7e1088a762081217",
         "type": "tabs",
         "children": [
           {
-            "id": "75f2fb1e834a9c9b",
+            "id": "b8e21a02eff4dfa0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "secondBrain/Obsidian-course/Appointment.canvas",
-                "viewState": {
-                  "x": -325,
-                  "y": 105,
-                  "zoom": -0.9985488397359312
-                }
+                "file": "secondBrain/Spring/SPRING - Configure custom credentials inside Spring security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Appointment"
+              "icon": "lucide-file",
+              "title": "SPRING - Configure custom credentials inside Spring security"
+            }
+          },
+          {
+            "id": "44d4621e1b7c5039",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 296.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -530,12 +539,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a09fb104856843a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6300cc4c4b003457",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "570beb7b17a9238d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 38
       }
     ],
     "direction": "horizontal",
@@ -559,18 +598,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75f2fb1e834a9c9b",
+  "active": "44d4621e1b7c5039",
   "lastOpenFiles": [
-    "templates.md",
+    "secondBrain/Spring/SPRING - Configure custom credentials inside Spring security.md",
+    "secondBrain/Spring/resources/spring_security_properties_credentials.png",
+    "secondBrain/Spring/resources",
+    "secondBrain/Spring/SPRING - Spring Security in default state.md",
+    "secondBrain/Indexes/zettelkasten/fleeting_notes.md",
+    "secondBrain/Indexes/zettelkasten/zettelkasten.md",
+    "secondBrain/Indexes/zettelkasten/literature_notes.md",
+    "secondBrain/Indexes/zettelkasten/permanent_notes.md",
+    "secondBrain/Indexes/Ideas.md",
+    "secondBrain/Indexes/Home.md",
+    "secondBrain/Indexes/zettelkasten",
+    "secondBrain/Spring/SPRING - Which Bean scope suited for which scenarios.md",
     "secondBrain/Obsidian-course/Appointment.canvas",
+    "templates.md",
     "secondBrain/Templates/COMMON - template.md",
     "secondBrain/Spring/SPRING - Bean scopes.md",
     "secondBrain/Templates/API - template.md",
-    "secondBrain/Spring/SPRING - Which Bean scope suited for which scenarios.md",
     "secondBrain/German/vocabulary_phraes/GERMAN - meine.md",
     "secondBrain/Templates/Templates manage.md",
     "secondBrain/Templates/SELENIUM - template.md",
-    "secondBrain/Indexes/Home.md",
     "secondBrain/Indexes/templates",
     "secondBrain/Global Hotkeys.md",
     "secondBrain/Spring/SPRING - Application Scope.md",
@@ -581,13 +630,6 @@
     "secondBrain/Indexes/testingFramework.md",
     "secondBrain/Indexes/system.md",
     "secondBrain/Indexes/spring/spring_webflux.md",
-    "secondBrain/Indexes/spring/spring_web_services.md",
-    "secondBrain/Indexes/spring/spring_web_flow.md",
-    "secondBrain/Indexes/spring/spring_thymeleaf.md",
-    "secondBrain/Indexes/spring/spring_statemachine.md",
-    "secondBrain/Indexes/spring/spring_shell.md",
-    "secondBrain/Indexes/spring/spring_session.md",
-    "secondBrain/Indexes/spring/spring_security.md",
     "secondBrain/Books/Java-Design-Patterns.pdf",
     "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
@@ -599,8 +641,6 @@
     "secondBrain/Indexes/languages/characteristic",
     "GERMAN - How to type German letter.png",
     "Pasted image 20241018093149.png",
-    "secondBrain/German/grammar",
-    "secondBrain/German/resources",
     "secondBrain/Git/Pasted image 20240713132320.png",
     "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Java/resources/a_class_vs_an_object.png",

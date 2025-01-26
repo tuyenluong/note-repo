@@ -3,22 +3,22 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:secondBrain/Indexes  ",
+      "query": "path:secondBrain/Indexes/zettelkasten/ path:secondBrain/Indexes  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14701276
       }
     },
     {
-      "query": "tag:",
+      "query": "path:secondBrain/Indexes  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 15219523
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08647456345264601,
+  "scale": 0.08647456345264748,
   "close": true
 }
