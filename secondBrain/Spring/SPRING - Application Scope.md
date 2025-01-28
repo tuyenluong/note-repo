@@ -2,7 +2,7 @@
 Creation_date: 2025-01-22 00:53
 Modification_date: Wednesday 22nd January 2025 00:53:17
 Indexes:
-  - "[[spring_core_&_mvc]]"
+  - "[[spring_mvc]]"
 ---
 
 ----

@@ -3,7 +3,7 @@ Creation_date: 2025-01-18 13:58
 Modification_date: Saturday 18th January 2025 13:58:34
 Indexes:
   - "[[spring_thymeleaf]]"
-  - "[[spring_core_&_mvc]]"
+  - "[[spring_mvc]]"
 ---
 
 ----

@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "7e1088a762081217",
+        "id": "b491c07c441efc13",
         "type": "tabs",
         "children": [
           {
-            "id": "b8e21a02eff4dfa0",
+            "id": "7909d5dc9d85d893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Spring/SPRING - Configure custom credentials inside Spring security.md",
+                "file": "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - Configure custom credentials inside Spring security"
+              "title": "spring_mvc"
             }
           },
           {
-            "id": "44d4621e1b7c5039",
+            "id": "d87faf448180c811",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,9 +31,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "454c66257a97e6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Indexes/information_technology/spring/spring_core.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spring_core"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -569,12 +584,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f241c3518a641ed2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -598,51 +623,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44d4621e1b7c5039",
+  "active": "454c66257a97e6d2",
   "lastOpenFiles": [
-    "secondBrain/Spring/SPRING - Configure custom credentials inside Spring security.md",
+    "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
+    "secondBrain/Spring/SPRING - Stereotype Annotations.md",
+    "secondBrain/Spring/SPRING - Bean annotation.md",
+    "secondBrain/Spring/SPRING - Bean scopes.md",
+    "secondBrain/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Indexes/information_technology/spring/spring_core.md",
+    "secondBrain/Indexes/information_technology/spring/spring_annotation.md",
+    "secondBrain/Spring/SPRING - Application Scope.md",
+    "secondBrain/Indexes/information_technology/security/security.md",
+    "secondBrain/Java/JAVA - Find two biggest number.md",
+    "secondBrain/Indexes/information_technology/data_structure_algo.md",
+    "secondBrain/Indexes/information_technology/api.md",
+    "secondBrain/Indexes/information_technology/quarkus.md",
+    "secondBrain/Indexes/information_technology/framework.md",
+    "secondBrain/Indexes/information_technology/libraries/libraries.md",
+    "secondBrain/Spring/SPRING - Configure custom security configs.md",
+    "secondBrain/Computer_In_General/COMMON - What is CSRF.md",
+    "secondBrain/Spring/CSRF.md",
+    "secondBrain/Computer_In_General/COMMON - What is the differ between CLI and GUI.md",
+    "secondBrain/Computer_In_General/COMMON - What is case-sensitive and non case-sensitive.md",
+    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
+    "secondBrain/Spring/SPRING - Pattern cannot be null or empty exception.md",
+    "secondBrain/Indexes/information_technology/spring/spring_boot.md",
+    "secondBrain/Templates/JMETER - template.md",
+    "secondBrain/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
+    "secondBrain/Indexes/information_technology/spring/spring_security.md",
+    "secondBrain/Indexes/information_technology/spring/spring.md",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Indexes/information_technology/programming_languages",
+    "secondBrain/Indexes/information_technology/libraries",
+    "secondBrain/Indexes/growth",
+    "secondBrain/Indexes/information_technology",
+    "secondBrain/Indexes/information_technology/security",
+    "secondBrain/Indexes/information_technology/spring/spring_versions/spring_boot_versions",
+    "secondBrain/Indexes/information_technology/spring/spring_versions/spring_security_versions",
+    "secondBrain/Indexes/information_technology/spring/spring_versions",
     "secondBrain/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Spring/resources",
-    "secondBrain/Spring/SPRING - Spring Security in default state.md",
-    "secondBrain/Indexes/zettelkasten/fleeting_notes.md",
-    "secondBrain/Indexes/zettelkasten/zettelkasten.md",
-    "secondBrain/Indexes/zettelkasten/literature_notes.md",
-    "secondBrain/Indexes/zettelkasten/permanent_notes.md",
-    "secondBrain/Indexes/Ideas.md",
-    "secondBrain/Indexes/Home.md",
-    "secondBrain/Indexes/zettelkasten",
-    "secondBrain/Spring/SPRING - Which Bean scope suited for which scenarios.md",
     "secondBrain/Obsidian-course/Appointment.canvas",
-    "templates.md",
-    "secondBrain/Templates/COMMON - template.md",
-    "secondBrain/Spring/SPRING - Bean scopes.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/German/vocabulary_phraes/GERMAN - meine.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Templates/SELENIUM - template.md",
-    "secondBrain/Indexes/templates",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Spring/SPRING - Application Scope.md",
-    "secondBrain/Indexes/java/versions/java-11.md",
-    "secondBrain/Indexes/selenium/topics/webDriver.md",
-    "secondBrain/Indexes/languages/characteristic/verb.md",
-    "secondBrain/Indexes/languages/characteristic/vocabulary.md",
-    "secondBrain/Indexes/testingFramework.md",
-    "secondBrain/Indexes/system.md",
-    "secondBrain/Indexes/spring/spring_webflux.md",
-    "secondBrain/Books/Java-Design-Patterns.pdf",
-    "secondBrain/Indexes/spring",
     "secondBrain/Git/resources/Pasted image 20240713132320.png",
-    "secondBrain/Git/resources",
-    "secondBrain/German/vocabulary_phraes",
     "secondBrain/German/resources/GERMAN - How to type German letter.png",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "Clippings",
-    "secondBrain/Indexes/languages/characteristic",
     "GERMAN - How to type German letter.png",
     "Pasted image 20241018093149.png",
     "secondBrain/Git/Pasted image 20240713132320.png",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
     "secondBrain/Java/resources/a_class_vs_an_object.png",
     "secondBrain/ISTQB/Bug life-cycle.canvas",
     "dsa.png",

@@ -7,6 +7,8 @@
 	* Ctrl+ Tab = Forward pages
 	* Ctrl + Shift + Tab = Backward pages
 	* Ctrl + W = Close the current note
+	* Ctrl + Alt + LEFT arrow = Move to next page on the same tab
+	* Ctrl + Alt + RIGHT arrow = Move to previous page on the same tab
 * Searching
 	* Ctrl + O = Search for a file or keyword in a file
 	* Ctrl + Shift + F = Search for all files
@@ -16,7 +18,7 @@
 * Other action
 	* Ctrl + Shift + B = Create block a code
 		* `dataview` block
-		* `java` block
+		* `java` block for example:
 			* Add `run-` before the language to make it executable, and must pass the programming language path to the `Execute Code` plugin setting
 	* Ctrl + R = Start recording
 	* Ctrl + Shift + R = Stop *recording*

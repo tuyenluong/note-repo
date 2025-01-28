@@ -1,7 +1,8 @@
 ---
 Creation_date: 2022-10-16 14:25
 Modification_date: Sunday 16th October 2022 14:25:26
-Indexes: "[[testingFramework]]"
+Indexes:
+  - "[[selenium]]"
 ---
 
 ----

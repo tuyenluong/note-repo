@@ -2,7 +2,7 @@
 Creation_date: 2025-01-20 20:55
 Modification_date: Monday 20th January 2025 20:55:52
 Indexes:
-  - "[[spring_core_&_mvc]]"
+  - "[[spring_mvc]]"
 ---
 ----
 ## What can I do with `ModelAndView` method?

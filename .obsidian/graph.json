@@ -15,10 +15,31 @@
       }
     },
     {
-      "query": "path:secondBrain/Indexes  ",
+      "query": "path:secondBrain/Indexes/information_technology  ",
       "color": {
         "a": 1,
         "rgb": 15219523
+      }
+    },
+    {
+      "query": "path:secondBrain/Indexes/growth  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:secondBrain/Indexes/languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 5562450
+      }
+    },
+    {
+      "query": "path:secondBrain/Indexes/templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 15244055
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08647456345264748,
+  "scale": 0.21699080268326817,
   "close": true
 }

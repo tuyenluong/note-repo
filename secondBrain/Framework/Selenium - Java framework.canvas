@@ -5,7 +5,7 @@
 		{"id":"4db701c91768f6ee","type":"text","text":"Data\n- Json\n- SQL\n- Excel","x":173,"y":-940,"width":250,"height":160},
 		{"id":"62b4f8ac3b8e220a","type":"text","text":"- Enhanced Driver\n- DataMapper\n- Report","x":70,"y":-570,"width":260,"height":160},
 		{"id":"1d5bd0e64489907e","type":"text","text":"Session Manager\n- Global   Config        \n- Enhanced Driver","x":-260,"y":-570,"width":260,"height":160},
-		{"id":"ed9b7ea70dc210f4","type":"text","text":"Tags: [[testingFramework]]\n- Config\n- Data\n- Selenium\n- Grid 4\n- Report","x":-600,"y":-570,"width":260,"height":160},
+		{"id":"ed9b7ea70dc210f4","type":"text","text":"Tags: [[framework]]\n- Config\n- Data\n- Selenium\n- Grid 4\n- Report","x":-600,"y":-570,"width":260,"height":160},
 		{"id":"b9ea79b078f84336","type":"text","text":"Config\n- HUB\n- Browser name\n- Headless\n- Incognito mode","x":-255,"y":-830,"width":250,"height":200},
 		{"id":"0f32b0845076ba81","type":"text","text":"Report\n- Extent R\n- Allure","x":75,"y":-325,"width":250,"height":160},
 		{"id":"6534f434375f81e8","type":"text","text":"Grid 4","x":423,"y":-515,"width":250,"height":50},
