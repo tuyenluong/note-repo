@@ -4,7 +4,7 @@ Modification_date: Tuesday 26th March 2024 00:42:32
 Indexes:
   - "[[information_technolody]]"
 ---
-
+z
 [[Bug life-cycle.canvas|Bug life-cycle]]
 
 ```dataview

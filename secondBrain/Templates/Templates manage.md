@@ -9,5 +9,3 @@ This is we you can navigation between multiple templates:
 list without id
 from "secondBrain/Templates"
 ```
-
-Back to [[Home]]

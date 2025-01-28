@@ -13,7 +13,7 @@ Indexes:
 3. Build courses
 4. Build teaching skills or communication skills
 
-[[secondBrain/API/API Testing Interview questions.md]]
+[[API Testing Interview questions]]
 
 
 

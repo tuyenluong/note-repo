@@ -13,42 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
+                "file": "secondBrain/Indexes/zettelkasten/zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spring_mvc"
-            }
-          },
-          {
-            "id": "d87faf448180c811",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "454c66257a97e6d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secondBrain/Indexes/information_technology/spring/spring_core.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spring_core"
+              "title": "zettelkasten"
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -82,7 +57,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -99,22 +74,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "68fae6e79aadf9e2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 355.5
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -123,17 +88,8 @@
       {
         "id": "bab6336c1cee8939",
         "type": "tabs",
+        "dimension": 37.88461538461539,
         "children": [
-          {
-            "id": "a39ca8858988e087",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "ba1dc2dc97f07248",
             "type": "leaf",
@@ -186,410 +142,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Youtube process.canvas"
+                "file": "secondBrain/Indexes/zettelkasten/zettelkasten.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Youtube process"
+              "title": "Outline of zettelkasten"
             }
           },
           {
-            "id": "bc119a1e007f10f5",
+            "id": "dd7187e023251b76",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "a81198a923a32211",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224458,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian course"
-            }
-          },
-          {
-            "id": "708013ddc5ba6c72",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224423,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian course"
-            }
-          },
-          {
-            "id": "f4df67da31ea7e5e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Obsidian course"
-            }
-          },
-          {
-            "id": "1ce15e94744b0f82",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0e97eb9217618d0f",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "32cf1caa535ad8e0",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd188273b3ae7c50",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5d4560d7782104c5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4854cf04b8ca1331",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f7f9198db616ee9b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "547748eadb2545f4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "eb8d5af33b0e78cb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5739cd43d909a72d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f508b72815e10adc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b54edda7c05377d5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fdd8f790ce9cdc2a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a459386e329f4781",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "650ba0f63870c64b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a2b7e4f89ab05f7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f38657ebebc540da",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "10cabd384665ddc0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1fa6afa9e852d55d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f502d3fd35ced40a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "52ade2f923a8d96d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4c2cc863080b06a9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "833e227b6587788e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a1008b91ade48d2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f4c2ba70838e3845",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d3f7a0f792d37aef",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b09de8275c967b75",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a09fb104856843a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6300cc4c4b003457",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "570beb7b17a9238d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f241c3518a641ed2",
+            "id": "75d11b33a691b0fa",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -599,7 +169,51 @@
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 5
+      },
+      {
+        "id": "c612b2230ce2ecff",
+        "type": "tabs",
+        "dimension": 62.11538461538461,
+        "children": [
+          {
+            "id": "a81198a923a32211",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Indexes/zettelkasten/zettelkasten.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.09392927902847023,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of zettelkasten"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -620,59 +234,67 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "454c66257a97e6d2",
+  "active": "7909d5dc9d85d893",
   "lastOpenFiles": [
-    "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
-    "secondBrain/Spring/SPRING - Stereotype Annotations.md",
-    "secondBrain/Spring/SPRING - Bean annotation.md",
-    "secondBrain/Spring/SPRING - Bean scopes.md",
-    "secondBrain/Spring/SPRING - Component Annotation.md",
-    "secondBrain/Indexes/information_technology/spring/spring_core.md",
-    "secondBrain/Indexes/information_technology/spring/spring_annotation.md",
-    "secondBrain/Spring/SPRING - Application Scope.md",
-    "secondBrain/Indexes/information_technology/security/security.md",
-    "secondBrain/Java/JAVA - Find two biggest number.md",
-    "secondBrain/Indexes/information_technology/data_structure_algo.md",
-    "secondBrain/Indexes/information_technology/api.md",
-    "secondBrain/Indexes/information_technology/quarkus.md",
-    "secondBrain/Indexes/information_technology/framework.md",
-    "secondBrain/Indexes/information_technology/libraries/libraries.md",
-    "secondBrain/Spring/SPRING - Configure custom security configs.md",
-    "secondBrain/Computer_In_General/COMMON - What is CSRF.md",
-    "secondBrain/Spring/CSRF.md",
-    "secondBrain/Computer_In_General/COMMON - What is the differ between CLI and GUI.md",
-    "secondBrain/Computer_In_General/COMMON - What is case-sensitive and non case-sensitive.md",
-    "secondBrain/Computer_In_General/new-the-world-of-the-internet-handouts.pdf",
-    "secondBrain/Spring/SPRING - Pattern cannot be null or empty exception.md",
-    "secondBrain/Indexes/information_technology/spring/spring_boot.md",
+    "secondBrain/Indexes/users/users.md",
+    "secondBrain/Indexes/users/tuyenLuong.md",
+    "secondBrain/Templates/Templates manage.md",
+    "secondBrain/Templates/User - template.md",
+    "secondBrain/Templates/SQL - template.md",
+    "secondBrain/Templates/SPRING - template.md",
+    "secondBrain/Templates/sortspec.md",
+    "secondBrain/Templates/SOFT_SKILLS - template.md",
+    "secondBrain/Templates/SELENIUM - template.md",
+    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
+    "secondBrain/Templates/LINUX - template.md",
     "secondBrain/Templates/JMETER - template.md",
-    "secondBrain/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
-    "secondBrain/Indexes/information_technology/spring/spring_security.md",
-    "secondBrain/Indexes/information_technology/spring/spring.md",
-    "secondBrain/Framework/Selenium - Java framework.canvas",
-    "secondBrain/Indexes/information_technology/programming_languages",
-    "secondBrain/Indexes/information_technology/libraries",
-    "secondBrain/Indexes/growth",
-    "secondBrain/Indexes/information_technology",
-    "secondBrain/Indexes/information_technology/security",
-    "secondBrain/Indexes/information_technology/spring/spring_versions/spring_boot_versions",
-    "secondBrain/Indexes/information_technology/spring/spring_versions/spring_security_versions",
-    "secondBrain/Indexes/information_technology/spring/spring_versions",
-    "secondBrain/Spring/resources/spring_security_properties_credentials.png",
-    "secondBrain/Spring/resources",
-    "secondBrain/Obsidian-course/Appointment.canvas",
-    "secondBrain/Git/resources/Pasted image 20240713132320.png",
-    "secondBrain/German/resources/GERMAN - How to type German letter.png",
-    "GERMAN - How to type German letter.png",
-    "Pasted image 20241018093149.png",
-    "secondBrain/Git/Pasted image 20240713132320.png",
-    "secondBrain/Java/resources/a_class_vs_an_object.png",
-    "secondBrain/ISTQB/Bug life-cycle.canvas",
-    "dsa.png",
-    "webPage/lib/media/874d8b8e340f75575caa.svg",
-    "webPage/lib/media/3d6c1bdc4d87cde4de67.svg"
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/GERMAN - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/COMMON - template.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/Indexes/information_technology/linux/topic/linux_disk_management_and_run_levels.md",
+    "secondBrain/Indexes/users",
+    "secondBrain/Indexes/information_technology/linux/topic/linux_fundamentals.md",
+    "secondBrain/Indexes/information_technology/linux/topic/linux_introduction.md",
+    "secondBrain/Indexes/information_technology/linux/topic/linux_network_service_system_updates.md",
+    "secondBrain/Indexes/information_technology/linux/topic/linux_shell_scripting.md",
+    "secondBrain/Books/Clean Code.pdf",
+    "secondBrain/Books/CodeGym Ha Noi_effective_java_2nd_2228.pdf",
+    "secondBrain/Books/spring-framework-reference.pdf",
+    "secondBrain/Books/articulo.pdf",
+    "secondBrain/Indexes/information_technology/testing",
+    "secondBrain/Indexes/information_technology/framework",
+    "secondBrain/Topics",
+    "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
+    "secondBrain/Topics/Spring/desktop.ini",
+    "secondBrain/Topics/Spring/resources",
+    "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
+    "secondBrain/Topics/Obsidian-course/Business Models.canvas",
+    "secondBrain/Topics/Obsidian-course/Appointment.canvas",
+    "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
+    "secondBrain/Topics/Git/resources/Pasted image 20240713132320.png",
+    "secondBrain/Topics/Linux/resouces/Pasted image 20240224183601.png",
+    "secondBrain/Topics/Linux/resouces/Pasted image 20240212235007.png",
+    "secondBrain/Topics/Linux/resouces/Pasted image 20240212232244.png",
+    "secondBrain/Topics/Linux/resouces/Pasted image 20240212232229.png",
+    "secondBrain/Topics/Java/resources/a_class_vs_an_object.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240705171351.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
+    "secondBrain/Topics/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Topics/Project/Business Models.canvas",
+    "secondBrain/Topics/Project/Appointment.canvas",
+    "secondBrain/Topics/Project/Youtube process.canvas",
+    "secondBrain/Topics/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Topics/ISTQB/Bug life-cycle.canvas"
   ]
 }
