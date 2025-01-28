@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Indexes/zettelkasten/zettelkasten.md",
+                "file": "secondBrain/Topics/Git/GIT - Git Bad Object desktop.ini.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zettelkasten"
+              "title": "GIT - Git Bad Object desktop.ini"
             }
           }
         ],
@@ -149,17 +149,17 @@
             }
           },
           {
-            "id": "dd7187e023251b76",
+            "id": "75d11b33a691b0fa",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "75d11b33a691b0fa",
+            "id": "310034ca000bd7e5",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -234,12 +234,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7909d5dc9d85d893",
   "lastOpenFiles": [
+    "secondBrain/Topics/Computer_In_General/COMMON - What is CSRF.md",
+    "secondBrain/Topics/Git/GIT - Git Bad Object desktop.ini.md",
+    "secondBrain/Indexes/zettelkasten/zettelkasten.md",
     "secondBrain/Indexes/users/users.md",
     "secondBrain/Indexes/users/tuyenLuong.md",
     "secondBrain/Templates/Templates manage.md",
@@ -264,9 +266,6 @@
     "secondBrain/Indexes/information_technology/linux/topic/linux_disk_management_and_run_levels.md",
     "secondBrain/Indexes/users",
     "secondBrain/Indexes/information_technology/linux/topic/linux_fundamentals.md",
-    "secondBrain/Indexes/information_technology/linux/topic/linux_introduction.md",
-    "secondBrain/Indexes/information_technology/linux/topic/linux_network_service_system_updates.md",
-    "secondBrain/Indexes/information_technology/linux/topic/linux_shell_scripting.md",
     "secondBrain/Books/Clean Code.pdf",
     "secondBrain/Books/CodeGym Ha Noi_effective_java_2nd_2228.pdf",
     "secondBrain/Books/spring-framework-reference.pdf",

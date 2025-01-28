@@ -1,7 +1,6 @@
 [
   "dataview",
   "table-editor-obsidian",
-  "calendar",
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-outliner",
@@ -13,6 +12,5 @@
   "better-export-pdf",
   "omnisearch",
   "obsidian-auto-link-title",
-  "obsidian-paste-image-rename",
-  "obsidian-excalidraw-plugin"
+  "obsidian-paste-image-rename"
 ]
