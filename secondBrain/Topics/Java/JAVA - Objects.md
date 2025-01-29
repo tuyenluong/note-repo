@@ -22,7 +22,7 @@ Indexes:
 		- A [[JAVA - Objects#^5a7d1c|method naming convention]] is the first letter of the method name must be lowercase and must contains a return type or a void.
 		- A [[JAVA - Objects#^6f7319|constructor naming convention]] is the constructor name must be identical as the class name and there will be no return type even a void.
 	- If you don't provide any constructor, the compiler will generate [[JAVA - Objects#^2bbda1|a simple no-argument constructor]].
-- Order of initialization
+- Order of initialization ^dff309
 	- [[JAVA - Objects#^f93564|Static initialization blocks]] will run whenever the class is loaded first time in JVM, which means the static initialize block will run one time only when the class is initialize for the first time.
 		- And it will run before any the constructor, data members and any initialization blocks.
 	- [[JAVA - Objects#^4dbc9d|Initialization Blocks]] run in the same order in which they appear in the program.

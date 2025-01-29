@@ -8,7 +8,7 @@ Indexes:
 ----
 ## Local Variables
 
-- Defined inside the block of code `{ }`, go out of scope
+- Defined inside the block of *code* `{ }`, go out of scope
 - Can have only one optional modifier: `final` for Local variable
 	- Once final variable is assigned a value, it cannot be changed
 - *"effectively final"*: doesn't change value in the scope

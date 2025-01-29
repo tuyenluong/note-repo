@@ -4,26 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b491c07c441efc13",
+        "id": "3f23f67ae3bd6b38",
         "type": "tabs",
         "children": [
           {
             "id": "7909d5dc9d85d893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "secondBrain/Topics/Git/GIT - Git Bad Object desktop.ini.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "secondBrain/Topics/Java/EntendResources/Initializing+Objects.pdf"
               },
-              "icon": "lucide-file",
-              "title": "GIT - Git Bad Object desktop.ini"
+              "icon": "lucide-file-text",
+              "title": "Initializing+Objects"
             }
           }
-        ],
-        "stacked": true
+        ]
+      },
+      {
+        "id": "d97bedbddec4b2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3b1290d2fcc38a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "secondBrain/Topics/Java/EntendResources/Inheriting+Members.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Inheriting+Members"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,10 +68,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:tuyenLuong",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -79,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "right": {
     "id": "b94833405cb18bd4",
@@ -164,12 +179,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e920a401d1c6854b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9e642b7141050598",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4a45717805f9c9ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "c612b2230ce2ecff",
@@ -182,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Indexes/zettelkasten/zettelkasten.md",
+                "file": "secondBrain/Topics/Java/JAVA - Objects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,12 +250,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09392927902847023,
+                  "scale": 0.7132754626224465,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of zettelkasten"
+              "title": "Graph of JAVA - Objects"
             }
           }
         ]
@@ -230,52 +275,52 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "7909d5dc9d85d893",
   "lastOpenFiles": [
-    "secondBrain/Topics/Computer_In_General/COMMON - What is CSRF.md",
-    "secondBrain/Topics/Git/GIT - Git Bad Object desktop.ini.md",
-    "secondBrain/Indexes/zettelkasten/zettelkasten.md",
-    "secondBrain/Indexes/users/users.md",
-    "secondBrain/Indexes/users/tuyenLuong.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Templates/User - template.md",
-    "secondBrain/Templates/SQL - template.md",
-    "secondBrain/Templates/SPRING - template.md",
-    "secondBrain/Templates/sortspec.md",
-    "secondBrain/Templates/SOFT_SKILLS - template.md",
-    "secondBrain/Templates/SELENIUM - template.md",
-    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
-    "secondBrain/Templates/LINUX - template.md",
-    "secondBrain/Templates/JMETER - template.md",
-    "secondBrain/Templates/JAVA - template.md",
-    "secondBrain/Templates/ISTQB - template.md",
-    "secondBrain/Templates/Indexes - template.md",
-    "secondBrain/Templates/GIT - template.md",
-    "secondBrain/Templates/GERMAN - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Templates/ENG - template.md",
-    "secondBrain/Templates/COMMON - template.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/Indexes/information_technology/linux/topic/linux_disk_management_and_run_levels.md",
-    "secondBrain/Indexes/users",
-    "secondBrain/Indexes/information_technology/linux/topic/linux_fundamentals.md",
-    "secondBrain/Books/Clean Code.pdf",
-    "secondBrain/Books/CodeGym Ha Noi_effective_java_2nd_2228.pdf",
-    "secondBrain/Books/spring-framework-reference.pdf",
-    "secondBrain/Books/articulo.pdf",
-    "secondBrain/Indexes/information_technology/testing",
-    "secondBrain/Indexes/information_technology/framework",
-    "secondBrain/Topics",
+    "secondBrain/Topics/Java/EntendResources/Untitled.md",
+    "secondBrain/Topics/Java/EntendResources/Initializing+Objects.pdf",
+    "secondBrain/Topics/Java/EntendResources/Inheriting+Members.pdf",
+    "secondBrain/Topics/Java/JAVA - Initializing Objects.md",
+    "secondBrain/Topics/Java/JAVA - Objects.md",
+    "secondBrain/Topics/Java/EntendResources/Variables.pdf",
+    "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
+    "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
+    "secondBrain/Topics/Java/EntendResources/Objects.pdf",
+    "secondBrain/Topics/Java/EntendResources/Introduction+to+Modules.pdf",
+    "secondBrain/Topics/Java/EntendResources/Inheritance.pdf",
+    "secondBrain/Topics/Java/EntendResources/Data+Types.pdf",
+    "secondBrain/Topics/Java/EntendResources/Creating+Classes.pdf",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/java_building_block.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_versions/spring_security_versions/spring_security_6.1.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_versions/spring_security_versions/spring_security_versions.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_versions/spring_boot_versions/spring_boot_3.1.0.md",
+    "secondBrain/Indexes/information_technology/libraries/selenium/version/selenium_4.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/collections.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/versions/java-14.md",
+    "secondBrain/Indexes/information_technology/libraries/selenium/topics/ide.md",
+    "secondBrain/Indexes/information_technology/libraries/selenium/version/selenium_3_and_lower.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_versions/spring_boot_versions/spring_boot_versions.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/math_api.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/array.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/versions/java-17.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/localization.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/versions/java-22.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_versions/spring_versions.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/versions/java-19.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/jdbc.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/versions/java-12.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/methods.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/flow_control.md",
+    "secondBrain/Indexes/information_technology/programming_languages/java/core/modules.md",
+    "secondBrain/Topics/Java/resources/a_class_vs_an_object.png",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
-    "secondBrain/Topics/Spring/desktop.ini",
-    "secondBrain/Topics/Spring/resources",
     "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
     "secondBrain/Topics/Obsidian-course/Business Models.canvas",
     "secondBrain/Topics/Obsidian-course/Appointment.canvas",
@@ -285,7 +330,6 @@
     "secondBrain/Topics/Linux/resouces/Pasted image 20240212235007.png",
     "secondBrain/Topics/Linux/resouces/Pasted image 20240212232244.png",
     "secondBrain/Topics/Linux/resouces/Pasted image 20240212232229.png",
-    "secondBrain/Topics/Java/resources/a_class_vs_an_object.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240705171351.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
