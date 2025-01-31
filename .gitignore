@@ -1,5 +1,6 @@
-.obsidian/workspace*
-.obsidian/workspaces*
+.obsidian/workspace.FILE
+.obsidian/workspace.json
+.obsidian/workspaces.json
 .obsidian/graph.json
 /*.ini
 *.ini
