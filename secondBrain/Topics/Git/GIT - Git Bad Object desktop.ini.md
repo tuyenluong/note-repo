@@ -10,6 +10,11 @@ tags:
 
 ----
 
+```shell
+cd 'My Drive\Obsidian\note-repo'
+
+Get-ChildItem -Include desktop.ini -Recurse -Hidden | Remove-Item -Force
+```
 
 [github - Git Bad Object desktop.ini - Stack Overflow](https://stackoverflow.com/questions/74754620/git-bad-object-desktop-ini)
 
