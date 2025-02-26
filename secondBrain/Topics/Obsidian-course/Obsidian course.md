@@ -42,6 +42,16 @@ Indexes:
 
 
 
+Act as a YouTube influencer, can you help me to generate a script based on this title: "How to copy plugins to new vault in obsidian" and the thumbnail? 
+It should have an opening and ending hook. 
+Add these attributes into my script and estimate it afterward: "include pauses, animations, transitions, examples, show live demonstrations, or engage with your audience through storytelling!"
+But before you create the script, do you have knowledge about these plugins? If yes then continue, if no then say no then I'll provide you some information.
+Here are the agenda:
+1. Where the plugins stored? How do we locates it?
+2. After you locates the correct plugin folder, what happen next? What we need to do? What we have notice?
+3. What about core plugins? 
+
+
 
 
 

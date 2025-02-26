@@ -8,7 +8,7 @@ Indexes:
 ----
 
 1. Build credit
-	1. [[COMMON - How to build credit]]
+	1. [[COMMON - Top 10 plugins]]
 2. Build experience
 3. Build courses
 4. Build teaching skills or communication skills

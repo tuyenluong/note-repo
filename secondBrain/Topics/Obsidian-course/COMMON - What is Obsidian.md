@@ -5,6 +5,13 @@ Indexes:
 ---
 
 ----
+As a YouTube influencer, can you help me generate a script based on the title "I quit google drive as my obsidian sync solution" and the thumbnail? 
+It should have an opening and ending hook. 
+Add these attributes into my script and estimate it afterward: "include pauses, animations, transitions, examples, show live demonstrations, or engage with your audience through storytelling!" 
+But before you create the script, do you have knowledge about these plugins? If yes, then continue, if no, then I'll provide you some information.
+And make the example by making the example in both Windows and MAC OS.
+
+
 **Obsidian là gì?**
 
 Obsidian là một công cụ ghi chú mạnh mẽ và linh hoạt, được thiết kế để giúp bạn xây dựng và tổ chức hệ thống kiến thức cá nhân của mình. Với khả năng liên kết các ghi chú bằng cách sử dụng **Markdown** và tạo nên một mạng lưới kiến thức có cấu trúc, Obsidian mang đến trải nghiệm giống như việc xây dựng một "bản đồ não" kỹ thuật số.
