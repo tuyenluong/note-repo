@@ -128,5 +128,14 @@
       ],
       "key": "O"
     }
+  ],
+  "markdown-importer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
   ]
 }

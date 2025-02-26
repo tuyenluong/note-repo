@@ -3,7 +3,7 @@ Creation_date: 2025-01-28 16:22
 Modification_date: Tuesday 28th January 2025 16:22:58
 Indexes:
   - "[[security]]"
-  - "[[fleeting_notes]]"
+  - "[[to_do_notes]]"
 ---
 
 ----

@@ -4,9 +4,9 @@ Modification_date: Friday 31st January 2025 21:08:18
 Indexes:
   - "[[spring_security]]"
   - "[[spring_thymeleaf]]"
-  - "[[fleeting_notes]]"
+  - "[[to_do_notes]]"
 tags:
-  - tuyenLuong
+  - inProgress
 ---
 
 ----

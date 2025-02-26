@@ -6,7 +6,7 @@ Indexes:
   - "[[spring_boot]]"
   - "[[spring_boot_3.1.0]]"
   - "[[spring_security_6.1]]"
-  - "[[fleeting_notes]]"
+  - "[[to_do_notes]]"
 ---
 
 ----

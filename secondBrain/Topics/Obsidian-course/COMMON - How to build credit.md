@@ -1,8 +1,9 @@
 ---
-Creation_date: 2024-08-18 01:22
-Modification_date: Sunday 18th August 2024 01:22:28
+Creation_date: 2025-02-17 21:46
+Modification_date: Monday 17th February 2025 21:46:48
 Indexes:
   - "[[project_Testing_Nexus]]"
+tags:
 ---
 
 
@@ -12,6 +13,19 @@ Indexes:
 - [ ] Share knowledge to help the community
 - [ ] Build a nice profile on LinkedIn, personal website.
 - [ ] Share a nice story.
+
+## Core plugins
+1. Format Converter
+2. Slash commands (Command palette)
+3. Webviewer
+4. Slides
+## Plugins
+ 1. Dataview
+ 2. Kanban
+ 3. OmniSearch
+ 4. Paste image rename
+ 5. PDF highlights
+ 6. Templater
 
 
 

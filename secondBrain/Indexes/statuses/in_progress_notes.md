@@ -2,7 +2,7 @@
 Creation_date: 2025-01-27 01:29
 Modification_date: Monday 27th January 2025 01:30:04
 Indexes:
-  - "[[zettelkasten]]"
+  - "[[statuses]]"
 ---
 
 ----
@@ -13,7 +13,7 @@ But that’s where the similarities end. While the “copy-paste-export” appro
 
 ```dataview
 table Creation_date, Modification_date
-from [[literature_notes]]  sort Creation_date DESC
+from [[in_progress_notes]]  sort Creation_date DESC
 ```
 
 

@@ -208,7 +208,7 @@ public class Test{
 		Collections.sort(people, inReversed);
 		System.out.println("inReversed= " +people);
 
-		Comparator<Person> chaining = Comparator.comparing(Person::getName).thenComparing(Person::getAge);
+		Comparator<Person> chaining = Comparator.comparing(Person==getName).thenComparing(Person==getAge);
 		Collections.sort(people, chaining);
 		System.out.println("chaining= " +people);
 	}
@@ -478,7 +478,7 @@ The list will be sorted by name in descending order. The output will be:
 [Person{name='John', age=25}, Person{name='George', age=20}, Person{name='Ben', age=30}]
 ```
 
-What is the result of chaining multiple comparators using `Comparator.comparing()`? ;; Chaining comparators allows you to sort by multiple criteria. For example, `Comparator.comparing(Person::getName).thenComparing(Person::getAge)` will first sort by name and then by age if names are the same.
+What is the result of chaining multiple comparators using `Comparator.comparing()`? ;; Chaining comparators allows you to sort by multiple criteria. For example, `Comparator.comparing(Person==getName).thenComparing(Person==getAge)` will first sort by name and then by age if names are the same.
 
 Given the following code, what will be the result of chaining comparators?
 ```java
@@ -494,7 +494,7 @@ public class Test {
             new Person("John", 20),
             new Person("George", 20)
         );
-        Comparator<Person> chaining = Comparator.comparing(Person::getName).thenComparing(Person::getAge);
+        Comparator<Person> chaining = Comparator.comparing(Person==getName).thenComparing(Person==getAge);
         Collections.sort(people, chaining);
         System.out.println(people);
     }

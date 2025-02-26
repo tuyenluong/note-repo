@@ -10,7 +10,7 @@ tags:
 
 ```dataview
 table Creation_date, Modification_date
-from #tuyenLuong sort Creation_date DESC
+from [[tuyenLuong]] sort Creation_date DESC
 ```
 
 

@@ -9,7 +9,7 @@ Indexes:
 
 ```dataview
 table Creation_date, Modification_date
-from [[zettelkasten]]  sort Creation_date DESC
+from [[statuses]]  sort Creation_date DESC
 ```
 
 

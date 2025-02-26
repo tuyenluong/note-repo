@@ -2,7 +2,7 @@
 Creation_date: 2025-01-27 01:30
 Modification_date: Monday 27th January 2025 01:30:56
 Indexes:
-  - "[[zettelkasten]]"
+  - "[[statuses]]"
 ---
 
 ----
@@ -15,7 +15,7 @@ And here’s where it gets extra-spicy. Ahrens then insists **only permanent no
 
 ```dataview
 table Creation_date, Modification_date
-from [[permanent_notes]]  sort Creation_date DESC
+from [[done_notes]]  sort Creation_date DESC
 ```
 
 

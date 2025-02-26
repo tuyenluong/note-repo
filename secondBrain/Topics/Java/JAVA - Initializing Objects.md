@@ -3,7 +3,7 @@ Creation_date: 2025-01-30 00:43
 Modification_date: Thursday 30th January 2025 00:43:32
 Indexes:
   - "[[class_design]]"
-  - "[[fleeting_notes]]"
+  - "[[to_do_notes]]"
 tags:
   - tuyenLuong
 ---
