@@ -2,9 +2,7 @@
 Creation_date: 2025-02-04 13:17
 Modification_date: Tuesday 4th February 2025 13:17:24
 Indexes:
-  - "[[to_do_notes]]"
-tags:
-  - todo
+  - "[[in_progress_notes]]"
 ---
 
 

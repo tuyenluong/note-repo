@@ -11,7 +11,6 @@ kanban-plugin: board
 ## In progress
 
 **Complete**
-- [x] [[Add flashcards in all note in Learning]]
 
 
 ## Done
@@ -44,9 +43,10 @@ kanban-plugin: board
 - [ ] Start lesson [[JAVA - String Builder]]
 - [ ] [[Add creation and modification date into each index pages]]
 - [ ] Finish [[JAVA - String methods]]
+- [ ] [[Add flashcards in all note in Learning]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[]}
+{"kanban-plugin":"board","list-collapse":[null,null,null,false]}
 ```
 %%
