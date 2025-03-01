@@ -4,28 +4,28 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      ""
+      "#flashcards"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
-    "showContextInCards": false,
+    "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Random",
+    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
-    "convertCurlyBracketsToClozes": true,
-    "singleLineCardSeparator": ";;",
+    "convertCurlyBracketsToClozes": false,
+    "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      ""
+      "#review"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-02-27",
-=======
   "buryDate": "2025-03-01",
->>>>>>> fc8e69f (back up)
   "buryList": [],
   "historyDeck": null
 }
