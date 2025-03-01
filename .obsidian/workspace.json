@@ -1,0 +1,703 @@
+{
+  "main": {
+    "id": "2a53ce51dff194b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b491c07c441efc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7909d5dc9d85d893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spring_mvc"
+            }
+          },
+          {
+            "id": "d87faf448180c811",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "454c66257a97e6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secondBrain/Indexes/information_technology/spring/spring_core.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spring_core"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db2a1bf707e30640",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5725802da61e7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696e5852d04f443a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4b19888df4f9502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cf67570ce6e9677",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "68fae6e79aadf9e2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "b94833405cb18bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab6336c1cee8939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39ca8858988e087",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ba1dc2dc97f07248",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian course"
+            }
+          },
+          {
+            "id": "ab8941ad8a3ec75c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian course"
+            }
+          },
+          {
+            "id": "8241d50a7e2ed8db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f4df67da31ea7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Youtube process.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Youtube process"
+            }
+          },
+          {
+            "id": "bc119a1e007f10f5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a81198a923a32211",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224458,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Obsidian course"
+            }
+          },
+          {
+            "id": "708013ddc5ba6c72",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Obsidian course"
+            }
+          },
+          {
+            "id": "f4df67da31ea7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "secondBrain/Obsidian-course/Obsidian course.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian course"
+            }
+          },
+          {
+            "id": "1ce15e94744b0f82",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0e97eb9217618d0f",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "32cf1caa535ad8e0",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fd188273b3ae7c50",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5d4560d7782104c5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4854cf04b8ca1331",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f7f9198db616ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "547748eadb2545f4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "eb8d5af33b0e78cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5739cd43d909a72d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f508b72815e10adc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b54edda7c05377d5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fdd8f790ce9cdc2a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a459386e329f4781",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "650ba0f63870c64b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a2b7e4f89ab05f7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f38657ebebc540da",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "10cabd384665ddc0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1fa6afa9e852d55d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f502d3fd35ced40a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52ade2f923a8d96d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4c2cc863080b06a9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "833e227b6587788e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a1008b91ade48d2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f4c2ba70838e3845",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d3f7a0f792d37aef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b09de8275c967b75",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a09fb104856843a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6300cc4c4b003457",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "570beb7b17a9238d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f241c3518a641ed2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "69fb9ddad61ccf98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 40
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "custom-sort:Toggle custom sorting": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "69fb9ddad61ccf98",
+  "lastOpenFiles": [
+    "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240705171351.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240624011005.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240623143302.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240623135612.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240623111452.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240325234802.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240319010508.png",
+    "secondBrain/Topics/Java/EntendResources/Variables.pdf",
+    "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
+    "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
+    "secondBrain/Topics/Java/EntendResources/Objects.pdf",
+    "secondBrain/Topics/Java/EntendResources/Introduction+to+Modules.pdf",
+    "secondBrain/Topics/Java/EntendResources/Initializing+Objects.pdf",
+    "secondBrain/Topics/Java/EntendResources/Inheriting+Members.pdf",
+    "secondBrain/Topics/Java/EntendResources/Inheritance.pdf",
+    "secondBrain/Topics/Java/EntendResources/Data+Types.pdf",
+    "secondBrain/Topics/Java/EntendResources/Creating+Classes.pdf",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - zu.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wurst.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wunderbar.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wo.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wie geht's.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wein.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wasser.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - vier.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Vater.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - und.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - tschuess.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Tochter.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Tee.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Sohn.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - sehr.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Speisekarte.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Schwester.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - schön.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Schnitzel.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Sandwich.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - sah.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Salat.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Restaurant.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Salz.md",
+    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Rechnung.md",
+    "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
+    "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
+    "secondBrain/Topics/Obsidian-course/Business Models.canvas",
+    "secondBrain/Topics/Obsidian-course/Appointment.canvas",
+    "secondBrain/Topics/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Framework/Selenium - Java framework.canvas",
+    "secondBrain/Obsidian-course/Appointment.canvas",
+    "secondBrain/ISTQB/Bug life-cycle.canvas"
+  ]
+}
