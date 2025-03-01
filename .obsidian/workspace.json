@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Indexes/users/tuyenLuong.md",
+                "file": "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tuyenLuong"
+              "title": "SPRING - Key points of JDBC"
             }
           }
         ],
@@ -669,6 +669,11 @@
   },
   "active": "d87faf448180c811",
   "lastOpenFiles": [
+    "secondBrain/Topics/Spring/SPRING - Steps in JDBC to access DB.md",
+    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
+    "secondBrain/Indexes/users/tuyenLuong.md",
     "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
     "secondBrain/Topics/Spring/SPRING - Implement CSRF solution.md",
     "secondBrain/Topics/Obsidian-course/COMMON - Obsidian Tutorial- Transform Your Thoughts into Organized Notes.md",
@@ -710,11 +715,6 @@
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Speisekarte.md",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Schwester.md",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - schön.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Schnitzel.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Sandwich.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - sah.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Salat.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Restaurant.md",
     "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
     "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Topics/Obsidian-course/Business Models.canvas",
