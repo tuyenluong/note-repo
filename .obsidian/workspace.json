@@ -26,28 +26,28 @@
             "id": "d87faf448180c811",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "454c66257a97e6d2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "secondBrain/Indexes/users/tuyenLuong.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "tuyenLuong"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -667,8 +667,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "454c66257a97e6d2",
+  "active": "d87faf448180c811",
   "lastOpenFiles": [
+    "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
+    "secondBrain/Topics/Spring/SPRING - Implement CSRF solution.md",
+    "secondBrain/Topics/Obsidian-course/COMMON - Obsidian Tutorial- Transform Your Thoughts into Organized Notes.md",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
@@ -679,7 +682,6 @@
     "secondBrain/Topics/Java/resources/Pasted image 20240623135612.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240623111452.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240325234802.png",
-    "secondBrain/Topics/Java/resources/Pasted image 20240319010508.png",
     "secondBrain/Topics/Java/EntendResources/Variables.pdf",
     "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
     "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
@@ -713,8 +715,6 @@
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - sah.md",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Salat.md",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Restaurant.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Salz.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Rechnung.md",
     "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
     "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Topics/Obsidian-course/Business Models.canvas",

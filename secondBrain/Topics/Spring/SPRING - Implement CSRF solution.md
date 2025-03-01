@@ -5,8 +5,7 @@ Indexes:
   - "[[spring_security]]"
   - "[[spring_thymeleaf]]"
   - "[[to_do_notes]]"
-tags:
-  - inProgress
+tags: []
 ---
 
 ----
