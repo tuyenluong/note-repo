@@ -40,7 +40,11 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2025-02-27",
+=======
+  "buryDate": "2025-03-01",
+>>>>>>> fc8e69f (back up)
   "buryList": [],
   "historyDeck": null
 }
