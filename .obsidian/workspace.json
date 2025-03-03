@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
+                "file": "secondBrain/Templates/API - template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SPRING - Key points of JDBC"
+              "title": "API - template"
             }
           }
         ],
@@ -628,8 +628,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -640,6 +640,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "fa0e81ad2bc28459",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -669,9 +679,25 @@
   },
   "active": "d87faf448180c811",
   "lastOpenFiles": [
+    "secondBrain/Templates/COMMON - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/GERMAN - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/JMETER - template.md",
+    "secondBrain/Templates/LINUX - template.md",
+    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
+    "secondBrain/Templates/SOFT_SKILLS - template.md",
+    "secondBrain/Templates/SELENIUM - template.md",
+    "secondBrain/Templates/SQL - template.md",
+    "secondBrain/Templates/SPRING - template.md",
+    "secondBrain/Topics/Spring/SPRING - JWT.md",
+    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
     "secondBrain/Topics/Spring/SPRING - Steps in JDBC to access DB.md",
     "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
-    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
     "secondBrain/Topics/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
     "secondBrain/Indexes/users/tuyenLuong.md",
     "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
@@ -699,22 +725,6 @@
     "secondBrain/Topics/Java/EntendResources/Creating+Classes.pdf",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - zu.md",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wurst.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wunderbar.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wo.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - wie geht's.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wein.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wasser.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - vier.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Vater.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - und.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - tschuess.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Tochter.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Tee.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Sohn.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - sehr.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Speisekarte.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Schwester.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - schön.md",
     "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
     "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Topics/Obsidian-course/Business Models.canvas",
