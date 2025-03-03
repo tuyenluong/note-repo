@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Templates/API - template.md",
+                "file": "secondBrain/Topics/Spring/SPRING - JWT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API - template"
+              "title": "SPRING - JWT"
             }
           }
         ],
@@ -679,6 +679,7 @@
   },
   "active": "d87faf448180c811",
   "lastOpenFiles": [
+    "secondBrain/Templates/API - template.md",
     "secondBrain/Templates/COMMON - template.md",
     "secondBrain/Templates/ENG - template.md",
     "secondBrain/Templates/FRAMEWORK - template.md",
@@ -724,7 +725,6 @@
     "secondBrain/Topics/Java/EntendResources/Data+Types.pdf",
     "secondBrain/Topics/Java/EntendResources/Creating+Classes.pdf",
     "secondBrain/Topics/German/vocabulary_phraes/GERMAN - zu.md",
-    "secondBrain/Topics/German/vocabulary_phraes/GERMAN - Wurst.md",
     "secondBrain/Topics/Obsidian-course/Youtube process.canvas",
     "secondBrain/Topics/ISTQB/Bug life-cycle.canvas",
     "secondBrain/Topics/Obsidian-course/Business Models.canvas",
