@@ -11,21 +11,24 @@
             "id": "593e2e3fec0a9061",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "secondBrain/Kanban-Task/Kanban_board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    null,
-                    null,
-                    false
-                  ]
+                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Kanban_board"
+              "icon": "lucide-file",
+              "title": "SPRING - Using JDBC Template"
             }
           }
         ]
@@ -106,16 +109,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a39ca8858988e087",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "ba1dc2dc97f07248",
             "type": "leaf",
             "state": {
@@ -149,38 +142,18 @@
             }
           },
           {
-            "id": "8241d50a7e2ed8db",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "f4df67da31ea7e5e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Youtube process.canvas"
+                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Youtube process"
-            }
-          },
-          {
-            "id": "bc119a1e007f10f5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of SPRING - Using JDBC Template"
             }
           },
           {
@@ -189,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
+                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,116 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian course"
-            }
-          },
-          {
-            "id": "708013ddc5ba6c72",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224423,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Obsidian course"
-            }
-          },
-          {
-            "id": "f4df67da31ea7e5e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "secondBrain/Obsidian-course/Obsidian course.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Obsidian course"
-            }
-          },
-          {
-            "id": "1ce15e94744b0f82",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0e97eb9217618d0f",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly93d3cudWRlbXkuY29tL2NvdXJzZS9qYXZhLWNlcnRpZmljYXRpb24tZXhhbS1wcmVwLW9jYS0xejAtODA4LW9jcC0xejAtODI5Lw==",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "32cf1caa535ad8e0",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fd188273b3ae7c50",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5d4560d7782104c5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4854cf04b8ca1331",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Graph of SPRING - Using JDBC Template"
             }
           },
           {
@@ -335,258 +199,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "547748eadb2545f4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "eb8d5af33b0e78cb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5739cd43d909a72d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f508b72815e10adc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b54edda7c05377d5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fdd8f790ce9cdc2a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a459386e329f4781",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "650ba0f63870c64b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a2b7e4f89ab05f7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f38657ebebc540da",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "10cabd384665ddc0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1fa6afa9e852d55d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f502d3fd35ced40a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "52ade2f923a8d96d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4c2cc863080b06a9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "833e227b6587788e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a1008b91ade48d2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f4c2ba70838e3845",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d3f7a0f792d37aef",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b09de8275c967b75",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3a09fb104856843a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6300cc4c4b003457",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "570beb7b17a9238d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f241c3518a641ed2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "69fb9ddad61ccf98",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -604,16 +218,6 @@
             }
           },
           {
-            "id": "e11517661ca654f4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "548b6e212e1a703e",
             "type": "leaf",
             "state": {
@@ -622,29 +226,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fa0e81ad2bc28459",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6dc5fafc6b91ae0f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -669,34 +253,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "593e2e3fec0a9061",
+  "active": "548b6e212e1a703e",
   "lastOpenFiles": [
-    "secondBrain/Kanban-Task/Kanban_board.md",
-    "secondBrain/Topics/Spring/SPRING - JWT.md",
-    "secondBrain/Templates/API - template.md",
-    "secondBrain/Templates/COMMON - template.md",
-    "secondBrain/Templates/ENG - template.md",
-    "secondBrain/Templates/FRAMEWORK - template.md",
-    "secondBrain/Templates/GERMAN - template.md",
-    "secondBrain/Templates/GIT - template.md",
-    "secondBrain/Templates/Indexes - template.md",
-    "secondBrain/Templates/ISTQB - template.md",
-    "secondBrain/Templates/JAVA - template.md",
-    "secondBrain/Templates/JMETER - template.md",
-    "secondBrain/Templates/LINUX - template.md",
-    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
-    "secondBrain/Templates/SOFT_SKILLS - template.md",
-    "secondBrain/Templates/SELENIUM - template.md",
-    "secondBrain/Templates/SQL - template.md",
-    "secondBrain/Templates/SPRING - template.md",
-    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
-    "secondBrain/Topics/Spring/SPRING - Steps in JDBC to access DB.md",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
+    "secondBrain/Topics/Spring/SPRING - What if I have multiple Data Source.md",
+    "secondBrain/Topics/Spring/SPRING - Using NamedParameterJdbcTemplate.md",
+    "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
     "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
-    "secondBrain/Topics/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
-    "secondBrain/Indexes/users/tuyenLuong.md",
-    "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
+    "secondBrain/Indexes/statuses/to_do_notes.md",
+    "secondBrain/Topics/Spring/SPRING - Spring Security in default state.md",
+    "secondBrain/Topics/Spring/SPRING - Configure custom credentials inside Spring security.md",
+    "secondBrain/Topics/Spring/SPRING - Pattern cannot be null or empty exception.md",
+    "secondBrain/Topics/Java/JAVA - Using this() and super().md",
+    "secondBrain/Topics/Java/JAVA - Initializing Objects.md",
+    "secondBrain/Topics/Spring/SPRING - Thymeleaf with Spring Security.md",
+    "secondBrain/Topics/Spring/SPRING - Request Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Session Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Bean scopes.md",
+    "secondBrain/Topics/Spring/SPRING - Bean annotation.md",
+    "secondBrain/Topics/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Topics/Spring/SPRING - Application Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Configure custom security configs.md",
+    "secondBrain/Topics/Spring/SPRING - Configure multiple user with InMemoryAuthentication.md",
+    "secondBrain/Topics/Spring/SPRING - Development keywords.md",
+    "secondBrain/Topics/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
+    "secondBrain/Topics/Spring/SPRING - Handle exception with @ControllerAdvice and @ExceptionHandler.md",
     "secondBrain/Topics/Spring/SPRING - Implement CSRF solution.md",
-    "secondBrain/Topics/Obsidian-course/COMMON - Obsidian Tutorial- Transform Your Thoughts into Organized Notes.md",
+    "secondBrain/Topics/Spring/SPRING - Implement Login & Logout page.md",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",

@@ -9,7 +9,7 @@ Indexes:
 
 
 ```dataview
-table tags, Creation_date, Modification_date
+table Creation_date, Modification_date
 from [[to_do_notes]] or [[in_progress_notes]] or [[done_notes]] sort Creation_date DESC
 ```
 

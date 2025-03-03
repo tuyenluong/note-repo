@@ -4,7 +4,6 @@ Modification_date: Saturday 1st March 2025 22:27:12
 Indexes:
   - "[[spring]]"
   - "[[to_do_notes]]"
-tags:
 ---
 
 ----
