@@ -4,34 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0a721c7ee4403e",
+        "id": "b491c07c441efc13",
         "type": "tabs",
         "children": [
           {
-            "id": "593e2e3fec0a9061",
+            "id": "7909d5dc9d85d893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
+                "file": "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SPRING - Using JDBC Template"
+              "title": "spring_mvc"
+            }
+          },
+          {
+            "id": "d87faf448180c811",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-spaced-repetition/data.json",
+                "bFile": ".obsidian/plugins/obsidian-spaced-repetition/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,65 +149,16 @@
             }
           },
           {
-            "id": "f4df67da31ea7e5e",
+            "id": "8241d50a7e2ed8db",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of SPRING - Using JDBC Template"
-            }
-          },
-          {
-            "id": "a81198a923a32211",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224458,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of SPRING - Using JDBC Template"
-            }
-          },
-          {
-            "id": "f7f9198db616ee9b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -226,9 +184,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "845294475e9d9fb2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -237,6 +205,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,42 +214,40 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "548b6e212e1a703e",
+  "active": "d87faf448180c811",
   "lastOpenFiles": [
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
-    "secondBrain/Topics/Spring/SPRING - What if I have multiple Data Source.md",
-    "secondBrain/Topics/Spring/SPRING - Using NamedParameterJdbcTemplate.md",
+    "secondBrain/Topics/Spring/SPRING - JWT.md",
     "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/Templates/COMMON - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/GERMAN - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
+    "secondBrain/Templates/JAVA - template.md",
+    "secondBrain/Templates/JMETER - template.md",
+    "secondBrain/Templates/LINUX - template.md",
+    "secondBrain/Templates/ROBOT-FRAMEWORK - template.md",
+    "secondBrain/Templates/SOFT_SKILLS - template.md",
+    "secondBrain/Templates/SELENIUM - template.md",
+    "secondBrain/Templates/SQL - template.md",
+    "secondBrain/Templates/SPRING - template.md",
+    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - Steps in JDBC to access DB.md",
     "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
-    "secondBrain/Indexes/statuses/to_do_notes.md",
-    "secondBrain/Topics/Spring/SPRING - Spring Security in default state.md",
-    "secondBrain/Topics/Spring/SPRING - Configure custom credentials inside Spring security.md",
-    "secondBrain/Topics/Spring/SPRING - Pattern cannot be null or empty exception.md",
-    "secondBrain/Topics/Java/JAVA - Using this() and super().md",
-    "secondBrain/Topics/Java/JAVA - Initializing Objects.md",
-    "secondBrain/Topics/Spring/SPRING - Thymeleaf with Spring Security.md",
-    "secondBrain/Topics/Spring/SPRING - Request Scope.md",
-    "secondBrain/Topics/Spring/SPRING - Session Scope.md",
-    "secondBrain/Topics/Spring/SPRING - Bean scopes.md",
-    "secondBrain/Topics/Spring/SPRING - Bean annotation.md",
-    "secondBrain/Topics/Spring/SPRING - Component Annotation.md",
-    "secondBrain/Topics/Spring/SPRING - Application Scope.md",
-    "secondBrain/Topics/Spring/SPRING - Configure custom security configs.md",
-    "secondBrain/Topics/Spring/SPRING - Configure multiple user with InMemoryAuthentication.md",
-    "secondBrain/Topics/Spring/SPRING - Development keywords.md",
-    "secondBrain/Topics/Spring/SPRING - Difference Between Model, ModelMap, and ModelAndView.md",
-    "secondBrain/Topics/Spring/SPRING - Handle exception with @ControllerAdvice and @ExceptionHandler.md",
+    "secondBrain/Topics/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
+    "secondBrain/Indexes/users/tuyenLuong.md",
+    "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
     "secondBrain/Topics/Spring/SPRING - Implement CSRF solution.md",
-    "secondBrain/Topics/Spring/SPRING - Implement Login & Logout page.md",
+    "secondBrain/Topics/Obsidian-course/COMMON - Obsidian Tutorial- Transform Your Thoughts into Organized Notes.md",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
