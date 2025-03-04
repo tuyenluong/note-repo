@@ -40,6 +40,7 @@ Spring provides multiple templates for JDBC-related operations. The most commonl
 | Process any exception                                   | X                      | X                          |                        |
 | Handle `@Transactional`                                 | X                      | X                          |                        |
 | Close the connection, the statement, and the result set | X                      | X                          |                        |
+|                                                         |                        |                            |                        |
 
 
 
