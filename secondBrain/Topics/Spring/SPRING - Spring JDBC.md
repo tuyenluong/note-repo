@@ -2,8 +2,8 @@
 Creation_date: 2025-03-01 22:37
 Modification_date: Saturday 1st March 2025 22:38:02
 Indexes:
-  - "[[spring]]"
   - "[[to_do_notes]]"
+  - "[[spring_boot]]"
 ---
 
 ----
@@ -28,19 +28,19 @@ Spring provides multiple templates for JDBC-related operations. The most commonl
     - A wrapper around `JdbcTemplate` that supports **named parameters** instead of positional `?` placeholders.
     - Improves code readability and maintainability, especially for queries with multiple parameters.
 
-| Action                                                  | Handled by Spring JDBC | Handled by Developer |
-| ------------------------------------------------------- | ---------------------- | -------------------- |
-| Define connection parameters                            |                        | X                    |
-| Open the connection                                     | X                      |                      |
-| Specify the SQL statment                                |                        | X                    |
-| Declare parameters and provide parameters               |                        | X                    |
-| Prepare and run the statement                           | X                      |                      |
-| Set up the loop to iterate through the results          | X                      |                      |
-| Do the work for each iteration                          |                        | X                    |
-| Process any exception                                   | X                      |                      |
-| Handle transactions                                     | X                      |                      |
-| Close the connection, the statement, and the result set | X                      |                      |
-n
+| Action                                                  | Handled by Spring JDBC | Handled by Spring Data JPA | Handled by Developer   |
+| ------------------------------------------------------- | ---------------------- | -------------------------- | ---------------------- |
+| Define connection parameters                            |                        |                            | X                      |
+| Open the connection                                     | X                      | X                          |                        |
+| Specify the SQL statement                               |                        | X                          | X (for custom queries) |
+| Declare parameters and provide parameters               |                        |                            | X                      |
+| Prepare and run the statement                           |                        | X                          | X (for JDBC)           |
+| Set up the loop to iterate through the results          | X (via RowMapper)      | X                          |                        |
+| Do the work for each iteration                          |                        | X                          |                        |
+| Process any exception                                   | X                      | X                          |                        |
+| Handle `@Transactional`                                 | X                      | X                          |                        |
+| Close the connection, the statement, and the result set | X                      | X                          |                        |
+
 
 
 

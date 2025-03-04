@@ -13,12 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "secondBrain/Indexes/information_technology/spring/spring_mvc.md",
+=======
+                "file": "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+>>>>>>> c5d3c60 (vault backup: 2025-03-04 23:55:24)
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "spring_mvc"
             }
           },
@@ -35,6 +40,9 @@
               },
               "icon": "diff",
               "title": "Diff: data.json"
+=======
+              "title": "SPRING - Spring JDBC"
+>>>>>>> c5d3c60 (vault backup: 2025-03-04 23:55:24)
             }
           }
         ],
@@ -154,11 +162,68 @@
             "state": {
               "type": "tag",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
+=======
+                "file": "secondBrain/Indexes/information_technology/framework/spring/spring.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of spring"
+            }
+          },
+          {
+            "id": "a81198a923a32211",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13168724279835467,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of SPRING - Spring JDBC"
+            }
+          },
+          {
+            "id": "f7f9198db616ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+>>>>>>> c5d3c60 (vault backup: 2025-03-04 23:55:24)
             }
           },
           {
@@ -186,7 +251,26 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "845294475e9d9fb2",
+=======
+            "id": "27759c2ec93013d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23137224b7cd3353",
+>>>>>>> c5d3c60 (vault backup: 2025-03-04 23:55:24)
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -222,6 +306,7 @@
   },
   "active": "d87faf448180c811",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "secondBrain/Topics/Spring/SPRING - JWT.md",
     "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
     "secondBrain/Templates/API - template.md",
@@ -248,6 +333,34 @@
     "secondBrain/Topics/Linux/LINUX - Linux flavours.md",
     "secondBrain/Topics/Spring/SPRING - Implement CSRF solution.md",
     "secondBrain/Topics/Obsidian-course/COMMON - Obsidian Tutorial- Transform Your Thoughts into Organized Notes.md",
+=======
+    "secondBrain/Topics/Spring/SPRING - Using NamedParameterJdbcTemplate.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring.md",
+    "secondBrain/Topics/Spring/SPRING - What if I have multiple Data Source.md",
+    "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
+    "secondBrain/Indexes/information_technology/framework/spring/spring_boot.md",
+    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
+    "secondBrain/Indexes/information_technology/framework.md",
+    "secondBrain/Indexes/information_technology/framework/quarkus.md",
+    "secondBrain/Indexes/statuses/to_do_notes.md",
+    "secondBrain/Global Hotkeys.md",
+    "secondBrain/Topics/Spring/SPRING - Spring Security in default state.md",
+    "secondBrain/Topics/Spring/SPRING - Configure custom credentials inside Spring security.md",
+    "secondBrain/Topics/Spring/SPRING - Pattern cannot be null or empty exception.md",
+    "secondBrain/Topics/Java/JAVA - Using this() and super().md",
+    "secondBrain/Topics/Java/JAVA - Initializing Objects.md",
+    "secondBrain/Topics/Spring/SPRING - Thymeleaf with Spring Security.md",
+    "secondBrain/Topics/Spring/SPRING - Request Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Session Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Bean scopes.md",
+    "secondBrain/Topics/Spring/SPRING - Bean annotation.md",
+    "secondBrain/Topics/Spring/SPRING - Component Annotation.md",
+    "secondBrain/Topics/Spring/SPRING - Application Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Configure custom security configs.md",
+    "secondBrain/Topics/Spring/SPRING - Configure multiple user with InMemoryAuthentication.md",
+>>>>>>> c5d3c60 (vault backup: 2025-03-04 23:55:24)
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",

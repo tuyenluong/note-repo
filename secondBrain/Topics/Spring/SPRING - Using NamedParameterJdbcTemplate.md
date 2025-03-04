@@ -2,9 +2,9 @@
 Creation_date: 2025-03-04 00:30
 Modification_date: Tuesday 4th March 2025 00:30:44
 Indexes:
-  - "[[spring]]"
   - "[[spring_boot]]"
   - "[[to_do_notes]]"
+  - "[[spring_core]]"
 ---
 
 ----
@@ -15,7 +15,7 @@ Indexes:
 - It avoids **positional mistakes** when working with multiple parameters.
 - It makes queries more **maintainable and self-documenting**.
 
-Example: Employee DAO using `NamedParameterJdbcTemplate``
+Example: Employee DAO using `NamedParameterJdbcTemplate`
 #### Define the Model Class
 ```java
 public class Employee {

@@ -2,9 +2,9 @@
 Creation_date: 2025-03-04 00:28
 Modification_date: Tuesday 4th March 2025 00:28:12
 Indexes:
-  - "[[spring]]"
   - "[[spring_boot]]"
   - "[[to_do_notes]]"
+  - "[[spring_core]]"
 ---
 
 ----
