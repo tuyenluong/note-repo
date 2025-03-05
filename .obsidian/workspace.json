@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+                "file": "secondBrain/Topics/Spring/SPRING - Derived query.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SPRING - Spring JDBC"
+              "title": "SPRING - Derived query"
+            }
+          },
+          {
+            "id": "3314ba17c07982ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "secondBrain/Topics/Spring/resources/Derived query1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Derived query1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,6 +261,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "adbfd72a5a09444f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -279,13 +302,17 @@
   },
   "active": "548b6e212e1a703e",
   "lastOpenFiles": [
+    "secondBrain/Topics/Spring/SPRING - Derived query.md",
+    "secondBrain/Topics/Spring/resources/Derived query2.png",
+    "secondBrain/Topics/Spring/resources/Derived query3.png",
+    "secondBrain/Topics/Spring/resources/Derived query1.png",
+    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
     "secondBrain/Topics/Spring/SPRING - Using NamedParameterJdbcTemplate.md",
     "secondBrain/Indexes/information_technology/framework/spring/spring.md",
     "secondBrain/Topics/Spring/SPRING - What if I have multiple Data Source.md",
     "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
     "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
     "secondBrain/Indexes/information_technology/framework/spring/spring_boot.md",
-    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
     "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
     "secondBrain/Indexes/information_technology/framework.md",
     "secondBrain/Indexes/information_technology/framework/quarkus.md",
@@ -303,8 +330,6 @@
     "secondBrain/Topics/Spring/SPRING - Bean annotation.md",
     "secondBrain/Topics/Spring/SPRING - Component Annotation.md",
     "secondBrain/Topics/Spring/SPRING - Application Scope.md",
-    "secondBrain/Topics/Spring/SPRING - Configure custom security configs.md",
-    "secondBrain/Topics/Spring/SPRING - Configure multiple user with InMemoryAuthentication.md",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
@@ -312,9 +337,6 @@
     "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011005.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240623143302.png",
-    "secondBrain/Topics/Java/resources/Pasted image 20240623135612.png",
-    "secondBrain/Topics/Java/resources/Pasted image 20240623111452.png",
-    "secondBrain/Topics/Java/resources/Pasted image 20240325234802.png",
     "secondBrain/Topics/Java/EntendResources/Variables.pdf",
     "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
     "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
