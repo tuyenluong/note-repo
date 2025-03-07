@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-03-05",
-=======
   "buryDate": "2025-03-07",
->>>>>>> 05ff875 (vault backup: 2025-03-07 12:35:42)
   "buryList": [],
   "historyDeck": null
 }

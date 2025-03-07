@@ -11,24 +11,15 @@
             "id": "a0b742e8082b468c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Request Scope.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "secondBrain/Topics/Spring/SPRING - Syntax when accessing different context Thymeleaf.md",
+                "bFile": "secondBrain/Topics/Spring/SPRING - Syntax when accessing different context Thymeleaf.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "SPRING - Request Scope"
+              "icon": "diff",
+              "title": "Diff: SPRING - Syntax when accessing different context Thymeleaf"
             }
           }
         ]
@@ -167,13 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Request Scope.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPRING - Request Scope"
+              "title": "Outline"
             }
           },
           {
@@ -211,8 +201,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "548b6e212e1a703e",
+  "active": "a0b742e8082b468c",
   "lastOpenFiles": [
+    "secondBrain/Topics/Spring/SPRING - Request Scope.md",
     "secondBrain/Topics/Spring/resources/Derived query3.png",
     "secondBrain/Topics/Spring/resources/Derived query2.png",
     "secondBrain/Topics/Spring/resources/Derived query1.png",
@@ -249,7 +240,6 @@
     "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011005.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240623143302.png",
-    "secondBrain/Topics/Java/resources/Pasted image 20240623135612.png",
     "secondBrain/Topics/Java/EntendResources/Variables.pdf",
     "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
     "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
