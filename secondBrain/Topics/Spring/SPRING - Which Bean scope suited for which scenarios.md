@@ -7,10 +7,6 @@ Indexes:
 
 ----
 
-
-
-
-
 | **Scope**       | **Description**                                                                                         | **Use Case**                                                                                          | **Pros**                                                                                                          | **Cons**                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **singleton**   | A single instance of the bean is created and shared across the entire application context.              | **Default scope**. Suitable for stateless beans like service classes, utility components, and DAOs.   | - Memory efficient (single instance).<br>- Simplifies resource sharing.<br>- Thread-safe if properly implemented. | - Can introduce issues if not thread-safe.<br>- Shared state may lead to unintended side effects. |
