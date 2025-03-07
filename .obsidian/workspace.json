@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPRING - GeneratedValue Annotation.md",
+                "file": "secondBrain/Topics/Spring/SPRING - GeneratedValue Annotation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPRING - GeneratedValue Annotation.md",
+                "file": "secondBrain/Topics/Spring/SPRING - GeneratedValue Annotation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,7 +213,7 @@
   },
   "active": "24df737473762bb3",
   "lastOpenFiles": [
-    "SPRING - GeneratedValue Annotation.md",
+    "secondBrain/Topics/Spring/SPRING - GeneratedValue Annotation.md",
     "secondBrain/Topics/Spring/SPRING - Request Scope.md",
     "secondBrain/Topics/Spring/resources/Derived query3.png",
     "secondBrain/Topics/Spring/resources/Derived query2.png",
