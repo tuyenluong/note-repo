@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0a721c7ee4403e",
+        "id": "bde1917ddb05ce0b",
         "type": "tabs",
         "children": [
           {
-            "id": "593e2e3fec0a9061",
+            "id": "a0b742e8082b468c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Derived query.md",
+                "file": "secondBrain/Topics/Spring/SPRING - Request Scope.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SPRING - Derived query"
-            }
-          },
-          {
-            "id": "3314ba17c07982ed",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "secondBrain/Topics/Spring/resources/Derived query1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Derived query1"
+              "title": "SPRING - Request Scope"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,23 +58,6 @@
             }
           },
           {
-            "id": "d4b19888df4f9502",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "1cf67570ce6e9677",
             "type": "leaf",
             "state": {
@@ -95,16 +65,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "68fae6e79aadf9e2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           }
         ]
@@ -155,65 +115,16 @@
             }
           },
           {
-            "id": "f4df67da31ea7e5e",
+            "id": "8241d50a7e2ed8db",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "secondBrain/Indexes/information_technology/framework/spring/spring.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of spring"
-            }
-          },
-          {
-            "id": "a81198a923a32211",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.13168724279835467,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of SPRING - Spring JDBC"
-            }
-          },
-          {
-            "id": "f7f9198db616ee9b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -241,22 +152,7 @@
             }
           },
           {
-            "id": "27759c2ec93013d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "23137224b7cd3353",
+            "id": "845294475e9d9fb2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -266,7 +162,22 @@
             }
           },
           {
-            "id": "adbfd72a5a09444f",
+            "id": "9bd051494b7da0a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "secondBrain/Topics/Spring/SPRING - Request Scope.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SPRING - Request Scope"
+            }
+          },
+          {
+            "id": "5ec056672257401c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -276,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -285,6 +196,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -296,40 +208,40 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "548b6e212e1a703e",
   "lastOpenFiles": [
-    "secondBrain/Topics/Spring/SPRING - Derived query.md",
-    "secondBrain/Topics/Spring/resources/Derived query2.png",
     "secondBrain/Topics/Spring/resources/Derived query3.png",
+    "secondBrain/Topics/Spring/resources/Derived query2.png",
     "secondBrain/Topics/Spring/resources/Derived query1.png",
-    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
-    "secondBrain/Topics/Spring/SPRING - Using NamedParameterJdbcTemplate.md",
-    "secondBrain/Indexes/information_technology/framework/spring/spring.md",
-    "secondBrain/Topics/Spring/SPRING - What if I have multiple Data Source.md",
-    "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
-    "secondBrain/Topics/Spring/SPRING - Using JDBC Template.md",
-    "secondBrain/Indexes/information_technology/framework/spring/spring_boot.md",
-    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
-    "secondBrain/Indexes/information_technology/framework.md",
-    "secondBrain/Indexes/information_technology/framework/quarkus.md",
-    "secondBrain/Indexes/statuses/to_do_notes.md",
-    "secondBrain/Global Hotkeys.md",
-    "secondBrain/Topics/Spring/SPRING - Spring Security in default state.md",
-    "secondBrain/Topics/Spring/SPRING - Configure custom credentials inside Spring security.md",
-    "secondBrain/Topics/Spring/SPRING - Pattern cannot be null or empty exception.md",
-    "secondBrain/Topics/Java/JAVA - Using this() and super().md",
-    "secondBrain/Topics/Java/JAVA - Initializing Objects.md",
-    "secondBrain/Topics/Spring/SPRING - Thymeleaf with Spring Security.md",
-    "secondBrain/Topics/Spring/SPRING - Request Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Derived query.md",
+    "secondBrain/Topics/Spring/SPRING - RequestParam Annotation.md",
     "secondBrain/Topics/Spring/SPRING - Session Scope.md",
-    "secondBrain/Topics/Spring/SPRING - Bean scopes.md",
-    "secondBrain/Topics/Spring/SPRING - Bean annotation.md",
-    "secondBrain/Topics/Spring/SPRING - Component Annotation.md",
-    "secondBrain/Topics/Spring/SPRING - Application Scope.md",
+    "secondBrain/Topics/Spring/SPRING - Spring JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - Spring Security in default state.md",
+    "secondBrain/Topics/Spring/SPRING - Steps in JDBC to access DB.md",
+    "secondBrain/Topics/Spring/SPRING - Stereotype Annotations.md",
+    "secondBrain/Topics/Spring/SPRING - Syntax when accessing different context Thymeleaf.md",
+    "secondBrain/Topics/Spring/SPRING - Thymeleaf with Spring Security.md",
+    "secondBrain/Topics/Spring/SPRING - Validation should be done on Front or Back end.md",
+    "secondBrain/Topics/Spring/SPRING - Validation with Spring Boot.md",
+    "secondBrain/Topics/Spring/SPRING - Which Bean scope suited for which scenarios.md",
+    "secondBrain/Topics/Spring/SPRING - What is Dependency injection.md",
+    "Guideline to update the modules.canvas",
+    "secondBrain/Topics/Spring/SPRING - Key points of JDBC.md",
+    "secondBrain/Topics/Spring/SPRING - IMPORTANT NOTE about Spring Security.md",
+    "secondBrain/Topics/Spring/SPRING - JWT.md",
+    "secondBrain/Topics/Spring/SPRING - DAO in the Context of Spring JDBC.md",
+    "secondBrain/Templates/API - template.md",
+    "secondBrain/Templates/COMMON - template.md",
+    "secondBrain/Templates/ENG - template.md",
+    "secondBrain/Templates/FRAMEWORK - template.md",
+    "secondBrain/Templates/GERMAN - template.md",
+    "secondBrain/Templates/GIT - template.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "secondBrain/Templates/ISTQB - template.md",
     "secondBrain/Topics/Spring/resources/spring_security_properties_credentials.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011359.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240710162910.png",
@@ -337,6 +249,7 @@
     "secondBrain/Topics/Java/resources/Pasted image 20240710163613.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240624011005.png",
     "secondBrain/Topics/Java/resources/Pasted image 20240623143302.png",
+    "secondBrain/Topics/Java/resources/Pasted image 20240623135612.png",
     "secondBrain/Topics/Java/EntendResources/Variables.pdf",
     "secondBrain/Topics/Java/EntendResources/Using+this()+and+super().pdf",
     "secondBrain/Topics/Java/EntendResources/Sorting+data.pdf",
